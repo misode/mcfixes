@@ -290,6 +290,25 @@
     "votes": 4
   },
   {
+    "id": "MC-256849",
+    "summary": "Steve and Alex are not using their updated skins whilst the game is offline",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-24T19:37:42.000+0300",
+    "resolution_date": "2022-11-09T21:05:07.000+0200",
+    "updated_date": "2022-11-09T21:05:07.000+0200",
+    "watches": 8,
+    "votes": 6
+  },
+  {
     "id": "MC-256765",
     "summary": "References to chat reporting in singleplayer",
     "labels": [],
@@ -655,7 +674,7 @@
     "creation_date": "2018-03-10T19:59:52.000+0200",
     "resolution_date": "2022-11-07T09:50:33.000+0200",
     "updated_date": "2022-11-07T09:50:33.000+0200",
-    "watches": 13,
+    "watches": 14,
     "votes": 37
   },
   {
