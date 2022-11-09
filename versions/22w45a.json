@@ -329,6 +329,25 @@
     "votes": 4
   },
   {
+    "id": "MC-256685",
+    "summary": "In a small window, when in a scrollable option menu, the tooltip from option 1 of row 8 appears at the top of the screen when hovering over it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-20T15:19:13.000+0300",
+    "resolution_date": "2022-11-10T01:14:08.000+0200",
+    "updated_date": "2022-11-10T01:14:08.000+0200",
+    "watches": 0,
+    "votes": 2
+  },
+  {
     "id": "MC-256674",
     "summary": "FileAlreadyExistsException if the resourcepacks directory is a symbolic link",
     "labels": [],
