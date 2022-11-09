@@ -1,0 +1,27 @@
+name: Tick
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    steps:  
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - run: pip install -r requirements.txt
+
+      - run: python main.py
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'versions'
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: 🚀 Update fixed issues
