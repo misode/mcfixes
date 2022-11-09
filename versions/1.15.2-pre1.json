@@ -1,0 +1,601 @@
+[
+  {
+    "id": "MC-169157",
+    "summary": "Breaking a hive with obstructed front makes bees vanish",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-30T23:09:30.000+0200",
+    "resolution_date": "2020-01-14T16:25:53.000+0200",
+    "updated_date": "2020-01-20T17:40:39.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-168657",
+    "summary": "TrueTypeGlyphProviderBuilder.create(ResourceManager) leaks buffer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-23T12:03:53.000+0200",
+    "resolution_date": "2020-01-17T04:12:30.000+0200",
+    "updated_date": "2020-01-17T04:12:39.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-168467",
+    "summary": "Bees do not remember how many crops they've pollinated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-20T22:30:55.000+0200",
+    "resolution_date": "2020-01-14T11:58:08.000+0200",
+    "updated_date": "2020-01-14T11:58:08.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-168230",
+    "summary": "End crystal beam is dark / desaturated",
+    "labels": [
+      "beam",
+      "end-crystal",
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-17T19:31:03.000+0200",
+    "resolution_date": "2020-01-14T16:29:29.000+0200",
+    "updated_date": "2022-01-25T13:06:15.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-168091",
+    "summary": "Concrete powder doesn't convert into concrete when dropped into deep water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-15T19:30:57.000+0200",
+    "resolution_date": "2020-01-10T14:19:34.000+0200",
+    "updated_date": "2020-01-10T14:19:34.000+0200",
+    "watches": 11,
+    "votes": 27
+  },
+  {
+    "id": "MC-167709",
+    "summary": "Bees that ride a boat, minecart or other entities when entering their hive or nest can't leave the hive or nest ever again",
+    "labels": [
+      "bee",
+      "bee-hive",
+      "bee-nest",
+      "boat-passenger",
+      "entity-data",
+      "entity-spawning",
+      "minecart",
+      "passenger"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob behaviour",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-12T14:55:04.000+0200",
+    "resolution_date": "2020-01-10T16:24:36.000+0200",
+    "updated_date": "2020-01-28T17:35:01.000+0200",
+    "watches": 11,
+    "votes": 22
+  },
+  {
+    "id": "MC-167444",
+    "summary": "iron_golem_crackiness_* textures show up on invisible iron golems that are damaged",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-10T18:48:49.000+0200",
+    "resolution_date": "2020-01-13T17:30:43.000+0200",
+    "updated_date": "2020-01-14T20:39:40.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-167416",
+    "summary": "Distance from where a monster will stop you from sleeping is off center",
+    "labels": [
+      "block",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-10T00:44:49.000+0200",
+    "resolution_date": "2020-01-13T16:06:55.000+0200",
+    "updated_date": "2020-01-13T16:06:55.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-167344",
+    "summary": "com.mojang.blaze3d.platform.ClipboardManager leaks direct buffers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-08T20:08:04.000+0200",
+    "resolution_date": "2020-01-10T16:32:48.000+0200",
+    "updated_date": "2020-01-10T16:32:49.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-167235",
+    "summary": "Distance from where you can enter a bed is off center",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-07T09:50:01.000+0200",
+    "resolution_date": "2020-01-13T16:06:55.000+0200",
+    "updated_date": "2020-02-01T04:34:23.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-167220",
+    "summary": "Items on marker armor stands no longer glow",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-07T03:34:27.000+0200",
+    "resolution_date": "2020-01-13T17:30:44.000+0200",
+    "updated_date": "2020-01-13T17:30:44.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-167219",
+    "summary": "Reloading a resource pack enough times will cause intense lag",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-07T03:21:26.000+0200",
+    "resolution_date": "2020-01-10T14:21:10.000+0200",
+    "updated_date": "2020-04-21T19:13:41.000+0300",
+    "watches": 9,
+    "votes": 18
+  },
+  {
+    "id": "MC-167201",
+    "summary": "Invisible glowing entities do not respect their team color",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-06T20:00:24.000+0200",
+    "resolution_date": "2020-01-13T17:30:43.000+0200",
+    "updated_date": "2020-01-13T17:30:43.000+0200",
+    "watches": 7,
+    "votes": 15
+  },
+  {
+    "id": "MC-167079",
+    "summary": "Horse Armor texture is off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-04T03:23:43.000+0200",
+    "resolution_date": "2020-01-13T17:59:21.000+0200",
+    "updated_date": "2020-01-15T20:43:30.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-167018",
+    "summary": "Misplaced pixel in critical hit particle texture",
+    "labels": [
+      "particle",
+      "particle-texture",
+      "particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-12-03T13:47:40.000+0200",
+    "resolution_date": "2020-01-13T17:59:21.000+0200",
+    "updated_date": "2020-08-25T02:38:34.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-166722",
+    "summary": "Some custom item models appear dark in the inventory",
+    "labels": [
+      "custom-model",
+      "dark",
+      "model",
+      "ressources-packs"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-11-28T21:44:38.000+0200",
+    "resolution_date": "2020-01-14T18:00:42.000+0200",
+    "updated_date": "2021-04-08T17:42:27.000+0300",
+    "watches": 24,
+    "votes": 41
+  },
+  {
+    "id": "MC-166397",
+    "summary": "Entities become white from certain angles when affected by glowing and invisibility effects",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-11-25T22:10:17.000+0200",
+    "resolution_date": "2020-01-14T20:00:08.000+0200",
+    "updated_date": "2020-01-14T20:00:08.000+0200",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-166324",
+    "summary": "\"Raw input\" button has lowercase \"i\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-11-24T23:36:41.000+0200",
+    "resolution_date": "2020-01-10T16:48:44.000+0200",
+    "updated_date": "2021-08-18T16:39:49.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-166319",
+    "summary": "B on \"Open in browser\" is lowercase in link confirmation GUI",
+    "labels": [
+      "capitalization",
+      "clipboard",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-11-24T21:36:19.000+0200",
+    "resolution_date": "2020-01-10T16:48:43.000+0200",
+    "updated_date": "2021-08-18T16:39:37.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-166312",
+    "summary": "Loom UI pattern icons are too dark",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15 Pre-release 3",
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-11-24T20:37:05.000+0200",
+    "resolution_date": "2020-01-14T09:55:29.000+0200",
+    "updated_date": "2020-01-14T09:55:29.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-165695",
+    "summary": "Hoppers harvesting honeycomb from bee hives and bee nests only pick up one honeycomb",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-11-16T01:03:20.000+0200",
+    "resolution_date": "2020-01-14T11:58:08.000+0200",
+    "updated_date": "2020-01-14T22:59:22.000+0200",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-153987",
+    "summary": "Falling down ladders while wearing elytra",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-06T23:13:51.000+0300",
+    "resolution_date": "2020-01-13T17:57:28.000+0200",
+    "updated_date": "2020-11-16T17:41:58.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-150575",
+    "summary": "Concrete powder does not turn into concrete when letting it fall beside water",
+    "labels": [
+      "block",
+      "concrete",
+      "concrete_powder",
+      "update",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-02T15:21:11.000+0300",
+    "resolution_date": "2020-01-10T14:19:34.000+0200",
+    "updated_date": "2020-01-10T14:19:35.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-106468",
+    "summary": "Ender Crystal beam has incorrect texture on one side",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2016-08-23T20:33:53.000+0300",
+    "resolution_date": "2020-01-14T19:04:50.000+0200",
+    "updated_date": "2020-01-14T19:04:50.000+0200",
+    "watches": 13,
+    "votes": 11
+  },
+  {
+    "id": "MC-88038",
+    "summary": "Furnace minecart go backwards when throught the corner",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2015-09-04T10:51:28.000+0300",
+    "resolution_date": "2020-01-15T09:26:52.000+0200",
+    "updated_date": "2020-01-15T10:08:04.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-51053",
+    "summary": "Furnace minecarts lose power after navigating corners",
+    "labels": [
+      "furnace_minecart",
+      "movement",
+      "rails"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2014-03-13T17:52:19.000+0200",
+    "resolution_date": "2020-01-10T16:48:43.000+0200",
+    "updated_date": "2020-08-26T18:33:45.000+0300",
+    "watches": 43,
+    "votes": 120
+  },
+  {
+    "id": "MC-1541",
+    "summary": "Beacon effect removes potion effect of the same type",
+    "labels": [
+      "beacon",
+      "effect",
+      "potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2012-11-01T01:08:50.000+0200",
+    "resolution_date": "2020-01-13T16:06:56.000+0200",
+    "updated_date": "2020-04-29T18:21:18.000+0300",
+    "watches": 14,
+    "votes": 40
+  },
+  {
+    "id": "MC-862",
+    "summary": "Spawn protection doesn't work for item frames, paintings and armor stands",
+    "labels": [
+      "armorstand",
+      "item-frame",
+      "painting",
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-Release 1"
+    ],
+    "creation_date": "2012-10-27T13:02:11.000+0300",
+    "resolution_date": "2020-01-13T16:06:56.000+0200",
+    "updated_date": "2022-07-10T13:05:22.000+0300",
+    "watches": 12,
+    "votes": 26
+  }
+]

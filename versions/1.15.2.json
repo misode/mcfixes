@@ -1,0 +1,602 @@
+[
+  {
+    "id": "MC-165169",
+    "summary": "Player's bodies don't rotate properly in multiplayer",
+    "labels": [
+      "body",
+      "multiplayer",
+      "player",
+      "rotation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2019-11-08T04:02:23.000+0200",
+    "resolution_date": "2020-02-25T17:27:59.000+0200",
+    "updated_date": "2020-02-25T17:27:59.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-162788",
+    "summary": "Players heads don't look fully up or down despite being that in client view",
+    "labels": [
+      "head",
+      "multiplayer",
+      "player",
+      "rotation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2019-10-05T14:37:00.000+0300",
+    "resolution_date": "2020-02-25T17:34:48.000+0200",
+    "updated_date": "2020-02-25T17:34:49.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-158189",
+    "summary": "Structure Block's Graphical Glitch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2019-08-01T12:33:13.000+0300",
+    "resolution_date": "2020-06-17T23:17:24.000+0300",
+    "updated_date": "2020-06-17T23:17:24.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-150548",
+    "summary": "Pigman Chicken Jockey detection range is lower than regular pigman",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2019-05-02T05:28:35.000+0300",
+    "resolution_date": "2020-04-03T23:21:45.000+0300",
+    "updated_date": "2020-04-03T23:21:45.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-149036",
+    "summary": "Mobs that have been hit with a snowball by a player don't count as killed by the player upon death",
+    "labels": [
+      "gear",
+      "loot",
+      "snowball"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2019-04-22T18:27:21.000+0300",
+    "resolution_date": "2020-06-06T20:52:07.000+0300",
+    "updated_date": "2020-06-06T20:52:07.000+0300",
+    "watches": 7,
+    "votes": 20
+  },
+  {
+    "id": "MC-147657",
+    "summary": "Private Use Characters past E6FF are replaced with box characters even with a modified glyph_sizes.bin.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2019-04-08T00:00:21.000+0300",
+    "resolution_date": "2020-01-24T08:54:21.000+0200",
+    "updated_date": "2020-01-31T11:33:38.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-132940",
+    "summary": "\"skip_existing_chunks\" no longer works within \"minecraft:exploration_map\" function",
+    "labels": [
+      "exploration_map",
+      "function",
+      "loot-table"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2018-07-07T02:23:36.000+0300",
+    "resolution_date": "2020-02-09T16:34:40.000+0200",
+    "updated_date": "2020-11-28T14:23:24.000+0200",
+    "watches": 11,
+    "votes": 19
+  },
+  {
+    "id": "MC-132327",
+    "summary": "Projectiles thrown on water move one block backward afterwards",
+    "labels": [
+      "projectiles",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2018-06-29T11:57:37.000+0300",
+    "resolution_date": "2020-02-13T02:02:07.000+0200",
+    "updated_date": "2020-02-13T02:02:07.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-121516",
+    "summary": "Some generated item models have 'missing' edges",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2017-11-02T01:24:39.000+0200",
+    "resolution_date": "2020-05-23T00:51:23.000+0300",
+    "updated_date": "2020-05-23T00:51:23.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-118236",
+    "summary": "Pressing Esc key in download server resource pack prompt does not send CPacketResourcePackStatus.Action.DECLINED to server",
+    "labels": [
+      "ESC",
+      "cancel",
+      "escape",
+      "gui",
+      "resource-pack",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2017-06-03T22:59:59.000+0300",
+    "resolution_date": "2020-02-14T14:09:40.000+0200",
+    "updated_date": "2020-08-12T00:12:37.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-116962",
+    "summary": "F3 + T still reloads loot tables and advancements despite the addition of the /reload command",
+    "labels": [
+      "/reload",
+      "F3",
+      "advancement",
+      "loot-table",
+      "resources"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2017-05-03T18:54:37.000+0300",
+    "resolution_date": "2020-01-31T11:07:41.000+0200",
+    "updated_date": "2020-03-13T21:43:21.000+0200",
+    "watches": 5,
+    "votes": 1
+  },
+  {
+    "id": "MC-112684",
+    "summary": "Legacy ban entries not correctly converted, end date used as start date as well",
+    "labels": [
+      "ban",
+      "ban-list",
+      "date",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2017-01-21T14:03:13.000+0200",
+    "resolution_date": "2020-02-16T05:38:50.000+0200",
+    "updated_date": "2020-02-16T05:38:50.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-109629",
+    "summary": "Villagers stay close to the door at night",
+    "labels": [
+      "door",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2016-11-04T15:36:24.000+0200",
+    "resolution_date": "2020-02-25T17:34:24.000+0200",
+    "updated_date": "2020-02-25T17:34:24.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-99442",
+    "summary": "Changing an Arrow's Motion using /data causes client-server-desync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2016-03-11T01:09:52.000+0200",
+    "resolution_date": "2020-02-09T16:37:32.000+0200",
+    "updated_date": "2020-02-09T16:37:32.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-90198",
+    "summary": "Applying effect with amplifier higher than 127 before current potion effect ends causes timer to stay at 0:00",
+    "labels": [
+      "effect",
+      "effect-amplifier",
+      "effect-duration"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2015-10-09T17:37:56.000+0300",
+    "resolution_date": "2020-03-18T21:27:47.000+0200",
+    "updated_date": "2020-03-19T23:04:38.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-87917",
+    "summary": "Graphical issue when sneaking with drawn bow and item in offhand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2015-09-02T20:17:08.000+0300",
+    "resolution_date": "2020-03-04T20:30:23.000+0200",
+    "updated_date": "2020-03-04T20:40:44.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-87661",
+    "summary": "Client does not merge EntityTag for spawn eggs, resulting in visual inconsistencies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2015-08-30T02:14:10.000+0300",
+    "resolution_date": "2020-06-22T19:59:28.000+0300",
+    "updated_date": "2020-06-22T19:59:28.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-80215",
+    "summary": "/tp Arrow glitch",
+    "labels": [
+      "arrow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2015-05-10T00:37:06.000+0300",
+    "resolution_date": "2020-06-14T21:25:30.000+0300",
+    "updated_date": "2020-06-14T21:25:30.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-76894",
+    "summary": "Some blocks held by Enderman not rendering or render weird",
+    "labels": [
+      "culling",
+      "enderman",
+      "flower",
+      "texture",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2015-01-24T21:13:36.000+0200",
+    "resolution_date": "2020-04-01T10:15:36.000+0300",
+    "updated_date": "2020-08-26T18:22:12.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-71426",
+    "summary": "Arrows visually despawn when kept from despawning with command blocks",
+    "labels": [
+      "arrow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2014-09-08T18:30:25.000+0300",
+    "resolution_date": "2020-01-24T08:49:10.000+0200",
+    "updated_date": "2020-01-24T08:49:23.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-67885",
+    "summary": "Attributes don't stack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2014-08-17T20:45:21.000+0300",
+    "resolution_date": "2020-02-16T05:41:58.000+0200",
+    "updated_date": "2020-02-16T05:41:58.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-65145",
+    "summary": "mobGriefing set into false does not work with Ender Dragons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2014-08-03T02:46:51.000+0300",
+    "resolution_date": "2020-06-07T15:29:04.000+0300",
+    "updated_date": "2020-06-07T15:29:04.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-58759",
+    "summary": "generic.followRange attribute causes java.lang.RuntimeException/java.util.concurrent.ExecutionException",
+    "labels": [
+      "NBT",
+      "crash",
+      "freeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2014-06-24T08:18:50.000+0300",
+    "resolution_date": "2020-05-30T17:13:39.000+0300",
+    "updated_date": "2020-05-30T17:13:39.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-52780",
+    "summary": "POV changes when maximizing window",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2014-04-11T16:31:01.000+0300",
+    "resolution_date": "2020-05-22T19:33:45.000+0300",
+    "updated_date": "2020-05-22T19:33:45.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-47031",
+    "summary": "Dark rain particles in void when single block above void",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2014-02-02T04:23:32.000+0200",
+    "resolution_date": "2020-02-09T13:07:36.000+0200",
+    "updated_date": "2020-02-09T13:07:36.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-44283",
+    "summary": "Mobs which can pick up loot prefer items with less durability over an item of the same type they are already wearing",
+    "labels": [
+      "CanPickUpLoot",
+      "armor",
+      "damage-value",
+      "item",
+      "mob",
+      "skeleton",
+      "zombie"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2014-01-08T00:15:02.000+0200",
+    "resolution_date": "2020-05-18T16:16:37.000+0300",
+    "updated_date": "2020-05-18T16:16:37.000+0300",
+    "watches": 9,
+    "votes": 2
+  },
+  {
+    "id": "MC-10480",
+    "summary": "Blindness + Night-vision Effects Create Complete Blindness",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2013-02-28T03:10:31.000+0200",
+    "resolution_date": "2020-04-02T10:25:17.000+0300",
+    "updated_date": "2020-04-02T10:25:17.000+0300",
+    "watches": 11,
+    "votes": 0
+  },
+  {
+    "id": "MC-7201",
+    "summary": "Eating animation stops when picking up food you're eating",
+    "labels": [
+      "animation",
+      "eating",
+      "food"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2"
+    ],
+    "creation_date": "2013-01-12T03:41:50.000+0200",
+    "resolution_date": "2020-05-18T13:13:39.000+0300",
+    "updated_date": "2020-05-18T13:13:39.000+0300",
+    "watches": 7,
+    "votes": 9
+  }
+]

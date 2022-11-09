@@ -1,0 +1,1139 @@
+[
+  {
+    "id": "MC-223757",
+    "summary": "minecraft.used:minecraft.lava_bucket doesn't increase when filling a cauldron with a lava bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-20T20:10:13.000+0300",
+    "resolution_date": "2021-04-21T17:25:08.000+0300",
+    "updated_date": "2021-04-21T17:25:08.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-223756",
+    "summary": "minecraft.used:minecraft.powder_snow_bucket doesn't increase when filling a cauldron with a powder snow bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-20T20:10:11.000+0300",
+    "resolution_date": "2021-04-21T17:25:08.000+0300",
+    "updated_date": "2021-04-21T17:25:08.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-223755",
+    "summary": "minecraft.used:minecraft.water_bucket doesn't increase when filling a cauldron with a water bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-20T20:10:10.000+0300",
+    "resolution_date": "2021-04-21T21:49:09.000+0300",
+    "updated_date": "2021-04-21T21:49:09.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-223639",
+    "summary": "minecraft.used:minecraft.shears doesn't increase when collecting honeycombs from a beehive or bee nest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-19T16:41:25.000+0300",
+    "resolution_date": "2021-04-21T17:25:09.000+0300",
+    "updated_date": "2021-05-04T14:41:41.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-223638",
+    "summary": "minecraft.used:minecraft.shears doesn't increase when carving a pumpkin",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-19T16:41:23.000+0300",
+    "resolution_date": "2021-04-21T17:25:10.000+0300",
+    "updated_date": "2021-04-21T17:25:10.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-223563",
+    "summary": "minecraft.used:minecraft.glass_bottle doesn't increase when collecting honey from a beehive or bee nest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-18T17:40:26.000+0300",
+    "resolution_date": "2021-04-21T17:25:09.000+0300",
+    "updated_date": "2021-05-04T14:40:43.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-223558",
+    "summary": "minecraft.used:minecraft.glass_bottle doesn't increase when taking water from a cauldron using a glass bottle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-18T17:23:24.000+0300",
+    "resolution_date": "2021-04-21T17:25:10.000+0300",
+    "updated_date": "2021-05-04T14:40:43.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-223557",
+    "summary": "minecraft.used:minecraft.bucket doesn't increase when taking powder snow, lava, or water from a cauldron using a bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-18T17:23:21.000+0300",
+    "resolution_date": "2021-04-21T17:25:07.000+0300",
+    "updated_date": "2021-04-21T17:25:07.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-223555",
+    "summary": "minecraft.used:minecraft.COLOR_dye doesn't increase when applying a dye to a sign",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-18T17:12:57.000+0300",
+    "resolution_date": "2021-04-21T17:25:04.000+0300",
+    "updated_date": "2021-04-21T17:25:04.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-223554",
+    "summary": "minecraft.used:minecraft.ink_sac doesn't increase when applying an ink sac to a sign",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-18T17:12:54.000+0300",
+    "resolution_date": "2021-04-21T17:25:06.000+0300",
+    "updated_date": "2021-04-21T17:25:06.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-223553",
+    "summary": "minecraft.used:minecraft.glow_ink_sac doesn't increase when applying a glow ink sac to a sign",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-18T17:12:52.000+0300",
+    "resolution_date": "2021-04-21T17:25:05.000+0300",
+    "updated_date": "2021-05-04T14:40:44.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-223382",
+    "summary": "A marker's data tag can be shared among multiple markers",
+    "labels": [
+      "marker",
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-16T18:52:05.000+0300",
+    "resolution_date": "2021-04-21T21:52:50.000+0300",
+    "updated_date": "2021-04-21T21:52:50.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-223260",
+    "summary": "Emerald ore does not generate as intended",
+    "labels": [
+      "emerald_ore",
+      "ore-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-15T10:02:58.000+0300",
+    "resolution_date": "2021-04-20T18:46:23.000+0300",
+    "updated_date": "2021-04-20T18:47:13.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-222778",
+    "summary": "minecraft.used:minecraft.candle doesn't increase when placing a candle on a cake",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-09T15:41:33.000+0300",
+    "resolution_date": "2021-04-21T17:25:11.000+0300",
+    "updated_date": "2021-04-21T17:56:53.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-222684",
+    "summary": "You cannot grow azalea trees by bonemealing Azalea plants",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-08T21:19:21.000+0300",
+    "resolution_date": "2021-04-20T13:01:05.000+0300",
+    "updated_date": "2021-04-20T13:01:05.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-222517",
+    "summary": "A large amount of slime or honey blocks will crash the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-07T17:22:36.000+0300",
+    "resolution_date": "2021-04-20T17:29:21.000+0300",
+    "updated_date": "2021-04-20T17:29:21.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-222004",
+    "summary": "Grass block isn't apart of the #dirt block tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-04-02T20:46:35.000+0300",
+    "resolution_date": "2021-04-20T13:01:28.000+0300",
+    "updated_date": "2021-04-21T15:50:21.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-221655",
+    "summary": "Glow Squids and Axolotls Spawn in Monuments",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-31T22:50:32.000+0300",
+    "resolution_date": "2021-04-20T10:32:57.000+0300",
+    "updated_date": "2021-04-20T10:32:58.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-221652",
+    "summary": "Teleport command to player does not work as in previous versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-31T22:49:22.000+0300",
+    "resolution_date": "2021-04-19T18:02:06.000+0300",
+    "updated_date": "2021-04-19T18:02:06.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-221628",
+    "summary": "Entities don\u2019t stop glowing after losing the glowing effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-31T21:46:15.000+0300",
+    "resolution_date": "2021-04-20T17:29:22.000+0300",
+    "updated_date": "2021-04-26T02:51:50.000+0300",
+    "watches": 5,
+    "votes": 17
+  },
+  {
+    "id": "MC-221258",
+    "summary": "Cannot place sugar cane, bamboo and dead bushes on moss blocks",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-28T18:34:09.000+0300",
+    "resolution_date": "2021-04-21T21:53:25.000+0300",
+    "updated_date": "2021-04-21T21:53:25.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-220887",
+    "summary": "Shader includes fail to compile correctly when missing newline at end of file",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-26T14:52:29.000+0200",
+    "resolution_date": "2021-04-19T10:52:25.000+0300",
+    "updated_date": "2021-04-19T10:52:25.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-220641",
+    "summary": "Loyalty tridents disappear when your inventory is full",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-23T23:00:16.000+0200",
+    "resolution_date": "2021-04-20T10:32:57.000+0300",
+    "updated_date": "2021-05-04T14:41:08.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-220307",
+    "summary": "TrueType Font glyphs render incorrectly",
+    "labels": [
+      "font",
+      "rendering",
+      "truetype",
+      "ttf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-20T16:11:25.000+0200",
+    "resolution_date": "2021-04-19T17:49:13.000+0300",
+    "updated_date": "2021-04-21T06:32:10.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-220190",
+    "summary": "When bone mealing moss blocks with no spreadable blocks nearby, they don't grow grass, bushes and moss carpets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-19T18:09:41.000+0200",
+    "resolution_date": "2021-04-26T18:52:43.000+0300",
+    "updated_date": "2021-04-26T18:52:43.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-220187",
+    "summary": "Hitbox of azalea and flowering azalea is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-19T17:52:46.000+0200",
+    "resolution_date": "2021-04-21T21:49:23.000+0300",
+    "updated_date": "2021-04-21T21:49:24.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-220024",
+    "summary": "Shader compilation slows or fails the more asterisks are in a multiline comment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-18T16:58:57.000+0200",
+    "resolution_date": "2021-04-19T10:52:25.000+0300",
+    "updated_date": "2021-04-19T10:52:25.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-219903",
+    "summary": "Silverfish infesting deepslate cause it to rotate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-17T22:49:01.000+0200",
+    "resolution_date": "2021-04-21T17:36:23.000+0300",
+    "updated_date": "2022-08-10T14:01:10.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-219851",
+    "summary": "Applying bone meal to a waterlogged big dripleaf stem creates more waterlogged big dripleaf stems",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-17T20:43:18.000+0200",
+    "resolution_date": "2021-04-20T18:44:35.000+0300",
+    "updated_date": "2021-04-20T18:44:35.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-219211",
+    "summary": "Two mysterious white pixels can be seen in the upper left corner of the recipe book icon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-12T15:59:23.000+0200",
+    "resolution_date": "2021-04-20T16:47:07.000+0300",
+    "updated_date": "2021-04-20T16:47:07.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-218637",
+    "summary": "Inconsistency: Infested deepslate is not rotated randomly like normal deepslate",
+    "labels": [
+      "deepslate",
+      "infested",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-10T18:59:35.000+0200",
+    "resolution_date": "2021-04-21T17:36:22.000+0300",
+    "updated_date": "2021-04-21T17:36:22.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-218614",
+    "summary": "Inconsistency: Infested Deepslate can't be placed along axis",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-10T18:32:15.000+0200",
+    "resolution_date": "2021-04-21T17:36:22.000+0300",
+    "updated_date": "2021-04-21T17:36:22.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-218592",
+    "summary": "Azalea trees can generate in more than two blocks of water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a",
+      "21w44a",
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-03-10T18:11:55.000+0200",
+    "resolution_date": "2021-11-23T17:23:45.000+0200",
+    "updated_date": "2021-11-23T17:23:45.000+0200",
+    "watches": 21,
+    "votes": 33
+  },
+  {
+    "id": "MC-218590",
+    "summary": "Error message for commands.give.failed.toomanyitems doesn't translate item name",
+    "labels": [
+      "item",
+      "item-Name"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-10T18:08:18.000+0200",
+    "resolution_date": "2021-04-20T17:29:20.000+0300",
+    "updated_date": "2021-04-20T17:29:21.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-217411",
+    "summary": "Anvils can become damaged when only falling one block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-03-01T10:19:35.000+0200",
+    "resolution_date": "2021-04-20T10:32:57.000+0300",
+    "updated_date": "2021-04-20T10:32:57.000+0300",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-216787",
+    "summary": "Cobwebs in mineshafts can generate as if supported by chains",
+    "labels": [
+      "cobweb",
+      "mineshaft"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-24T20:53:49.000+0200",
+    "resolution_date": "2021-04-21T17:13:46.000+0300",
+    "updated_date": "2021-04-21T17:13:47.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-215043",
+    "summary": "The new small dripleaf's stem texture isn't connected properly with the upper leaf",
+    "labels": [
+      "small_dripleaf",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-11T11:21:46.000+0200",
+    "resolution_date": "2021-04-21T22:06:50.000+0300",
+    "updated_date": "2021-04-23T00:10:16.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-214129",
+    "summary": "Several dirt blocks are not part of the #minecraft:lush_plants_replaceable tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-05T01:34:49.000+0200",
+    "resolution_date": "2021-04-21T12:52:27.000+0300",
+    "updated_date": "2021-04-21T12:52:27.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-213998",
+    "summary": "root_vines_head is unused in-game files",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-04T11:25:27.000+0200",
+    "resolution_date": "2021-04-20T18:44:47.000+0300",
+    "updated_date": "2021-04-20T18:44:47.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-213927",
+    "summary": "Using bone meal on a sapling that is on a moss block consumes bone meal, but doesn't grow into a tree",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-04T02:18:13.000+0200",
+    "resolution_date": "2021-04-20T18:44:01.000+0300",
+    "updated_date": "2021-05-05T01:19:40.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-213893",
+    "summary": "scoreboard minecraft.used:minecraft.glow_berries triggers when right clicking the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-04T00:30:06.000+0200",
+    "resolution_date": "2021-04-22T19:59:43.000+0300",
+    "updated_date": "2021-04-22T19:59:44.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-213845",
+    "summary": "Big dripleaf plants cannot be placed on top of each other",
+    "labels": [
+      "placement-and-support",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-03T22:10:52.000+0200",
+    "resolution_date": "2021-04-27T12:54:28.000+0300",
+    "updated_date": "2021-04-27T21:50:42.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-213804",
+    "summary": "Azalea and flowering azalea undersides are darkened",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-02-03T20:52:48.000+0200",
+    "resolution_date": "2021-05-04T17:56:10.000+0300",
+    "updated_date": "2021-05-05T10:53:25.000+0300",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-212863",
+    "summary": "Glow lichen use the same color as vines on maps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2021-01-25T15:38:08.000+0200",
+    "resolution_date": "2021-04-21T18:03:58.000+0300",
+    "updated_date": "2022-03-24T17:50:31.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-212113",
+    "summary": "Glow Lichen can generate underwater whilst not in a cave",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w16a",
+      "21w37a"
+    ],
+    "creation_date": "2021-01-20T17:45:00.000+0200",
+    "resolution_date": "2021-09-15T18:17:22.000+0300",
+    "updated_date": "2021-09-17T18:07:53.000+0300",
+    "watches": 9,
+    "votes": 15
+  },
+  {
+    "id": "MC-208598",
+    "summary": "Baby axolotls take damage when touching a solid block from below / eye height is outside of their hitbox",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2020-12-16T19:29:23.000+0200",
+    "resolution_date": "2021-04-20T17:29:22.000+0300",
+    "updated_date": "2021-04-20T17:29:22.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-205236",
+    "summary": "Frozen State doesn't go away after respawn when on a server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2020-11-12T01:59:27.000+0200",
+    "resolution_date": "2021-04-21T17:36:21.000+0300",
+    "updated_date": "2021-04-24T02:01:51.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-203637",
+    "summary": "Mobs don't avoid lava cauldrons when pathfinding despite of setting themselves on fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2020-11-04T21:50:13.000+0200",
+    "resolution_date": "2021-04-20T10:32:58.000+0300",
+    "updated_date": "2021-04-29T17:33:08.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-190128",
+    "summary": "Using a flint and steel to ingite TNT is not tracked by the in-game stats",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2020-06-17T03:14:49.000+0300",
+    "resolution_date": "2021-04-21T17:25:03.000+0300",
+    "updated_date": "2021-04-21T17:25:03.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-180529",
+    "summary": "TrueType fonts crash on Intel Graphics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2020-04-24T21:50:37.000+0300",
+    "resolution_date": "2021-04-25T19:14:47.000+0300",
+    "updated_date": "2021-07-12T21:39:59.000+0300",
+    "watches": 18,
+    "votes": 18
+  },
+  {
+    "id": "MC-157116",
+    "summary": "Food that is plantable counts towards using when right clicked on the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2019-07-19T15:50:38.000+0300",
+    "resolution_date": "2021-04-21T17:25:12.000+0300",
+    "updated_date": "2021-05-06T22:12:05.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-136681",
+    "summary": "Debug Stick use statistic increases when not allowed to use it",
+    "labels": [
+      "debug_stick"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2018-09-03T10:15:29.000+0300",
+    "resolution_date": "2021-04-21T17:25:13.000+0300",
+    "updated_date": "2021-04-21T17:25:13.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-136560",
+    "summary": "minecraft.used:minecraft.elytra not functioning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2018-08-29T17:50:50.000+0300",
+    "resolution_date": "2021-04-21T17:25:09.000+0300",
+    "updated_date": "2022-06-30T19:28:30.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-117653",
+    "summary": "Recipes and advancements are not granted while most GUIs are open",
+    "labels": [
+      "advancement",
+      "advancement-trigger",
+      "container",
+      "inventory_changed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2017-05-18T20:11:44.000+0300",
+    "resolution_date": "2021-04-21T17:36:19.000+0300",
+    "updated_date": "2021-07-09T00:36:11.000+0300",
+    "watches": 10,
+    "votes": 27
+  },
+  {
+    "id": "MC-111534",
+    "summary": "The firework rocket use statistic doesn't count rockets used for elytra boosting",
+    "labels": [
+      "elytra",
+      "firework_rocket",
+      "statistics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2016-12-18T03:01:20.000+0200",
+    "resolution_date": "2021-04-21T17:25:01.000+0300",
+    "updated_date": "2021-05-04T14:40:45.000+0300",
+    "watches": 13,
+    "votes": 27
+  },
+  {
+    "id": "MC-55775",
+    "summary": "Statistics screen sometimes doesn't show up to date information",
+    "labels": [
+      "distance-fallen",
+      "static",
+      "statistics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2014-05-24T15:08:43.000+0300",
+    "resolution_date": "2021-04-21T17:25:18.000+0300",
+    "updated_date": "2021-04-21T17:25:18.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-29522",
+    "summary": "stat.playOneMinute adds a value of 1 every tick",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w16a"
+    ],
+    "creation_date": "2013-09-05T21:10:32.000+0300",
+    "resolution_date": "2021-04-21T17:24:57.000+0300",
+    "updated_date": "2021-05-31T05:28:12.000+0300",
+    "watches": 8,
+    "votes": 11
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "MC-252352",
+    "summary": "URL in eula.txt (dedicated server) points to the wrong location",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-05-30T15:02:50.000+0300",
+    "resolution_date": "2022-05-31T12:24:31.000+0300",
+    "updated_date": "2022-08-02T15:39:33.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-252157",
+    "summary": "'CustomName' NBT tag still prevents wardens from digging down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-05-24T20:44:15.000+0300",
+    "resolution_date": "2022-06-01T10:28:10.000+0300",
+    "updated_date": "2022-06-01T10:28:10.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-252108",
+    "summary": "Eating a food item no longer opens the piston doors in city_center_2 ",
+    "labels": [
+      "ancient-city",
+      "vibration"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-05-23T20:56:23.000+0300",
+    "resolution_date": "2022-05-31T15:03:14.000+0300",
+    "updated_date": "2022-05-31T15:03:14.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-252038",
+    "summary": "Warden attacks immediately if hit during emerging animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-05-22T03:06:06.000+0300",
+    "resolution_date": "2022-05-31T12:01:53.000+0300",
+    "updated_date": "2022-05-31T12:01:53.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-251726",
+    "summary": "Java runtime manifest is missing when launching Minecraft",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-05-15T03:20:57.000+0300",
+    "resolution_date": "2022-06-01T18:07:44.000+0300",
+    "updated_date": "2022-06-01T18:07:44.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-251594",
+    "summary": "Leads are leashed too high on allays",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-05-11T04:17:52.000+0300",
+    "resolution_date": "2022-05-31T12:10:46.000+0300",
+    "updated_date": "2022-05-31T12:10:46.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-251323",
+    "summary": "Mobs target emerging warden/ warden faces attacking mob while emerging if dealt melee damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-05-04T22:17:18.000+0300",
+    "resolution_date": "2022-05-31T12:01:53.000+0300",
+    "updated_date": "2022-06-02T19:44:39.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-251030",
+    "summary": "Standing on top of soul sand or mud that converts to sculk will cause entities to fall through it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-04-28T15:48:22.000+0300",
+    "resolution_date": "2022-05-31T12:36:51.000+0300",
+    "updated_date": "2022-11-06T21:44:28.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-250295",
+    "summary": "Allay's head does not rotate to where it looks",
+    "labels": [
+      "allay",
+      "entity-model"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-04-19T10:48:17.000+0300",
+    "resolution_date": "2022-05-31T14:18:35.000+0300",
+    "updated_date": "2022-05-31T14:18:35.000+0300",
+    "watches": 1,
+    "votes": 8
+  },
+  {
+    "id": "MC-250034",
+    "summary": "Standing on top of mud as it converts to clay causes the player to fall through or be pushed out of the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-04-08T17:43:51.000+0300",
+    "resolution_date": "2022-05-31T12:36:52.000+0300",
+    "updated_date": "2022-11-06T16:02:50.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-249323",
+    "summary": "Modifying a world preset to not include overworld settings will not give a datapack error, but selecting the world type will instantly crash your game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-03-20T18:59:35.000+0200",
+    "resolution_date": "2022-06-01T11:12:41.000+0300",
+    "updated_date": "2022-06-01T11:12:41.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-249121",
+    "summary": "Sculk is missing subtitles for some sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 5"
+    ],
+    "creation_date": "2022-03-16T20:31:28.000+0200",
+    "resolution_date": "2022-05-31T15:39:46.000+0300",
+    "updated_date": "2022-05-31T15:39:46.000+0300",
+    "watches": 2,
+    "votes": 1
+  }
+]

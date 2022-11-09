@@ -1,0 +1,749 @@
+[
+  {
+    "id": "MC-249316",
+    "summary": "Mangrove fence, fence gate and boat cannot be used for fuel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-20T16:44:44.000+0200",
+    "resolution_date": "2022-03-23T14:38:28.000+0200",
+    "updated_date": "2022-03-23T14:38:28.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-249312",
+    "summary": "Mud Brick Slab has a slower mining speed then other mud bricks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-20T16:00:32.000+0200",
+    "resolution_date": "2022-03-23T14:38:31.000+0200",
+    "updated_date": "2022-03-23T14:38:31.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-249303",
+    "summary": "Mangrove Leaves cannot be composted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-20T08:40:05.000+0200",
+    "resolution_date": "2022-03-23T14:38:30.000+0200",
+    "updated_date": "2022-03-23T14:38:30.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249270",
+    "summary": "Mangrove leaves do not have a hoe as their preferred tool",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-19T16:48:48.000+0200",
+    "resolution_date": "2022-03-23T14:38:28.000+0200",
+    "updated_date": "2022-03-23T14:38:28.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-249253",
+    "summary": "Bee tries to pollinate a waterlogged mangrove propagule and dies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-19T09:55:39.000+0200",
+    "resolution_date": "2022-03-23T14:38:29.000+0200",
+    "updated_date": "2022-03-23T14:38:29.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-249195",
+    "summary": "Some Mangrove Propagules float after leaves decayed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-17T16:37:45.000+0200",
+    "resolution_date": "2022-03-23T14:38:27.000+0200",
+    "updated_date": "2022-03-23T14:38:27.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-249184",
+    "summary": "The mangrove fence recipe is not grouped with the fence recipes of other wood types",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-17T09:39:05.000+0200",
+    "resolution_date": "2022-03-23T14:38:29.000+0200",
+    "updated_date": "2022-03-23T14:38:29.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249181",
+    "summary": "Powered rail / activator rail update order is reversed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-17T06:56:21.000+0200",
+    "resolution_date": "2022-03-23T18:29:00.000+0200",
+    "updated_date": "2022-03-25T08:18:51.000+0200",
+    "watches": 13,
+    "votes": 19
+  },
+  {
+    "id": "MC-249174",
+    "summary": "Map color for mud bricks, mud brick stairs, and mud brick walls is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-17T03:11:01.000+0200",
+    "resolution_date": "2022-03-22T10:49:29.000+0200",
+    "updated_date": "2022-03-24T17:48:18.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-249173",
+    "summary": "Map color for mangrove trapdoor is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-17T02:57:01.000+0200",
+    "resolution_date": "2022-03-22T10:49:30.000+0200",
+    "updated_date": "2022-03-24T17:49:08.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-249172",
+    "summary": "Map color for mangrove slab is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-17T02:47:12.000+0200",
+    "resolution_date": "2022-03-22T10:49:29.000+0200",
+    "updated_date": "2022-03-24T17:49:37.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-249171",
+    "summary": "Map color for mangrove log is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-17T02:47:08.000+0200",
+    "resolution_date": "2022-03-22T10:49:29.000+0200",
+    "updated_date": "2022-03-24T17:50:05.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-249143",
+    "summary": "Mud, Mangrove Roots, and their variants are too loud in comparison with other blocks",
+    "labels": [
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-16T21:50:53.000+0200",
+    "resolution_date": "2022-03-24T13:46:52.000+0200",
+    "updated_date": "2022-03-24T13:46:52.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-249134",
+    "summary": "Subtitle \"Frog hatches\" should be \"Tadpole hatches\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-16T21:15:17.000+0200",
+    "resolution_date": "2022-03-21T15:55:38.000+0200",
+    "updated_date": "2022-03-21T15:55:38.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-249112",
+    "summary": "Ender dragon fight is not triggered upon entering the End",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-16T20:07:12.000+0200",
+    "resolution_date": "2022-03-17T11:22:03.000+0200",
+    "updated_date": "2022-08-14T23:42:50.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-249098",
+    "summary": "Mud brick slabs use generic stone sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-16T19:39:53.000+0200",
+    "resolution_date": "2022-03-23T14:38:31.000+0200",
+    "updated_date": "2022-03-24T15:01:25.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-249081",
+    "summary": "Placing water inside the mangrove propagule breaks it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-16T19:09:08.000+0200",
+    "resolution_date": "2022-03-23T14:38:30.000+0200",
+    "updated_date": "2022-03-23T14:38:30.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-249073",
+    "summary": "Mangrove Fence Gate & Mangrove Fence are in the wrong tab in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-03-16T18:54:36.000+0200",
+    "resolution_date": "2022-03-23T14:38:29.000+0200",
+    "updated_date": "2022-03-23T14:38:29.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-248621",
+    "summary": "TagKey creation leads to memory leak",
+    "labels": [
+      "crash",
+      "memory-leak",
+      "performance"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2022-02-15T00:53:47.000+0200",
+    "resolution_date": "2022-03-24T12:32:58.000+0200",
+    "updated_date": "2022-03-24T12:32:58.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-239019",
+    "summary": "/locatebiome command doesn't consistently locate the nearest cave biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2021-10-15T10:09:43.000+0300",
+    "resolution_date": "2022-03-24T16:22:30.000+0200",
+    "updated_date": "2022-03-24T16:22:30.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-238009",
+    "summary": "Some end cities can generate floating above the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2021-09-30T18:34:23.000+0300",
+    "resolution_date": "2022-03-23T13:08:58.000+0200",
+    "updated_date": "2022-03-23T13:08:58.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-236212",
+    "summary": "You cannot use CTRL+ARROW KEY to navigate the cursor between words in the book and quill GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2021-09-09T19:20:34.000+0300",
+    "resolution_date": "2022-03-24T11:53:41.000+0200",
+    "updated_date": "2022-03-24T11:53:41.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-236149",
+    "summary": "You cannot use CTRL+BACKSPACE to delete words in the book and quill GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2021-09-08T18:57:00.000+0300",
+    "resolution_date": "2022-03-24T11:53:41.000+0200",
+    "updated_date": "2022-03-24T11:53:41.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-207260",
+    "summary": "Casting issue: Sculk vibrations come from the wrong positions at high coordinates",
+    "labels": [
+      "precision-loss",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-12-02T20:04:30.000+0200",
+    "resolution_date": "2022-04-28T21:57:18.000+0300",
+    "updated_date": "2022-04-28T21:57:18.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-197854",
+    "summary": "Cannot use Ctrl+Backspace to delete entire words in Edit sign GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-08-12T22:27:35.000+0300",
+    "resolution_date": "2022-03-24T11:53:41.000+0200",
+    "updated_date": "2022-03-24T11:53:41.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-190661",
+    "summary": "Pressing Esc or using the Cancel button in the \"Experimental Settings\" warning returns to main menu",
+    "labels": [
+      "button",
+      "cancel",
+      "esc",
+      "escape",
+      "experimental-settings",
+      "main-menu",
+      "menu"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-06-20T10:59:54.000+0300",
+    "resolution_date": "2022-03-24T12:32:58.000+0200",
+    "updated_date": "2022-03-24T12:32:58.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-189214",
+    "summary": "Modifying the type compound of the end dimension erases the dragon fight",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-06-13T03:02:39.000+0300",
+    "resolution_date": "2022-03-26T15:25:20.000+0200",
+    "updated_date": "2022-03-26T15:25:20.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-179916",
+    "summary": "Foxes path towards origin (0,0) during a thunderstorm",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-04-22T21:09:51.000+0300",
+    "resolution_date": "2022-03-24T12:32:59.000+0200",
+    "updated_date": "2022-06-12T19:48:37.000+0300",
+    "watches": 16,
+    "votes": 24
+  },
+  {
+    "id": "MC-177321",
+    "summary": "Soul sand doesn't have smooth lighting / ambient occlusion",
+    "labels": [
+      "ambient-occlusion",
+      "smooth-lighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-04-03T22:04:32.000+0300",
+    "resolution_date": "2022-03-21T18:04:18.000+0200",
+    "updated_date": "2022-03-22T16:14:14.000+0200",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-176081",
+    "summary": "Striders with NoAI still get cold",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-03-25T21:40:23.000+0200",
+    "resolution_date": "2022-03-24T12:33:00.000+0200",
+    "updated_date": "2022-03-24T12:33:00.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-165503",
+    "summary": "Fence gates (between walls) aren't affected by ambient occlusion/smooth lighting",
+    "labels": [
+      "ambient-occlusion",
+      "smooth-lighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2019-11-13T14:28:18.000+0200",
+    "resolution_date": "2022-03-23T15:12:27.000+0200",
+    "updated_date": "2022-03-24T14:30:38.000+0200",
+    "watches": 9,
+    "votes": 33
+  },
+  {
+    "id": "MC-149805",
+    "summary": "While editing a book, you cannot use Ctrl+Home or Ctrl+End to jump to the beginning or end of the text",
+    "labels": [
+      "writable_book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2019-04-26T16:54:09.000+0300",
+    "resolution_date": "2022-03-24T11:53:41.000+0200",
+    "updated_date": "2022-03-24T11:53:41.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-100923",
+    "summary": "Entities with knockback resistance can get knocked back using Punch",
+    "labels": [
+      "bow",
+      "iron_golem",
+      "knockback_resistance",
+      "punch"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2016-04-14T21:41:36.000+0300",
+    "resolution_date": "2022-03-25T00:39:26.000+0200",
+    "updated_date": "2022-05-22T00:40:39.000+0300",
+    "watches": 18,
+    "votes": 28
+  },
+  {
+    "id": "MC-94161",
+    "summary": "Boat paddles in the inventory are oak instead of their respective wood type",
+    "labels": [
+      "boat",
+      "mismatching-textures",
+      "paddles",
+      "texture",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2015-12-11T10:39:28.000+0200",
+    "resolution_date": "2022-03-24T19:41:19.000+0200",
+    "updated_date": "2022-03-24T19:41:19.000+0200",
+    "watches": 16,
+    "votes": 38
+  },
+  {
+    "id": "MC-88677",
+    "summary": "High FoV (manually changed in options.txt) causes X-ray effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2015-09-13T18:45:22.000+0300",
+    "resolution_date": "2022-05-27T08:23:43.000+0300",
+    "updated_date": "2022-05-27T08:23:43.000+0300",
+    "watches": 8,
+    "votes": 6
+  },
+  {
+    "id": "MC-51418",
+    "summary": "Changing brightness/gamma above in-game limit using options.txt",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2014-03-15T22:37:20.000+0200",
+    "resolution_date": "2022-04-01T20:18:27.000+0300",
+    "updated_date": "2022-08-11T10:11:07.000+0300",
+    "watches": 12,
+    "votes": 10
+  },
+  {
+    "id": "MC-11783",
+    "summary": "Stacking snow lighting inconsistency (smooth lighting)",
+    "labels": [
+      "smooth-lighting",
+      "smooth-lighting-interpolation-incorrect"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2013-03-14T17:43:13.000+0200",
+    "resolution_date": "2022-05-27T08:27:25.000+0300",
+    "updated_date": "2022-05-27T08:27:25.000+0300",
+    "watches": 11,
+    "votes": 29
+  }
+]

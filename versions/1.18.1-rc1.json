@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MC-244190",
+    "summary": "Entity fog doesn't match the fog of blocks around them",
+    "labels": [
+      "fog",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18.1 Release Candidate 1"
+    ],
+    "creation_date": "2021-12-03T20:37:27.000+0200",
+    "resolution_date": "2021-12-07T17:38:44.000+0200",
+    "updated_date": "2022-07-19T15:01:07.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-243796",
+    "summary": "Random non fatal exceptions in console: Failed to store chunk ConcurrentModificationException",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.1 Release Candidate 1"
+    ],
+    "creation_date": "2021-12-02T20:37:31.000+0200",
+    "resolution_date": "2021-12-06T16:41:15.000+0200",
+    "updated_date": "2022-04-22T20:44:42.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-229321",
+    "summary": "Bees inside of bee hives / nests sometimes despawn when the world is reloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.1 Release Candidate 1"
+    ],
+    "creation_date": "2021-06-17T06:11:24.000+0300",
+    "resolution_date": "2022-02-19T13:19:54.000+0200",
+    "updated_date": "2022-02-19T13:19:54.000+0200",
+    "watches": 41,
+    "votes": 67
+  },
+  {
+    "id": "MC-152198",
+    "summary": "Actual render distance is 2 chunks lower than render distance setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1",
+      "1.18.1 Release Candidate 1"
+    ],
+    "creation_date": "2019-05-18T06:02:28.000+0300",
+    "resolution_date": "2021-12-09T10:35:12.000+0200",
+    "updated_date": "2021-12-09T10:35:12.000+0200",
+    "watches": 10,
+    "votes": 16
+  }
+]

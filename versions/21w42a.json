@@ -1,0 +1,320 @@
+[
+  {
+    "id": "MC-238900",
+    "summary": "Values of 'Infinity' in noise settings in default worldgen ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w42a",
+      "21w44a"
+    ],
+    "creation_date": "2021-10-13T20:03:50.000+0300",
+    "resolution_date": "2021-11-03T15:31:43.000+0200",
+    "updated_date": "2021-11-03T22:52:09.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-238582",
+    "summary": "Beaches generate between desert and ocean",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2021-10-08T18:56:09.000+0300",
+    "resolution_date": "2021-10-19T11:12:40.000+0300",
+    "updated_date": "2021-10-19T11:12:40.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-236837",
+    "summary": "The player can occasionally spawn underground when loading into a new world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2021-09-16T21:00:59.000+0300",
+    "resolution_date": "2021-10-20T11:20:29.000+0300",
+    "updated_date": "2021-11-14T20:45:34.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-233771",
+    "summary": "Parity issue: Light blocks do not display their light level when shown via a held light block item",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2021-08-04T20:11:32.000+0300",
+    "resolution_date": "2021-10-20T13:55:21.000+0300",
+    "updated_date": "2021-11-24T19:42:22.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-221641",
+    "summary": "Caves can make ravines generate without water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2021-03-31T22:12:40.000+0300",
+    "resolution_date": "2021-10-21T21:29:02.000+0300",
+    "updated_date": "2021-10-21T21:29:02.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-214288",
+    "summary": "Player does not spawn on the surface of the world when min_y is greater than 0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2021-02-06T06:46:37.000+0200",
+    "resolution_date": "2021-10-20T11:31:33.000+0300",
+    "updated_date": "2021-10-20T11:31:33.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-202166",
+    "summary": "\"Times Crafted\" statistics column doesn't always display data correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2020-10-15T23:51:05.000+0300",
+    "resolution_date": "2021-11-14T15:37:40.000+0200",
+    "updated_date": "2021-11-14T15:37:40.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-198232",
+    "summary": "Music plays less frequently as it normally did",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2020-08-17T08:37:54.000+0300",
+    "resolution_date": "2021-10-21T21:28:36.000+0300",
+    "updated_date": "2021-10-21T21:28:36.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-185034",
+    "summary": "Always respawning on the same block with no spawnpoint set",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2020-05-21T19:01:52.000+0300",
+    "resolution_date": "2021-10-20T18:39:26.000+0300",
+    "updated_date": "2021-10-20T18:39:26.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-185033",
+    "summary": "Underground spawn in single biome world type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2020-05-21T18:58:01.000+0300",
+    "resolution_date": "2021-10-20T18:39:21.000+0300",
+    "updated_date": "2021-10-20T18:39:21.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-133466",
+    "summary": "Certain world configurations force the player to spawn at x=8 z=8",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2018-07-14T00:43:36.000+0300",
+    "resolution_date": "2021-10-20T18:38:56.000+0300",
+    "updated_date": "2021-10-20T18:38:56.000+0300",
+    "watches": 9,
+    "votes": 13
+  },
+  {
+    "id": "MC-132347",
+    "summary": "Spawning inside icebergs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2018-06-29T16:28:50.000+0300",
+    "resolution_date": "2021-10-20T11:27:14.000+0300",
+    "updated_date": "2021-10-20T11:27:14.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-131686",
+    "summary": "Spawn in ground with Buffet generation when creating a new world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2018-06-20T01:54:11.000+0300",
+    "resolution_date": "2021-10-29T03:25:39.000+0300",
+    "updated_date": "2021-10-29T03:25:39.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-129912",
+    "summary": "Player no longer spawned at highest level at world spawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2018-05-19T15:34:04.000+0300",
+    "resolution_date": "2021-10-20T11:18:27.000+0300",
+    "updated_date": "2021-10-20T11:18:27.000+0300",
+    "watches": 11,
+    "votes": 14
+  },
+  {
+    "id": "MC-80824",
+    "summary": "Spawning in some biomes causes \"Unable to find spawn biome\" warning",
+    "labels": [
+      "biome",
+      "preset",
+      "redstone-ready",
+      "spawn",
+      "superflat-world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2015-05-29T16:20:09.000+0300",
+    "resolution_date": "2021-10-21T18:07:25.000+0300",
+    "updated_date": "2021-10-21T18:07:25.000+0300",
+    "watches": 10,
+    "votes": 11
+  },
+  {
+    "id": "MC-73300",
+    "summary": "\"Saving Level...\" text not appearing in pause menu",
+    "labels": [
+      "12w18a"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w42a"
+    ],
+    "creation_date": "2014-10-19T05:36:19.000+0300",
+    "resolution_date": "2021-10-20T18:17:41.000+0300",
+    "updated_date": "2021-10-20T18:17:41.000+0300",
+    "watches": 14,
+    "votes": 18
+  }
+]

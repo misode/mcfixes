@@ -1,0 +1,637 @@
+[
+  {
+    "id": "MC-153734",
+    "summary": "Vanilla data pack disabled after upgrading a world to 1.14.3 (items do not drop, fishing doesn't work, no advancements, ...)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-06-03T23:41:50.000+0300",
+    "resolution_date": "2019-06-07T11:09:18.000+0300",
+    "updated_date": "2019-06-07T11:09:18.000+0300",
+    "watches": 13,
+    "votes": 19
+  },
+  {
+    "id": "MC-153730",
+    "summary": "/reload doesnt work if there's too many new datapacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-06-03T22:46:17.000+0300",
+    "resolution_date": "2019-06-07T16:35:30.000+0300",
+    "updated_date": "2019-06-07T16:35:30.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-153728",
+    "summary": "Pillager patrols can spawn in villages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-06-03T22:23:18.000+0300",
+    "resolution_date": "2019-06-09T13:59:04.000+0300",
+    "updated_date": "2019-06-09T13:59:04.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-153714",
+    "summary": "Old graphics card warning on Mac despite having recent hardware",
+    "labels": [
+      "OpenGL"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-06-03T18:37:45.000+0300",
+    "resolution_date": "2019-06-07T11:09:18.000+0300",
+    "updated_date": "2019-06-09T20:10:35.000+0300",
+    "watches": 12,
+    "votes": 14
+  },
+  {
+    "id": "MC-153221",
+    "summary": "dragon fireball causes FPS to crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-28T08:32:44.000+0300",
+    "resolution_date": "2019-06-04T13:58:22.000+0300",
+    "updated_date": "2019-06-15T00:29:24.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-152638",
+    "summary": "Villager trade GUI does not close when a major change happens to the Villager, leading to free trades and quick stock refreshing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-22T18:20:26.000+0300",
+    "resolution_date": "2019-06-04T17:46:19.000+0300",
+    "updated_date": "2019-06-12T15:53:56.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-152182",
+    "summary": "Trading Halls are non-viable. Employed villagers sometimes un-bond from an existing workbench within 2 blocks, Apprentice+ ranks cannot re-bond unless moved 96 blocks away and back.",
+    "labels": [
+      "Villager",
+      "villager-trade",
+      "villagers",
+      "workplace-block",
+      "workstations"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-18T03:04:18.000+0300",
+    "resolution_date": "2019-06-07T18:28:12.000+0300",
+    "updated_date": "2020-04-14T01:31:15.000+0300",
+    "watches": 15,
+    "votes": 24
+  },
+  {
+    "id": "MC-151989",
+    "summary": "Players in Survival do not get Dolphins Grace effect if Dolphin cannot path to Player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-16T08:19:05.000+0300",
+    "resolution_date": "2019-06-04T17:46:19.000+0300",
+    "updated_date": "2019-06-04T17:46:20.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-151566",
+    "summary": "Pillagers patrols can spawn outside world border",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-12T01:10:41.000+0300",
+    "resolution_date": "2019-06-07T11:13:34.000+0300",
+    "updated_date": "2019-06-07T11:13:34.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-151027",
+    "summary": "Pillagers spawning in houses and farms",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-07T11:10:59.000+0300",
+    "resolution_date": "2019-06-11T09:11:31.000+0300",
+    "updated_date": "2019-06-11T09:11:32.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-150954",
+    "summary": "Pillager Patrol spawn is way off. Spawning too close to each other, in odd biomes, and too frequent.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-06T06:26:46.000+0300",
+    "resolution_date": "2019-06-07T11:13:32.000+0300",
+    "updated_date": "2019-06-07T11:13:32.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-150401",
+    "summary": "Chickens suffocate if jumping while under a solid block",
+    "labels": [
+      "chicken",
+      "jumping",
+      "solid-block",
+      "suffocate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-30T21:11:22.000+0300",
+    "resolution_date": "2019-06-04T17:46:26.000+0300",
+    "updated_date": "2020-07-30T11:44:20.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-150243",
+    "summary": "Minecraft making no sound at ALL",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-29T02:16:09.000+0300",
+    "resolution_date": "2019-06-15T02:30:39.000+0300",
+    "updated_date": "2019-07-30T01:39:13.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-149877",
+    "summary": "Baby foxes suffocate when jumping under blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-27T00:38:22.000+0300",
+    "resolution_date": "2019-06-04T17:46:29.000+0300",
+    "updated_date": "2019-06-04T17:46:29.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-149207",
+    "summary": "Water with blocks above will convert to flowing water for no reason",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-23T22:10:57.000+0300",
+    "resolution_date": "2019-06-07T19:19:23.000+0300",
+    "updated_date": "2019-06-07T19:19:23.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-149188",
+    "summary": "MacOS 1.14 mouse offset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-23T21:25:03.000+0300",
+    "resolution_date": "2019-06-09T19:29:53.000+0300",
+    "updated_date": "2019-06-09T19:29:53.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-148986",
+    "summary": "Low-tier enchants from lv.30 standard enchanting setups",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-21T23:00:53.000+0300",
+    "resolution_date": "2019-06-05T15:56:05.000+0300",
+    "updated_date": "2020-07-12T03:08:47.000+0300",
+    "watches": 41,
+    "votes": 53
+  },
+  {
+    "id": "MC-148600",
+    "summary": "Zombie pigmen will spread their anger forever if they can continously respawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-18T06:37:18.000+0300",
+    "resolution_date": "2019-06-07T11:03:27.000+0300",
+    "updated_date": "2019-12-19T22:44:31.000+0200",
+    "watches": 60,
+    "votes": 100
+  },
+  {
+    "id": "MC-148354",
+    "summary": "Guardians require water to spawn from spawners",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-15T10:31:33.000+0300",
+    "resolution_date": "2019-06-07T18:26:13.000+0300",
+    "updated_date": "2019-06-07T18:26:13.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-146433",
+    "summary": "Double Chest does not display custom name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-03-22T17:29:19.000+0200",
+    "resolution_date": "2019-06-05T12:38:08.000+0300",
+    "updated_date": "2020-02-03T21:57:49.000+0200",
+    "watches": 10,
+    "votes": 16
+  },
+  {
+    "id": "MC-144929",
+    "summary": "When there is water above a water source, other water sources adjacent to the water source flow outwards",
+    "labels": [
+      "adjacent",
+      "flow",
+      "flowing_lava",
+      "flowing_water",
+      "pull",
+      "water-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-02-25T06:06:49.000+0200",
+    "resolution_date": "2019-06-05T12:38:09.000+0300",
+    "updated_date": "2019-06-05T14:00:44.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-144107",
+    "summary": "Miscalculation of camera position in windowed mode on Linux",
+    "labels": [
+      "Input",
+      "KDE",
+      "Linux",
+      "Mouse",
+      "windowed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14 Pre-Release 3",
+      "Minecraft 1.14.3 Pre-Release 2",
+      "1.16 Pre-release 7"
+    ],
+    "creation_date": "2019-02-13T21:25:21.000+0200",
+    "resolution_date": "2020-06-16T18:26:52.000+0300",
+    "updated_date": "2020-06-16T18:26:52.000+0300",
+    "watches": 68,
+    "votes": 77
+  },
+  {
+    "id": "MC-142360",
+    "summary": "Pillagers patrols can spawn pillagers on top of trees inside a leaf block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-01-16T14:33:37.000+0200",
+    "resolution_date": "2019-06-07T11:13:31.000+0300",
+    "updated_date": "2021-06-24T19:52:03.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-141961",
+    "summary": "Multiple protection enchantments on a piece of armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2019-01-10T01:05:05.000+0200",
+    "resolution_date": "2019-07-08T10:23:39.000+0300",
+    "updated_date": "2019-07-08T10:23:39.000+0300",
+    "watches": 24,
+    "votes": 24
+  },
+  {
+    "id": "MC-141301",
+    "summary": "Illager patrols spawning on blocks mobs shouldn't spawn on, such as slabs, carpets, stairs, etc.",
+    "labels": [
+      "pillager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2018-12-20T16:10:01.000+0200",
+    "resolution_date": "2019-06-07T11:13:29.000+0300",
+    "updated_date": "2020-04-26T22:13:13.000+0300",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-139257",
+    "summary": "Server crash on reload when worldborder is modified.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2018-11-11T18:31:59.000+0200",
+    "resolution_date": "2019-06-05T11:02:00.000+0300",
+    "updated_date": "2019-06-05T11:02:00.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-129491",
+    "summary": "Advancement location trigger works inconsistently for structures added in 1.9 or later",
+    "labels": [
+      "Advancement",
+      "Advancements",
+      "advancement",
+      "advancement-criteria",
+      "advancement-trigger",
+      "buried-treasure",
+      "end-city",
+      "igloo",
+      "ocean-ruin",
+      "shipwreck",
+      "structure",
+      "trigger",
+      "woodland-mansion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2018-05-12T01:52:58.000+0300",
+    "resolution_date": "2019-06-05T11:01:58.000+0300",
+    "updated_date": "2020-08-15T07:35:04.000+0300",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-124170",
+    "summary": "Performance issue with particles causing lag",
+    "labels": [
+      "lag",
+      "particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2018-01-11T19:53:44.000+0200",
+    "resolution_date": "2019-06-04T14:04:59.000+0300",
+    "updated_date": "2019-08-02T13:06:40.000+0300",
+    "watches": 36,
+    "votes": 81
+  },
+  {
+    "id": "MC-121376",
+    "summary": "Cannot bind \"caps\" key in control settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2",
+      "22w16a"
+    ],
+    "creation_date": "2017-10-26T19:18:06.000+0300",
+    "resolution_date": "2022-04-20T20:00:19.000+0300",
+    "updated_date": "2022-04-20T20:00:19.000+0300",
+    "watches": 17,
+    "votes": 46
+  },
+  {
+    "id": "MC-72390",
+    "summary": "Rcon is not thread-safe",
+    "labels": [
+      "crash",
+      "rcon"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2014-09-26T18:49:38.000+0300",
+    "resolution_date": "2019-06-05T11:01:55.000+0300",
+    "updated_date": "2019-12-23T13:54:27.000+0200",
+    "watches": 23,
+    "votes": 43
+  },
+  {
+    "id": "MC-51030",
+    "summary": "Endermite, phantom, silverfish and baby turtle sinking and suffocating in soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2"
+    ],
+    "creation_date": "2014-03-13T17:28:54.000+0200",
+    "resolution_date": "2019-06-09T07:53:34.000+0300",
+    "updated_date": "2021-12-14T21:43:34.000+0200",
+    "watches": 14,
+    "votes": 26
+  }
+]

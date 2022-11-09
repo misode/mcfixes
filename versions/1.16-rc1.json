@@ -1,0 +1,408 @@
+[
+  {
+    "id": "MC-187423",
+    "summary": "Ender pearls sometimes won't work with end gateways",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2020-06-05T01:02:49.000+0300",
+    "resolution_date": "2020-06-18T23:10:00.000+0300",
+    "updated_date": "2020-06-18T23:10:00.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-182960",
+    "summary": "Parity issue: Splash texts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Parity",
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2020-05-07T19:52:04.000+0300",
+    "resolution_date": "2020-06-26T14:13:35.000+0300",
+    "updated_date": "2020-06-26T14:13:35.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-181833",
+    "summary": "Crash on world startup after playing world in 20w18a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2020-05-01T01:40:49.000+0300",
+    "resolution_date": "2020-06-18T12:34:38.000+0300",
+    "updated_date": "2020-06-18T12:34:38.000+0300",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-181313",
+    "summary": "Server crashes when critical arrow with very high damage value hits an entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2020-04-28T23:46:34.000+0300",
+    "resolution_date": "2020-08-04T02:20:19.000+0300",
+    "updated_date": "2022-07-29T16:44:17.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-175634",
+    "summary": "Fishing line disconnects while drinking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2020-03-21T23:49:38.000+0200",
+    "resolution_date": "2020-06-20T22:09:13.000+0300",
+    "updated_date": "2020-06-20T22:09:13.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-174790",
+    "summary": "Mob on turtle eggs causes the game to crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2020-03-14T12:52:46.000+0200",
+    "resolution_date": "2020-06-18T11:22:49.000+0300",
+    "updated_date": "2020-06-18T11:22:49.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-166959",
+    "summary": "Can't trade with villager after clicking on them while holding a written book.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2019-12-01T22:34:02.000+0200",
+    "resolution_date": "2020-06-20T02:02:19.000+0300",
+    "updated_date": "2020-06-20T02:02:19.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-166921",
+    "summary": "Incorrect bow animation when eating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2019-12-01T02:51:01.000+0200",
+    "resolution_date": "2020-06-18T23:12:53.000+0300",
+    "updated_date": "2020-06-18T23:12:53.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-164569",
+    "summary": "Random \"Block Broken\" in jungle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2019-10-27T19:28:30.000+0200",
+    "resolution_date": "2020-06-21T01:08:08.000+0300",
+    "updated_date": "2020-06-21T01:12:47.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-164224",
+    "summary": "Non updated lava layers that rarely generate in Nether wastes, crimson forests, and warped forests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2019-10-20T23:50:05.000+0300",
+    "resolution_date": "2020-06-18T22:20:08.000+0300",
+    "updated_date": "2020-06-18T22:20:08.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-152934",
+    "summary": "Water and lava disappear when dispensed through a dispenser at build limit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2019-05-25T22:02:17.000+0300",
+    "resolution_date": "2020-06-21T23:18:17.000+0300",
+    "updated_date": "2020-06-21T23:18:17.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-150543",
+    "summary": "Using a stonecutter can sometimes crash the game in certain circumstances",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2019-05-02T04:22:15.000+0300",
+    "resolution_date": "2020-06-18T14:34:47.000+0300",
+    "updated_date": "2020-06-18T15:25:50.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-135333",
+    "summary": "Open fence gates still block players in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2018-07-31T16:00:02.000+0300",
+    "resolution_date": "2020-06-19T19:30:18.000+0300",
+    "updated_date": "2020-06-19T19:30:18.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-117312",
+    "summary": "Hover and click events are at wrong position for right-to-left languages",
+    "labels": [
+      "chat",
+      "clickEvent",
+      "hoverEvent",
+      "language",
+      "right-to-left",
+      "text-component"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2017-05-11T16:24:44.000+0300",
+    "resolution_date": "2020-06-21T15:54:40.000+0300",
+    "updated_date": "2020-06-21T15:54:40.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-109121",
+    "summary": "2 \u00d7 2 jungle and spruce trees don't grow from the lowest layer",
+    "labels": [
+      "jungle-tree",
+      "spruce-tree",
+      "tree-generation",
+      "y-coordinate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2016-10-24T23:48:58.000+0300",
+    "resolution_date": "2020-06-21T00:02:11.000+0300",
+    "updated_date": "2020-06-22T03:09:22.000+0300",
+    "watches": 10,
+    "votes": 19
+  },
+  {
+    "id": "MC-93311",
+    "summary": "The water texture overlay is not fully covered when the window is resized",
+    "labels": [
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2015-11-25T11:18:42.000+0200",
+    "resolution_date": "2020-06-24T14:27:19.000+0300",
+    "updated_date": "2020-06-24T14:27:19.000+0300",
+    "watches": 8,
+    "votes": 6
+  },
+  {
+    "id": "MC-88901",
+    "summary": "Blocking with Shield, and getting hit causes visual bug.",
+    "labels": [
+      "blocking",
+      "multiplayer",
+      "shield"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2015-09-17T09:01:52.000+0300",
+    "resolution_date": "2020-06-20T11:59:29.000+0300",
+    "updated_date": "2020-06-20T11:59:29.000+0300",
+    "watches": 8,
+    "votes": 20
+  },
+  {
+    "id": "MC-86197",
+    "summary": "Shield blocking happens even while eating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2015-08-14T20:32:04.000+0300",
+    "resolution_date": "2020-06-18T23:13:39.000+0300",
+    "updated_date": "2020-06-18T23:13:39.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-59540",
+    "summary": "Creating superflat world without layers causes to get \"Classic Flat\"",
+    "labels": [
+      "classic-flat",
+      "layer",
+      "superflat-world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2014-06-28T21:23:15.000+0300",
+    "resolution_date": "2020-06-18T23:15:44.000+0300",
+    "updated_date": "2020-06-18T23:15:44.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-46257",
+    "summary": "Items don't bounce off slime blocks",
+    "labels": [
+      "bounce",
+      "item",
+      "slime_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Release Candidate 1"
+    ],
+    "creation_date": "2014-01-28T00:26:20.000+0200",
+    "resolution_date": "2022-07-23T08:54:04.000+0300",
+    "updated_date": "2022-07-23T08:54:05.000+0300",
+    "watches": 4,
+    "votes": 0
+  }
+]

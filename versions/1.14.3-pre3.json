@@ -1,0 +1,313 @@
+[
+  {
+    "id": "MC-154328",
+    "summary": "The Village Siege (Zombie Siege) never happens",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-06-10T23:31:54.000+0300",
+    "resolution_date": "2019-06-12T16:32:05.000+0300",
+    "updated_date": "2019-06-13T01:33:22.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-154092",
+    "summary": "Zombie Pigmen lose aggro even when they're in range and have a line of sight",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-06-08T04:45:05.000+0300",
+    "resolution_date": "2019-06-13T13:41:27.000+0300",
+    "updated_date": "2020-03-13T21:33:50.000+0200",
+    "watches": 20,
+    "votes": 25
+  },
+  {
+    "id": "MC-154081",
+    "summary": "Opening survival inventory when opening world crashes game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-06-08T00:51:28.000+0300",
+    "resolution_date": "2019-06-13T16:12:24.000+0300",
+    "updated_date": "2019-06-13T16:12:24.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-154080",
+    "summary": "Wandering Trader trade GUI does not close when the Wandering Trader changes dimensions allowing you to trade infinitely ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-06-08T00:47:28.000+0300",
+    "resolution_date": "2019-06-13T16:12:21.000+0300",
+    "updated_date": "2019-06-13T16:12:21.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-154000",
+    "summary": "When dispenser places shulkerbox it decreases its stack twice.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-06-07T04:37:44.000+0300",
+    "resolution_date": "2019-06-13T16:09:18.000+0300",
+    "updated_date": "2019-06-13T16:09:18.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-153666",
+    "summary": "Villagers can still leave villages under some conditions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-06-03T00:05:11.000+0300",
+    "resolution_date": "2019-06-16T20:52:04.000+0300",
+    "updated_date": "2019-06-16T20:52:04.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-153470",
+    "summary": "Language map does not close internal 'en_us.json' file after reading",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-05-31T04:34:18.000+0300",
+    "resolution_date": "2019-06-11T14:53:29.000+0300",
+    "updated_date": "2019-06-11T15:07:14.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-151710",
+    "summary": "Enties not functioning in forceloaded chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-05-13T17:56:16.000+0300",
+    "resolution_date": "2019-06-13T22:14:31.000+0300",
+    "updated_date": "2019-06-13T22:14:31.000+0300",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-149518",
+    "summary": "Skylight appearing under blocks",
+    "labels": [
+      "skylight",
+      "under-blocks"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-04-25T00:28:37.000+0300",
+    "resolution_date": "2019-06-13T16:23:46.000+0300",
+    "updated_date": "2019-12-19T22:14:22.000+0200",
+    "watches": 59,
+    "votes": 90
+  },
+  {
+    "id": "MC-147619",
+    "summary": "Foxes that trust a player will still avoid wolves and other players they're angry towards instead pursuing them",
+    "labels": [
+      "PvP",
+      "anger",
+      "angry",
+      "attack",
+      "avoid",
+      "fox",
+      "invisibility",
+      "player",
+      "run",
+      "sneak",
+      "trust",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-04-07T09:02:40.000+0300",
+    "resolution_date": "2019-06-11T14:28:33.000+0300",
+    "updated_date": "2019-06-13T01:33:16.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-145107",
+    "summary": "\"Old graphics card detected\" warning on main menu displays as \"title.oldgl1\" \"title.oldgl2\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2019-02-28T01:07:39.000+0200",
+    "resolution_date": "2019-06-20T05:12:31.000+0300",
+    "updated_date": "2019-06-20T05:12:31.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-131122",
+    "summary": "Torches can't be placed on iron bars or glass panes",
+    "labels": [
+      "glass_pane",
+      "iron_bars",
+      "torch"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2018-06-09T04:14:40.000+0300",
+    "resolution_date": "2019-06-14T13:38:33.000+0300",
+    "updated_date": "2019-06-14T13:38:33.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-110004",
+    "summary": "Enderman/blaze don't drop experience when hit with splash/lingering potion",
+    "labels": [
+      "blaze",
+      "drop",
+      "enderman",
+      "experience",
+      "water-bottle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2016-11-12T10:56:30.000+0200",
+    "resolution_date": "2019-06-13T16:09:20.000+0300",
+    "updated_date": "2019-06-14T20:16:14.000+0300",
+    "watches": 15,
+    "votes": 31
+  },
+  {
+    "id": "MC-93892",
+    "summary": "Fire/Flame arrows and fireballs set player on fire even when blocking with shield",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2015-12-05T23:45:08.000+0200",
+    "resolution_date": "2019-06-12T16:34:48.000+0300",
+    "updated_date": "2020-04-14T00:38:24.000+0300",
+    "watches": 7,
+    "votes": 19
+  },
+  {
+    "id": "MC-47699",
+    "summary": "Blazes are able to see a player through blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 3"
+    ],
+    "creation_date": "2014-02-07T01:33:18.000+0200",
+    "resolution_date": "2019-06-13T16:09:14.000+0300",
+    "updated_date": "2022-02-04T16:45:33.000+0200",
+    "watches": 42,
+    "votes": 137
+  }
+]

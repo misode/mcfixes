@@ -1,0 +1,386 @@
+[
+  {
+    "id": "MC-253191",
+    "summary": "Particles produced from allays duplicating cannot be seen by other players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-16T21:30:48.000+0300",
+    "resolution_date": "2022-06-21T15:22:26.000+0300",
+    "updated_date": "2022-06-21T15:22:26.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-253185",
+    "summary": "The ESC key cannot be used to exit the \"Sending your report\" menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-16T19:45:31.000+0300",
+    "resolution_date": "2022-06-21T15:33:01.000+0300",
+    "updated_date": "2022-06-21T15:33:01.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-253183",
+    "summary": "The word \"Unrelated\" within the \"gui.chatSelection.fold\" string is incorrectly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-16T19:29:44.000+0300",
+    "resolution_date": "2022-06-21T11:52:57.000+0300",
+    "updated_date": "2022-06-29T16:56:23.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-253178",
+    "summary": "The word \"Non-consensual\" is spelled as \"Non-consentual\" within the \"gui.abuseReport.reason.non_consensual_intimate_imagery\" string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-16T18:42:36.000+0300",
+    "resolution_date": "2022-06-21T11:52:56.000+0300",
+    "updated_date": "2022-06-21T11:52:56.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-253176",
+    "summary": "The character indicator symbol within the \"Report Chat\" menu is untranslatable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-16T18:24:39.000+0300",
+    "resolution_date": "2022-06-21T15:33:00.000+0300",
+    "updated_date": "2022-06-21T15:33:00.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-253134",
+    "summary": "Allays from older worlds don't duplicate",
+    "labels": [
+      "allay",
+      "allay-duplication",
+      "data-fixer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-16T00:33:32.000+0300",
+    "resolution_date": "2022-06-21T15:22:26.000+0300",
+    "updated_date": "2022-07-09T15:32:07.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-253127",
+    "summary": "Reason is not provided when chat report creation is not able to be started",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T22:16:56.000+0300",
+    "resolution_date": "2022-06-21T11:52:55.000+0300",
+    "updated_date": "2022-06-21T11:52:55.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-253126",
+    "summary": "The scroll bar within the \"Select Chat Messages to Report\" menu sometimes resets its position to the bottom of the list after scrolling upwards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T22:12:05.000+0300",
+    "resolution_date": "2022-06-21T11:52:56.000+0300",
+    "updated_date": "2022-06-21T11:52:56.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-253123",
+    "summary": "The button within the \"Sending your report\" menu changes upon resizing the game window",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T21:50:02.000+0300",
+    "resolution_date": "2022-06-21T11:55:55.000+0300",
+    "updated_date": "2022-06-29T16:56:22.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-253113",
+    "summary": "Chat message content can extend past the outline of a button and past the scroll bar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T21:15:18.000+0300",
+    "resolution_date": "2022-06-21T11:52:54.000+0300",
+    "updated_date": "2022-10-27T14:41:49.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-253111",
+    "summary": "You cannot use CTRL+HOME or CTRL+END to navigate to the beginning or end of text within the \"Report Chat\" menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T21:08:03.000+0300",
+    "resolution_date": "2022-06-21T15:33:00.000+0300",
+    "updated_date": "2022-06-21T15:33:00.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-253110",
+    "summary": "Text within the \"Discard report and comments?\" menu isn't horizontally centered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T21:05:54.000+0300",
+    "resolution_date": "2022-06-21T15:32:59.000+0300",
+    "updated_date": "2022-06-29T16:56:23.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-253109",
+    "summary": "The descriptions of report categories can overlap the \"Description:\" subtitle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T21:04:11.000+0300",
+    "resolution_date": "2022-06-21T11:52:53.000+0300",
+    "updated_date": "2022-06-29T16:56:23.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-253108",
+    "summary": "Selection boxes within the \"Select Report Category\" menu aren't vertically centered with the text inside them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T21:02:08.000+0300",
+    "resolution_date": "2022-06-21T11:52:52.000+0300",
+    "updated_date": "2022-06-29T16:56:23.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-253105",
+    "summary": "Chat report category scroll bar intersects the selected option outline",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T20:49:37.000+0300",
+    "resolution_date": "2022-06-21T11:52:54.000+0300",
+    "updated_date": "2022-06-29T16:56:23.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-253102",
+    "summary": "Chat reporting uses \"Messages\" for one message",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T20:38:26.000+0300",
+    "resolution_date": "2022-06-21T11:52:54.000+0300",
+    "updated_date": "2022-06-29T16:56:22.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-253055",
+    "summary": "Resource packs causing each WeighedSoundEvents to duplicate Sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-15T02:21:48.000+0300",
+    "resolution_date": "2022-06-21T13:53:41.000+0300",
+    "updated_date": "2022-07-09T15:32:54.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-252508",
+    "summary": "Realms worldgen type missing language string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-06-07T18:13:40.000+0300",
+    "resolution_date": "2022-06-21T13:53:41.000+0300",
+    "updated_date": "2022-06-21T13:53:41.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-252327",
+    "summary": "World list fails to load after restarting game and deleting a world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-05-29T18:16:22.000+0300",
+    "resolution_date": "2022-06-21T13:53:41.000+0300",
+    "updated_date": "2022-06-21T13:53:41.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-249973",
+    "summary": "Loading resource packs is significantly slower in 1.19",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2022-04-07T04:16:36.000+0300",
+    "resolution_date": "2022-06-21T13:53:41.000+0300",
+    "updated_date": "2022-07-11T09:58:10.000+0300",
+    "watches": 6,
+    "votes": 16
+  }
+]

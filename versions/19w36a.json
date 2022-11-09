@@ -1,0 +1,371 @@
+[
+  {
+    "id": "MC-160254",
+    "summary": "Bees do not pollinate lilacs, rose bushes and peonies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-09-01T12:07:30.000+0300",
+    "resolution_date": "2019-09-04T12:45:10.000+0300",
+    "updated_date": "2019-10-18T02:06:15.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-160008",
+    "summary": "Drinking honey bottles doesn't immediately make a sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-29T05:46:40.000+0300",
+    "resolution_date": "2019-09-04T12:45:11.000+0300",
+    "updated_date": "2019-12-23T01:49:28.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159880",
+    "summary": "Bee duplicate passenger entities when entering and leaving hives",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-27T09:04:42.000+0300",
+    "resolution_date": "2019-09-02T16:24:17.000+0300",
+    "updated_date": "2019-09-02T16:24:17.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159743",
+    "summary": "Bee textures have inconsistent amounts of nectar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-25T10:11:43.000+0300",
+    "resolution_date": "2019-09-02T16:24:19.000+0300",
+    "updated_date": "2021-08-18T16:39:47.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159584",
+    "summary": "When a bee nest/hive with a bee inside is destroyed on Creative, the bees inside disappear",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-24T01:18:42.000+0300",
+    "resolution_date": "2019-09-02T16:24:22.000+0300",
+    "updated_date": "2020-03-13T21:42:41.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-159560",
+    "summary": "Semi-transparent pixels on bee textures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-23T20:11:36.000+0300",
+    "resolution_date": "2019-09-02T16:24:20.000+0300",
+    "updated_date": "2019-09-14T16:43:38.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-159558",
+    "summary": "Bees attempt to sting the player even after they've already stung the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-23T19:31:18.000+0300",
+    "resolution_date": "2019-09-02T16:24:21.000+0300",
+    "updated_date": "2019-09-02T16:24:21.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-159518",
+    "summary": "Bees stop their animations when standing still, even when still in the air",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-23T11:48:26.000+0300",
+    "resolution_date": "2019-09-02T16:24:20.000+0300",
+    "updated_date": "2019-11-09T14:33:03.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-159515",
+    "summary": "Bees don't sleep at night",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-23T11:23:40.000+0300",
+    "resolution_date": "2019-09-04T12:45:14.000+0300",
+    "updated_date": "2019-09-11T13:46:16.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-159441",
+    "summary": "Bees stay leashed when leaving a bee hive, despite having dropped their lead when entering it, thus duplicating the lead",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-22T23:18:52.000+0300",
+    "resolution_date": "2019-09-02T16:24:19.000+0300",
+    "updated_date": "2019-09-02T16:24:19.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-159424",
+    "summary": "Hostile bees will not sting you if you have a flower in your hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-22T22:00:56.000+0300",
+    "resolution_date": "2019-09-02T16:24:21.000+0300",
+    "updated_date": "2020-03-13T21:36:17.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-159395",
+    "summary": "Honey level of bee hives does not increase, as opposed to bee nests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-22T20:22:31.000+0300",
+    "resolution_date": "2019-09-04T12:45:13.000+0300",
+    "updated_date": "2020-01-17T22:39:19.000+0200",
+    "watches": 33,
+    "votes": 46
+  },
+  {
+    "id": "MC-159385",
+    "summary": "Bees are not affected by Bane of Arthropods enchantment",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-22T19:34:16.000+0300",
+    "resolution_date": "2019-09-04T12:45:10.000+0300",
+    "updated_date": "2020-03-13T21:35:19.000+0200",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-159383",
+    "summary": "Copying a bee nest/hive with NBT duplicates the bees inside of it as well, causing multiple bees with the same UUID to exist in the same world at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-22T19:29:04.000+0300",
+    "resolution_date": "2019-09-04T12:45:11.000+0300",
+    "updated_date": "2019-09-05T13:36:29.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-159370",
+    "summary": "Bees suffocate when against a solid block ceiling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-22T18:50:19.000+0300",
+    "resolution_date": "2019-09-04T12:45:14.000+0300",
+    "updated_date": "2019-09-05T13:32:16.000+0300",
+    "watches": 10,
+    "votes": 13
+  },
+  {
+    "id": "MC-159359",
+    "summary": "Dispensers ignore honey level when collecting honey from hives/nests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-22T18:03:33.000+0300",
+    "resolution_date": "2019-09-04T12:45:13.000+0300",
+    "updated_date": "2019-09-04T12:45:13.000+0300",
+    "watches": 9,
+    "votes": 20
+  },
+  {
+    "id": "MC-158978",
+    "summary": "\"Create New World\" button in the world creation menu is enabled after returning from the world customize menu, allowing world names to be left blank",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-15T04:14:13.000+0300",
+    "resolution_date": "2019-09-04T09:20:48.000+0300",
+    "updated_date": "2019-09-06T15:43:43.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-158677",
+    "summary": "Ender dragon freezes the server if there's no end stone in the end",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2019-08-09T11:21:34.000+0300",
+    "resolution_date": "2019-09-04T09:20:48.000+0300",
+    "updated_date": "2019-09-04T09:20:49.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-117914",
+    "summary": "Entities crossing dimensions through nether portal causes tremendous lag",
+    "labels": [
+      "dimension",
+      "entity",
+      "nether",
+      "nether_portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w36a"
+    ],
+    "creation_date": "2017-05-25T22:10:48.000+0300",
+    "resolution_date": "2019-09-03T10:52:29.000+0300",
+    "updated_date": "2020-08-26T14:15:27.000+0300",
+    "watches": 56,
+    "votes": 223
+  }
+]

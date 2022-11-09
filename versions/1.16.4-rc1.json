@@ -1,0 +1,23 @@
+[
+  {
+    "id": "MC-202614",
+    "summary": "Search function in social interactions screen only finds names that begin with the letters that you typed in",
+    "labels": [
+      "social-interactions"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.4 Release Candidate 1"
+    ],
+    "creation_date": "2020-10-22T22:24:53.000+0300",
+    "resolution_date": "2020-10-27T13:47:10.000+0200",
+    "updated_date": "2022-01-13T17:32:08.000+0200",
+    "watches": 2,
+    "votes": 3
+  }
+]

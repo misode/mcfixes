@@ -1,0 +1,525 @@
+[
+  {
+    "id": "MC-151674",
+    "summary": "RegionFiles are not closed when they are evicted from cache",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-13T05:24:57.000+0300",
+    "resolution_date": "2019-05-16T12:11:25.000+0300",
+    "updated_date": "2019-05-16T12:11:25.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-151418",
+    "summary": "Observers don't update redstone properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-10T19:01:58.000+0300",
+    "resolution_date": "2019-05-16T11:56:09.000+0300",
+    "updated_date": "2019-05-30T19:07:06.000+0300",
+    "watches": 16,
+    "votes": 49
+  },
+  {
+    "id": "MC-151365",
+    "summary": "Flaming arrows can light waterlogged campfires",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-10T02:13:58.000+0300",
+    "resolution_date": "2019-05-16T12:15:17.000+0300",
+    "updated_date": "2020-03-25T22:43:04.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-151329",
+    "summary": "Major FPS drop after running a mob farm for 30 minutes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-09T19:48:16.000+0300",
+    "resolution_date": "2019-05-16T12:08:17.000+0300",
+    "updated_date": "2019-05-21T10:16:24.000+0300",
+    "watches": 8,
+    "votes": 20
+  },
+  {
+    "id": "MC-151213",
+    "summary": "Observers don't trigger twice when chained and moved",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-08T20:19:36.000+0300",
+    "resolution_date": "2019-05-16T20:02:38.000+0300",
+    "updated_date": "2019-05-16T20:02:38.000+0300",
+    "watches": 9,
+    "votes": 34
+  },
+  {
+    "id": "MC-151185",
+    "summary": "Game crash after breaking villager point of interest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1",
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-08T15:09:11.000+0300",
+    "resolution_date": "2019-05-28T16:31:42.000+0300",
+    "updated_date": "2019-06-02T16:45:14.000+0300",
+    "watches": 10,
+    "votes": 24
+  },
+  {
+    "id": "MC-151062",
+    "summary": "Grindstoning an enchanted book without a custom name names the new (unenchanted) book \"Enchanted Book\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-07T20:26:31.000+0300",
+    "resolution_date": "2019-05-16T11:47:54.000+0300",
+    "updated_date": "2019-05-27T00:43:45.000+0300",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-151047",
+    "summary": "Trader llamas immediately disappear when spawned with a spawn egg",
+    "labels": [
+      "spawn_egg",
+      "trader_llama"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-07T18:52:37.000+0300",
+    "resolution_date": "2019-05-16T11:47:55.000+0300",
+    "updated_date": "2019-06-04T16:25:50.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-150969",
+    "summary": "The Wither is attacking undead mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-06T13:57:50.000+0300",
+    "resolution_date": "2019-05-16T11:47:57.000+0300",
+    "updated_date": "2019-05-16T11:47:57.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-150414",
+    "summary": "Constructing and placing a beacon doesn't give the advancement",
+    "labels": [
+      "advancement",
+      "beacon"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-30T23:54:53.000+0300",
+    "resolution_date": "2019-05-16T11:47:57.000+0300",
+    "updated_date": "2020-04-26T05:19:57.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-150170",
+    "summary": "Animals, Villagers, Item Frames, Armor Stands, etc are disappearing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-28T16:38:07.000+0300",
+    "resolution_date": "2019-05-16T12:11:23.000+0300",
+    "updated_date": "2021-09-19T20:14:13.000+0300",
+    "watches": 54,
+    "votes": 85
+  },
+  {
+    "id": "MC-149993",
+    "summary": "Cut Sandstone Slabs aren't part of the slabs block tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-27T16:31:35.000+0300",
+    "resolution_date": "2019-05-16T11:47:58.000+0300",
+    "updated_date": "2019-05-16T11:47:58.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-149865",
+    "summary": "Raiders get stuck in unloaded chunks if the render distance is too low",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-26T23:33:06.000+0300",
+    "resolution_date": "2019-05-21T19:17:54.000+0300",
+    "updated_date": "2019-05-21T19:17:54.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-149511",
+    "summary": "No sounds for villagers planting crops",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-24T23:59:21.000+0300",
+    "resolution_date": "2019-05-16T11:47:52.000+0300",
+    "updated_date": "2019-05-16T11:47:52.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-149225",
+    "summary": "The game crashes immediately after selecting and starting a world on Mac OS Mojave, caused by libobjc.A.dylib",
+    "labels": [
+      "NativeLibrary",
+      "crash",
+      "macOS"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-23T22:53:05.000+0300",
+    "resolution_date": "2019-05-16T18:21:04.000+0300",
+    "updated_date": "2020-04-17T21:42:00.000+0300",
+    "watches": 28,
+    "votes": 26
+  },
+  {
+    "id": "MC-148847",
+    "summary": "Guardian zapping noise is looped when played",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-20T04:53:29.000+0300",
+    "resolution_date": "2019-05-16T12:15:19.000+0300",
+    "updated_date": "2019-05-27T01:38:03.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-148805",
+    "summary": "Breaking an empty shulker box in Creative mode causes it to drop itself",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-19T22:39:24.000+0300",
+    "resolution_date": "2019-05-16T11:47:59.000+0300",
+    "updated_date": "2019-05-16T11:47:59.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-148677",
+    "summary": "Mobs do not spawn on soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-18T19:42:49.000+0300",
+    "resolution_date": "2019-05-16T12:15:19.000+0300",
+    "updated_date": "2020-07-07T20:37:44.000+0300",
+    "watches": 11,
+    "votes": 30
+  },
+  {
+    "id": "MC-148626",
+    "summary": "Shulker boxes lose their names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-18T12:40:14.000+0300",
+    "resolution_date": "2019-05-16T11:47:59.000+0300",
+    "updated_date": "2019-05-25T20:03:05.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-148073",
+    "summary": "Beacon beam doesn't have the correct color if the colored glass isn't directly on top of the beacon",
+    "labels": [
+      "beacon",
+      "stained-glass"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-13T13:09:48.000+0300",
+    "resolution_date": "2019-05-16T12:08:10.000+0300",
+    "updated_date": "2019-05-16T12:08:10.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-148064",
+    "summary": "\"Ghost\" End Crystals stay behind after destruction on ender dragon respawns.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-13T11:43:29.000+0300",
+    "resolution_date": "2019-05-16T11:48:00.000+0300",
+    "updated_date": "2019-05-17T21:52:57.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-147431",
+    "summary": "Max item stack amount can be skipped using new villager trades menu",
+    "labels": [
+      "item-stack",
+      "trade-gui",
+      "villager-trade"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Trading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-04T19:54:27.000+0300",
+    "resolution_date": "2019-05-16T12:15:18.000+0300",
+    "updated_date": "2019-05-17T22:09:52.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-140174",
+    "summary": "No item pickup sound when a villager picks up an item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2018-11-26T21:35:08.000+0200",
+    "resolution_date": "2019-05-16T11:47:52.000+0300",
+    "updated_date": "2021-03-21T20:19:34.000+0200",
+    "watches": 9,
+    "votes": 49
+  },
+  {
+    "id": "MC-90423",
+    "summary": "Ender Dragon makes breath attack at highest block placed in the center column of the portal",
+    "labels": [
+      "crash",
+      "ender_dragon",
+      "return-end-portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2015-10-11T22:11:42.000+0300",
+    "resolution_date": "2019-05-16T12:08:07.000+0300",
+    "updated_date": "2020-12-16T17:01:16.000+0200",
+    "watches": 14,
+    "votes": 25
+  },
+  {
+    "id": "MC-88301",
+    "summary": "Ender Dragon Breath freezes server when under or above the world",
+    "labels": [
+      "ender-dragon-fight",
+      "ender_dragon"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.11.1",
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2015-09-09T01:11:25.000+0300",
+    "resolution_date": "2019-05-18T00:28:02.000+0300",
+    "updated_date": "2019-05-18T00:28:03.000+0300",
+    "watches": 11,
+    "votes": 12
+  },
+  {
+    "id": "MC-16883",
+    "summary": "Villagers play the trade sound multiple times overlapping on shift-click",
+    "labels": [
+      "shift-click",
+      "sound",
+      "trade",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1"
+    ],
+    "creation_date": "2013-05-30T23:22:46.000+0300",
+    "resolution_date": "2019-05-16T11:47:54.000+0300",
+    "updated_date": "2019-05-18T02:02:09.000+0300",
+    "watches": 14,
+    "votes": 25
+  }
+]

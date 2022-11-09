@@ -1,0 +1,318 @@
+[
+  {
+    "id": "MC-187408",
+    "summary": "Game crashing with Nether portals - java.lang.NullPointerException: Ticking player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-06-05T00:26:11.000+0300",
+    "resolution_date": "2020-06-05T09:53:10.000+0300",
+    "updated_date": "2020-06-09T02:13:37.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-187406",
+    "summary": "Game crashes when joining in disabled dimension",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-06-05T00:23:23.000+0300",
+    "resolution_date": "2020-06-07T02:49:13.000+0300",
+    "updated_date": "2020-06-07T02:49:13.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-187364",
+    "summary": "Disabling and enabling dimension datapack disables nether and end",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-06-04T22:24:30.000+0300",
+    "resolution_date": "2020-06-05T11:30:31.000+0300",
+    "updated_date": "2020-09-02T16:38:55.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-187358",
+    "summary": "Worlds generated in 1.16-pre1 do not have their world generation settings saved correctly, causing chunk errors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-06-04T22:11:33.000+0300",
+    "resolution_date": "2020-06-05T11:41:58.000+0300",
+    "updated_date": "2020-10-28T03:12:36.000+0200",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-187353",
+    "summary": "Crash when loading some worlds: IllegalStateException: Lock is no longer valid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-06-04T22:05:13.000+0300",
+    "resolution_date": "2020-06-05T11:51:37.000+0300",
+    "updated_date": "2020-06-05T16:19:52.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-187352",
+    "summary": "Loading a world created in 1.16-pre1 always ask for confirmation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-06-04T22:02:45.000+0300",
+    "resolution_date": "2020-06-05T11:52:52.000+0300",
+    "updated_date": "2020-06-05T11:52:52.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-187350",
+    "summary": "Game randomly crashes / IllegalStateException: POI never registered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-06-04T22:02:14.000+0300",
+    "resolution_date": "2020-06-05T13:37:21.000+0300",
+    "updated_date": "2020-09-24T18:08:09.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-176011",
+    "summary": "Minecraft 20w13a server spamming chat after update",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-03-25T20:11:00.000+0200",
+    "resolution_date": "2020-06-10T10:00:14.000+0300",
+    "updated_date": "2020-06-10T10:00:14.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-172650",
+    "summary": "Ice side texture does not appear underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2020-02-18T03:00:29.000+0200",
+    "resolution_date": "2020-06-06T17:48:17.000+0300",
+    "updated_date": "2020-06-06T17:48:24.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-152001",
+    "summary": "Zombie villages never spawn with baby zombie villagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2019-05-16T15:51:36.000+0300",
+    "resolution_date": "2020-06-06T18:02:08.000+0300",
+    "updated_date": "2020-06-06T18:02:08.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-148802",
+    "summary": "Pillager don't spawn around outpost with the floating island generation ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2019-04-19T21:10:35.000+0300",
+    "resolution_date": "2020-06-07T10:14:53.000+0300",
+    "updated_date": "2020-06-07T10:14:54.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-148794",
+    "summary": "Guardians are not spawning in preset \"Floating Island\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2019-04-19T20:17:34.000+0300",
+    "resolution_date": "2020-06-07T10:07:24.000+0300",
+    "updated_date": "2020-06-07T10:08:15.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-147591",
+    "summary": "Cat type \"Jellie\" doesn't spawn in villages upon world generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2019-04-06T23:45:29.000+0300",
+    "resolution_date": "2020-06-07T10:27:10.000+0300",
+    "updated_date": "2021-06-13T05:04:17.000+0300",
+    "watches": 14,
+    "votes": 34
+  },
+  {
+    "id": "MC-141494",
+    "summary": "Opening the trading GUI while holding items causes one to consume, charge or use it",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Player",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2018-12-26T19:42:22.000+0200",
+    "resolution_date": "2020-06-10T17:27:50.000+0300",
+    "updated_date": "2021-01-21T00:34:12.000+0200",
+    "watches": 18,
+    "votes": 37
+  },
+  {
+    "id": "MC-128066",
+    "summary": "Highly transparent block edges on ice, slime block and honey block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2018-04-06T19:10:50.000+0300",
+    "resolution_date": "2020-06-07T19:02:06.000+0300",
+    "updated_date": "2020-06-07T19:02:36.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-56970",
+    "summary": "Leaves show x-ray effect on fast graphics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 2"
+    ],
+    "creation_date": "2014-06-18T18:12:39.000+0300",
+    "resolution_date": "2020-06-07T17:18:54.000+0300",
+    "updated_date": "2022-03-11T00:41:44.000+0200",
+    "watches": 12,
+    "votes": 14
+  }
+]

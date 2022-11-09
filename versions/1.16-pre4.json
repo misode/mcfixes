@@ -1,0 +1,466 @@
+[
+  {
+    "id": "MC-188528",
+    "summary": "Particles render on top of stained glass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-11T00:22:43.000+0300",
+    "resolution_date": "2020-06-11T12:24:09.000+0300",
+    "updated_date": "2020-06-11T20:32:15.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-188519",
+    "summary": "Clouds render on top of blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-10T23:33:25.000+0300",
+    "resolution_date": "2020-06-11T12:23:42.000+0300",
+    "updated_date": "2020-06-11T23:50:23.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-188517",
+    "summary": "Cannot create multiple empty tags in a datapack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-10T23:17:31.000+0300",
+    "resolution_date": "2020-06-11T17:48:20.000+0300",
+    "updated_date": "2020-06-11T17:48:20.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-188467",
+    "summary": "\"Sound Director\" in credits is too light compared to the rest of the text, and is missing an \"S\"",
+    "labels": [
+      "credits.txt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-10T20:03:14.000+0300",
+    "resolution_date": "2020-06-11T12:41:59.000+0300",
+    "updated_date": "2021-08-18T16:39:47.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-188463",
+    "summary": "Transparent dropped items render in wrong order when behind entities when graphics setting is set to fabulous",
+    "labels": [
+      "ubuntu"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 4",
+      "1.16 Pre-release 5"
+    ],
+    "creation_date": "2020-06-10T19:49:29.000+0300",
+    "resolution_date": "2020-06-14T13:46:14.000+0300",
+    "updated_date": "2020-06-14T13:46:14.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-188451",
+    "summary": "Game crashes when dispensing a shulker box from a dispenser - \"java.lang.NullPointerException: Exception while ticking\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-10T19:23:20.000+0300",
+    "resolution_date": "2020-06-11T17:48:21.000+0300",
+    "updated_date": "2020-06-17T12:31:09.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-188352",
+    "summary": "Creative mode cow milking / mushroom stewing inconsistent with picking up placed fluids",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-10T02:35:40.000+0300",
+    "resolution_date": "2020-06-11T18:04:16.000+0300",
+    "updated_date": "2020-12-27T07:22:47.000+0200",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-187550",
+    "summary": "\"/datapack enable\" shows success message after the command is run rather than after a data pack is enabled",
+    "labels": [
+      "/datapack",
+      "data-pack",
+      "datapack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-05T09:29:04.000+0300",
+    "resolution_date": "2020-06-12T11:22:17.000+0300",
+    "updated_date": "2020-06-12T11:22:17.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-187419",
+    "summary": "Hand animation is not played when feeding horses or donkeys with golden carrots",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-06-05T00:58:52.000+0300",
+    "resolution_date": "2020-06-11T18:04:17.000+0300",
+    "updated_date": "2020-06-11T18:04:17.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-186468",
+    "summary": "Although reload failed, the game will also tell you \"Disabled data pack [XXX]\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-05-30T13:10:48.000+0300",
+    "resolution_date": "2020-06-11T17:48:17.000+0300",
+    "updated_date": "2020-06-11T17:48:17.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-184644",
+    "summary": "Cave buffet generator generates with netherrack, even if using a non-nether biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-05-20T16:54:57.000+0300",
+    "resolution_date": "2020-06-11T12:32:13.000+0300",
+    "updated_date": "2020-07-03T20:01:24.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-184641",
+    "summary": "Cave world generation does generate only lava under the ceiling if using an ocean biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-05-20T16:53:08.000+0300",
+    "resolution_date": "2020-07-03T20:00:44.000+0300",
+    "updated_date": "2020-07-04T13:48:43.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-184613",
+    "summary": "End Stone generates in Floating Islands setting",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-05-20T16:25:47.000+0300",
+    "resolution_date": "2020-06-11T12:32:01.000+0300",
+    "updated_date": "2021-10-23T19:26:04.000+0300",
+    "watches": 15,
+    "votes": 18
+  },
+  {
+    "id": "MC-181576",
+    "summary": "Worlds which are already open in another instance of Minecraft can be selected with arrow keys and tab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-04-30T01:24:52.000+0300",
+    "resolution_date": "2020-06-11T17:48:17.000+0300",
+    "updated_date": "2020-06-11T17:48:17.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-181556",
+    "summary": "Baby Zombified Piglins float while riding striders ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-04-30T00:19:01.000+0300",
+    "resolution_date": "2020-06-11T18:04:16.000+0300",
+    "updated_date": "2020-07-12T21:58:19.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-181498",
+    "summary": "Using a fire charge on top of fire briefly creates another fire on top of it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-04-29T21:43:50.000+0300",
+    "resolution_date": "2020-06-11T18:04:17.000+0300",
+    "updated_date": "2020-06-11T22:31:41.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-180967",
+    "summary": "Advancement description JSON can ignore the first specified color",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-04-26T21:54:52.000+0300",
+    "resolution_date": "2020-06-11T17:48:22.000+0300",
+    "updated_date": "2020-06-11T17:48:22.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-179851",
+    "summary": "Attribute generic.movement_speed does not work in /attribute",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-04-22T18:26:52.000+0300",
+    "resolution_date": "2020-06-11T17:48:19.000+0300",
+    "updated_date": "2020-07-25T02:06:58.000+0300",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-177463",
+    "summary": "Crash report \"Connection:\" field contains unuseful value (Object.toString())",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-04-05T05:40:45.000+0300",
+    "resolution_date": "2020-06-11T17:48:17.000+0300",
+    "updated_date": "2020-06-11T17:48:17.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-175588",
+    "summary": "Zombified baby piglins don't have high pitched idle sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-03-21T15:29:15.000+0200",
+    "resolution_date": "2020-06-12T07:33:25.000+0300",
+    "updated_date": "2020-06-12T07:33:25.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-171257",
+    "summary": "Using a fire charge on invalid place attempts to make fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2020-02-07T02:44:31.000+0200",
+    "resolution_date": "2020-06-11T21:55:58.000+0300",
+    "updated_date": "2020-08-01T21:19:42.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-136085",
+    "summary": "Blocks attached to multi-block blocks are deleted when breaking the other half of the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2018-08-16T05:59:28.000+0300",
+    "resolution_date": "2020-06-11T17:48:21.000+0300",
+    "updated_date": "2020-07-12T00:39:52.000+0300",
+    "watches": 11,
+    "votes": 23
+  },
+  {
+    "id": "MC-88491",
+    "summary": "Projectiles hit the player, snowman and witch who threw them at certain angles or close to the entities",
+    "labels": [
+      "entity",
+      "hit",
+      "player",
+      "snow_golem",
+      "throwing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities",
+      "Hitboxes",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2015-09-11T18:14:01.000+0300",
+    "resolution_date": "2020-06-11T21:41:35.000+0300",
+    "updated_date": "2020-09-08T07:58:58.000+0300",
+    "watches": 54,
+    "votes": 92
+  }
+]

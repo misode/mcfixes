@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "MC-241933",
+    "summary": "Spore blossoms, cave vines, and pointed dripstones generate indented into the cave surface",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-19T05:56:12.000+0200",
+    "resolution_date": "2021-11-19T10:06:03.000+0200",
+    "updated_date": "2021-11-20T07:55:06.000+0200",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-241847",
+    "summary": "Floating stone platform doesn't generate in void superflat world preset ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-18T06:56:20.000+0200",
+    "resolution_date": "2021-11-18T16:01:07.000+0200",
+    "updated_date": "2021-11-18T16:01:07.000+0200",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-241800",
+    "summary": "Cannot change numbers for gamerules on world creation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-17T21:41:48.000+0200",
+    "resolution_date": "2021-11-19T12:58:01.000+0200",
+    "updated_date": "2021-11-20T02:53:37.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-241784",
+    "summary": "Some sliders in options menu do not work properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-17T19:48:12.000+0200",
+    "resolution_date": "2021-11-18T14:17:57.000+0200",
+    "updated_date": "2021-11-21T05:35:21.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-241747",
+    "summary": "Inconsistent Colors in grindstone gui ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-17T14:38:24.000+0200",
+    "resolution_date": "2021-11-18T16:31:57.000+0200",
+    "updated_date": "2021-11-18T16:31:57.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-241728",
+    "summary": "Converting world to 1.18 pre-release 2 generates new caves in too many places",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-17T08:26:40.000+0200",
+    "resolution_date": "2021-11-19T10:28:30.000+0200",
+    "updated_date": "2021-11-19T18:29:23.000+0200",
+    "watches": 11,
+    "votes": 29
+  },
+  {
+    "id": "MC-241672",
+    "summary": "Mobs don't panic when burning if standing on blocks placed above water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3",
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-16T20:12:45.000+0200",
+    "resolution_date": "2021-11-19T17:24:01.000+0200",
+    "updated_date": "2022-04-27T17:27:19.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-241588",
+    "summary": "Cave vines can sometimes generate hanging on water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-15T12:06:39.000+0200",
+    "resolution_date": "2021-11-18T15:17:47.000+0200",
+    "updated_date": "2021-11-18T15:17:47.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-241566",
+    "summary": "Mossy cobblestone boulders generate in a grid pattern in old-growth spruce taigas",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-15T01:06:55.000+0200",
+    "resolution_date": "2021-11-19T17:34:18.000+0200",
+    "updated_date": "2021-11-19T17:34:18.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-241539",
+    "summary": "Stone generates in the side of hoodoos",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-14T18:49:27.000+0200",
+    "resolution_date": "2021-11-18T17:08:23.000+0200",
+    "updated_date": "2021-11-26T00:46:29.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-241278",
+    "summary": "Azalea trees are no longer generating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-12T12:26:34.000+0200",
+    "resolution_date": "2021-11-18T15:17:47.000+0200",
+    "updated_date": "2021-11-21T22:00:11.000+0200",
+    "watches": 12,
+    "votes": 17
+  },
+  {
+    "id": "MC-241256",
+    "summary": "Some feature configs still expect a configured feature instead of a placed feature",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-12T05:15:28.000+0200",
+    "resolution_date": "2021-11-19T17:34:18.000+0200",
+    "updated_date": "2021-11-19T17:34:18.000+0200",
+    "watches": 7,
+    "votes": 20
+  },
+  {
+    "id": "MC-239847",
+    "summary": "Chunk blending occasionally produces sharp chunk border edges",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-27T19:57:59.000+0300",
+    "resolution_date": "2021-11-18T18:47:03.000+0200",
+    "updated_date": "2021-11-22T12:26:15.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-239489",
+    "summary": "Melons generate rarely in jungle biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-21T07:35:46.000+0300",
+    "resolution_date": "2021-11-19T17:34:20.000+0200",
+    "updated_date": "2021-11-19T17:34:20.000+0200",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-239474",
+    "summary": "Autosaving now causes extreme and gameplay-impacting lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance",
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-21T04:11:50.000+0300",
+    "resolution_date": "2021-11-22T11:37:27.000+0200",
+    "updated_date": "2021-11-22T11:37:27.000+0200",
+    "watches": 18,
+    "votes": 30
+  },
+  {
+    "id": "MC-239237",
+    "summary": "Azalea trees can be generated on icebergs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-18T01:59:32.000+0300",
+    "resolution_date": "2021-11-18T15:17:48.000+0200",
+    "updated_date": "2021-11-18T15:17:48.000+0200",
+    "watches": 7,
+    "votes": 17
+  },
+  {
+    "id": "MC-239143",
+    "summary": "Terracotta generating into caves in eroded badlands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-17T01:34:30.000+0300",
+    "resolution_date": "2021-11-26T09:21:27.000+0200",
+    "updated_date": "2021-11-26T09:21:28.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-239128",
+    "summary": "Sweet berry bushes generate extremely rare in comparison with 1.17.1",
+    "labels": [
+      "giant-spruce",
+      "sweet_berry_bush",
+      "taiga"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-16T23:01:55.000+0300",
+    "resolution_date": "2021-11-19T17:34:20.000+0200",
+    "updated_date": "2021-11-19T17:34:20.000+0200",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-238892",
+    "summary": "Rooted dirt doesn't replace red sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-13T19:24:30.000+0300",
+    "resolution_date": "2021-11-18T15:17:50.000+0200",
+    "updated_date": "2021-11-18T15:17:50.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-238530",
+    "summary": "Hanging Roots can fail to generate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-08T05:14:44.000+0300",
+    "resolution_date": "2021-11-20T15:58:42.000+0200",
+    "updated_date": "2021-11-20T15:58:42.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-238529",
+    "summary": "Azalea trees can fail to generate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-08T05:10:38.000+0300",
+    "resolution_date": "2021-11-18T15:17:50.000+0200",
+    "updated_date": "2021-11-22T09:49:10.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-238360",
+    "summary": "Rooted dirt cannot replace terracotta",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-10-05T12:28:06.000+0300",
+    "resolution_date": "2021-11-18T15:17:50.000+0200",
+    "updated_date": "2022-02-10T17:01:50.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-237500",
+    "summary": "Azalea trees can generate on top of huge mushrooms, trees & bamboo",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-09-23T23:13:44.000+0300",
+    "resolution_date": "2021-11-18T15:17:48.000+0200",
+    "updated_date": "2021-11-27T13:52:18.000+0200",
+    "watches": 18,
+    "votes": 42
+  },
+  {
+    "id": "MC-236723",
+    "summary": "The Floating Islands preset does not seem to be generating correctly",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-09-16T01:06:01.000+0300",
+    "resolution_date": "2021-11-18T10:39:59.000+0200",
+    "updated_date": "2021-11-18T10:39:59.000+0200",
+    "watches": 14,
+    "votes": 16
+  },
+  {
+    "id": "MC-235567",
+    "summary": "Clusters of dripstone (stalagmites) tend to generate abnormally frequent with thickness \"tip\" on tall caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-08-30T08:40:36.000+0300",
+    "resolution_date": "2021-11-18T16:49:44.000+0200",
+    "updated_date": "2021-11-18T16:49:44.000+0200",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-234039",
+    "summary": "The back of wild axolotls are off-centered",
+    "labels": [
+      "axolotl",
+      "inconsistency",
+      "inconsistent-textures",
+      "mismatching-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-08-08T21:47:22.000+0300",
+    "resolution_date": "2021-11-18T16:12:46.000+0200",
+    "updated_date": "2021-11-18T16:12:46.000+0200",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-233883",
+    "summary": "The hide and show messages buttons in the social interactions menu display their hover text regardless of the position of the cursor",
+    "labels": [
+      "social-interactions"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-08-06T12:40:50.000+0300",
+    "resolution_date": "2021-11-19T17:23:58.000+0200",
+    "updated_date": "2021-11-19T17:23:58.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-231818",
+    "summary": "You can no longer use the up or down arrow to navigate between servers in the multiplayer menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3",
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-07-12T18:11:19.000+0300",
+    "resolution_date": "2021-11-18T19:40:37.000+0200",
+    "updated_date": "2021-11-18T19:40:37.000+0200",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-231272",
+    "summary": "Cave vines can sometimes generate hanging on cobwebs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-07-06T11:18:56.000+0300",
+    "resolution_date": "2021-11-19T17:34:19.000+0200",
+    "updated_date": "2021-11-22T17:32:53.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-231219",
+    "summary": "Cave vines can occasionally generate hanging on fences",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-07-05T20:56:31.000+0300",
+    "resolution_date": "2021-11-22T18:54:15.000+0200",
+    "updated_date": "2021-11-22T18:54:15.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-229977",
+    "summary": "Breaking blocks with pistons on the east/west direction causes significant lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-06-23T03:22:45.000+0300",
+    "resolution_date": "2021-11-18T15:50:10.000+0200",
+    "updated_date": "2021-11-18T15:50:10.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-228900",
+    "summary": "Cave vines can generate floating (Recurrence of MC-218817)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-06-13T20:29:25.000+0300",
+    "resolution_date": "2021-11-18T15:18:07.000+0200",
+    "updated_date": "2021-11-18T19:48:55.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-227258",
+    "summary": "Flowering Azalea Leaves are in both #minecraft:mineable/hoe and #minecraft:mineable/axe tags, while regular Azalea Leaves (and all other leaves) are only in #minecraft:mineable/hoe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-06-03T11:01:04.000+0300",
+    "resolution_date": "2021-11-18T15:17:49.000+0200",
+    "updated_date": "2021-11-18T15:17:49.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-226711",
+    "summary": "Carrot crop texture has an incorrect pixel",
+    "labels": [
+      "carrot",
+      "crop",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-05-29T09:35:59.000+0300",
+    "resolution_date": "2021-11-18T16:12:47.000+0200",
+    "updated_date": "2021-11-18T16:12:47.000+0200",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-225553",
+    "summary": "Oak and iron doors have a line in their textures",
+    "labels": [
+      "door",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-05-14T21:22:22.000+0300",
+    "resolution_date": "2021-11-18T16:12:56.000+0200",
+    "updated_date": "2021-11-18T16:12:56.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-222763",
+    "summary": "Armor stands use the old smooth stone slab texture",
+    "labels": [
+      "outdated-textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-04-09T13:10:11.000+0300",
+    "resolution_date": "2021-11-18T16:12:57.000+0200",
+    "updated_date": "2021-11-18T16:12:57.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-222154",
+    "summary": "Cave vines can generate hanging on pointed dripstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-04-04T07:34:20.000+0300",
+    "resolution_date": "2021-11-19T17:34:19.000+0200",
+    "updated_date": "2021-11-19T17:34:19.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-221172",
+    "summary": "Warped and Crimson Stems use different top texture from Bedrock Edition",
+    "labels": [
+      "texture",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-03-28T01:13:32.000+0200",
+    "resolution_date": "2021-11-18T16:12:43.000+0200",
+    "updated_date": "2021-11-20T16:03:14.000+0200",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-219132",
+    "summary": "Cave vines hang from amethyst buds and clusters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-03-12T00:33:06.000+0200",
+    "resolution_date": "2021-11-22T18:54:43.000+0200",
+    "updated_date": "2021-11-22T18:54:43.000+0200",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-204901",
+    "summary": "Side texture for dirt paths hasn't been updated with the texture update",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-11-10T02:31:03.000+0200",
+    "resolution_date": "2021-11-18T16:12:48.000+0200",
+    "updated_date": "2021-11-18T16:12:48.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-202910",
+    "summary": "Inconsistent highlight color on armor",
+    "labels": [
+      "armor",
+      "mismatching-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-10-27T08:27:16.000+0200",
+    "resolution_date": "2021-11-18T16:12:48.000+0200",
+    "updated_date": "2021-11-18T16:12:48.000+0200",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-200957",
+    "summary": "Melon seeds texture is not vertically centered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-09-24T20:28:47.000+0300",
+    "resolution_date": "2021-11-18T16:12:42.000+0200",
+    "updated_date": "2021-11-18T16:12:42.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-200956",
+    "summary": "Beetroot seeds texture is not vertically centered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-09-24T20:21:54.000+0300",
+    "resolution_date": "2021-11-18T16:12:42.000+0200",
+    "updated_date": "2021-11-18T16:12:42.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-200137",
+    "summary": "Lectern base plate texture still uses the old planks texture",
+    "labels": [
+      "outdated-textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-09-13T00:29:06.000+0300",
+    "resolution_date": "2021-11-18T16:12:49.000+0200",
+    "updated_date": "2021-11-18T16:12:49.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-200046",
+    "summary": "Cartography table planks texture is incorrect/slightly outdated",
+    "labels": [
+      "outdated-textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-09-11T20:30:18.000+0300",
+    "resolution_date": "2021-11-18T16:12:50.000+0200",
+    "updated_date": "2021-11-18T16:12:50.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-199662",
+    "summary": "Extra pixels in cocoa pod textures as of Texture Update",
+    "labels": [
+      "development-leftovers"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-09-05T20:56:35.000+0300",
+    "resolution_date": "2021-11-18T16:12:58.000+0200",
+    "updated_date": "2021-11-20T22:09:33.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-198007",
+    "summary": "Villages replace ice with path blocks instead of wood",
+    "labels": [
+      "village-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "Village system",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-08-14T20:12:34.000+0300",
+    "resolution_date": "2021-11-19T17:34:19.000+0200",
+    "updated_date": "2022-03-23T20:36:16.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-194950",
+    "summary": "Cactus in potted cactus is vertically squished",
+    "labels": [
+      "incorrect-pixel-sizes",
+      "incorrect-uv"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-07-14T19:45:31.000+0300",
+    "resolution_date": "2021-11-18T16:12:51.000+0200",
+    "updated_date": "2022-02-21T16:41:09.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-194822",
+    "summary": "Glass pane top texture has not changed with the Texture Update",
+    "labels": [
+      "outdated-textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-07-13T17:45:14.000+0300",
+    "resolution_date": "2021-11-18T16:12:45.000+0200",
+    "updated_date": "2021-11-18T17:40:11.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-180398",
+    "summary": "Too many sounds causes client to stall, limit can be easily reached with rabbits",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-04-24T11:52:24.000+0300",
+    "resolution_date": "2021-11-18T15:50:10.000+0200",
+    "updated_date": "2022-03-15T15:19:30.000+0200",
+    "watches": 13,
+    "votes": 27
+  },
+  {
+    "id": "MC-177664",
+    "summary": "Sound system warning messages are spamming the system log",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-04-07T08:15:20.000+0300",
+    "resolution_date": "2021-11-18T15:50:11.000+0200",
+    "updated_date": "2022-03-16T10:39:36.000+0200",
+    "watches": 22,
+    "votes": 43
+  },
+  {
+    "id": "MC-176833",
+    "summary": "Anvil GUI hammer uses an outdated iron pallet",
+    "labels": [
+      "anvil",
+      "outdated-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-03-31T06:03:53.000+0300",
+    "resolution_date": "2021-11-18T16:12:52.000+0200",
+    "updated_date": "2021-11-18T16:12:52.000+0200",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-176832",
+    "summary": "Miscolored pixel on spruce planks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-03-31T05:49:03.000+0300",
+    "resolution_date": "2022-02-24T12:53:18.000+0200",
+    "updated_date": "2022-06-23T12:58:05.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-176824",
+    "summary": "Red glass and outline of blue glass are slightly more opaque.",
+    "labels": [
+      "glass",
+      "mismatching-textures",
+      "opacity",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-03-31T04:56:53.000+0300",
+    "resolution_date": "2021-11-18T16:12:53.000+0200",
+    "updated_date": "2021-11-18T16:12:53.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-170557",
+    "summary": "Spruce door top/bottom has the incorrect texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2020-01-29T21:42:53.000+0200",
+    "resolution_date": "2021-11-18T16:12:54.000+0200",
+    "updated_date": "2021-11-18T16:12:54.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-162803",
+    "summary": "Lily Pad mirrors texture when placed",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2019-10-05T18:13:14.000+0300",
+    "resolution_date": "2021-11-18T16:12:55.000+0200",
+    "updated_date": "2022-02-21T16:10:33.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-162038",
+    "summary": "Pillagers have no hood texture",
+    "labels": [
+      "mismatching-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2019-09-28T11:14:23.000+0300",
+    "resolution_date": "2021-11-18T16:12:56.000+0200",
+    "updated_date": "2021-11-18T17:44:22.000+0200",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-150567",
+    "summary": "Dark oak log top texture bark ring not updated",
+    "labels": [
+      "outdated-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2019-05-02T14:17:00.000+0300",
+    "resolution_date": "2021-11-18T16:12:44.000+0200",
+    "updated_date": "2021-11-18T16:12:44.000+0200",
+    "watches": 9,
+    "votes": 17
+  },
+  {
+    "id": "MC-148422",
+    "summary": "Stripped dark oak log side texture is too bright",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2019-04-16T16:12:30.000+0300",
+    "resolution_date": "2021-11-18T16:12:41.000+0200",
+    "updated_date": "2021-11-22T20:27:29.000+0200",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-138118",
+    "summary": "Parrot wing texture is reversed on the bottom",
+    "labels": [
+      "parrot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2018-10-27T01:00:03.000+0300",
+    "resolution_date": "2021-11-18T16:12:45.000+0200",
+    "updated_date": "2021-11-18T17:02:28.000+0200",
+    "watches": 7,
+    "votes": 12
+  }
+]

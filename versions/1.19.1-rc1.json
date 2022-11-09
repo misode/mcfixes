@@ -1,0 +1,175 @@
+[
+  {
+    "id": "MC-253422",
+    "summary": "The selection of the \"Please report breaches of our Community Standards\" text within the \"Select Report Category\" menu is slightly confusing due to the words \"Community Standards\" being underlined by default",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-21T21:42:31.000+0300",
+    "resolution_date": "2022-06-22T18:38:47.000+0300",
+    "updated_date": "2022-06-23T13:30:55.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-253336",
+    "summary": "Using the eye of ender \"crashes\" game in the seed: -3721742095548798177",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-19T19:53:36.000+0300",
+    "resolution_date": "2022-06-22T17:00:12.000+0300",
+    "updated_date": "2022-06-22T17:00:12.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-253227",
+    "summary": "Players can only be reported using the reporting system if they're present within the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-17T15:56:51.000+0300",
+    "resolution_date": "2022-06-23T17:00:19.000+0300",
+    "updated_date": "2022-06-23T17:00:19.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-253225",
+    "summary": "Selection boxes of fields within player reporting menu lists don't contain white outlines when selected using the TAB key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-17T14:36:01.000+0300",
+    "resolution_date": "2022-06-23T16:18:30.000+0300",
+    "updated_date": "2022-06-23T16:18:30.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-253188",
+    "summary": "Selection boxes within the \"Select Chat Messages to Report\" menu differ in size ever so slightly depending on how they're selected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-16T20:53:13.000+0300",
+    "resolution_date": "2022-06-23T16:18:30.000+0300",
+    "updated_date": "2022-06-23T16:18:30.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-253114",
+    "summary": "Selection boxes within the \"Select Chat Messages to Report\" menu don't disappear when deselecting fields after reentering the menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-15T21:21:40.000+0300",
+    "resolution_date": "2022-06-23T16:18:30.000+0300",
+    "updated_date": "2022-06-23T16:18:30.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-252987",
+    "summary": "Illegal character '\\n' in text component clickEvent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-13T20:39:48.000+0300",
+    "resolution_date": "2022-06-22T16:46:22.000+0300",
+    "updated_date": "2022-06-29T16:56:23.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-252511",
+    "summary": "Bedrock not generating on the new blending border between old and new blending",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-06-07T18:38:30.000+0300",
+    "resolution_date": "2022-06-22T17:49:53.000+0300",
+    "updated_date": "2022-07-05T17:07:51.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-250020",
+    "summary": "Allay doesn't ignore items when mobGriefing is set to false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2022-04-08T08:39:03.000+0300",
+    "resolution_date": "2022-06-23T14:00:51.000+0300",
+    "updated_date": "2022-07-04T05:45:04.000+0300",
+    "watches": 3,
+    "votes": 4
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "id": "MC-237109",
+    "summary": "Aquifers often generate with harsh straight borders",
+    "labels": [
+      "aquifer",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-19T04:23:34.000+0300",
+    "resolution_date": "2021-09-22T16:34:34.000+0300",
+    "updated_date": "2021-09-24T23:13:42.000+0300",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-236967",
+    "summary": "Too many aquifers on biome surfaces at Y=63 and below",
+    "labels": [
+      "aquifer",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-17T23:42:16.000+0300",
+    "resolution_date": "2021-09-22T16:34:40.000+0300",
+    "updated_date": "2021-11-26T06:09:07.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-236873",
+    "summary": "Problems with JFR event metadata",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-17T02:56:42.000+0300",
+    "resolution_date": "2021-09-22T18:34:57.000+0300",
+    "updated_date": "2021-09-22T18:34:57.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-236795",
+    "summary": "Cannot start with alternate JVM due to JFR requirement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-16T13:56:20.000+0300",
+    "resolution_date": "2021-09-22T18:34:57.000+0300",
+    "updated_date": "2021-09-25T11:18:52.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-236753",
+    "summary": "Caves and Lakes generating too much in Desert surface",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-16T06:10:30.000+0300",
+    "resolution_date": "2021-09-23T10:13:56.000+0300",
+    "updated_date": "2021-09-23T10:13:56.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-236718",
+    "summary": "Dripstone caves generate above the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-16T00:38:25.000+0300",
+    "resolution_date": "2021-09-22T14:05:11.000+0300",
+    "updated_date": "2021-10-17T17:45:38.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-236711",
+    "summary": "Starting and stopping JFR profiling multiple times within the same minute overwrites previous JFR results saved during that minute",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T23:54:15.000+0300",
+    "resolution_date": "2021-09-22T16:58:33.000+0300",
+    "updated_date": "2021-09-22T16:58:33.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-236698",
+    "summary": "Big Spruce Trees don't generate in Groves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T23:11:28.000+0300",
+    "resolution_date": "2021-09-22T15:57:35.000+0300",
+    "updated_date": "2021-11-16T22:28:24.000+0200",
+    "watches": 9,
+    "votes": 22
+  },
+  {
+    "id": "MC-236682",
+    "summary": "Large and continuous lag spikes sometimes occur when loading/reloading into a world in 21w37a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T22:16:23.000+0300",
+    "resolution_date": "2021-09-24T19:44:20.000+0300",
+    "updated_date": "2021-09-24T19:44:20.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-236665",
+    "summary": "Memory leak in 21w37a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T21:35:18.000+0300",
+    "resolution_date": "2021-09-22T16:58:32.000+0300",
+    "updated_date": "2021-09-22T16:58:32.000+0300",
+    "watches": 15,
+    "votes": 29
+  },
+  {
+    "id": "MC-236656",
+    "summary": "Crash when changing render distance / java.lang.ArrayIndexOutOfBoundsException: Index 28084 out of bounds for length 26136",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T21:22:08.000+0300",
+    "resolution_date": "2021-09-16T16:34:43.000+0300",
+    "updated_date": "2021-09-23T16:35:33.000+0300",
+    "watches": 9,
+    "votes": 6
+  },
+  {
+    "id": "MC-236633",
+    "summary": "Random light level of 0 in sky",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T20:42:51.000+0300",
+    "resolution_date": "2021-09-16T17:29:38.000+0300",
+    "updated_date": "2021-12-12T14:51:32.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-236621",
+    "summary": "Liquids sometimes do not propagate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T20:25:37.000+0300",
+    "resolution_date": "2021-09-23T17:20:45.000+0300",
+    "updated_date": "2021-09-25T10:24:04.000+0300",
+    "watches": 16,
+    "votes": 24
+  },
+  {
+    "id": "MC-236618",
+    "summary": "Strongholds don't generate in 21w37a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T20:22:20.000+0300",
+    "resolution_date": "2021-09-16T14:54:48.000+0300",
+    "updated_date": "2021-10-23T13:10:09.000+0300",
+    "watches": 16,
+    "votes": 21
+  },
+  {
+    "id": "MC-236611",
+    "summary": "No sound for using shears on weeping, twisting, cave vines or kelp",
+    "labels": [
+      "missing-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2021-09-15T20:11:30.000+0300",
+    "resolution_date": "2021-09-22T11:14:39.000+0300",
+    "updated_date": "2021-09-30T18:37:47.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-202036",
+    "summary": "Adding a biome to a datapack shifts biome IDs in existing chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2020-10-12T17:08:32.000+0300",
+    "resolution_date": "2021-10-12T05:17:11.000+0300",
+    "updated_date": "2021-10-12T05:17:11.000+0300",
+    "watches": 17,
+    "votes": 66
+  },
+  {
+    "id": "MC-183184",
+    "summary": "Sprinting stops as soon as you touch another block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2020-05-09T03:49:54.000+0300",
+    "resolution_date": "2021-09-23T19:42:42.000+0300",
+    "updated_date": "2021-09-26T13:09:36.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-158410",
+    "summary": "Strongholds don't generate in Beach surface and Snowy beaches buffet worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2019-08-05T00:09:50.000+0300",
+    "resolution_date": "2021-10-16T01:33:49.000+0300",
+    "updated_date": "2021-10-16T01:33:49.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-136288",
+    "summary": "Strongholds don't generate in swamp biomes",
+    "labels": [
+      "stronghold",
+      "structure",
+      "swamp",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2018-08-21T18:53:49.000+0300",
+    "resolution_date": "2021-10-16T01:34:55.000+0300",
+    "updated_date": "2021-10-16T01:34:55.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-128762",
+    "summary": "Strongholds do not generate in ocean buffet worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2018-04-21T04:25:52.000+0300",
+    "resolution_date": "2021-10-16T01:34:42.000+0300",
+    "updated_date": "2021-10-16T01:34:42.000+0300",
+    "watches": 15,
+    "votes": 25
+  },
+  {
+    "id": "MC-44055",
+    "summary": "Game fails to switch the audio output from one device to another after the game has started (from title screen)",
+    "labels": [
+      "libraries",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w38a"
+    ],
+    "creation_date": "2014-01-02T04:37:23.000+0200",
+    "resolution_date": "2021-09-22T16:23:59.000+0300",
+    "updated_date": "2022-05-27T01:06:04.000+0300",
+    "watches": 38,
+    "votes": 49
+  }
+]

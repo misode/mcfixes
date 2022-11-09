@@ -1,0 +1,227 @@
+[
+  {
+    "id": "MC-248617",
+    "summary": "Loading data pack crashes client: java.lang.IllegalStateException: Trying to access unbound value",
+    "labels": [
+      "crash",
+      "custom-dimension",
+      "data-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2022-02-14T11:47:56.000+0200",
+    "resolution_date": "2022-02-18T11:46:31.000+0200",
+    "updated_date": "2022-02-18T11:46:31.000+0200",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-248523",
+    "summary": "The game crashes when attempting to open the beacon GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2022-02-09T19:44:52.000+0200",
+    "resolution_date": "2022-02-10T17:56:02.000+0200",
+    "updated_date": "2022-02-13T21:12:52.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-248095",
+    "summary": "Active repeating command blocks stop running after world conversion to 1.18",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2022-01-11T07:13:51.000+0200",
+    "resolution_date": "2022-02-11T13:52:37.000+0200",
+    "updated_date": "2022-02-11T13:52:37.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-246465",
+    "summary": "Lava can burn, damage, and destroy entities client-side and lead to de-sync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2021-12-27T10:08:29.000+0200",
+    "resolution_date": "2022-02-11T16:17:11.000+0200",
+    "updated_date": "2022-02-11T16:17:11.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-245925",
+    "summary": "Falling block visual glitch when dying with doImmediateRespawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2021-12-22T18:07:29.000+0200",
+    "resolution_date": "2022-02-14T11:57:03.000+0200",
+    "updated_date": "2022-02-14T11:57:03.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-245857",
+    "summary": "Enchanting table registers block diagonally above the bookshelves as blocking said bookshelf",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2021-12-20T23:27:48.000+0200",
+    "resolution_date": "2022-02-11T16:17:08.000+0200",
+    "updated_date": "2022-03-19T23:07:35.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-244683",
+    "summary": "Tropical Fish in lush caves spawn in bubble columns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2021-12-04T18:15:50.000+0200",
+    "resolution_date": "2022-02-11T16:17:10.000+0200",
+    "updated_date": "2022-03-07T17:56:00.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-243190",
+    "summary": "Rooted dirt can replace cave vines",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2021-11-30T19:42:10.000+0200",
+    "resolution_date": "2022-02-14T14:30:53.000+0200",
+    "updated_date": "2022-02-14T14:30:53.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-238977",
+    "summary": "Glow squids spawn in villager farms and wells in superflat worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2021-10-14T20:05:10.000+0300",
+    "resolution_date": "2022-02-11T16:17:09.000+0200",
+    "updated_date": "2022-02-23T02:46:13.000+0200",
+    "watches": 23,
+    "votes": 26
+  },
+  {
+    "id": "MC-237110",
+    "summary": "Grass blocks can generate underwater",
+    "labels": [
+      "grass-block",
+      "underwater",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2021-09-19T04:27:54.000+0300",
+    "resolution_date": "2022-02-16T16:42:55.000+0200",
+    "updated_date": "2022-07-14T16:45:38.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-53850",
+    "summary": "Invulnerable item entities and experience orbs are removed client-side when they take damage",
+    "labels": [
+      "entity",
+      "experience_orb",
+      "invulnerable",
+      "item",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w07a"
+    ],
+    "creation_date": "2014-04-27T22:14:01.000+0300",
+    "resolution_date": "2022-02-16T22:17:12.000+0200",
+    "updated_date": "2022-02-16T22:17:12.000+0200",
+    "watches": 42,
+    "votes": 85
+  }
+]

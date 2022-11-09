@@ -1,0 +1,64 @@
+[
+  {
+    "id": "MC-151227",
+    "summary": "Missing Armenian characters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-08T21:16:18.000+0300",
+    "resolution_date": "2019-05-18T00:54:58.000+0300",
+    "updated_date": "2019-05-18T00:54:58.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-148898",
+    "summary": "Hebrew letters aren't assigned to their correct textures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-20T19:40:00.000+0300",
+    "resolution_date": "2019-05-17T12:58:53.000+0300",
+    "updated_date": "2019-06-09T02:32:39.000+0300",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-148627",
+    "summary": "Swimming up to a ceiling makes the player crouch",
+    "labels": [
+      "animations",
+      "swimming",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-18T12:45:46.000+0300",
+    "resolution_date": "2019-05-17T12:57:30.000+0300",
+    "updated_date": "2019-05-22T22:14:40.000+0300",
+    "watches": 9,
+    "votes": 11
+  }
+]

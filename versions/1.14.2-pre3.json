@@ -1,0 +1,162 @@
+[
+  {
+    "id": "MC-152398",
+    "summary": "Random chunks resetting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-05-19T22:27:51.000+0300",
+    "resolution_date": "2019-05-23T18:14:34.000+0300",
+    "updated_date": "2019-05-24T00:49:44.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-152272",
+    "summary": "Server stops responding after log out error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-05-18T20:15:42.000+0300",
+    "resolution_date": "2019-05-21T09:34:10.000+0300",
+    "updated_date": "2019-05-21T09:34:10.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-152141",
+    "summary": "Vietnamese alphabet is not fully supported by Minecraft font",
+    "labels": [
+      "font",
+      "graphics",
+      "language"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-05-17T20:50:16.000+0300",
+    "resolution_date": "2019-05-22T17:09:09.000+0300",
+    "updated_date": "2020-08-12T23:02:00.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-150501",
+    "summary": "Some Hebrew letters aren't included in the Minecraft font",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-05-01T20:15:13.000+0300",
+    "resolution_date": "2019-05-22T17:08:29.000+0300",
+    "updated_date": "2019-07-03T17:35:16.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-149916",
+    "summary": "Teleporting long distances on servers causes you to clip into the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-04-27T05:06:29.000+0300",
+    "resolution_date": "2019-05-21T19:08:02.000+0300",
+    "updated_date": "2019-05-21T19:08:02.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-149111",
+    "summary": "When hovering over a world that needs to be updated, the game calls the current version a snapshot even if it is a release",
+    "labels": [
+      "tooltip"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-04-23T18:49:57.000+0300",
+    "resolution_date": "2019-05-20T17:34:36.000+0300",
+    "updated_date": "2019-05-20T17:34:36.000+0300",
+    "watches": 7,
+    "votes": 17
+  },
+  {
+    "id": "MC-148933",
+    "summary": "You cannot swim while sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-04-21T02:34:07.000+0300",
+    "resolution_date": "2019-05-21T09:24:45.000+0300",
+    "updated_date": "2019-05-21T09:24:46.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-142134",
+    "summary": "Light sources spontaneously not working in some chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14 Pre-Release 3",
+      "Minecraft 1.14.2 Pre-Release 3"
+    ],
+    "creation_date": "2019-01-12T09:50:38.000+0200",
+    "resolution_date": "2019-05-20T17:38:47.000+0300",
+    "updated_date": "2022-08-31T10:36:25.000+0300",
+    "watches": 159,
+    "votes": 354
+  }
+]

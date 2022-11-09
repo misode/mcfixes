@@ -1,0 +1,193 @@
+[
+  {
+    "id": "MC-165521",
+    "summary": "Thrown items are rotated incorrectly when using the third person camera from the front",
+    "labels": [
+      "rotation",
+      "third-person",
+      "throwing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46b"
+    ],
+    "creation_date": "2019-11-13T18:42:31.000+0200",
+    "resolution_date": "2019-11-16T20:13:57.000+0200",
+    "updated_date": "2019-11-17T15:47:17.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-163404",
+    "summary": "Inner parts of slime blocks and honey blocks disappear while the block is moved by a piston",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46b"
+    ],
+    "creation_date": "2019-10-11T14:57:00.000+0300",
+    "resolution_date": "2019-11-15T01:23:31.000+0200",
+    "updated_date": "2020-05-30T13:43:09.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-161874",
+    "summary": "Scoreboard sidebar text is partially transparent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46b"
+    ],
+    "creation_date": "2019-09-27T19:58:02.000+0300",
+    "resolution_date": "2019-11-14T13:51:11.000+0200",
+    "updated_date": "2019-11-14T13:51:12.000+0200",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-119078",
+    "summary": "Glowing is not working for some entities",
+    "labels": [
+      "entities",
+      "experience_orb",
+      "fishing_bobber",
+      "glowing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46b"
+    ],
+    "creation_date": "2017-06-29T12:32:46.000+0300",
+    "resolution_date": "2019-11-17T12:50:20.000+0200",
+    "updated_date": "2019-11-17T12:50:20.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-114576",
+    "summary": "Blocks with flat textures held by player in third person view, villager / iron golem or enderman have z-fighting",
+    "labels": [
+      "block",
+      "culling",
+      "enderman",
+      "held-item",
+      "iron_golem",
+      "player",
+      "rendering",
+      "sprite",
+      "texture",
+      "third-person",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46b"
+    ],
+    "creation_date": "2017-03-15T15:58:10.000+0200",
+    "resolution_date": "2019-11-17T23:31:56.000+0200",
+    "updated_date": "2020-08-26T18:22:11.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-112995",
+    "summary": "Cannot use items while looking at armor stand",
+    "labels": [
+      "armor_stand",
+      "interact"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46b"
+    ],
+    "creation_date": "2017-01-30T00:57:06.000+0200",
+    "resolution_date": "2019-11-17T14:05:12.000+0200",
+    "updated_date": "2022-07-04T06:18:56.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-86619",
+    "summary": "Hand moves up and down when switching between empty slots",
+    "labels": [
+      "animation",
+      "empty-hand",
+      "hand",
+      "hotbar"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 15w34b",
+      "19w46b"
+    ],
+    "creation_date": "2015-08-19T16:24:20.000+0300",
+    "resolution_date": "2019-11-15T02:20:10.000+0200",
+    "updated_date": "2019-11-16T20:24:30.000+0200",
+    "watches": 8,
+    "votes": 23
+  },
+  {
+    "id": "MC-38779",
+    "summary": "Thin black stripes over mooshrooms / iron golems / enderman / falling block with mipmapping",
+    "labels": [
+      "block",
+      "enderman",
+      "falling_block",
+      "iron_golem",
+      "mipmapping",
+      "mooshroom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46b"
+    ],
+    "creation_date": "2013-11-02T17:55:40.000+0200",
+    "resolution_date": "2019-11-17T23:32:15.000+0200",
+    "updated_date": "2019-11-17T23:32:15.000+0200",
+    "watches": 12,
+    "votes": 18
+  }
+]

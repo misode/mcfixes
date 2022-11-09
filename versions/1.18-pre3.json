@@ -1,0 +1,413 @@
+[
+  {
+    "id": "MC-241672",
+    "summary": "Mobs don't panic when burning if standing on blocks placed above water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3",
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-11-16T20:12:45.000+0200",
+    "resolution_date": "2021-11-19T17:24:01.000+0200",
+    "updated_date": "2022-04-27T17:27:19.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-241352",
+    "summary": "Directory structure is not consistent between server and client",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-11-13T02:00:34.000+0200",
+    "resolution_date": "2021-11-17T17:06:27.000+0200",
+    "updated_date": "2021-11-17T17:06:27.000+0200",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-241255",
+    "summary": "Gigantic Performance Drop after a couple of minutes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-11-12T04:44:31.000+0200",
+    "resolution_date": "2021-11-17T10:38:56.000+0200",
+    "updated_date": "2021-11-17T10:38:56.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-241245",
+    "summary": "Generated Deepslate overwrites ore veins (mainly Iron ore veins)",
+    "labels": [
+      "deepslate",
+      "generation",
+      "iron",
+      "ore",
+      "tuff",
+      "vein"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-11-12T03:11:04.000+0200",
+    "resolution_date": "2021-11-17T16:27:28.000+0200",
+    "updated_date": "2021-11-17T16:27:28.000+0200",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-240589",
+    "summary": "Game froze for several minutes and then crashed while flying around and loading chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-11-04T11:35:56.000+0200",
+    "resolution_date": "2021-11-17T10:39:23.000+0200",
+    "updated_date": "2021-11-17T10:39:23.000+0200",
+    "watches": 12,
+    "votes": 18
+  },
+  {
+    "id": "MC-240483",
+    "summary": "Foxes that spawn in grove biomes aren't the snowy variant",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-11-03T20:07:58.000+0200",
+    "resolution_date": "2021-11-17T14:58:53.000+0200",
+    "updated_date": "2021-11-19T07:09:29.000+0200",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-240229",
+    "summary": "Rain and snow fall on the same blocks in a certain height range",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-10-31T21:33:47.000+0200",
+    "resolution_date": "2021-11-17T14:58:53.000+0200",
+    "updated_date": "2021-11-19T01:34:05.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-239950",
+    "summary": "Feature placement doesn't check for biomes, causing unnecessary lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-10-28T19:32:25.000+0300",
+    "resolution_date": "2021-11-17T15:22:22.000+0200",
+    "updated_date": "2021-11-17T15:22:22.000+0200",
+    "watches": 46,
+    "votes": 153
+  },
+  {
+    "id": "MC-239682",
+    "summary": "Out of memory crash: World generation exhausts Java heap space",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-10-24T05:27:12.000+0300",
+    "resolution_date": "2021-11-17T10:37:43.000+0200",
+    "updated_date": "2021-12-01T23:44:05.000+0200",
+    "watches": 12,
+    "votes": 13
+  },
+  {
+    "id": "MC-239610",
+    "summary": "Severe world corruption due to 1.18 snapshots failing to deserialize chunks that 1.17 loads fine",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-10-22T22:39:59.000+0300",
+    "resolution_date": "2021-11-17T14:16:23.000+0200",
+    "updated_date": "2021-11-18T19:46:49.000+0200",
+    "watches": 30,
+    "votes": 102
+  },
+  {
+    "id": "MC-239397",
+    "summary": "Lava pockets generate in icebergs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w43a",
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-10-20T18:29:05.000+0300",
+    "resolution_date": "2021-11-17T15:43:56.000+0200",
+    "updated_date": "2022-01-20T06:26:36.000+0200",
+    "watches": 15,
+    "votes": 23
+  },
+  {
+    "id": "MC-236764",
+    "summary": "Lighting lags behind world generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-09-16T07:40:10.000+0300",
+    "resolution_date": "2021-11-17T11:50:37.000+0200",
+    "updated_date": "2021-11-17T21:44:05.000+0200",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-236740",
+    "summary": "Server-side lag spike sometimes occurs when attempting to locate a buried treasure or opening/breaking a chest containing a map",
+    "labels": [
+      "buried-treasure-map",
+      "lag-spike",
+      "shipwreck"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-09-16T03:27:12.000+0300",
+    "resolution_date": "2021-11-17T17:22:39.000+0200",
+    "updated_date": "2022-03-17T11:56:02.000+0200",
+    "watches": 13,
+    "votes": 13
+  },
+  {
+    "id": "MC-231818",
+    "summary": "You can no longer use the up or down arrow to navigate between servers in the multiplayer menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3",
+      "1.18 Pre-release 5"
+    ],
+    "creation_date": "2021-07-12T18:11:19.000+0300",
+    "resolution_date": "2021-11-18T19:40:37.000+0200",
+    "updated_date": "2021-11-18T19:40:37.000+0200",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-223840",
+    "summary": "Lava blocks from \"Lava Aquifers\" don't get updated when a cave cuts through underneath them",
+    "labels": [
+      "block-update",
+      "lava-aquifer",
+      "liquid",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2021-04-21T22:36:50.000+0300",
+    "resolution_date": "2021-11-17T11:00:02.000+0200",
+    "updated_date": "2021-11-17T19:28:30.000+0200",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-196423",
+    "summary": "Rain hitting blocks at the bottom of the world does not produce rain sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2020-07-29T18:11:15.000+0300",
+    "resolution_date": "2022-03-19T14:55:06.000+0200",
+    "updated_date": "2022-03-19T14:55:06.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-190763",
+    "summary": "Rain particles don't appear on blocks placed at y=-64",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2020-06-21T00:29:31.000+0300",
+    "resolution_date": "2022-03-19T14:53:22.000+0200",
+    "updated_date": "2022-03-19T14:53:22.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-185263",
+    "summary": "Non full chunks in cache memory \"semi-leak\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2020-05-23T09:02:49.000+0300",
+    "resolution_date": "2021-11-17T10:37:38.000+0200",
+    "updated_date": "2021-11-17T11:00:08.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-132285",
+    "summary": "Isolated water block floating in mid-air",
+    "labels": [
+      "water",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2018-06-28T23:27:37.000+0300",
+    "resolution_date": "2021-11-17T22:07:26.000+0200",
+    "updated_date": "2021-11-17T22:07:26.000+0200",
+    "watches": 16,
+    "votes": 18
+  },
+  {
+    "id": "MC-109260",
+    "summary": "Full-width punctuation characters are rendered incorrectly",
+    "labels": [
+      "chinese",
+      "font",
+      "punctuation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 3"
+    ],
+    "creation_date": "2016-10-27T14:53:57.000+0300",
+    "resolution_date": "2021-11-17T15:54:41.000+0200",
+    "updated_date": "2021-11-18T01:49:36.000+0200",
+    "watches": 11,
+    "votes": 12
+  }
+]

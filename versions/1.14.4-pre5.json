@@ -1,0 +1,81 @@
+[
+  {
+    "id": "MC-156349",
+    "summary": "Cannot press Enter on Direct Connect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 5"
+    ],
+    "creation_date": "2019-07-09T11:11:58.000+0300",
+    "resolution_date": "2019-07-11T11:21:25.000+0300",
+    "updated_date": "2021-08-18T16:39:44.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-156042",
+    "summary": "Villager demand never goes down over time unless traded with",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 5"
+    ],
+    "creation_date": "2019-07-05T11:06:34.000+0300",
+    "resolution_date": "2019-07-11T13:26:10.000+0300",
+    "updated_date": "2019-07-11T13:26:10.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-151282",
+    "summary": "Villager trade GUI doesn't show the correct price on servers if trade demand is high",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 5"
+    ],
+    "creation_date": "2019-05-09T08:57:59.000+0300",
+    "resolution_date": "2019-07-11T13:26:08.000+0300",
+    "updated_date": "2020-07-12T01:38:25.000+0300",
+    "watches": 13,
+    "votes": 12
+  },
+  {
+    "id": "MC-149880",
+    "summary": "Villager trades wrong book",
+    "labels": [
+      "villager-trade"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 5"
+    ],
+    "creation_date": "2019-04-27T00:47:32.000+0300",
+    "resolution_date": "2019-07-11T13:26:09.000+0300",
+    "updated_date": "2021-12-01T18:35:42.000+0200",
+    "watches": 5,
+    "votes": 7
+  }
+]

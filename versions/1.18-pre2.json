@@ -1,0 +1,864 @@
+[
+  {
+    "id": "MC-241413",
+    "summary": "Floating water generates around ravines",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-13T15:51:42.000+0200",
+    "resolution_date": "2021-11-16T15:21:59.000+0200",
+    "updated_date": "2021-11-16T15:23:51.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-241234",
+    "summary": "Fossils get cut off at chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-12T01:10:34.000+0200",
+    "resolution_date": "2021-11-16T12:20:40.000+0200",
+    "updated_date": "2021-11-16T12:33:07.000+0200",
+    "watches": 10,
+    "votes": 23
+  },
+  {
+    "id": "MC-241231",
+    "summary": "Floating campfire in a village",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-12T00:56:28.000+0200",
+    "resolution_date": "2021-11-17T10:43:08.000+0200",
+    "updated_date": "2021-11-17T10:43:08.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-241208",
+    "summary": "Powered buttons, pressure plates, and tripwire hooks remain powered forever after upgrading old worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-11T22:21:53.000+0200",
+    "resolution_date": "2021-11-16T16:52:57.000+0200",
+    "updated_date": "2021-11-16T16:52:57.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-241204",
+    "summary": "Specific Chunks Reset Each Time World is Loaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-11T22:13:59.000+0200",
+    "resolution_date": "2021-11-17T11:58:09.000+0200",
+    "updated_date": "2021-11-19T08:01:47.000+0200",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-241199",
+    "summary": "Double chests have incorrect block states after upgrading old worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-11T21:35:41.000+0200",
+    "resolution_date": "2021-11-16T12:39:13.000+0200",
+    "updated_date": "2021-11-16T12:39:13.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-241194",
+    "summary": "Crash: java.lang.NullPointerException: Cannot invoke \"ddm.a(cao, cps, java.util.Random, gh)\" because the return value of \"java.util.function.Supplier.get()\" is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-11T21:17:03.000+0200",
+    "resolution_date": "2021-11-15T18:49:53.000+0200",
+    "updated_date": "2021-11-19T08:32:56.000+0200",
+    "watches": 26,
+    "votes": 31
+  },
+  {
+    "id": "MC-241191",
+    "summary": "Tripwires occasionally have incorrect block states after upgrading old worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-11T21:06:35.000+0200",
+    "resolution_date": "2021-11-16T20:10:03.000+0200",
+    "updated_date": "2021-11-16T20:10:03.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-241111",
+    "summary": "Some Mojang employees are not mentioned in the credits",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-10T20:35:58.000+0200",
+    "resolution_date": "2021-11-16T11:13:29.000+0200",
+    "updated_date": "2022-03-23T16:20:22.000+0200",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-240783",
+    "summary": "Powder snow does not reduce or negate fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-06T12:58:23.000+0200",
+    "resolution_date": "2021-11-16T18:16:15.000+0200",
+    "updated_date": "2021-11-16T18:16:15.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-240610",
+    "summary": "\"Allow Server Listings\" option doesn't save its last setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-04T15:01:25.000+0200",
+    "resolution_date": "2021-11-16T12:20:39.000+0200",
+    "updated_date": "2021-11-19T09:53:32.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-240570",
+    "summary": "Biomes in old chunks are not copied to new caves below Y=0 when chunks are extended",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-04T06:29:02.000+0200",
+    "resolution_date": "2021-11-16T17:24:12.000+0200",
+    "updated_date": "2021-11-16T17:24:12.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-240507",
+    "summary": "Mob Spawning in structures fails in pre-1.18 generated monuments/swamp huts/outposts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-03T21:51:04.000+0200",
+    "resolution_date": "2021-11-12T17:24:24.000+0200",
+    "updated_date": "2021-12-10T17:03:52.000+0200",
+    "watches": 20,
+    "votes": 26
+  },
+  {
+    "id": "MC-240494",
+    "summary": "Duplicated mineshafts with new cave generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-11-03T20:44:21.000+0200",
+    "resolution_date": "2021-11-12T17:24:24.000+0200",
+    "updated_date": "2021-11-22T11:37:03.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-240030",
+    "summary": "Holes in worlds created in Alpha and Infdev below y=0 after conversion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-29T18:00:07.000+0300",
+    "resolution_date": "2021-11-12T09:43:49.000+0200",
+    "updated_date": "2021-11-20T20:32:20.000+0200",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-239994",
+    "summary": "Old worlds with non-bedrock blocks at 0,0,0 do not upgrade chunk column from 0,0,0 to 0,-64,0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-29T11:04:33.000+0300",
+    "resolution_date": "2021-11-17T03:17:47.000+0200",
+    "updated_date": "2021-11-19T18:23:39.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-239899",
+    "summary": "Connected redstone does not properly upgrade from older versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-28T03:27:30.000+0300",
+    "resolution_date": "2021-11-12T10:33:30.000+0200",
+    "updated_date": "2021-11-14T17:23:03.000+0200",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-239884",
+    "summary": "Water from old chunks don't properly propagate into new chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-27T23:25:06.000+0300",
+    "resolution_date": "2021-11-16T17:53:50.000+0200",
+    "updated_date": "2021-11-16T17:53:50.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-239857",
+    "summary": "Fences, iron bars, and glass panes often use an incorrect block state after conversion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-27T20:37:36.000+0300",
+    "resolution_date": "2021-11-12T10:33:30.000+0200",
+    "updated_date": "2022-07-30T16:33:23.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-239856",
+    "summary": "Upgrading old worlds causes vines to have the wrong block state",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-27T20:37:32.000+0300",
+    "resolution_date": "2021-11-12T10:33:30.000+0200",
+    "updated_date": "2021-11-14T17:22:58.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-239423",
+    "summary": "Kumi Tanioka isn't under \"Music composed by\" in the credits",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-20T19:51:26.000+0300",
+    "resolution_date": "2021-11-16T11:13:30.000+0200",
+    "updated_date": "2021-11-16T11:13:30.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-238587",
+    "summary": "Sprinting while flying into a block causes the screen to rapidly zoom in and out ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Camera"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-08T19:24:52.000+0300",
+    "resolution_date": "2021-11-16T17:34:51.000+0200",
+    "updated_date": "2021-11-16T17:34:51.000+0200",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-238375",
+    "summary": "Crash and/or data corruption upon attempting to save a world with a world border center over 30 million blocks",
+    "labels": [
+      "crash",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-05T18:22:52.000+0300",
+    "resolution_date": "2021-11-16T12:20:41.000+0200",
+    "updated_date": "2021-11-21T21:59:36.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-238076",
+    "summary": "UpgradeData in chunk is not migrated to new world height",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-10-01T07:04:25.000+0300",
+    "resolution_date": "2021-11-12T12:30:51.000+0200",
+    "updated_date": "2021-11-12T12:30:51.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-238049",
+    "summary": "Passive mobs (cows, pigs, sheep, chickens) sometimes do not spawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-09-30T23:27:40.000+0300",
+    "resolution_date": "2021-11-15T12:05:53.000+0200",
+    "updated_date": "2021-12-07T22:59:18.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-237608",
+    "summary": "Server address shown when connection fails during server startup",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-09-25T00:03:24.000+0300",
+    "resolution_date": "2021-11-16T12:20:41.000+0200",
+    "updated_date": "2021-11-16T12:20:41.000+0200",
+    "watches": 8,
+    "votes": 22
+  },
+  {
+    "id": "MC-237275",
+    "summary": "Game crashed when creating a single biome world with a custom biome / java.lang.NullPointerException: Cannot invoke \"bze.a()\" because the return value of \"bzg.a(int, int, int)\" is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-09-20T22:55:16.000+0300",
+    "resolution_date": "2021-11-17T15:48:38.000+0200",
+    "updated_date": "2021-12-11T00:11:26.000+0200",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-236858",
+    "summary": "Seeds that spawn you in the middle of the ocean cause lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-09-16T23:58:51.000+0300",
+    "resolution_date": "2021-11-12T18:14:24.000+0200",
+    "updated_date": "2021-11-12T18:14:24.000+0200",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-236756",
+    "summary": "Biome-exclusive mob spawn rates are reduced",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-09-16T06:33:43.000+0300",
+    "resolution_date": "2021-11-16T17:33:00.000+0200",
+    "updated_date": "2021-11-19T23:20:43.000+0200",
+    "watches": 15,
+    "votes": 23
+  },
+  {
+    "id": "MC-231782",
+    "summary": "Missing \"(\" in Frank Criscione credit",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-07-12T10:05:50.000+0300",
+    "resolution_date": "2021-11-16T11:13:29.000+0200",
+    "updated_date": "2021-11-16T11:13:29.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-227329",
+    "summary": "The usage and punctuation of \"Inc\" is still inconsistent in the credits",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-06-03T23:37:13.000+0300",
+    "resolution_date": "2021-11-16T11:13:29.000+0200",
+    "updated_date": "2021-11-16T11:13:29.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-227239",
+    "summary": "In the credits, Elizabeth Batson's company name is improperly capitalized",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-06-03T06:18:51.000+0300",
+    "resolution_date": "2021-11-16T11:13:30.000+0200",
+    "updated_date": "2021-11-16T11:13:30.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-227231",
+    "summary": "Steven Silvester's name is misspelt in the credits",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-06-03T04:03:43.000+0300",
+    "resolution_date": "2021-11-16T11:13:30.000+0200",
+    "updated_date": "2021-11-16T16:00:27.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-227206",
+    "summary": "Random names in the new credits use curly quotes/apostrophes",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-06-02T23:47:59.000+0300",
+    "resolution_date": "2021-11-16T11:19:31.000+0200",
+    "updated_date": "2021-11-16T11:19:31.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-227204",
+    "summary": "\"Explore, dream, discover\" quote no longer appears after new credits",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-06-02T23:37:10.000+0300",
+    "resolution_date": "2021-11-16T11:13:28.000+0200",
+    "updated_date": "2021-11-16T11:13:28.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-227163",
+    "summary": "Credits say ''IT Manager'' instead of ''IT Managers''",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-06-02T19:14:58.000+0300",
+    "resolution_date": "2021-11-16T11:13:29.000+0200",
+    "updated_date": "2021-11-16T11:13:29.000+0200",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-226689",
+    "summary": "Albert Pastore's name is grey and improperly indented in the credits",
+    "labels": [
+      "credits"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-05-29T02:24:12.000+0300",
+    "resolution_date": "2021-11-16T11:13:30.000+0200",
+    "updated_date": "2022-07-09T15:46:11.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-223917",
+    "summary": "Goats on fire do not attempt to pathfind towards water",
+    "labels": [
+      "goat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-04-22T17:43:05.000+0300",
+    "resolution_date": "2021-11-15T14:33:23.000+0200",
+    "updated_date": "2021-11-15T14:33:23.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-220061",
+    "summary": "Painting back texture is mirrored",
+    "labels": [
+      "incorrect-uv"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-03-18T20:42:52.000+0200",
+    "resolution_date": "2021-11-12T11:44:23.000+0200",
+    "updated_date": "2021-11-18T14:57:00.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-217056",
+    "summary": "Some high-speed particles lag/freeze the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Particles",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-02-25T23:43:03.000+0200",
+    "resolution_date": "2021-11-16T18:12:37.000+0200",
+    "updated_date": "2021-11-16T18:12:37.000+0200",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-217038",
+    "summary": "Large dripstone structures can be generated outside the caves",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a",
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-02-25T22:30:48.000+0200",
+    "resolution_date": "2021-11-15T16:26:06.000+0200",
+    "updated_date": "2021-11-15T16:26:06.000+0200",
+    "watches": 15,
+    "votes": 23
+  },
+  {
+    "id": "MC-206303",
+    "summary": "Minecarts have old textures on the bottom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2020-11-22T01:32:33.000+0200",
+    "resolution_date": "2021-11-12T11:44:23.000+0200",
+    "updated_date": "2021-11-17T13:43:12.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-32813",
+    "summary": "Floating water / lava above caves / cave carver doesn't update water",
+    "labels": [
+      "cave",
+      "mineshaft",
+      "ravine",
+      "water",
+      "water-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2013-09-27T05:46:12.000+0300",
+    "resolution_date": "2021-11-16T15:21:59.000+0200",
+    "updated_date": "2021-11-18T18:20:18.000+0200",
+    "watches": 31,
+    "votes": 49
+  }
+]

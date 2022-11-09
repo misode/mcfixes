@@ -1,0 +1,429 @@
+[
+  {
+    "id": "MC-194464",
+    "summary": "\"large_oak_foliage_placer\" incorrectly serializes to \"blob_foliage_placer\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-10T13:14:48.000+0300",
+    "resolution_date": "2020-07-15T15:06:34.000+0300",
+    "updated_date": "2020-07-15T15:06:34.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-194300",
+    "summary": "Structure data of pillager outposts, villages, and bastion remnants get lost when updating a world to 20w28a",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-09T11:50:57.000+0300",
+    "resolution_date": "2020-07-16T16:06:17.000+0300",
+    "updated_date": "2020-07-18T23:30:29.000+0300",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-194298",
+    "summary": "Bone meal can't create flowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-09T11:38:29.000+0300",
+    "resolution_date": "2020-07-14T18:33:21.000+0300",
+    "updated_date": "2020-07-16T22:39:30.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-194257",
+    "summary": "Several instances of \"snowy\" being spelled as \"snovy\" in the vanilla_worldgen configuration",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-09T05:02:07.000+0300",
+    "resolution_date": "2020-07-14T13:42:18.000+0300",
+    "updated_date": "2020-07-14T13:42:18.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-194220",
+    "summary": "Totems of Undying give you Fire Resistance II instead of the maximum Fire Resistance I",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-08T23:03:53.000+0300",
+    "resolution_date": "2020-07-14T14:08:02.000+0300",
+    "updated_date": "2021-08-28T01:32:18.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-194200",
+    "summary": "Birch trees are not generated correctly in the Birch Forest and Birch Forest Hills biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-08T21:43:12.000+0300",
+    "resolution_date": "2020-07-14T08:39:36.000+0300",
+    "updated_date": "2020-07-14T16:49:35.000+0300",
+    "watches": 20,
+    "votes": 38
+  },
+  {
+    "id": "MC-194173",
+    "summary": "Hitboxes are rendered offset while picking up items or experience on graphics settings Fast and Fancy",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-08T19:43:07.000+0300",
+    "resolution_date": "2020-07-15T10:00:05.000+0300",
+    "updated_date": "2020-08-18T20:50:22.000+0300",
+    "watches": 13,
+    "votes": 26
+  },
+  {
+    "id": "MC-193662",
+    "summary": "Player flying in creative slightly above blocks while sneaking and jumping are restrained to that block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-05T07:11:10.000+0300",
+    "resolution_date": "2020-07-14T10:40:22.000+0300",
+    "updated_date": "2021-02-08T14:54:13.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-193560",
+    "summary": "Enchantment glint doesn't render on elytra in specific circumstances",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-07-04T13:43:24.000+0300",
+    "resolution_date": "2020-07-15T09:59:51.000+0300",
+    "updated_date": "2020-07-15T09:59:51.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-192021",
+    "summary": "Enchantment Glint effect on transparent blocks not properly rendered on Fabulous graphic",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-06-26T06:44:34.000+0300",
+    "resolution_date": "2020-07-15T09:59:50.000+0300",
+    "updated_date": "2020-07-15T09:59:50.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-191623",
+    "summary": "Ender dragon battle music does not stop after ender dragon has been defeated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-06-24T20:53:14.000+0300",
+    "resolution_date": "2020-07-15T09:59:51.000+0300",
+    "updated_date": "2020-07-15T09:59:51.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-191031",
+    "summary": "Players in spectator mode can interact with boats",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-06-22T22:19:45.000+0300",
+    "resolution_date": "2020-07-14T15:37:16.000+0300",
+    "updated_date": "2020-07-14T15:37:16.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-190875",
+    "summary": "Creating a custom superflat world with a structure that cannot generate in a given biome, then running /locate on that structure, softlocks the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-06-21T22:27:27.000+0300",
+    "resolution_date": "2020-08-03T15:18:23.000+0300",
+    "updated_date": "2020-08-03T15:18:23.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-190559",
+    "summary": "Baby striders don't die when it's raining and they are in lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-06-19T18:23:39.000+0300",
+    "resolution_date": "2020-07-14T15:59:38.000+0300",
+    "updated_date": "2020-07-14T15:59:38.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-189788",
+    "summary": "Certain mobs in boats sometimes take drowning damage while the boat is moving",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-06-15T09:23:40.000+0300",
+    "resolution_date": "2020-07-14T10:40:22.000+0300",
+    "updated_date": "2020-09-15T00:26:04.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-185019",
+    "summary": "Worldgen settings with empty structures parameter generates all structures extremely frequent",
+    "labels": [
+      "worldgen-settings"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-05-21T17:48:27.000+0300",
+    "resolution_date": "2020-07-15T15:06:35.000+0300",
+    "updated_date": "2020-07-16T05:20:18.000+0300",
+    "watches": 10,
+    "votes": 26
+  },
+  {
+    "id": "MC-176836",
+    "summary": "Unarmed vindicators raise their arm in offensive way when attacking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-03-31T07:57:57.000+0300",
+    "resolution_date": "2020-07-15T16:41:31.000+0300",
+    "updated_date": "2020-08-12T00:49:40.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-176778",
+    "summary": "Camera is reset when a block reappears due to high server latency",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2020-03-30T19:07:14.000+0300",
+    "resolution_date": "2020-07-14T12:44:39.000+0300",
+    "updated_date": "2020-07-14T19:45:50.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-166718",
+    "summary": "Mobs no longer suffocate inside of soul sand, farmland or grass paths",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 5",
+      "20w29a"
+    ],
+    "creation_date": "2019-11-28T21:21:33.000+0200",
+    "resolution_date": "2020-07-14T09:09:25.000+0300",
+    "updated_date": "2020-09-07T15:09:52.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-158735",
+    "summary": "Pillagers without crossbows hold their arm up, in a way that may be offensive to some people",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2019-08-10T15:37:25.000+0300",
+    "resolution_date": "2020-07-15T16:41:31.000+0300",
+    "updated_date": "2020-08-11T19:17:24.000+0300",
+    "watches": 12,
+    "votes": 9
+  },
+  {
+    "id": "MC-157774",
+    "summary": "Bouncing off side of blocks while creative flying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2019-07-26T19:07:34.000+0300",
+    "resolution_date": "2020-07-25T00:08:22.000+0300",
+    "updated_date": "2020-07-25T00:08:22.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-153230",
+    "summary": "Players in spectator mode can stop minecarts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w29a"
+    ],
+    "creation_date": "2019-05-28T11:56:41.000+0300",
+    "resolution_date": "2020-07-14T15:37:16.000+0300",
+    "updated_date": "2021-01-18T22:05:41.000+0200",
+    "watches": 16,
+    "votes": 51
+  }
+]

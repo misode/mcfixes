@@ -1,0 +1,279 @@
+[
+  {
+    "id": "MC-214986",
+    "summary": "Large dripstones only generate as stalagmites below Y=0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-02-11T03:40:38.000+0200",
+    "resolution_date": "2021-02-15T10:50:42.000+0200",
+    "updated_date": "2021-02-22T14:58:42.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-214973",
+    "summary": "Powder snow bucket in a dispenser at y = 319 facing upwards or at y = -64 facing downwards is replaced with empty bucket, despite no powder snow being placed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-02-11T02:58:54.000+0200",
+    "resolution_date": "2021-02-16T17:56:12.000+0200",
+    "updated_date": "2021-02-16T17:56:12.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-214928",
+    "summary": "Mineshaft corridor support pillars are made out of wood, not logs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-02-11T00:12:58.000+0200",
+    "resolution_date": "2021-02-18T18:12:16.000+0200",
+    "updated_date": "2021-04-18T15:55:03.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-214917",
+    "summary": "Lapis Lazuli doesn't generate on the lower levels of the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-02-10T23:42:35.000+0200",
+    "resolution_date": "2021-02-18T17:01:41.000+0200",
+    "updated_date": "2021-02-18T17:01:41.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-214885",
+    "summary": "Beacon beam only render 256 blocks from source",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-02-10T22:10:41.000+0200",
+    "resolution_date": "2021-02-16T17:56:12.000+0200",
+    "updated_date": "2021-02-16T17:56:12.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-214844",
+    "summary": "Bedrock can be exposed to the air at the very bottom of the new caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w07a",
+      "21w10a"
+    ],
+    "creation_date": "2021-02-10T21:12:53.000+0200",
+    "resolution_date": "2021-02-26T12:12:14.000+0200",
+    "updated_date": "2021-07-05T16:21:58.000+0300",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-214814",
+    "summary": "Strongholds generate floating and without walls, floors, or ceilings when inside caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-02-10T20:42:59.000+0200",
+    "resolution_date": "2021-02-16T16:15:51.000+0200",
+    "updated_date": "2021-04-30T18:29:21.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-214082",
+    "summary": "Crash after placing soul sand or magma under 2032 tall water",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-02-04T19:20:11.000+0200",
+    "resolution_date": "2021-02-16T17:56:13.000+0200",
+    "updated_date": "2021-02-25T00:27:07.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-211224",
+    "summary": "Seagrass can occasionally replace parts of a swamp hut",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2021-01-12T14:06:17.000+0200",
+    "resolution_date": "2021-02-17T18:06:24.000+0200",
+    "updated_date": "2021-02-17T18:06:24.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-208618",
+    "summary": "Clicking on a bed immediately skips the night if gamerule playersSleepingPercentage is set to 0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2020-12-16T19:53:02.000+0200",
+    "resolution_date": "2021-02-17T09:04:19.000+0200",
+    "updated_date": "2021-02-18T12:24:48.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-208613",
+    "summary": "Amount of players who need to sleep to skip the night is calculated incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2020-12-16T19:47:14.000+0200",
+    "resolution_date": "2021-02-17T09:04:19.000+0200",
+    "updated_date": "2021-02-17T20:14:13.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-183547",
+    "summary": "Stone and polished blackstone buttons/pressure plates are located at opposite ends of the spectrum of buttons in the Creative inventory despite being identical in behaviour",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2020-05-11T22:23:55.000+0300",
+    "resolution_date": "2021-02-24T00:32:22.000+0200",
+    "updated_date": "2021-03-21T20:36:18.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-147589",
+    "summary": "Vines no longer randomly generate in jungles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w07a"
+    ],
+    "creation_date": "2019-04-06T23:12:37.000+0300",
+    "resolution_date": "2021-02-17T10:44:22.000+0200",
+    "updated_date": "2021-02-17T10:44:22.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-125675",
+    "summary": "Seagrass placed on the ocean floor can replace ocean monument parts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 18w19a",
+      "21w07a"
+    ],
+    "creation_date": "2018-02-16T20:32:51.000+0200",
+    "resolution_date": "2021-08-31T01:27:51.000+0300",
+    "updated_date": "2021-08-31T21:47:28.000+0300",
+    "watches": 11,
+    "votes": 19
+  }
+]

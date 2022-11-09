@@ -1,0 +1,157 @@
+[
+  {
+    "id": "MC-253773",
+    "summary": "Whispers appear as modified by the server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Pre-release 3"
+    ],
+    "creation_date": "2022-07-01T16:45:52.000+0300",
+    "resolution_date": "2022-07-04T12:30:41.000+0300",
+    "updated_date": "2022-07-04T12:30:41.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-253742",
+    "summary": "The chat scroll bar overlaps the colored indicators used to show the trust status of messages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 3"
+    ],
+    "creation_date": "2022-06-30T20:43:15.000+0300",
+    "resolution_date": "2022-07-04T17:34:02.000+0300",
+    "updated_date": "2022-07-06T09:30:21.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-253496",
+    "summary": "/execute as {player} run say counts to the report system",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 3"
+    ],
+    "creation_date": "2022-06-23T21:30:51.000+0300",
+    "resolution_date": "2022-07-04T12:51:32.000+0300",
+    "updated_date": "2022-07-04T12:51:32.000+0300",
+    "watches": 10,
+    "votes": 8
+  },
+  {
+    "id": "MC-253223",
+    "summary": "A preposition is incorrectly used within the \"gui.abuseReport.reason.terrorism_or_violent_extremism.description\" string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Pre-release 3",
+      "1.19.1 Pre-release 5"
+    ],
+    "creation_date": "2022-06-17T14:01:03.000+0300",
+    "resolution_date": "2022-07-14T18:53:31.000+0300",
+    "updated_date": "2022-07-14T18:53:31.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-253214",
+    "summary": "Tooltips will become offset in certain cases ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Pre-release 3"
+    ],
+    "creation_date": "2022-06-17T05:51:40.000+0300",
+    "resolution_date": "2022-07-06T14:47:48.000+0300",
+    "updated_date": "2022-07-06T15:33:54.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-253182",
+    "summary": "The second instance of a reflexive pronoun is used incorrectly within the \"gui.abuseReport.reason.self_harm_or_suicide.description\" string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 3"
+    ],
+    "creation_date": "2022-06-16T19:10:55.000+0300",
+    "resolution_date": "2022-07-05T16:12:54.000+0300",
+    "updated_date": "2022-07-07T06:20:23.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-253053",
+    "summary": "Tooltips are cut off at the bottom of the screen",
+    "labels": [
+      "inventory"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 3"
+    ],
+    "creation_date": "2022-06-15T00:49:05.000+0300",
+    "resolution_date": "2022-07-12T18:47:41.000+0300",
+    "updated_date": "2022-07-16T03:00:48.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-220872",
+    "summary": "Chat scroll bar is still offset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 3"
+    ],
+    "creation_date": "2021-03-26T05:52:32.000+0200",
+    "resolution_date": "2022-07-06T22:29:47.000+0300",
+    "updated_date": "2022-07-06T22:29:47.000+0300",
+    "watches": 3,
+    "votes": 7
+  }
+]

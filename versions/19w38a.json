@@ -1,0 +1,260 @@
+[
+  {
+    "id": "MC-160919",
+    "summary": "Disabling fire damage does not disable magma block damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2019-09-12T00:55:05.000+0300",
+    "resolution_date": "2019-09-18T09:08:08.000+0300",
+    "updated_date": "2020-09-11T23:59:10.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-160367",
+    "summary": "Pillagers don't despawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2019-09-02T23:47:05.000+0300",
+    "resolution_date": "2019-09-17T16:01:32.000+0300",
+    "updated_date": "2020-04-15T11:46:03.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-158414",
+    "summary": "When riding an entity, players appear to be at the location they mounted it at as soon as they are out of range",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2019-08-05T01:29:50.000+0300",
+    "resolution_date": "2019-09-18T09:08:13.000+0300",
+    "updated_date": "2019-09-18T23:21:47.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-158373",
+    "summary": "Raid horn sounds play globally in all villages",
+    "labels": [
+      "raid",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2019-08-04T13:01:14.000+0300",
+    "resolution_date": "2019-09-17T15:58:31.000+0300",
+    "updated_date": "2020-04-26T16:20:40.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-157697",
+    "summary": "Unplayable conditions when Pillagers loaded. Extreme lag spikes.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2019-07-25T19:28:05.000+0300",
+    "resolution_date": "2019-09-17T16:01:32.000+0300",
+    "updated_date": "2019-11-26T01:03:35.000+0200",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-145275",
+    "summary": "Reloading a resource pack messes up all textures for an instant",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2019-03-03T05:57:02.000+0200",
+    "resolution_date": "2019-11-16T08:14:28.000+0200",
+    "updated_date": "2019-11-16T08:14:28.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-138465",
+    "summary": "Ender pearl forgets owner after reload(of game or chunks)",
+    "labels": [
+      "NBT",
+      "enderpearl",
+      "nbt-tags",
+      "reloaded",
+      "unloading"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2018-10-30T04:49:30.000+0200",
+    "resolution_date": "2019-09-18T09:08:16.000+0300",
+    "updated_date": "2020-10-30T23:04:02.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-136367",
+    "summary": "When exiting a boat it will put you on top of the boat ",
+    "labels": [
+      "boat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2018-08-23T20:06:48.000+0300",
+    "resolution_date": "2019-09-18T09:08:09.000+0300",
+    "updated_date": "2021-01-13T01:51:18.000+0200",
+    "watches": 24,
+    "votes": 42
+  },
+  {
+    "id": "MC-103672",
+    "summary": "Steerable ridden entities (boats / pigs / horses) teleport back to their previous position for a short moment on dismount",
+    "labels": [
+      "boat",
+      "dismount",
+      "horse",
+      "move",
+      "not-synchronized",
+      "pig",
+      "position",
+      "teleport"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w38a",
+      "19w39a"
+    ],
+    "creation_date": "2016-06-15T00:26:50.000+0300",
+    "resolution_date": "2019-09-27T12:35:16.000+0300",
+    "updated_date": "2019-09-27T12:52:42.000+0300",
+    "watches": 13,
+    "votes": 20
+  },
+  {
+    "id": "MC-101247",
+    "summary": "Horses, donkeys, mules, and boats sometimes disappear after dismounting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2016-04-24T05:01:50.000+0300",
+    "resolution_date": "2019-09-18T09:08:11.000+0300",
+    "updated_date": "2022-11-03T16:59:44.000+0200",
+    "watches": 81,
+    "votes": 171
+  },
+  {
+    "id": "MC-96207",
+    "summary": "Boat breaking lily pad creates too much particles",
+    "labels": [
+      "boat",
+      "breaking-animation",
+      "lily_pad",
+      "particle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w38a"
+    ],
+    "creation_date": "2016-01-28T20:46:51.000+0200",
+    "resolution_date": "2019-09-18T09:08:12.000+0300",
+    "updated_date": "2021-06-24T17:47:31.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-70111",
+    "summary": "When a thrown ender pearl is in the air, it disappears after relogging and you don't get teleported.",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.8.1-pre1",
+      "19w38a"
+    ],
+    "creation_date": "2014-08-31T15:04:14.000+0300",
+    "resolution_date": "2019-09-18T09:08:15.000+0300",
+    "updated_date": "2020-10-30T23:04:02.000+0200",
+    "watches": 72,
+    "votes": 330
+  }
+]

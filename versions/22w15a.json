@@ -1,0 +1,1295 @@
+[
+  {
+    "id": "MC-250136",
+    "summary": "Sculk veins cannot be placed on eight layers of snow",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-13T17:38:50.000+0300",
+    "resolution_date": "2022-04-13T19:45:33.000+0300",
+    "updated_date": "2022-04-13T19:45:33.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-250135",
+    "summary": "Sculk veins cannot be placed on the top or sides of soul sand",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-13T17:36:56.000+0300",
+    "resolution_date": "2022-04-13T19:45:46.000+0300",
+    "updated_date": "2022-04-13T19:45:46.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-250115",
+    "summary": "Mud does not generate underwater in mangrove swamps",
+    "labels": [
+      "mangrove-swamp",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-11T20:44:28.000+0300",
+    "resolution_date": "2022-04-14T06:46:31.000+0300",
+    "updated_date": "2022-04-14T06:46:31.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-250106",
+    "summary": "Overworld vegetation cannot be placed on muddy mangrove roots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-11T10:44:45.000+0300",
+    "resolution_date": "2022-04-13T12:35:50.000+0300",
+    "updated_date": "2022-04-13T12:35:50.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-250104",
+    "summary": "Can't plant big dripleaf on mud",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-11T09:55:51.000+0300",
+    "resolution_date": "2022-04-13T12:35:50.000+0300",
+    "updated_date": "2022-04-13T12:35:50.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-250103",
+    "summary": "Can't plant bamboo on mud",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-11T09:54:53.000+0300",
+    "resolution_date": "2022-04-13T12:35:50.000+0300",
+    "updated_date": "2022-04-13T12:35:50.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-250101",
+    "summary": "Can't plant sugar cane on mud",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-11T09:53:02.000+0300",
+    "resolution_date": "2022-04-13T12:35:50.000+0300",
+    "updated_date": "2022-04-13T12:35:50.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-250099",
+    "summary": "Mangrove Log and Mangrove Planks don't spawn in bonus chest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-11T06:00:21.000+0300",
+    "resolution_date": "2022-04-13T15:13:06.000+0300",
+    "updated_date": "2022-10-20T10:43:34.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-250081",
+    "summary": "Wandering trader doesn't trade mangrove propagule",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-10T08:34:09.000+0300",
+    "resolution_date": "2022-04-13T20:30:02.000+0300",
+    "updated_date": "2022-04-13T20:30:02.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-250063",
+    "summary": "Warden doesn't attack anything after dismounting as a passenger",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-09T17:48:58.000+0300",
+    "resolution_date": "2022-04-15T15:38:00.000+0300",
+    "updated_date": "2022-04-15T15:38:00.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-250025",
+    "summary": "The \"You Got a Friend in Me\" advancement is incorrectly presented in the past tense",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-08T13:51:20.000+0300",
+    "resolution_date": "2022-04-12T12:44:40.000+0300",
+    "updated_date": "2022-04-14T01:01:42.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-250017",
+    "summary": "UUID launch argument required",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-08T08:28:49.000+0300",
+    "resolution_date": "2022-04-13T12:18:53.000+0300",
+    "updated_date": "2022-04-13T12:18:53.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-249984",
+    "summary": "note_block is inconsistently spelled as noteblock in the allay_deliver_cake_to_noteblock advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-07T09:41:27.000+0300",
+    "resolution_date": "2022-04-12T12:44:39.000+0300",
+    "updated_date": "2022-04-12T12:44:39.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-249980",
+    "summary": "The Birthday Song advancement description doesn't capitalise the word Cake",
+    "labels": [
+      "capitalization",
+      "husbandry/allay_deliver_cake_to_noteblock"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a",
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-07T08:59:59.000+0300",
+    "resolution_date": "2022-05-17T12:20:35.000+0300",
+    "updated_date": "2022-05-17T12:20:35.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-249979",
+    "summary": "Chance to have mangrove roots not waterlogged when growing from a sapling while underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-07T08:25:51.000+0300",
+    "resolution_date": "2022-04-08T15:00:55.000+0300",
+    "updated_date": "2022-04-10T12:15:30.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-249977",
+    "summary": "Harsh chunk borders appear when upgrading a 1.18.2 world",
+    "labels": [
+      "rendering",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-07T05:44:35.000+0300",
+    "resolution_date": "2022-04-13T13:27:34.000+0300",
+    "updated_date": "2022-04-14T18:03:07.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-249968",
+    "summary": "Powering a beacon disconnects player from server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon",
+      "Crash",
+      "Dedicated Server"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-07T02:49:40.000+0300",
+    "resolution_date": "2022-04-13T10:54:10.000+0300",
+    "updated_date": "2022-04-13T10:54:10.000+0300",
+    "watches": 11,
+    "votes": 21
+  },
+  {
+    "id": "MC-249966",
+    "summary": "Warden can stop chasing a target it just roared at",
+    "labels": [
+      "anger-value",
+      "warden",
+      "warden-suspects"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a",
+      "22w19a"
+    ],
+    "creation_date": "2022-04-07T02:07:56.000+0300",
+    "resolution_date": "2022-05-12T12:57:00.000+0300",
+    "updated_date": "2022-05-12T12:57:00.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-249947",
+    "summary": "Top of Sculk Shrieker model is vertically squished",
+    "labels": [
+      "block",
+      "incorrect-pixel-sizes",
+      "model",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T21:38:01.000+0300",
+    "resolution_date": "2022-04-13T15:26:03.000+0300",
+    "updated_date": "2022-04-13T15:26:03.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-249942",
+    "summary": "Water got removed after waterlogged Mangrove Propagule grows",
+    "labels": [
+      "tree-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T21:03:22.000+0300",
+    "resolution_date": "2022-04-11T14:42:30.000+0300",
+    "updated_date": "2022-04-11T14:42:30.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-249938",
+    "summary": "Mangrove Leaves do not drop from Silk Touch tools",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T20:42:01.000+0300",
+    "resolution_date": "2022-04-13T12:35:47.000+0300",
+    "updated_date": "2022-04-13T12:35:47.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-249936",
+    "summary": "Cave carvers don't cut through mud",
+    "labels": [
+      "cave-carvers",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T20:30:12.000+0300",
+    "resolution_date": "2022-04-13T12:35:50.000+0300",
+    "updated_date": "2022-04-19T22:52:48.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249934",
+    "summary": "Mangrove roots sometimes don't generate waterlogged when generating within water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T19:59:39.000+0300",
+    "resolution_date": "2022-04-08T15:00:55.000+0300",
+    "updated_date": "2022-04-08T15:00:55.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-249933",
+    "summary": "Game crash related to the frog occurred (Accessing LegacyRandomSource from multiple threads)",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T19:57:31.000+0300",
+    "resolution_date": "2022-04-13T12:18:19.000+0300",
+    "updated_date": "2022-04-21T13:34:55.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-249931",
+    "summary": "Growing a Mangrove Tree with bone meal creates a ghost block",
+    "labels": [
+      "ghost-block",
+      "networking",
+      "tree-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T19:47:34.000+0300",
+    "resolution_date": "2022-04-13T09:40:38.000+0300",
+    "updated_date": "2022-04-13T09:40:38.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-249927",
+    "summary": "You can use a Recovery Compass on a Lodestone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T19:40:39.000+0300",
+    "resolution_date": "2022-04-13T15:13:07.000+0300",
+    "updated_date": "2022-04-13T15:13:07.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-249923",
+    "summary": "Recovery compass isn't sorted with regular compass in creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T19:33:13.000+0300",
+    "resolution_date": "2022-04-12T11:30:12.000+0300",
+    "updated_date": "2022-04-12T11:34:44.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249917",
+    "summary": "Mangrove trees don't replace certain blocks with roots",
+    "labels": [
+      "tree-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-06T19:07:31.000+0300",
+    "resolution_date": "2022-04-13T12:35:49.000+0300",
+    "updated_date": "2022-04-13T12:35:49.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249824",
+    "summary": "Allays can pass through walls client-side as a result of them not colliding with entities properly",
+    "labels": [
+      "allay",
+      "collision"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-01T22:17:27.000+0300",
+    "resolution_date": "2022-04-30T09:09:54.000+0300",
+    "updated_date": "2022-04-30T09:09:55.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-249785",
+    "summary": "Warden can be pushed when emerging and digging",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-04-01T04:14:22.000+0300",
+    "resolution_date": "2022-04-13T11:43:11.000+0300",
+    "updated_date": "2022-04-13T11:43:11.000+0300",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-249741",
+    "summary": "New advancement names are not properly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-31T20:52:36.000+0300",
+    "resolution_date": "2022-04-12T12:44:40.000+0300",
+    "updated_date": "2022-04-12T12:44:40.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-249737",
+    "summary": "Allay can be pushed around with {NoAI:1b}",
+    "labels": [
+      "allay",
+      "collision",
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-31T20:42:12.000+0300",
+    "resolution_date": "2022-04-08T15:00:54.000+0300",
+    "updated_date": "2022-04-08T15:00:54.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-249688",
+    "summary": "Mangrove stairs come after nether wood stairs in the Building Blocks tab",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-30T18:51:19.000+0300",
+    "resolution_date": "2022-04-13T12:35:49.000+0300",
+    "updated_date": "2022-04-13T12:35:49.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-249664",
+    "summary": "Warden despawns when far away",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a",
+      "22w19a"
+    ],
+    "creation_date": "2022-03-28T22:37:01.000+0300",
+    "resolution_date": "2022-05-12T12:57:01.000+0300",
+    "updated_date": "2022-05-23T11:39:23.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-249632",
+    "summary": "The Darkness effect is not required for the \"How Did We Get Here?\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-27T08:02:45.000+0300",
+    "resolution_date": "2022-04-13T16:19:45.000+0300",
+    "updated_date": "2022-04-13T16:19:45.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-249495",
+    "summary": "Inconsistent shading in boat item sprites",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-25T18:34:55.000+0200",
+    "resolution_date": "2022-04-12T17:55:21.000+0300",
+    "updated_date": "2022-04-12T17:55:21.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-249488",
+    "summary": "Darkness pulsing option is not saved",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-25T17:14:44.000+0200",
+    "resolution_date": "2022-04-08T15:00:51.000+0300",
+    "updated_date": "2022-04-08T15:00:51.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-249445",
+    "summary": "Activated sculk shriekers fail to summon the warden when broken",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-25T00:05:31.000+0200",
+    "resolution_date": "2022-04-13T11:43:10.000+0300",
+    "updated_date": "2022-04-16T23:18:26.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-249424",
+    "summary": "Hand animation still plays when trying to get into a boat with chest that already has an entity in it",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-24T22:06:22.000+0200",
+    "resolution_date": "2022-04-14T15:53:31.000+0300",
+    "updated_date": "2022-04-15T14:00:36.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-249423",
+    "summary": "You can't open the boat with chests without a shift, even when you can't get into the boat",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Parity"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-24T22:04:50.000+0200",
+    "resolution_date": "2022-04-07T12:12:53.000+0300",
+    "updated_date": "2022-04-07T12:12:53.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249347",
+    "summary": "Map color for mangrove sign and mangrove wall sign is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-23T03:41:34.000+0200",
+    "resolution_date": "2022-04-13T12:35:48.000+0300",
+    "updated_date": "2022-04-13T12:35:48.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-249315",
+    "summary": "Mangrove Roots cannot be composted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-20T16:14:08.000+0200",
+    "resolution_date": "2022-04-13T12:35:48.000+0300",
+    "updated_date": "2022-04-13T15:02:18.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-249208",
+    "summary": "Vines, glow lichens, and sculk veins cannot be placed on the side or top faces of mud",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-17T22:03:16.000+0200",
+    "resolution_date": "2022-04-13T12:35:50.000+0300",
+    "updated_date": "2022-04-13T12:35:50.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-249111",
+    "summary": "sculk_charge cannot be used in /particle command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-16T20:05:50.000+0200",
+    "resolution_date": "2022-04-08T15:00:53.000+0300",
+    "updated_date": "2022-04-08T15:00:53.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-249094",
+    "summary": "Unexpected culling of inner sculk shrieker faces",
+    "labels": [
+      "unneccessary-cullface"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a",
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-03-16T19:34:20.000+0200",
+    "resolution_date": "2022-05-24T17:01:44.000+0300",
+    "updated_date": "2022-05-24T18:40:30.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-249072",
+    "summary": "Sculk shriekers replace water blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2022-03-16T18:53:08.000+0200",
+    "resolution_date": "2022-04-12T18:14:12.000+0300",
+    "updated_date": "2022-04-21T13:41:27.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-237924",
+    "summary": "The word \"villager\" within the \"Star Trader\" advancement description is improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-09-29T20:22:14.000+0300",
+    "resolution_date": "2022-04-12T12:44:40.000+0300",
+    "updated_date": "2022-04-12T12:44:40.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-237922",
+    "summary": "\"Jukebox\" in Sound of Music description is incorrectly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-09-29T20:12:32.000+0300",
+    "resolution_date": "2022-04-13T19:46:21.000+0300",
+    "updated_date": "2022-04-13T19:46:21.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-237920",
+    "summary": "\"Feels like home\" advancement is incorrectly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-09-29T20:07:51.000+0300",
+    "resolution_date": "2022-04-13T19:46:04.000+0300",
+    "updated_date": "2022-04-13T19:46:04.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-235035",
+    "summary": "Sleeping in a custom dimension with \"natural\" set to false causes crash",
+    "labels": [
+      "custom-worldgen",
+      "data-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-08-22T19:26:35.000+0300",
+    "resolution_date": "2022-04-08T15:00:50.000+0300",
+    "updated_date": "2022-09-27T03:52:26.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-231458",
+    "summary": "The word \"ingot\" within the \"Serious Dedication\" advancement description is improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-07-08T11:35:07.000+0300",
+    "resolution_date": "2022-04-12T12:44:40.000+0300",
+    "updated_date": "2022-04-12T12:50:41.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-228862",
+    "summary": "Game freezes when client fails to download server resource pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-06-13T15:17:37.000+0300",
+    "resolution_date": "2022-04-17T12:38:58.000+0300",
+    "updated_date": "2022-04-17T12:38:58.000+0300",
+    "watches": 5,
+    "votes": 1
+  },
+  {
+    "id": "MC-226430",
+    "summary": "Several 1.17 advancement strings are improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-05-27T16:55:48.000+0300",
+    "resolution_date": "2022-04-16T15:29:06.000+0300",
+    "updated_date": "2022-04-16T15:29:06.000+0300",
+    "watches": 5,
+    "votes": 16
+  },
+  {
+    "id": "MC-219642",
+    "summary": "Vines cannot be placed on the sides of soul sand",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-03-15T18:35:39.000+0200",
+    "resolution_date": "2022-04-13T12:35:51.000+0300",
+    "updated_date": "2022-04-13T12:35:51.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-216569",
+    "summary": "Glow lichen cannot be placed on the side of 8 layers of snow",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-02-22T23:57:40.000+0200",
+    "resolution_date": "2022-04-13T12:35:51.000+0300",
+    "updated_date": "2022-04-13T12:35:51.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-216567",
+    "summary": "Vines cannot be placed on the sides of 8 layers of snow",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-02-22T23:40:29.000+0200",
+    "resolution_date": "2022-04-13T12:35:51.000+0300",
+    "updated_date": "2022-04-13T12:35:51.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-212629",
+    "summary": "Leashes from two or more invisible entities connect to each other",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-01-23T22:05:30.000+0200",
+    "resolution_date": "2022-04-08T15:00:52.000+0300",
+    "updated_date": "2022-04-08T15:00:52.000+0300",
+    "watches": 19,
+    "votes": 36
+  },
+  {
+    "id": "MC-212610",
+    "summary": "Glow lichens cannot be put on soul sand",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-01-23T20:39:49.000+0200",
+    "resolution_date": "2022-04-13T12:35:50.000+0300",
+    "updated_date": "2022-04-13T12:35:50.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-210868",
+    "summary": "Wool occlusion doesn't work as it should when combining both vertical and horizontal motion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-01-08T12:57:01.000+0200",
+    "resolution_date": "2022-07-16T19:05:12.000+0300",
+    "updated_date": "2022-07-16T19:05:12.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-210805",
+    "summary": "Wool incorrectly occludes the vibration of walking along blocks placed on top of it that are under 5/16 blocks tall",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2021-01-07T19:41:06.000+0200",
+    "resolution_date": "2022-07-16T19:10:23.000+0300",
+    "updated_date": "2022-07-16T19:10:23.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-183520",
+    "summary": "Phantoms with NoAI can go through blocks",
+    "labels": [
+      "NoAI",
+      "phantom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2020-05-11T19:50:44.000+0300",
+    "resolution_date": "2022-04-08T15:00:54.000+0300",
+    "updated_date": "2022-04-08T15:00:54.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-147686",
+    "summary": "Joining a world that uses custom resources shows default resources until fully loaded",
+    "labels": [
+      "loading",
+      "resource-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w15a"
+    ],
+    "creation_date": "2019-04-08T19:08:20.000+0300",
+    "resolution_date": "2022-04-08T15:00:52.000+0300",
+    "updated_date": "2022-04-09T04:59:16.000+0300",
+    "watches": 3,
+    "votes": 7
+  }
+]

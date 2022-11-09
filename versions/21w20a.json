@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "MC-225352",
+    "summary": "Geodes have not been made \"significantly rarer\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-05-12T16:06:57.000+0300",
+    "resolution_date": "2021-05-18T12:41:33.000+0300",
+    "updated_date": "2021-05-23T15:33:41.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-225347",
+    "summary": "cave_vines_plant isn't in #bee_growables",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-05-12T15:40:09.000+0300",
+    "resolution_date": "2021-05-19T15:49:51.000+0300",
+    "updated_date": "2021-05-19T15:49:51.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-225253",
+    "summary": "Dying in a nether portal softlocks the player on the \"You Died!\" menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-05-10T22:41:30.000+0300",
+    "resolution_date": "2021-05-18T18:03:17.000+0300",
+    "updated_date": "2021-05-18T18:03:17.000+0300",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-225078",
+    "summary": "Upgrading from 1.12.2 and below will cause items to lose enchantments",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-05-07T12:46:28.000+0300",
+    "resolution_date": "2021-05-19T15:22:21.000+0300",
+    "updated_date": "2021-05-19T15:22:21.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-224482",
+    "summary": "Superflat presets no longer generate with decorations",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-29T21:33:54.000+0300",
+    "resolution_date": "2021-05-17T19:42:29.000+0300",
+    "updated_date": "2021-07-23T22:53:50.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-224480",
+    "summary": "Powder snow doesn't melt into water in cauldrons",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-29T21:11:38.000+0300",
+    "resolution_date": "2021-05-19T13:19:02.000+0300",
+    "updated_date": "2021-07-01T01:33:15.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-224322",
+    "summary": "Powder snow can create ghost blocks in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-27T20:01:24.000+0300",
+    "resolution_date": "2021-05-19T13:19:04.000+0300",
+    "updated_date": "2021-05-19T13:19:04.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-224320",
+    "summary": "minecraft.used:minecraft.potion doesn't increase when filling a partially filled cauldron with a water bottle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-27T19:54:26.000+0300",
+    "resolution_date": "2021-05-17T12:17:55.000+0300",
+    "updated_date": "2021-05-17T12:17:55.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-223372",
+    "summary": "You can decrease the level of a water or powder snow cauldron, through the use of an entity on fire in spawn protection",
+    "labels": [
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-16T16:59:29.000+0300",
+    "resolution_date": "2021-05-19T13:19:00.000+0300",
+    "updated_date": "2021-05-19T13:19:00.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-223371",
+    "summary": "Powder snow can be destroyed through the use of a flame bow in spawn protection",
+    "labels": [
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-16T16:59:27.000+0300",
+    "resolution_date": "2021-05-19T20:59:17.000+0300",
+    "updated_date": "2021-05-19T20:59:17.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-223322",
+    "summary": "Chorus flowers can be broken with projectiles in spawn protection",
+    "labels": [
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-15T21:48:28.000+0300",
+    "resolution_date": "2021-05-19T13:18:58.000+0300",
+    "updated_date": "2021-05-19T13:18:58.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-222797",
+    "summary": "Axolotl can be bred with just tropical fish items, not just bucket ones",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-09T17:44:12.000+0300",
+    "resolution_date": "2021-05-17T13:52:10.000+0300",
+    "updated_date": "2021-05-19T16:05:50.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-222116",
+    "summary": "Splash water bottles doesn't extinguish candle cakes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-03T21:06:08.000+0300",
+    "resolution_date": "2021-05-17T12:17:43.000+0300",
+    "updated_date": "2021-08-18T16:39:56.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-222002",
+    "summary": "Light item displays the wrong level number",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-02T20:35:43.000+0300",
+    "resolution_date": "2021-05-17T12:17:48.000+0300",
+    "updated_date": "2021-08-18T16:39:57.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-221984",
+    "summary": "Collecting an axolotl in a bucket and then placing it resets its kill cooldown",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-02T18:27:52.000+0300",
+    "resolution_date": "2021-05-17T13:52:11.000+0300",
+    "updated_date": "2021-05-17T13:52:11.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-221863",
+    "summary": "Powder Snow can be broken by players on fire in spawn protection",
+    "labels": [
+      "powder_snow",
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-01T20:35:57.000+0300",
+    "resolution_date": "2021-05-19T13:18:55.000+0300",
+    "updated_date": "2021-05-19T13:18:55.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-221833",
+    "summary": "Light blocks are not shown within structure block bounds with Show Invisible Blocks on",
+    "labels": [
+      "invisible-block-manipulation",
+      "invisible-blocks"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-04-01T17:33:39.000+0300",
+    "resolution_date": "2021-05-17T12:17:54.000+0300",
+    "updated_date": "2021-05-17T12:17:54.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-221566",
+    "summary": "Name color for light is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-31T20:34:03.000+0300",
+    "resolution_date": "2021-05-17T12:17:49.000+0300",
+    "updated_date": "2022-10-27T00:52:22.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-220867",
+    "summary": "Fossils can generate through bedrock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-26T03:22:09.000+0200",
+    "resolution_date": "2021-05-18T12:41:28.000+0300",
+    "updated_date": "2021-05-23T16:01:32.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-220694",
+    "summary": "Name color for knowledge book is incorrect",
+    "labels": [
+      "knowledge_book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-24T18:14:44.000+0200",
+    "resolution_date": "2021-05-17T12:17:49.000+0300",
+    "updated_date": "2022-10-27T00:52:22.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-220128",
+    "summary": "Parity Issue: Rooted dirt won't turn into the dirt and drop roots item after tilling with hoe in Java",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-19T09:53:47.000+0200",
+    "resolution_date": "2021-05-18T10:48:16.000+0300",
+    "updated_date": "2021-05-19T17:43:46.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-220063",
+    "summary": "Sweet berries and glow berries sound events are named extremely differently",
+    "labels": [
+      "incorrect-sound-event-id"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-18T20:54:06.000+0200",
+    "resolution_date": "2021-05-17T12:17:08.000+0300",
+    "updated_date": "2021-08-18T16:39:56.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-219870",
+    "summary": "The Mojang loading screen upon start up flashes black",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-17T21:10:58.000+0200",
+    "resolution_date": "2021-05-17T13:39:50.000+0300",
+    "updated_date": "2021-05-17T13:39:50.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-219856",
+    "summary": "F3 + L isn't sorted alphabetically in the debug screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-17T20:49:31.000+0200",
+    "resolution_date": "2021-05-17T12:17:41.000+0300",
+    "updated_date": "2021-08-18T16:39:45.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-217742",
+    "summary": "Campfires and TNT can be lit by players using arrows shot from flame bows in spawn protection",
+    "labels": [
+      "campfire",
+      "soul_campfire",
+      "spawn-protection",
+      "tnt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-05T01:02:22.000+0200",
+    "resolution_date": "2021-05-19T13:18:59.000+0300",
+    "updated_date": "2021-05-19T13:18:59.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-217610",
+    "summary": "Too much of the big dripleaf is hidden when placed inside of an item frame",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-03T16:03:38.000+0200",
+    "resolution_date": "2021-05-21T00:14:07.000+0300",
+    "updated_date": "2021-05-22T07:43:18.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-217608",
+    "summary": "The big dripleaf texture is not vertically centered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-03-03T15:32:12.000+0200",
+    "resolution_date": "2021-05-17T12:17:56.000+0300",
+    "updated_date": "2021-08-18T16:39:54.000+0300",
+    "watches": 4,
+    "votes": 0
+  },
+  {
+    "id": "MC-217113",
+    "summary": "Foxes spawned inside of powder snow sleeps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-02-26T11:32:46.000+0200",
+    "resolution_date": "2021-05-18T15:02:40.000+0300",
+    "updated_date": "2021-08-06T03:30:40.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-216980",
+    "summary": "Comma splices in two source strings (EN_US)",
+    "labels": [
+      "en_us.json",
+      "punctuation",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-02-25T16:08:47.000+0200",
+    "resolution_date": "2021-05-17T12:17:42.000+0300",
+    "updated_date": "2021-08-18T16:39:34.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-216214",
+    "summary": "netherrack_replace_blobs with water as target crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-02-19T18:23:59.000+0200",
+    "resolution_date": "2021-05-17T11:47:44.000+0300",
+    "updated_date": "2021-10-25T12:35:01.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-215665",
+    "summary": "Amethyst Geodes can overlap with dungeons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-02-15T23:04:24.000+0200",
+    "resolution_date": "2021-05-18T12:41:27.000+0300",
+    "updated_date": "2021-05-18T12:41:27.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-214909",
+    "summary": "Top half of a small dripleaf can turn into a ghost block when placing it in water while the water is being removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-02-10T23:12:42.000+0200",
+    "resolution_date": "2021-05-17T12:17:51.000+0300",
+    "updated_date": "2021-05-17T12:17:51.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-214041",
+    "summary": "Mob can't properly or difficult walk on big dripleaf, when the big dripleaf is 4 blocks or more from the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-02-04T16:21:22.000+0200",
+    "resolution_date": "2021-05-19T13:18:50.000+0300",
+    "updated_date": "2021-05-19T13:18:50.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-212931",
+    "summary": "Fire extinguishing sound doesn't play when mobs are extinguished with rain/water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-01-26T06:56:20.000+0200",
+    "resolution_date": "2021-05-19T13:18:51.000+0300",
+    "updated_date": "2021-05-19T13:18:51.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-212531",
+    "summary": "Shulkers can rotate their heads up and down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-01-23T03:34:54.000+0200",
+    "resolution_date": "2021-05-17T12:18:00.000+0300",
+    "updated_date": "2021-06-11T13:49:50.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-212125",
+    "summary": "Only one glow lichen drops when using shears on multiple in a single block space",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2021-01-20T18:03:45.000+0200",
+    "resolution_date": "2021-05-18T15:02:38.000+0300",
+    "updated_date": "2021-05-27T06:20:15.000+0300",
+    "watches": 7,
+    "votes": 17
+  },
+  {
+    "id": "MC-209324",
+    "summary": "Pointed Dripstone can be broken with tridents in spawn protection",
+    "labels": [
+      "dripstone",
+      "pointed-dripstone",
+      "pointed_dripstone",
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-23T17:31:41.000+0200",
+    "resolution_date": "2021-05-19T13:18:57.000+0300",
+    "updated_date": "2021-05-19T13:18:57.000+0300",
+    "watches": 1,
+    "votes": 12
+  },
+  {
+    "id": "MC-208735",
+    "summary": "Axolotls attempt to pathfind towards unreachable water, then start spinning, eventually drying out and dying",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-17T04:21:22.000+0200",
+    "resolution_date": "2021-05-17T13:52:24.000+0300",
+    "updated_date": "2021-06-11T02:21:01.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-208691",
+    "summary": "Axolotls play dead even when they take damage without being attacked by an entity",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T22:25:51.000+0200",
+    "resolution_date": "2021-05-18T15:02:43.000+0300",
+    "updated_date": "2021-05-19T18:01:59.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-208682",
+    "summary": "Axolotls frequently get stuck inside of waterlogged blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T22:08:40.000+0200",
+    "resolution_date": "2021-05-17T13:52:25.000+0300",
+    "updated_date": "2021-07-11T07:26:49.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-208675",
+    "summary": "Axolotls sometimes use walking animation when in shallow water",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T21:52:42.000+0200",
+    "resolution_date": "2021-05-17T13:52:17.000+0300",
+    "updated_date": "2021-05-17T20:25:05.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-208654",
+    "summary": "Collecting an axolotl with a water bucket in creative mode replaces the original bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T21:06:36.000+0200",
+    "resolution_date": "2021-05-19T13:19:03.000+0300",
+    "updated_date": "2021-05-19T13:19:03.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-208649",
+    "summary": "Breeding axolotl with a bucket of tropical gives back a bucket instead of a water bucket",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T21:02:56.000+0200",
+    "resolution_date": "2021-05-17T12:17:39.000+0300",
+    "updated_date": "2021-08-18T16:39:43.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-208641",
+    "summary": "Axolotl movement glitch on stairs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T20:43:30.000+0200",
+    "resolution_date": "2021-05-17T13:52:23.000+0300",
+    "updated_date": "2021-05-17T13:52:23.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-208624",
+    "summary": "An axolotl is not correctly centered whilst inside of a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T20:01:44.000+0200",
+    "resolution_date": "2021-05-21T17:30:43.000+0300",
+    "updated_date": "2021-05-21T17:30:43.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-208617",
+    "summary": "Axolotls sometimes twitch rapidly when adjusting their rotation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T19:51:01.000+0200",
+    "resolution_date": "2021-05-17T13:52:14.000+0300",
+    "updated_date": "2021-05-17T20:40:24.000+0300",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-208601",
+    "summary": "Axolotls do not avoid danger when pathfinding",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a",
+      "21w37a"
+    ],
+    "creation_date": "2020-12-16T19:31:15.000+0200",
+    "resolution_date": "2021-07-16T16:24:22.000+0300",
+    "updated_date": "2021-07-16T16:24:22.000+0300",
+    "watches": 13,
+    "votes": 34
+  },
+  {
+    "id": "MC-208589",
+    "summary": "Axolotls have a swimming animation (move their body up- and downwards) when on land",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T19:20:42.000+0200",
+    "resolution_date": "2021-05-17T13:52:14.000+0300",
+    "updated_date": "2021-05-21T10:44:55.000+0300",
+    "watches": 14,
+    "votes": 31
+  },
+  {
+    "id": "MC-208586",
+    "summary": "Axolotls get stuck and spin constantly on top of lily pads",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-16T19:15:08.000+0200",
+    "resolution_date": "2021-05-17T13:52:23.000+0300",
+    "updated_date": "2021-05-17T13:52:23.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-207366",
+    "summary": "Trying to modify the world height of a world after it's already been generated gives a null pointer exception",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-03T01:50:05.000+0200",
+    "resolution_date": "2021-05-18T18:25:45.000+0300",
+    "updated_date": "2021-05-18T18:25:45.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-207324",
+    "summary": "Mobs and particles sometimes don't fully render behind stained or tinted glass",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-12-02T23:13:29.000+0200",
+    "resolution_date": "2021-05-18T11:10:19.000+0300",
+    "updated_date": "2021-05-20T05:31:09.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-206839",
+    "summary": "Pointed dripstones cause extreme durability damage to helmets",
+    "labels": [
+      "mojang_internal_1",
+      "pointed_dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w51a",
+      "21w20a"
+    ],
+    "creation_date": "2020-11-27T19:24:18.000+0200",
+    "resolution_date": "2021-05-19T17:42:38.000+0300",
+    "updated_date": "2021-05-19T17:42:38.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-206601",
+    "summary": "Potion particles are showing when looking through spyglass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-25T20:25:41.000+0200",
+    "resolution_date": "2021-05-17T10:14:48.000+0300",
+    "updated_date": "2021-05-17T10:14:48.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-206131",
+    "summary": "Amethyst blocks are transparent / don't conduct Redstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-20T04:03:30.000+0200",
+    "resolution_date": "2021-05-18T15:02:47.000+0300",
+    "updated_date": "2021-05-18T15:02:47.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-206107",
+    "summary": "Parrots sitting on shoulders do not freeze in powder snow",
+    "labels": [
+      "powder_snow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-19T23:25:08.000+0200",
+    "resolution_date": "2021-05-18T15:02:38.000+0300",
+    "updated_date": "2021-05-18T15:02:38.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-205680",
+    "summary": "minecraft:location_check predicate floating point imprecision",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-15T06:05:26.000+0200",
+    "resolution_date": "2021-05-17T12:17:50.000+0300",
+    "updated_date": "2021-05-17T13:30:57.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-205250",
+    "summary": "Amethyst geodes can generate in a stronghold and can potentially destroy the end portal frames",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-12T02:51:03.000+0200",
+    "resolution_date": "2021-05-24T19:27:36.000+0300",
+    "updated_date": "2021-08-18T21:42:55.000+0300",
+    "watches": 16,
+    "votes": 24
+  },
+  {
+    "id": "MC-205120",
+    "summary": "Freezing hearts aren't displayed properly in Programmer Art resource pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-11T19:46:23.000+0200",
+    "resolution_date": "2021-05-17T12:17:09.000+0300",
+    "updated_date": "2021-05-17T12:17:09.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-205104",
+    "summary": "Rideable mobs are not affected by powder snow's freezing effect while being ridden",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-11T19:33:08.000+0200",
+    "resolution_date": "2021-05-18T15:02:39.000+0300",
+    "updated_date": "2021-05-18T15:02:39.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-204902",
+    "summary": "Dirt paths are no longer compatible with the programmer art resource pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-10T02:36:28.000+0200",
+    "resolution_date": "2021-05-17T12:17:08.000+0300",
+    "updated_date": "2021-05-17T17:41:58.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-204393",
+    "summary": "Lava Cauldron emits redstone signal strength 1 instead of 3",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-06T18:59:46.000+0200",
+    "resolution_date": "2021-05-19T13:18:54.000+0300",
+    "updated_date": "2021-05-19T13:18:54.000+0300",
+    "watches": 8,
+    "votes": 19
+  },
+  {
+    "id": "MC-203867",
+    "summary": "Amethyst geodes can overwrite bedrock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-05T03:42:16.000+0200",
+    "resolution_date": "2021-05-18T12:41:29.000+0300",
+    "updated_date": "2021-05-18T12:41:29.000+0300",
+    "watches": 13,
+    "votes": 25
+  },
+  {
+    "id": "MC-203712",
+    "summary": "Amethyst Geodes cause floating water/lava to generate when intersecting water/lava caves/pools",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-11-04T22:55:02.000+0200",
+    "resolution_date": "2021-05-18T12:41:32.000+0300",
+    "updated_date": "2021-05-19T11:40:34.000+0300",
+    "watches": 13,
+    "votes": 32
+  },
+  {
+    "id": "MC-201369",
+    "summary": "Skeletons can cause TNT to explode with mobGreifing set to false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-10-01T22:48:20.000+0300",
+    "resolution_date": "2022-11-03T10:27:30.000+0200",
+    "updated_date": "2022-11-03T10:27:30.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-199702",
+    "summary": "\"netherrack_replace_blobs\" of large size can cause inconsistent generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-09-06T18:33:21.000+0300",
+    "resolution_date": "2021-10-25T12:36:09.000+0300",
+    "updated_date": "2021-10-25T12:36:10.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-198200",
+    "summary": "Crash when leaving out processors in a template pool: java.lang.IllegalArgumentException: bound must be positive",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-08-16T23:43:50.000+0300",
+    "resolution_date": "2021-05-19T17:42:39.000+0300",
+    "updated_date": "2021-05-19T17:42:39.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-197328",
+    "summary": "Entities sometimes don't render behind the water surface on Fast or Fancy graphics",
+    "labels": [
+      "entity",
+      "rendering",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-08-07T15:41:44.000+0300",
+    "resolution_date": "2021-06-03T10:17:24.000+0300",
+    "updated_date": "2021-06-04T10:15:53.000+0300",
+    "watches": 23,
+    "votes": 44
+  },
+  {
+    "id": "MC-192591",
+    "summary": "Name color for Structure Void is incorrect",
+    "labels": [
+      "structure_void"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-06-29T02:38:47.000+0300",
+    "resolution_date": "2021-05-17T12:17:49.000+0300",
+    "updated_date": "2022-10-27T00:52:22.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-191338",
+    "summary": "Name color for Minecart with Command Block is incorrect",
+    "labels": [
+      "command_block_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-06-24T00:15:36.000+0300",
+    "resolution_date": "2021-05-17T12:17:49.000+0300",
+    "updated_date": "2022-10-27T00:52:22.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-189535",
+    "summary": "Catching a fish in a bucket on creative mode doesn't give player new bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-06-14T05:38:18.000+0300",
+    "resolution_date": "2021-05-19T13:19:05.000+0300",
+    "updated_date": "2021-05-19T13:19:05.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-172304",
+    "summary": "Piglins, piglin brutes, hoglins, zoglins and axolotls can attack their own teammates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2020-02-15T08:55:23.000+0200",
+    "resolution_date": "2021-05-18T15:02:46.000+0300",
+    "updated_date": "2021-05-22T02:30:09.000+0300",
+    "watches": 41,
+    "votes": 86
+  },
+  {
+    "id": "MC-166187",
+    "summary": "Some mobs still try to hit players in Peaceful",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2019-11-23T15:05:24.000+0200",
+    "resolution_date": "2021-05-24T19:24:10.000+0300",
+    "updated_date": "2021-05-24T19:24:11.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-149777",
+    "summary": "Crash when loading world: java.util.ConcurrentModificationException when using Java 11 or above",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2019-04-26T11:24:57.000+0300",
+    "resolution_date": "2021-05-18T11:47:34.000+0300",
+    "updated_date": "2021-06-21T13:13:02.000+0300",
+    "watches": 28,
+    "votes": 45
+  },
+  {
+    "id": "MC-137452",
+    "summary": "Bamboo grows in lots of inappropriate places in Bamboo Jungles",
+    "labels": [
+      "bamboo",
+      "block",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2018-10-24T15:07:48.000+0300",
+    "resolution_date": "2021-05-21T10:25:10.000+0300",
+    "updated_date": "2021-05-21T10:57:27.000+0300",
+    "watches": 12,
+    "votes": 20
+  },
+  {
+    "id": "MC-125858",
+    "summary": "Grass / flowers / snow / trees are placed incorrectly in Superflat World",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2018-02-18T16:27:56.000+0200",
+    "resolution_date": "2021-05-27T16:15:05.000+0300",
+    "updated_date": "2021-05-27T16:15:06.000+0300",
+    "watches": 11,
+    "votes": 13
+  },
+  {
+    "id": "MC-106613",
+    "summary": "Shulker no longer continue close or open when it hurt in the peaceful mode",
+    "labels": [
+      "close",
+      "hurt",
+      "open",
+      "peaceful",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2016-08-29T16:25:03.000+0300",
+    "resolution_date": "2021-05-31T21:52:45.000+0300",
+    "updated_date": "2022-10-30T18:50:07.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-102220",
+    "summary": "Barrier Blocks are not shown when \"Show Invisible Blocks\" is selected in Save Structure Blocks",
+    "labels": [
+      "barrier",
+      "invisible-blocks",
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2016-05-19T20:56:43.000+0300",
+    "resolution_date": "2021-05-17T12:17:54.000+0300",
+    "updated_date": "2021-05-17T12:17:54.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-610",
+    "summary": "Grass / Flowers / Snow are placed incorrectly in newly created chunks",
+    "labels": [
+      "biomes",
+      "bulk",
+      "chunks",
+      "double-plant",
+      "grass",
+      "lake",
+      "mojang_internal_1",
+      "plains",
+      "tall_grass",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2012-10-26T01:32:56.000+0300",
+    "resolution_date": "2021-05-19T16:39:32.000+0300",
+    "updated_date": "2021-12-18T01:52:31.000+0200",
+    "watches": 95,
+    "votes": 247
+  }
+]

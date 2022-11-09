@@ -1,0 +1,121 @@
+[
+  {
+    "id": "MC-183769",
+    "summary": "NPE in server initialization",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w20b"
+    ],
+    "creation_date": "2020-05-13T19:16:00.000+0300",
+    "resolution_date": "2020-05-14T10:22:35.000+0300",
+    "updated_date": "2020-05-15T19:48:33.000+0300",
+    "watches": 63,
+    "votes": 114
+  },
+  {
+    "id": "MC-176755",
+    "summary": "Server logs error on start: Unable to bootstrap registry 'minecraft:chunk_generator_type'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w20b"
+    ],
+    "creation_date": "2020-03-30T11:12:27.000+0300",
+    "resolution_date": "2020-05-18T12:35:40.000+0300",
+    "updated_date": "2020-05-18T12:35:40.000+0300",
+    "watches": 18,
+    "votes": 18
+  },
+  {
+    "id": "MC-172737",
+    "summary": "Crafting table menu forgets 'show crafting' setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w20b"
+    ],
+    "creation_date": "2020-02-19T23:48:59.000+0200",
+    "resolution_date": "2020-05-18T16:22:41.000+0300",
+    "updated_date": "2020-05-18T16:22:41.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-145102",
+    "summary": "\"--server\" client launch argument may crash the client on the loading screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w20b"
+    ],
+    "creation_date": "2019-02-28T00:30:19.000+0200",
+    "resolution_date": "2021-03-04T07:26:29.000+0200",
+    "updated_date": "2021-06-16T20:39:11.000+0300",
+    "watches": 11,
+    "votes": 12
+  },
+  {
+    "id": "MC-134057",
+    "summary": "Recipe book preferences don't save",
+    "labels": [
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w20b"
+    ],
+    "creation_date": "2018-07-19T02:03:52.000+0300",
+    "resolution_date": "2020-05-18T16:20:54.000+0300",
+    "updated_date": "2020-11-05T03:03:24.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-44936",
+    "summary": "Extending a potion effect that you already have can cause the timer to display wrongly",
+    "labels": [
+      "/effect",
+      "effect"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w20b"
+    ],
+    "creation_date": "2014-01-15T13:56:10.000+0200",
+    "resolution_date": "2020-05-18T16:15:14.000+0300",
+    "updated_date": "2020-05-18T16:15:14.000+0300",
+    "watches": 5,
+    "votes": 3
+  }
+]

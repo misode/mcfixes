@@ -1,0 +1,810 @@
+[
+  {
+    "id": "MC-189570",
+    "summary": "Middle Mouse Button does not work as a hotbar slot in inventory",
+    "labels": [
+      "hotbar",
+      "inventory",
+      "middle-click"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-14T10:55:22.000+0300",
+    "resolution_date": "2020-07-02T16:39:37.000+0300",
+    "updated_date": "2021-02-22T02:07:27.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-189326",
+    "summary": "Lecterns don't stack with other lecterns after being placed down and broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Inventory"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-13T12:28:17.000+0300",
+    "resolution_date": "2020-06-15T18:02:35.000+0300",
+    "updated_date": "2020-06-15T18:04:19.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-189256",
+    "summary": "Hoglin and zoglin tusks textures are not separate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-13T05:09:44.000+0300",
+    "resolution_date": "2020-06-15T18:53:41.000+0300",
+    "updated_date": "2020-06-15T18:53:41.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-189081",
+    "summary": "Chains create water sources ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-12T21:15:35.000+0300",
+    "resolution_date": "2020-06-15T19:08:59.000+0300",
+    "updated_date": "2020-06-15T19:08:59.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-188987",
+    "summary": "When standing on certain non-full blocks, the player gets pushed off if there is a lower area next to the block",
+    "labels": [
+      "farmland",
+      "grass-path",
+      "player",
+      "pushed",
+      "soul-sand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-12T18:27:17.000+0300",
+    "resolution_date": "2020-06-15T14:31:11.000+0300",
+    "updated_date": "2021-07-15T15:33:29.000+0300",
+    "watches": 95,
+    "votes": 230
+  },
+  {
+    "id": "MC-188702",
+    "summary": "When loading in a redstone dot via a structure block, the dot gets set to a redstone cross",
+    "labels": [
+      "redstone_wire",
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone",
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-11T22:02:30.000+0300",
+    "resolution_date": "2020-06-15T18:17:04.000+0300",
+    "updated_date": "2020-08-14T21:19:50.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-188659",
+    "summary": "New \"swap items with offhand\" feature doesn't work if the control is bound to the 4th or 5th mouse button",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Input",
+      "Inventory"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-11T19:19:07.000+0300",
+    "resolution_date": "2020-06-15T18:53:39.000+0300",
+    "updated_date": "2021-02-22T02:08:46.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-188581",
+    "summary": "Glass placed in item frame isn't rendered properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-11T04:36:20.000+0300",
+    "resolution_date": "2020-06-15T18:53:37.000+0300",
+    "updated_date": "2020-06-15T19:03:45.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-188054",
+    "summary": "Redstone in Jungle Temples does not look like a line",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-07T22:34:02.000+0300",
+    "resolution_date": "2020-06-15T22:02:30.000+0300",
+    "updated_date": "2021-07-14T06:45:57.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-187853",
+    "summary": "Water / Lava doesn't move entities unless they move first",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-06T18:38:36.000+0300",
+    "resolution_date": "2020-06-15T17:55:08.000+0300",
+    "updated_date": "2020-06-15T20:45:50.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-187622",
+    "summary": "Piglins can still remove curse of binding enchanted helmets / carved pumpkins after they've inspected a golden helmet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-05T16:23:05.000+0300",
+    "resolution_date": "2020-06-15T16:56:20.000+0300",
+    "updated_date": "2020-06-15T17:00:20.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-187522",
+    "summary": "Server doesn't generate amplified / large biome worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-05T07:04:55.000+0300",
+    "resolution_date": "2020-06-15T17:14:49.000+0300",
+    "updated_date": "2021-11-24T03:34:59.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-187490",
+    "summary": "Piglins that pick up gold while pathfinding will continue pathfinding",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-05T04:43:27.000+0300",
+    "resolution_date": "2020-06-15T16:56:19.000+0300",
+    "updated_date": "2020-06-30T14:38:05.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-187420",
+    "summary": "Zombified piglins make angry sounds too frequently",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-05T00:59:49.000+0300",
+    "resolution_date": "2020-06-15T16:37:34.000+0300",
+    "updated_date": "2020-07-16T18:40:47.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-187031",
+    "summary": "Piglin swinging animation does not match attacking or targeting animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-06-02T14:09:08.000+0300",
+    "resolution_date": "2020-06-15T16:56:21.000+0300",
+    "updated_date": "2020-07-06T06:18:41.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-186617",
+    "summary": "Zombified piglins sound angry too many times when hit constantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-05-31T01:57:36.000+0300",
+    "resolution_date": "2020-06-15T16:37:34.000+0300",
+    "updated_date": "2020-06-15T16:37:34.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-186614",
+    "summary": "New Nether mobs make too many noises under certain circumstances",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-05-31T01:33:54.000+0300",
+    "resolution_date": "2020-06-15T19:05:27.000+0300",
+    "updated_date": "2020-06-15T19:05:27.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-184813",
+    "summary": "Superflat world corruption when converting the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-05-20T22:43:56.000+0300",
+    "resolution_date": "2020-06-15T17:21:04.000+0300",
+    "updated_date": "2020-06-15T18:51:23.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-184277",
+    "summary": "Last game mode for game mode switcher and F3 + N is always survival after relogging",
+    "labels": [
+      "F3+N",
+      "game-mode-switcher"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-05-17T16:55:50.000+0300",
+    "resolution_date": "2020-06-15T14:56:06.000+0300",
+    "updated_date": "2021-08-18T16:39:57.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-183759",
+    "summary": "Oh Shiny advancement doesn't activate when right clicking",
+    "labels": [
+      "Oh_Shiny",
+      "advancement-trigger"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-05-13T18:52:58.000+0300",
+    "resolution_date": "2020-06-15T17:01:22.000+0300",
+    "updated_date": "2020-06-15T17:43:17.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-182325",
+    "summary": "Iron golem causes lag when it can't attack its enemies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-05-04T03:39:51.000+0300",
+    "resolution_date": "2020-06-15T18:10:39.000+0300",
+    "updated_date": "2020-06-16T09:32:35.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-182309",
+    "summary": "Command autocomplete doesn't sort strings that start with the given word to the top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-05-04T02:02:07.000+0300",
+    "resolution_date": "2020-06-15T17:44:06.000+0300",
+    "updated_date": "2021-07-17T22:32:08.000+0300",
+    "watches": 11,
+    "votes": 13
+  },
+  {
+    "id": "MC-181465",
+    "summary": "Bartering with a piglin with an equipped shield using right click deletes the shield instead of dropping it on the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-04-29T20:36:51.000+0300",
+    "resolution_date": "2020-06-15T16:56:20.000+0300",
+    "updated_date": "2020-06-15T16:56:20.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-178947",
+    "summary": "Explosion damage can be blocked by fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-04-16T06:08:40.000+0300",
+    "resolution_date": "2020-06-15T18:43:32.000+0300",
+    "updated_date": "2020-06-15T19:59:55.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-178573",
+    "summary": "Piglins are afraid of extinguished soul campfires",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-04-14T01:40:52.000+0300",
+    "resolution_date": "2020-06-15T16:56:19.000+0300",
+    "updated_date": "2020-06-17T21:25:32.000+0300",
+    "watches": 4,
+    "votes": 13
+  },
+  {
+    "id": "MC-177929",
+    "summary": "End gateways don't always teleport the player when throwing an ender pearl into it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-04-09T01:19:28.000+0300",
+    "resolution_date": "2020-06-15T17:07:55.000+0300",
+    "updated_date": "2020-06-15T17:07:55.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-177779",
+    "summary": "Zoglins following an enemy do not go through lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-04-08T14:48:14.000+0300",
+    "resolution_date": "2020-06-16T08:07:28.000+0300",
+    "updated_date": "2020-11-04T01:55:40.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-175993",
+    "summary": "Enchantment glint of lodestone compass or enchanted compass/clock jumps when compass/clock rotates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-03-25T19:49:44.000+0200",
+    "resolution_date": "2020-06-15T18:53:40.000+0300",
+    "updated_date": "2020-06-18T11:31:34.000+0300",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-174279",
+    "summary": "Baby piglins don't run from wither skeletons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-03-09T04:18:39.000+0200",
+    "resolution_date": "2020-06-15T16:56:18.000+0300",
+    "updated_date": "2020-06-15T16:56:18.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-173413",
+    "summary": "Lead knot is tied sound plays again when exiting a nether portal",
+    "labels": [
+      "lead",
+      "nether_portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-02-29T03:40:22.000+0200",
+    "resolution_date": "2020-06-15T21:15:21.000+0300",
+    "updated_date": "2020-08-26T14:12:47.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-173285",
+    "summary": "You can set soul soil and soul sand on normal fire with command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-02-27T11:32:17.000+0200",
+    "resolution_date": "2020-06-18T22:16:15.000+0300",
+    "updated_date": "2020-06-18T22:16:15.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-172592",
+    "summary": "Breaking a larger than normally possible Nether portal makes the game crash with a java.lang.StackOverflowError",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-02-17T09:56:55.000+0200",
+    "resolution_date": "2020-06-15T19:00:13.000+0300",
+    "updated_date": "2020-06-15T21:26:36.000+0300",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-172442",
+    "summary": "Piglins don't spawn with enchanted gear",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-02-16T03:58:29.000+0200",
+    "resolution_date": "2020-06-15T18:32:06.000+0300",
+    "updated_date": "2020-06-15T18:32:06.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-172027",
+    "summary": "Datafixer for minecraft:recipes/misc/composter advancement is missing",
+    "labels": [
+      "advancement",
+      "composter"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-02-13T18:32:02.000+0200",
+    "resolution_date": "2020-06-15T16:21:08.000+0300",
+    "updated_date": "2020-06-15T16:21:08.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-171543",
+    "summary": "Ravagers can easily be knocked back with the knockback enchantment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2020-02-08T18:32:44.000+0200",
+    "resolution_date": "2020-06-15T19:19:50.000+0300",
+    "updated_date": "2020-06-15T19:19:50.000+0300",
+    "watches": 1,
+    "votes": 8
+  },
+  {
+    "id": "MC-167554",
+    "summary": "Enchantment glint on shields is rendered incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2019-12-11T11:54:21.000+0200",
+    "resolution_date": "2020-06-15T18:53:40.000+0300",
+    "updated_date": "2020-06-15T18:53:40.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-167386",
+    "summary": "binding hotbar hotkeys to mouse thumb button won't interact the way it should",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2019-12-09T12:51:50.000+0200",
+    "resolution_date": "2020-06-15T18:53:39.000+0300",
+    "updated_date": "2020-06-16T09:45:03.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-166593",
+    "summary": "Zombie villagers in zombie villages aren't persistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2019-11-27T11:15:44.000+0200",
+    "resolution_date": "2020-06-15T18:23:19.000+0300",
+    "updated_date": "2020-06-15T18:23:19.000+0300",
+    "watches": 3,
+    "votes": 13
+  },
+  {
+    "id": "MC-163333",
+    "summary": "Plains houses and decorations can generate in taiga villages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2019-10-10T20:48:26.000+0300",
+    "resolution_date": "2020-06-15T18:02:35.000+0300",
+    "updated_date": "2020-06-15T18:02:35.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-45749",
+    "summary": "Potion particles spread always from the north-west corner of a block, regardless of impact ",
+    "labels": [
+      "corner",
+      "incorrect-particle-generation",
+      "north-west",
+      "particle",
+      "splash-potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 14w05b",
+      "1.16 Pre-release 6"
+    ],
+    "creation_date": "2014-01-24T18:15:17.000+0200",
+    "resolution_date": "2020-06-15T17:07:55.000+0300",
+    "updated_date": "2021-10-17T02:36:32.000+0300",
+    "watches": 23,
+    "votes": 52
+  }
+]

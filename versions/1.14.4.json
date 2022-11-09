@@ -1,0 +1,465 @@
+[
+  {
+    "id": "MC-156576",
+    "summary": "Villager trade prices vary by a large amount",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-07-12T08:22:40.000+0300",
+    "resolution_date": "2019-07-22T16:38:38.000+0300",
+    "updated_date": "2019-07-22T16:38:38.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-154303",
+    "summary": "Server can freeze for several minutes (when recalculating light levels?)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-06-10T16:41:53.000+0300",
+    "resolution_date": "2019-08-30T20:25:31.000+0300",
+    "updated_date": "2019-08-30T20:25:31.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-151892",
+    "summary": "Villagers have trouble pathfinding to workstations",
+    "labels": [
+      "AI",
+      "POI",
+      "Villager",
+      "Villagers",
+      "pathfind",
+      "pathfinding",
+      "workplace-block",
+      "workstations"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-05-15T03:48:41.000+0300",
+    "resolution_date": "2019-07-31T23:56:40.000+0300",
+    "updated_date": "2021-02-08T15:34:31.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-148979",
+    "summary": "Animal pen fences don't connect to blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-04-21T19:51:53.000+0300",
+    "resolution_date": "2019-08-07T17:46:09.000+0300",
+    "updated_date": "2019-08-07T17:46:09.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-148539",
+    "summary": "Villagers stuck pathfinding to long destroyed bed",
+    "labels": [
+      "bed",
+      "village",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-04-17T20:33:40.000+0300",
+    "resolution_date": "2019-07-19T20:23:09.000+0300",
+    "updated_date": "2019-07-19T20:23:09.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-148426",
+    "summary": "Inconsistency in laguange files",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-04-16T17:21:59.000+0300",
+    "resolution_date": "2019-09-14T23:16:13.000+0300",
+    "updated_date": "2019-09-14T23:16:20.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-148392",
+    "summary": "Raiders can spawn in inappropriate places",
+    "labels": [
+      "mob-spawning",
+      "pillager",
+      "raid"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-04-15T23:47:45.000+0300",
+    "resolution_date": "2019-09-18T20:33:31.000+0300",
+    "updated_date": "2019-09-18T20:33:31.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-145380",
+    "summary": "Lag and high CPU use even with no players online, from the end, caused by 'chunkSource'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-03-05T11:18:04.000+0200",
+    "resolution_date": "2019-07-23T14:25:59.000+0300",
+    "updated_date": "2019-07-23T14:25:59.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-145101",
+    "summary": "Players and foxes don't produce teleportation particles after eating chorus fruit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-02-28T00:18:32.000+0200",
+    "resolution_date": "2019-09-06T17:08:24.000+0300",
+    "updated_date": "2019-09-06T17:08:24.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-143497",
+    "summary": "Villagers Entity Coordinates (Sometimes) Reset When Loading World",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2019-02-01T05:18:59.000+0200",
+    "resolution_date": "2019-09-14T18:58:56.000+0300",
+    "updated_date": "2019-09-14T18:58:56.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-130053",
+    "summary": "Mobs don't pathfind up snow banks unless the snow block before the full block is exactly 0.5 blocks high",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2018-05-22T08:27:06.000+0300",
+    "resolution_date": "2019-08-07T17:46:01.000+0300",
+    "updated_date": "2019-08-07T17:46:02.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-128946",
+    "summary": "Chest and hopper minecarts drop items when teleporting between dimensions",
+    "labels": [
+      "/teleport",
+      "/tp",
+      "chest_minecart",
+      "hopper_minecart",
+      "scoreboard"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2018-04-25T16:06:43.000+0300",
+    "resolution_date": "2020-01-07T23:54:37.000+0200",
+    "updated_date": "2020-01-07T23:54:59.000+0200",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-125503",
+    "summary": "Player model changes when sneaking while swimming",
+    "labels": [
+      "player-model",
+      "sneaking",
+      "swimming"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2018-02-15T20:04:12.000+0200",
+    "resolution_date": "2019-10-01T02:27:18.000+0300",
+    "updated_date": "2019-10-01T02:31:42.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-118622",
+    "summary": "Area in which parrots dance is larger in negative directions",
+    "labels": [
+      "dancing",
+      "jukebox",
+      "parrot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2017-06-12T14:31:50.000+0300",
+    "resolution_date": "2019-08-07T17:46:20.000+0300",
+    "updated_date": "2019-08-07T17:46:20.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-112561",
+    "summary": "Mobs can't go from a carpet to an upper block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2017-01-16T13:28:03.000+0200",
+    "resolution_date": "2019-11-24T12:33:21.000+0200",
+    "updated_date": "2019-11-24T13:16:44.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-109263",
+    "summary": "Fishing line changes its position after switching from rod in hotbar",
+    "labels": [
+      "fishing_rod"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2016-10-27T15:09:39.000+0300",
+    "resolution_date": "2019-09-11T09:56:10.000+0300",
+    "updated_date": "2021-01-16T15:36:51.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-106800",
+    "summary": "When selecting a server with a LAN server in the list, pressing the down key when selecting the last server will crash",
+    "labels": [
+      "crash",
+      "lan-world",
+      "server-list"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2016-09-04T17:52:15.000+0300",
+    "resolution_date": "2019-11-19T17:03:01.000+0200",
+    "updated_date": "2020-06-13T13:46:37.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-104870",
+    "summary": "Mobs can't pathfind up stairs if there's carpet at the bottom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2016-07-01T09:27:30.000+0300",
+    "resolution_date": "2019-08-07T17:45:52.000+0300",
+    "updated_date": "2019-08-07T17:45:52.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-94805",
+    "summary": "Difficulty doesn't lock in singleplayer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2015-12-25T21:21:03.000+0200",
+    "resolution_date": "2019-09-15T13:12:40.000+0300",
+    "updated_date": "2019-09-15T13:12:56.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-93485",
+    "summary": "Game freeze when quitting world instantly before Ender Dragon respawn sequence begins",
+    "labels": [
+      "end",
+      "ender_crystal",
+      "ender_dragon",
+      "freeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2015-11-29T13:12:39.000+0200",
+    "resolution_date": "2019-07-26T02:09:26.000+0300",
+    "updated_date": "2019-07-26T02:09:27.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-73139",
+    "summary": "Player and entities don't render at Y>=256 or Y<0 when facing some angles",
+    "labels": [
+      "invisible",
+      "player"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.8.7",
+      "1.14.4"
+    ],
+    "creation_date": "2014-10-16T22:48:00.000+0300",
+    "resolution_date": "2019-11-10T18:18:37.000+0200",
+    "updated_date": "2019-11-10T18:18:37.000+0200",
+    "watches": 19,
+    "votes": 28
+  },
+  {
+    "id": "MC-44912",
+    "summary": "Horizontal offset seating in minecart on diagonal tracks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4"
+    ],
+    "creation_date": "2014-01-15T00:06:52.000+0200",
+    "resolution_date": "2020-02-13T16:26:56.000+0200",
+    "updated_date": "2020-02-13T16:26:56.000+0200",
+    "watches": 1,
+    "votes": 3
+  }
+]

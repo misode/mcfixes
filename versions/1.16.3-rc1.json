@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MC-198678",
+    "summary": "Giving an item and a gold ingot to a baby piglin and killing it duplicates the item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.3 Release Candidate 1"
+    ],
+    "creation_date": "2020-08-22T13:22:16.000+0300",
+    "resolution_date": "2020-09-01T12:49:50.000+0300",
+    "updated_date": "2021-12-01T22:34:41.000+0200",
+    "watches": 12,
+    "votes": 5
+  },
+  {
+    "id": "MC-196449",
+    "summary": "Piglins, Piglin Brutes, Hoglins and Zoglins have trouble pathfinding to the player when attacking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.3 Release Candidate 1"
+    ],
+    "creation_date": "2020-07-29T19:30:41.000+0300",
+    "resolution_date": "2020-08-25T15:39:58.000+0300",
+    "updated_date": "2021-09-10T04:24:02.000+0300",
+    "watches": 7,
+    "votes": 29
+  },
+  {
+    "id": "MC-159335",
+    "summary": "Armor dropped from mobs can have negative durability",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.3 Release Candidate 1"
+    ],
+    "creation_date": "2019-08-22T10:59:40.000+0300",
+    "resolution_date": "2021-05-16T06:47:23.000+0300",
+    "updated_date": "2021-05-16T06:47:24.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-135164",
+    "summary": "Mobs do not stop holding blocks/items after dropping them upon death, leading to visual duplication",
+    "labels": [
+      "duplication"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.3 Release Candidate 1"
+    ],
+    "creation_date": "2018-07-28T22:21:39.000+0300",
+    "resolution_date": "2021-02-25T01:39:43.000+0200",
+    "updated_date": "2021-04-27T11:02:04.000+0300",
+    "watches": 12,
+    "votes": 13
+  }
+]

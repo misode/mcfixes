@@ -1,0 +1,374 @@
+[
+  {
+    "id": "MC-252078",
+    "summary": "Allays no longer flee or panic when taking damage",
+    "labels": [
+      "ai",
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-23T05:49:46.000+0300",
+    "resolution_date": "2022-05-24T17:43:31.000+0300",
+    "updated_date": "2022-05-24T17:43:31.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-252071",
+    "summary": "Warden still detects after death if signal is traveling before death",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-23T00:47:08.000+0300",
+    "resolution_date": "2022-05-25T12:07:45.000+0300",
+    "updated_date": "2022-05-25T12:07:45.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-251968",
+    "summary": "/execute running chat related commands logs \"Received chat packet without valid signature\" warning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-20T13:26:58.000+0300",
+    "resolution_date": "2022-05-25T12:23:23.000+0300",
+    "updated_date": "2022-06-29T16:56:23.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-251878",
+    "summary": "Sculk sensors hearing items being dropped on the ground doesn't alert shriekers even if a player drops it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-19T00:17:07.000+0300",
+    "resolution_date": "2022-05-24T16:13:23.000+0300",
+    "updated_date": "2022-05-24T16:13:23.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-251872",
+    "summary": "The game output and server console are logged with warnings regarding chat packets with invalid signatures when using entity selectors within commands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-18T21:52:19.000+0300",
+    "resolution_date": "2022-05-25T11:41:53.000+0300",
+    "updated_date": "2022-06-15T21:12:23.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-251858",
+    "summary": "Subtitles are higher than in previous versions",
+    "labels": [
+      "subtitles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-18T19:09:52.000+0300",
+    "resolution_date": "2022-05-24T17:37:38.000+0300",
+    "updated_date": "2022-05-24T17:37:38.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-251420",
+    "summary": "Demo Mode: The \"Purchase Now!\" link's destination is incorrect",
+    "labels": [
+      "demo-mode",
+      "link"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-06T18:26:29.000+0300",
+    "resolution_date": "2022-05-25T11:55:25.000+0300",
+    "updated_date": "2022-05-25T11:55:25.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-251220",
+    "summary": "Block lighting on extended parts are a lot darker in 22w17a compared to 1.18.2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-05-01T22:17:56.000+0300",
+    "resolution_date": "2022-05-25T11:34:53.000+0300",
+    "updated_date": "2022-05-25T11:34:53.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-250983",
+    "summary": "Allays can get stuck and freeze inside non-full blocks",
+    "labels": [
+      "allay",
+      "non-solid-blocks",
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-04-28T01:53:32.000+0300",
+    "resolution_date": "2022-05-24T17:21:53.000+0300",
+    "updated_date": "2022-07-15T22:00:46.000+0300",
+    "watches": 9,
+    "votes": 17
+  },
+  {
+    "id": "MC-250238",
+    "summary": "Frogs attempt to pathfind to entities outside of their reach causing them to spin and twitch constantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-04-16T12:39:27.000+0300",
+    "resolution_date": "2022-05-25T11:11:40.000+0300",
+    "updated_date": "2022-07-07T03:24:11.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-250162",
+    "summary": "Placing a map in an item frame will break any intersecting paintings and item frames with a map inside",
+    "labels": [
+      "glow_item_frame",
+      "item_frame",
+      "painting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-04-13T22:26:56.000+0300",
+    "resolution_date": "2022-05-24T18:07:38.000+0300",
+    "updated_date": "2022-05-25T10:08:35.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-249230",
+    "summary": "Frogs prioritize eating entities over panicking when being damaged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-03-18T21:31:16.000+0200",
+    "resolution_date": "2022-05-24T16:46:52.000+0300",
+    "updated_date": "2022-05-24T16:46:52.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-249097",
+    "summary": "Sides and bottoms of sculk shrieker not culled by solid blocks",
+    "labels": [
+      "cullface-missing-from-model"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-03-16T19:39:16.000+0200",
+    "resolution_date": "2022-05-25T18:26:08.000+0300",
+    "updated_date": "2022-05-25T18:26:08.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-249094",
+    "summary": "Unexpected culling of inner sculk shrieker faces",
+    "labels": [
+      "unneccessary-cullface"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w15a",
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2022-03-16T19:34:20.000+0200",
+    "resolution_date": "2022-05-24T17:01:44.000+0300",
+    "updated_date": "2022-05-24T18:40:30.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-214622",
+    "summary": "Sculk sensors do not detect daylight detector mode switching",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2021-02-09T14:27:42.000+0200",
+    "resolution_date": "2022-05-24T15:28:23.000+0300",
+    "updated_date": "2022-05-24T15:28:23.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-210278",
+    "summary": "Sculk sensors are not activated upon bees entering or leaving their hive or nest",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2021-01-02T14:51:08.000+0200",
+    "resolution_date": "2022-05-24T15:20:37.000+0300",
+    "updated_date": "2022-05-24T15:20:37.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-210277",
+    "summary": "Sculk sensors are not activated upon chickens laying eggs",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2021-01-02T14:51:05.000+0200",
+    "resolution_date": "2022-05-24T15:37:36.000+0300",
+    "updated_date": "2022-05-24T15:37:36.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-209932",
+    "summary": "Sculk sensors only detect the last turtle egg being broken when being stepped on",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 3"
+    ],
+    "creation_date": "2020-12-29T18:20:10.000+0200",
+    "resolution_date": "2022-05-24T16:13:23.000+0300",
+    "updated_date": "2022-05-24T16:13:23.000+0300",
+    "watches": 6,
+    "votes": 11
+  }
+]

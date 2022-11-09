@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-254529",
+    "summary": "Warning and information toasts can overlap one another",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Release Candidate 3"
+    ],
+    "creation_date": "2022-07-24T13:16:15.000+0300",
+    "resolution_date": "2022-07-26T17:21:50.000+0300",
+    "updated_date": "2022-07-26T17:21:50.000+0300",
+    "watches": 1,
+    "votes": 0
+  }
+]

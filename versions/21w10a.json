@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "MC-217020",
+    "summary": "Gold ore and deepslate gold ore textures are inconsistent",
+    "labels": [
+      "deepslate_gold_ore",
+      "gold_ore",
+      "textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-25T19:44:32.000+0200",
+    "resolution_date": "2021-03-10T19:08:06.000+0200",
+    "updated_date": "2021-03-19T02:35:16.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-216817",
+    "summary": "Inconsistency: Cobbled deepslate cannot be smelted back into deepslate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-24T21:45:03.000+0200",
+    "resolution_date": "2021-03-08T10:46:34.000+0200",
+    "updated_date": "2021-03-08T10:46:34.000+0200",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-216765",
+    "summary": "Coal ore can generate below Y=0 when attached to a fossil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-24T20:35:12.000+0200",
+    "resolution_date": "2021-03-10T09:48:39.000+0200",
+    "updated_date": "2021-03-10T09:48:39.000+0200",
+    "watches": 4,
+    "votes": 17
+  },
+  {
+    "id": "MC-216738",
+    "summary": "Deepslate diamond ore texture is shifted a pixel to the right",
+    "labels": [
+      "diamond-ore",
+      "ore",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-24T20:12:30.000+0200",
+    "resolution_date": "2021-03-10T19:08:41.000+0200",
+    "updated_date": "2021-03-10T19:08:41.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-216736",
+    "summary": "Lava lakes generate exposed in caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-24T20:11:52.000+0200",
+    "resolution_date": "2021-02-26T12:12:14.000+0200",
+    "updated_date": "2021-04-18T15:51:59.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-216735",
+    "summary": "Stone Lapis Ore generating in Deepslate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-24T20:11:18.000+0200",
+    "resolution_date": "2021-03-10T15:32:04.000+0200",
+    "updated_date": "2021-03-10T15:32:04.000+0200",
+    "watches": 11,
+    "votes": 30
+  },
+  {
+    "id": "MC-216510",
+    "summary": "The world border red effect, affects the brightness of a mob's shader",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-22T11:52:44.000+0200",
+    "resolution_date": "2021-03-18T02:39:08.000+0200",
+    "updated_date": "2021-05-04T14:40:20.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-216492",
+    "summary": "Fox incorrectly holding spyglass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-22T05:42:11.000+0200",
+    "resolution_date": "2021-03-12T05:57:33.000+0200",
+    "updated_date": "2021-03-12T05:57:51.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-216363",
+    "summary": "Crash upon replacing soul sand or magma with the other under a tall bubble column using /setblock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-20T23:21:09.000+0200",
+    "resolution_date": "2021-03-10T14:51:23.000+0200",
+    "updated_date": "2021-03-10T14:51:23.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-216136",
+    "summary": "Polished deepslate slab isn't grouped with the other deepslate slabs in creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-19T04:14:58.000+0200",
+    "resolution_date": "2021-02-25T17:43:10.000+0200",
+    "updated_date": "2021-03-21T22:05:10.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-215939",
+    "summary": "Emerald ore spawns in lower frequencies than it should above y=100",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-18T01:18:01.000+0200",
+    "resolution_date": "2021-03-10T15:31:51.000+0200",
+    "updated_date": "2021-03-10T15:31:51.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-215850",
+    "summary": "Deepslate Tile Wall comes before Deepslate Brick Wall but Deepslate Bricks come before Deepslate Tiles in creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-17T20:09:21.000+0200",
+    "resolution_date": "2021-02-25T17:43:10.000+0200",
+    "updated_date": "2021-03-21T22:12:53.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-215847",
+    "summary": "Infested stone generates in deepslate areas below mountain biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-17T20:04:44.000+0200",
+    "resolution_date": "2021-03-12T05:55:05.000+0200",
+    "updated_date": "2021-04-07T16:15:01.000+0300",
+    "watches": 3,
+    "votes": 16
+  },
+  {
+    "id": "MC-215838",
+    "summary": "There is currently no way to craft deepslate tiles and deepslate bricks",
+    "labels": [
+      "crafting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-17T19:50:01.000+0200",
+    "resolution_date": "2021-02-25T17:46:11.000+0200",
+    "updated_date": "2021-02-25T18:05:28.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-215534",
+    "summary": "Spectating a mob with a shader whilst having a carved pumpkin equipped turns the screen completely white",
+    "labels": [
+      "spectator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-14T21:58:24.000+0200",
+    "resolution_date": "2021-03-11T17:25:44.000+0200",
+    "updated_date": "2021-03-12T15:55:33.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-215194",
+    "summary": "Structure blocks do not work below y=0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-12T08:46:35.000+0200",
+    "resolution_date": "2021-03-02T11:07:00.000+0200",
+    "updated_date": "2021-03-02T11:07:00.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-214970",
+    "summary": "Phantoms continously make too much flapping sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Game Events",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-11T02:28:31.000+0200",
+    "resolution_date": "2021-03-02T11:57:51.000+0200",
+    "updated_date": "2021-03-02T11:57:51.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-214844",
+    "summary": "Bedrock can be exposed to the air at the very bottom of the new caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w07a",
+      "21w10a"
+    ],
+    "creation_date": "2021-02-10T21:12:53.000+0200",
+    "resolution_date": "2021-02-26T12:12:14.000+0200",
+    "updated_date": "2021-07-05T16:21:58.000+0300",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-214836",
+    "summary": "Water caves cause land to be excessively flooded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-10T21:04:22.000+0200",
+    "resolution_date": "2021-03-04T16:59:14.000+0200",
+    "updated_date": "2021-03-08T14:29:56.000+0200",
+    "watches": 10,
+    "votes": 19
+  },
+  {
+    "id": "MC-214784",
+    "summary": "Fossils can generate floating in caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-10T20:14:16.000+0200",
+    "resolution_date": "2021-03-10T09:48:39.000+0200",
+    "updated_date": "2021-04-18T15:57:17.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-214781",
+    "summary": "Lava does not generate at the very bottom of noise caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-10T20:10:24.000+0200",
+    "resolution_date": "2021-02-26T12:12:14.000+0200",
+    "updated_date": "2021-02-26T12:12:14.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-214629",
+    "summary": "FOV decreases when underwater regardless of FOV Effects accessibility setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-09T15:09:28.000+0200",
+    "resolution_date": "2021-03-01T11:41:48.000+0200",
+    "updated_date": "2021-03-01T11:41:48.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-213825",
+    "summary": "Using bone meal on a moss block only spreads moss to blocks on the same Y level",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-02-03T21:28:59.000+0200",
+    "resolution_date": "2021-03-11T17:26:25.000+0200",
+    "updated_date": "2021-03-11T17:26:25.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-212325",
+    "summary": "Glow Squid entity data (potion effects, custom name, ...) does not get saved",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-21T17:18:59.000+0200",
+    "resolution_date": "2021-03-08T12:16:30.000+0200",
+    "updated_date": "2021-03-09T02:00:25.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-212314",
+    "summary": "Glow squid remains dark even if there is a light source block next to it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-21T16:30:39.000+0200",
+    "resolution_date": "2021-03-08T12:16:30.000+0200",
+    "updated_date": "2021-03-08T12:16:30.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-212236",
+    "summary": "Cannot visually critical-hit a glow squid (No sound/particles)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-21T00:11:01.000+0200",
+    "resolution_date": "2021-03-08T12:16:31.000+0200",
+    "updated_date": "2021-03-08T12:16:31.000+0200",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-212216",
+    "summary": "Repeatedly clicking on a sign with an ink sac or glow ink sac abruptly stops the hand animation",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-20T21:57:33.000+0200",
+    "resolution_date": "2021-03-22T04:25:35.000+0200",
+    "updated_date": "2021-03-22T04:25:36.000+0200",
+    "watches": 4,
+    "votes": 0
+  },
+  {
+    "id": "MC-212168",
+    "summary": "Ctrl + Pick Block doesn't copy block state \"lit\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-20T19:44:51.000+0200",
+    "resolution_date": "2021-03-08T12:16:33.000+0200",
+    "updated_date": "2022-04-08T22:45:23.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-212144",
+    "summary": "Subtitles refer to Glow Item Frame as \"Item Frame\"",
+    "labels": [
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-20T18:33:15.000+0200",
+    "resolution_date": "2021-03-08T12:16:33.000+0200",
+    "updated_date": "2021-03-31T06:27:57.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-212127",
+    "summary": "Normal ink sac and glow ink sac are not grouped in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-20T18:07:04.000+0200",
+    "resolution_date": "2021-03-08T12:16:31.000+0200",
+    "updated_date": "2022-01-01T14:08:18.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-211666",
+    "summary": "Guardians attack invisible axolotls",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-17T07:24:41.000+0200",
+    "resolution_date": "2021-03-02T11:57:50.000+0200",
+    "updated_date": "2021-03-02T11:57:50.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-210408",
+    "summary": "/spawnpoint allows players to set their spawnpoint to out-of-bounds coordinates, which crashes the game when trying to respawn",
+    "labels": [
+      "command",
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2021-01-03T18:47:41.000+0200",
+    "resolution_date": "2021-03-10T14:51:24.000+0200",
+    "updated_date": "2021-03-13T17:24:58.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-208836",
+    "summary": "Villager incorrectly holding spyglass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-12-17T22:18:15.000+0200",
+    "resolution_date": "2021-03-12T06:01:30.000+0200",
+    "updated_date": "2021-03-12T06:01:30.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-208301",
+    "summary": "/clear does not properly affect the item on the mouse pointer after crafting it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-12-13T04:03:23.000+0200",
+    "resolution_date": "2021-02-26T12:00:10.000+0200",
+    "updated_date": "2021-03-04T17:08:45.000+0200",
+    "watches": 12,
+    "votes": 18
+  },
+  {
+    "id": "MC-207818",
+    "summary": "Placing a sign from the offhand closes the sign UI immediately",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-12-06T23:47:04.000+0200",
+    "resolution_date": "2021-03-02T11:57:52.000+0200",
+    "updated_date": "2021-03-02T16:16:32.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-206628",
+    "summary": "Emptied Bundles have an empty Item Tag",
+    "labels": [
+      "bundle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-11-25T22:18:55.000+0200",
+    "resolution_date": "2021-04-16T04:30:34.000+0300",
+    "updated_date": "2022-11-02T15:34:29.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-205112",
+    "summary": "Enchantment glint appears white while inside powder snow",
+    "labels": [
+      "parity",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-11-11T19:40:52.000+0200",
+    "resolution_date": "2021-03-13T14:35:35.000+0200",
+    "updated_date": "2021-03-13T14:35:36.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-204782",
+    "summary": "The glowing effect outline no longer renders (Intel Graphics on macOS)",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-11-09T02:07:08.000+0200",
+    "resolution_date": "2021-03-11T00:49:32.000+0200",
+    "updated_date": "2021-03-13T12:45:03.000+0200",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-201316",
+    "summary": "The /give command can create so many items that the game will freeze",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-10-01T01:32:14.000+0300",
+    "resolution_date": "2021-03-10T14:51:24.000+0200",
+    "updated_date": "2021-03-10T14:51:24.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-194675",
+    "summary": "While spectating a creeper, enderman, spider or cave spider, UI elements are rendered completely white",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-07-12T10:36:43.000+0300",
+    "resolution_date": "2021-03-12T02:49:51.000+0200",
+    "updated_date": "2021-08-18T16:39:56.000+0300",
+    "watches": 11,
+    "votes": 22
+  },
+  {
+    "id": "MC-186864",
+    "summary": "Leather armour can appear white",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-06-01T12:58:50.000+0300",
+    "resolution_date": "2021-03-13T17:38:05.000+0200",
+    "updated_date": "2021-03-13T17:38:05.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-182455",
+    "summary": "Entity shadow texture glitching with resource pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-05-05T02:02:03.000+0300",
+    "resolution_date": "2021-03-19T00:20:14.000+0200",
+    "updated_date": "2021-03-19T01:06:03.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-175964",
+    "summary": "Setblock command run by book in lectern to clear inventory run in command block causes ghost items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-03-25T14:33:13.000+0200",
+    "resolution_date": "2021-02-26T12:00:11.000+0200",
+    "updated_date": "2021-02-26T12:00:11.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-173834",
+    "summary": "Glowing damaged iron golem outline shows cracks",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a",
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2020-03-05T05:33:37.000+0200",
+    "resolution_date": "2021-05-31T22:43:54.000+0300",
+    "updated_date": "2021-05-31T22:43:55.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-166850",
+    "summary": " Iron golem high crack texture overlaps the low and medium cracks, causing the crack textures to look the same",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2019-11-30T07:04:00.000+0200",
+    "resolution_date": "2022-09-29T02:53:16.000+0300",
+    "updated_date": "2022-09-29T02:53:17.000+0300",
+    "watches": 5,
+    "votes": 20
+  },
+  {
+    "id": "MC-165208",
+    "summary": "Text and other UI elements are completely black when being affected by night vision and the void/blindness simultaneously",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2019-11-08T17:02:34.000+0200",
+    "resolution_date": "2021-03-22T07:34:03.000+0200",
+    "updated_date": "2021-05-05T01:16:45.000+0300",
+    "watches": 22,
+    "votes": 40
+  },
+  {
+    "id": "MC-154094",
+    "summary": "Lectern running /clear turns items into ghost items",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2019-06-08T05:06:32.000+0300",
+    "resolution_date": "2021-02-26T12:00:11.000+0200",
+    "updated_date": "2021-02-26T12:00:12.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-148206",
+    "summary": "Hand punching animation is played after eating crops while looking at a block",
+    "labels": [
+      "animation",
+      "crops",
+      "eat",
+      "eating",
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2019-04-14T01:36:39.000+0300",
+    "resolution_date": "2021-06-06T16:49:38.000+0300",
+    "updated_date": "2021-06-06T16:49:38.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-148071",
+    "summary": "If you switch to a crossbow after charging another bow/crossbow, the crossbow you switched to will go weird for a second in the hotbar",
+    "labels": [
+      "animation",
+      "bow",
+      "crossbow",
+      "hotbar"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2019-04-13T13:06:13.000+0300",
+    "resolution_date": "2021-06-06T16:49:21.000+0300",
+    "updated_date": "2021-06-06T16:49:22.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-135561",
+    "summary": "Failed to create OpenGL context on some Linux systems with Nvidia driver",
+    "labels": [
+      "crash",
+      "lwjgl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2018-08-04T06:35:05.000+0300",
+    "resolution_date": "2021-05-20T15:31:01.000+0300",
+    "updated_date": "2021-05-20T15:31:02.000+0300",
+    "watches": 10,
+    "votes": 8
+  },
+  {
+    "id": "MC-124109",
+    "summary": "Horses glitched with glowing effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2018-01-10T05:58:54.000+0200",
+    "resolution_date": "2021-03-11T06:52:58.000+0200",
+    "updated_date": "2021-04-26T11:44:32.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-93243",
+    "summary": "Fog Rendering On AMD Graphics Cards & Integrated Graphics",
+    "labels": [
+      "fog",
+      "rendering",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2015-11-23T19:51:37.000+0200",
+    "resolution_date": "2021-03-11T17:24:20.000+0200",
+    "updated_date": "2021-07-05T20:07:34.000+0300",
+    "watches": 12,
+    "votes": 19
+  },
+  {
+    "id": "MC-87019",
+    "summary": "Only visible slots are updated clientside when you are inside an inventory",
+    "labels": [
+      "/clear",
+      "/replaceitem",
+      "inventory"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2015-08-22T18:05:01.000+0300",
+    "resolution_date": "2021-02-26T12:00:12.000+0200",
+    "updated_date": "2021-02-26T12:00:12.000+0200",
+    "watches": 17,
+    "votes": 25
+  },
+  {
+    "id": "MC-86994",
+    "summary": "Fake map item by clearing filled_map from inventory",
+    "labels": [
+      "ghost-item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2015-08-22T10:24:55.000+0300",
+    "resolution_date": "2022-05-15T13:51:29.000+0300",
+    "updated_date": "2022-05-15T13:51:29.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-84121",
+    "summary": "Shape of glow effect is based on mob's base layer ",
+    "labels": [
+      "glow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2015-07-31T02:48:13.000+0300",
+    "resolution_date": "2021-03-10T16:38:37.000+0200",
+    "updated_date": "2021-03-11T15:20:50.000+0200",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-32452",
+    "summary": "Fog generates only in the centre of the screen",
+    "labels": [
+      "center",
+      "centre",
+      "fog",
+      "screen"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2013-09-23T20:38:39.000+0300",
+    "resolution_date": "2021-03-11T17:24:49.000+0200",
+    "updated_date": "2021-08-18T16:39:36.000+0300",
+    "watches": 19,
+    "votes": 37
+  },
+  {
+    "id": "MC-29318",
+    "summary": "Client misses inventory updates while player is manipulating items - causes invisible items",
+    "labels": [
+      "inventory",
+      "invisible",
+      "item",
+      "replaceitem",
+      "slot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2013-08-24T14:54:07.000+0300",
+    "resolution_date": "2021-02-26T12:00:10.000+0200",
+    "updated_date": "2022-07-09T15:30:31.000+0300",
+    "watches": 22,
+    "votes": 39
+  }
+]

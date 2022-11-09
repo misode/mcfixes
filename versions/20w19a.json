@@ -1,0 +1,900 @@
+[
+  {
+    "id": "MC-182595",
+    "summary": "Parity issue: Blackstone doesn't generate in ore veins in nether wastes",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Parity",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-05-05T23:45:58.000+0300",
+    "resolution_date": "2020-05-06T13:31:15.000+0300",
+    "updated_date": "2020-06-16T11:52:42.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-181944",
+    "summary": "Font of category/section text in creative mode item selection screen is much thicker than in 1.15.2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-05-01T17:42:57.000+0300",
+    "resolution_date": "2020-05-06T12:12:51.000+0300",
+    "updated_date": "2020-05-06T12:58:34.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-181566",
+    "summary": "Powered redstone dust only generates particles at the center of the block",
+    "labels": [
+      "incorrect-particle-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-30T00:47:13.000+0300",
+    "resolution_date": "2020-05-06T15:07:37.000+0300",
+    "updated_date": "2021-10-17T02:29:21.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-181524",
+    "summary": "Redstone does not visually connect when going up soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-29T22:51:49.000+0300",
+    "resolution_date": "2020-05-06T15:07:37.000+0300",
+    "updated_date": "2021-03-23T21:07:12.000+0200",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-181479",
+    "summary": "Map marker labels do not render properly",
+    "labels": [
+      "map",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-29T21:08:45.000+0300",
+    "resolution_date": "2020-05-06T13:47:58.000+0300",
+    "updated_date": "2020-08-23T20:40:35.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-181461",
+    "summary": "Enchantement glint doesn't render on shields, tridents and elytra",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-29T20:32:37.000+0300",
+    "resolution_date": "2020-05-06T13:47:57.000+0300",
+    "updated_date": "2020-07-04T15:23:08.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-181424",
+    "summary": "Fish (and other items from fishing) cannot be caught with a fishing rod",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-29T19:26:07.000+0300",
+    "resolution_date": "2020-05-06T12:28:19.000+0300",
+    "updated_date": "2020-12-27T22:47:42.000+0200",
+    "watches": 52,
+    "votes": 103
+  },
+  {
+    "id": "MC-181418",
+    "summary": "Entity names can no longer be colored",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-29T19:08:04.000+0300",
+    "resolution_date": "2020-05-06T13:47:58.000+0300",
+    "updated_date": "2020-06-07T20:47:03.000+0300",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-181353",
+    "summary": "Warped and Crimson Doors have no hinges",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-29T04:31:00.000+0300",
+    "resolution_date": "2020-05-06T12:36:58.000+0300",
+    "updated_date": "2020-05-06T12:36:58.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-180575",
+    "summary": "Dispensers now always plays \"dispenser failed\" when dispensing glowstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-25T00:22:02.000+0300",
+    "resolution_date": "2020-05-06T14:25:09.000+0300",
+    "updated_date": "2020-05-06T14:25:09.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-180407",
+    "summary": "Piglin bartering is limited to dropping a single item stack from the loot table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-24T13:25:17.000+0300",
+    "resolution_date": "2020-05-06T12:49:22.000+0300",
+    "updated_date": "2020-05-06T12:57:16.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-180372",
+    "summary": "Loading old beta or 1.0 worlds crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-24T07:47:53.000+0300",
+    "resolution_date": "2020-05-11T11:33:02.000+0300",
+    "updated_date": "2020-05-11T18:14:25.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-180297",
+    "summary": "Player name color in list appears too dark",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-23T23:53:40.000+0300",
+    "resolution_date": "2020-05-06T13:47:58.000+0300",
+    "updated_date": "2020-06-02T23:27:00.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-180064",
+    "summary": "Piglins would rather use an unenchanted crossbow instead of an enchanted crossbow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-23T05:31:03.000+0300",
+    "resolution_date": "2020-05-09T11:42:28.000+0300",
+    "updated_date": "2020-05-09T11:42:40.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-179989",
+    "summary": "Smithing Table and Anvil UI does not have \"Inventory\" title above player inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-23T00:09:09.000+0300",
+    "resolution_date": "2020-05-06T14:25:07.000+0300",
+    "updated_date": "2020-05-06T18:06:48.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-178487",
+    "summary": "Saddles on untamed horses no longer render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-13T12:38:37.000+0300",
+    "resolution_date": "2020-05-06T13:47:59.000+0300",
+    "updated_date": "2020-05-06T13:50:37.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-177839",
+    "summary": "Blackstone and blackstone walls use the blackstone side face on the bottom, while blackstone stairs and slabs use the blackstone top face on the bottom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-04-08T19:28:57.000+0300",
+    "resolution_date": "2020-05-06T12:12:51.000+0300",
+    "updated_date": "2021-02-24T23:35:29.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-176356",
+    "summary": "'Distance by Strider' statistic is missing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-03-26T21:29:26.000+0200",
+    "resolution_date": "2020-05-06T21:23:20.000+0300",
+    "updated_date": "2020-05-06T21:23:20.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-175251",
+    "summary": "Fish are spawning in with extremely high numbers. Over 200 different entities of cod every five minutes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-03-18T23:16:58.000+0200",
+    "resolution_date": "2020-05-06T18:07:33.000+0300",
+    "updated_date": "2020-05-06T18:07:34.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-174909",
+    "summary": "Endermen don't teleport when on magma blocks",
+    "labels": [
+      "Enderman",
+      "enderman",
+      "magma_block",
+      "nether"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-03-15T19:24:06.000+0200",
+    "resolution_date": "2020-05-06T12:49:22.000+0300",
+    "updated_date": "2020-05-06T12:59:20.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-174648",
+    "summary": "You can unhighlight the recipe book button of crafting interfaces ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-03-12T21:09:32.000+0200",
+    "resolution_date": "2020-05-13T02:30:23.000+0300",
+    "updated_date": "2020-05-13T02:30:23.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-174568",
+    "summary": "Rail updates are 3-4x times laggier since 1.13",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-03-12T03:12:57.000+0200",
+    "resolution_date": "2020-05-06T18:27:58.000+0300",
+    "updated_date": "2020-05-07T05:40:53.000+0300",
+    "watches": 15,
+    "votes": 33
+  },
+  {
+    "id": "MC-174024",
+    "summary": "Spawn rates for dolphins and squid are higher than before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-03-07T00:37:03.000+0200",
+    "resolution_date": "2020-05-07T00:47:46.000+0300",
+    "updated_date": "2020-05-07T00:47:46.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-173115",
+    "summary": "Mobs can spawn inside of wither roses",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-02-25T23:34:44.000+0200",
+    "resolution_date": "2020-05-06T12:49:22.000+0300",
+    "updated_date": "2020-08-22T02:51:24.000+0300",
+    "watches": 11,
+    "votes": 21
+  },
+  {
+    "id": "MC-173015",
+    "summary": "Crimson roots, Warped roots, and Nether sprouts are not randomly offset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-02-23T23:12:00.000+0200",
+    "resolution_date": "2020-05-06T14:25:07.000+0300",
+    "updated_date": "2020-05-06T14:25:07.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-172899",
+    "summary": "Piglins with blocks (pumpkins) equipped on their heads show z-fighting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-02-22T17:24:37.000+0200",
+    "resolution_date": "2020-05-06T13:47:59.000+0300",
+    "updated_date": "2021-02-23T17:50:37.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-172524",
+    "summary": "Letters of name tag render inconsistently when sneaking (within the same name tag)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-02-16T20:46:08.000+0200",
+    "resolution_date": "2020-05-06T13:47:58.000+0300",
+    "updated_date": "2020-10-24T15:07:38.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-172107",
+    "summary": "Piglins and Hoglins don't get zombified in the end",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-02-14T18:03:13.000+0200",
+    "resolution_date": "2020-05-06T12:49:21.000+0300",
+    "updated_date": "2020-05-06T15:25:04.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-170612",
+    "summary": "Villagers spawned by meeting points have frozen AI and do not move when that chunk is freshly generated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2020-01-31T12:50:57.000+0200",
+    "resolution_date": "2020-05-06T17:16:28.000+0300",
+    "updated_date": "2020-05-06T22:14:19.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-168673",
+    "summary": "Iron Golems congregate all in the same place in some villages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-12-23T16:15:22.000+0200",
+    "resolution_date": "2020-05-07T15:50:14.000+0300",
+    "updated_date": "2020-05-07T15:50:14.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-168139",
+    "summary": "Enchanted armor pieces worn by entities lose their enchantment glint when looked at from certain angles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-12-16T10:21:31.000+0200",
+    "resolution_date": "2020-05-07T15:58:58.000+0300",
+    "updated_date": "2021-01-13T04:27:27.000+0200",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-166764",
+    "summary": "Villagers spawned on world generation have a lower follow range than villagers spawned by other means",
+    "labels": [
+      "followRange",
+      "generating",
+      "pathfinding",
+      "village",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-11-29T09:49:34.000+0200",
+    "resolution_date": "2020-05-06T17:15:55.000+0300",
+    "updated_date": "2020-08-12T01:26:32.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-164205",
+    "summary": "Endermen do not spawn in the end if difficulty is set to easy",
+    "labels": [
+      "enderman"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-10-20T19:11:50.000+0300",
+    "resolution_date": "2020-05-12T18:03:28.000+0300",
+    "updated_date": "2020-05-12T18:03:28.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-160250",
+    "summary": "Naturally generated villagers are not pathfinding towards their POI; POI detection range is too small",
+    "labels": [
+      "AI",
+      "bed",
+      "pathfinding",
+      "villager",
+      "workstations"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-09-01T09:36:00.000+0300",
+    "resolution_date": "2020-05-06T17:16:23.000+0300",
+    "updated_date": "2020-08-16T12:50:13.000+0300",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-158542",
+    "summary": "Iron Golems don't stop spawning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-08-07T02:44:26.000+0300",
+    "resolution_date": "2020-05-06T18:48:13.000+0300",
+    "updated_date": "2020-05-22T00:58:54.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-157077",
+    "summary": "Villagers will not sleep in beds at night",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-07-19T01:06:50.000+0300",
+    "resolution_date": "2020-05-06T17:16:33.000+0300",
+    "updated_date": "2020-12-18T09:05:06.000+0200",
+    "watches": 12,
+    "votes": 17
+  },
+  {
+    "id": "MC-152170",
+    "summary": "When a villager takes the bed of another villager then the bed's previous owner will not look for a new bed",
+    "labels": [
+      "bed",
+      "villagers"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-05-18T00:26:16.000+0300",
+    "resolution_date": "2020-12-16T22:04:36.000+0200",
+    "updated_date": "2020-12-16T22:06:22.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-152084",
+    "summary": "Villagers occasionally stand up out of beds at night, then can never sleep in that bed again",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2019-05-17T06:04:52.000+0300",
+    "resolution_date": "2020-05-06T16:57:15.000+0300",
+    "updated_date": "2020-06-16T13:51:09.000+0300",
+    "watches": 26,
+    "votes": 45
+  },
+  {
+    "id": "MC-145862",
+    "summary": "Villagers try to sleep in occupied beds",
+    "labels": [
+      "bed",
+      "villager",
+      "villager-sleeping"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 19w14a",
+      "Minecraft 1.14.1 Pre-Release 1",
+      "20w19a"
+    ],
+    "creation_date": "2019-03-14T17:13:15.000+0200",
+    "resolution_date": "2020-05-06T17:16:39.000+0300",
+    "updated_date": "2021-04-08T03:28:51.000+0300",
+    "watches": 14,
+    "votes": 22
+  },
+  {
+    "id": "MC-132236",
+    "summary": "When executing /reload and then pressing L to open advancements, it instead tells me that there are no advancements unless I click",
+    "labels": [
+      "/reload",
+      "advancement"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2018-06-28T15:44:59.000+0300",
+    "resolution_date": "2020-05-11T09:57:17.000+0300",
+    "updated_date": "2020-05-22T07:50:19.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-125613",
+    "summary": "Datapack tag \"stairs\" does not use #wooden_stairs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2018-02-16T14:41:43.000+0200",
+    "resolution_date": "2020-05-06T12:17:32.000+0300",
+    "updated_date": "2020-05-06T12:17:32.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-116293",
+    "summary": "Functioning clock and compass in recipe book",
+    "labels": [
+      "clock",
+      "compass",
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2017-04-18T20:49:35.000+0300",
+    "resolution_date": "2020-05-06T12:04:57.000+0300",
+    "updated_date": "2022-04-19T10:41:26.000+0300",
+    "watches": 15,
+    "votes": 43
+  },
+  {
+    "id": "MC-89956",
+    "summary": "Levitation has no effect if gliding with elytra",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2015-10-07T20:37:22.000+0300",
+    "resolution_date": "2020-05-06T12:04:56.000+0300",
+    "updated_date": "2022-02-18T21:09:31.000+0200",
+    "watches": 16,
+    "votes": 36
+  },
+  {
+    "id": "MC-87949",
+    "summary": "The shield use statistic is not working",
+    "labels": [
+      "blocking",
+      "scoreboard",
+      "shield",
+      "statistics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w19a"
+    ],
+    "creation_date": "2015-09-03T00:39:57.000+0300",
+    "resolution_date": "2020-05-06T14:25:08.000+0300",
+    "updated_date": "2020-05-06T14:25:08.000+0300",
+    "watches": 23,
+    "votes": 42
+  }
+]

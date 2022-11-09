@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "MC-164778",
+    "summary": "Parrots can still imitate endermen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-31T17:47:56.000+0200",
+    "resolution_date": "2019-11-07T16:32:30.000+0200",
+    "updated_date": "2020-05-18T14:04:31.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-164759",
+    "summary": "Potions held by witches float above their arm",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-31T12:58:26.000+0200",
+    "resolution_date": "2019-11-07T09:39:38.000+0200",
+    "updated_date": "2019-11-07T09:39:38.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-164732",
+    "summary": "When lighting a campfire below a beehive, the campfire does not light up and instead, the hive starts to burn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-31T01:58:11.000+0200",
+    "resolution_date": "2019-11-04T13:42:15.000+0200",
+    "updated_date": "2019-11-05T00:34:03.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-164593",
+    "summary": "Transparent block model displays do not render inside faces like normal blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-28T06:27:08.000+0200",
+    "resolution_date": "2019-11-27T23:39:17.000+0200",
+    "updated_date": "2019-11-27T23:39:17.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-164514",
+    "summary": "Blazes and Ghasts can light campfires even when mobGriefing is false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-26T21:42:08.000+0300",
+    "resolution_date": "2019-11-04T13:42:13.000+0200",
+    "updated_date": "2019-11-08T02:14:58.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-164485",
+    "summary": "Superflat preset icons cause text to not render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-26T06:54:12.000+0300",
+    "resolution_date": "2019-11-07T09:39:40.000+0200",
+    "updated_date": "2019-11-07T09:43:21.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-164448",
+    "summary": "While trading with villagers, the experience progress bar shoots beyond the gui",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-25T19:16:44.000+0300",
+    "resolution_date": "2019-11-07T09:39:40.000+0200",
+    "updated_date": "2019-11-07T09:39:40.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-164397",
+    "summary": "Birches no longer generate in Dark Forest biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-24T22:10:33.000+0300",
+    "resolution_date": "2019-11-07T14:19:32.000+0200",
+    "updated_date": "2020-01-28T22:55:42.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-164289",
+    "summary": "Entity shadows cause clouds behind them to not render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-22T07:47:45.000+0300",
+    "resolution_date": "2019-11-07T09:39:36.000+0200",
+    "updated_date": "2019-11-07T09:39:36.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-164121",
+    "summary": "Entities in spawners are rendered too dark",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-19T15:17:51.000+0300",
+    "resolution_date": "2019-11-07T09:39:28.000+0200",
+    "updated_date": "2019-11-07T09:39:28.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-164114",
+    "summary": "Falling blocks no longer support glowing effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-19T13:18:34.000+0300",
+    "resolution_date": "2019-11-07T09:39:33.000+0200",
+    "updated_date": "2019-11-08T17:45:51.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-164070",
+    "summary": "Dispensed Armor Stands only face south",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-18T23:13:22.000+0300",
+    "resolution_date": "2019-11-04T13:42:14.000+0200",
+    "updated_date": "2019-11-04T13:42:14.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-164020",
+    "summary": "Bees are not taking pollen from tall flowers anymore",
+    "labels": [
+      "bee",
+      "flower",
+      "pathfind",
+      "pathfinding",
+      "tall-flower"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-18T01:56:43.000+0300",
+    "resolution_date": "2019-11-06T12:50:45.000+0200",
+    "updated_date": "2019-11-06T12:50:45.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-164012",
+    "summary": "3D inventory models transformed into 2D inventory models have a non-transparent background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-17T23:48:49.000+0300",
+    "resolution_date": "2019-11-07T09:39:26.000+0200",
+    "updated_date": "2019-11-07T09:47:55.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-163870",
+    "summary": "Advancements menu still isn't clipped properly on small GUI scale",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-16T20:49:34.000+0300",
+    "resolution_date": "2019-11-07T09:39:41.000+0200",
+    "updated_date": "2019-11-07T09:39:41.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-163854",
+    "summary": "Breaking animation is flipped horizontally on some sides",
+    "labels": [
+      "breaking-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-16T19:49:30.000+0300",
+    "resolution_date": "2019-11-07T09:39:31.000+0200",
+    "updated_date": "2019-11-07T09:39:32.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-163789",
+    "summary": "Mysterious blinking pixels when in lava",
+    "labels": [
+      "Lava",
+      "pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-16T01:08:16.000+0300",
+    "resolution_date": "2019-11-07T09:39:31.000+0200",
+    "updated_date": "2020-03-19T18:38:10.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-163412",
+    "summary": "Elder guardian particle is rendering too dark",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-11T16:40:07.000+0300",
+    "resolution_date": "2019-11-07T20:11:48.000+0200",
+    "updated_date": "2019-11-07T20:11:48.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-163353",
+    "summary": "Left wings and legs of the ender dragon are shaded darker than right wings and legs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-11T00:08:00.000+0300",
+    "resolution_date": "2019-11-07T09:39:35.000+0200",
+    "updated_date": "2020-08-10T19:17:11.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-163282",
+    "summary": "Shadows are z-fighting when riding an entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-10T15:16:26.000+0300",
+    "resolution_date": "2019-11-07T09:39:36.000+0200",
+    "updated_date": "2019-11-07T09:39:36.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-163270",
+    "summary": "Sign in sign editing GUI is too dark",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a",
+      "1.15 Pre-release 3",
+      "1.15 Pre-release 6"
+    ],
+    "creation_date": "2019-10-10T13:45:50.000+0300",
+    "resolution_date": "2019-11-28T17:31:02.000+0200",
+    "updated_date": "2019-12-06T14:57:17.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-163242",
+    "summary": "Blocks on armor stands render shadows based on camera vector",
+    "labels": [
+      "inventory",
+      "item-model",
+      "rendering",
+      "shading"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a",
+      "19w45a"
+    ],
+    "creation_date": "2019-10-10T08:15:05.000+0300",
+    "resolution_date": "2019-11-07T09:39:27.000+0200",
+    "updated_date": "2020-09-21T19:57:28.000+0300",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-163233",
+    "summary": "Entity shadows render in front of block hitboxes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-10T07:41:51.000+0300",
+    "resolution_date": "2019-11-07T09:39:37.000+0200",
+    "updated_date": "2019-11-07T09:39:37.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-163144",
+    "summary": "World border is rendered in front of all non-transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-10T00:25:55.000+0300",
+    "resolution_date": "2019-11-07T09:39:39.000+0200",
+    "updated_date": "2020-05-30T15:04:27.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-163113",
+    "summary": "Placing a banner cause an error in the game output",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-09T23:03:47.000+0300",
+    "resolution_date": "2019-11-07T09:39:19.000+0200",
+    "updated_date": "2019-11-07T09:39:19.000+0200",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-163084",
+    "summary": "Beacon beam lighting depends on viewing angle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-09T21:52:26.000+0300",
+    "resolution_date": "2019-11-07T09:39:28.000+0200",
+    "updated_date": "2019-11-07T09:39:28.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-163079",
+    "summary": "Chunk borders are rendered in front of all non-transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-09T21:39:44.000+0300",
+    "resolution_date": "2019-11-07T09:39:24.000+0200",
+    "updated_date": "2019-11-07T09:39:24.000+0200",
+    "watches": 10,
+    "votes": 18
+  },
+  {
+    "id": "MC-163064",
+    "summary": "Character skin is too dark in inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-09T21:01:42.000+0300",
+    "resolution_date": "2019-11-07T09:39:24.000+0200",
+    "updated_date": "2021-01-22T08:29:26.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-163054",
+    "summary": "Bee Flower tracking/pollination AI broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-09T20:36:11.000+0300",
+    "resolution_date": "2019-11-06T11:53:56.000+0200",
+    "updated_date": "2019-11-06T11:53:56.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-163048",
+    "summary": "Barrier particle changes to a random texture after changing resource pack",
+    "labels": [
+      "barrier",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-09T20:09:02.000+0300",
+    "resolution_date": "2019-11-07T09:39:34.000+0200",
+    "updated_date": "2019-11-07T09:39:34.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-163012",
+    "summary": "Bees no longer have an animation while pollinating flowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-09T19:30:42.000+0300",
+    "resolution_date": "2019-11-06T11:53:43.000+0200",
+    "updated_date": "2019-11-06T12:13:23.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-162905",
+    "summary": "Kelp naturally generates with 'age' too low",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-07T01:24:08.000+0300",
+    "resolution_date": "2019-11-07T16:32:30.000+0200",
+    "updated_date": "2021-09-23T18:39:01.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-162808",
+    "summary": "Poppies are positioned incorrectly when held by an iron golem",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-05T19:59:23.000+0300",
+    "resolution_date": "2019-11-07T09:39:29.000+0200",
+    "updated_date": "2019-11-07T09:39:29.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-162736",
+    "summary": "Text cursor disappears when editing sign text",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-04T22:13:42.000+0300",
+    "resolution_date": "2019-11-07T09:39:30.000+0200",
+    "updated_date": "2019-11-07T09:39:30.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-162569",
+    "summary": "Placing torches in water causes serious lag and stuttering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a",
+      "19w45a"
+    ],
+    "creation_date": "2019-10-02T23:15:27.000+0300",
+    "resolution_date": "2019-11-08T13:31:39.000+0200",
+    "updated_date": "2019-11-08T13:31:39.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-162519",
+    "summary": "Block hitboxes are rendered transparent",
+    "labels": [
+      "translucency-occlusion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-10-02T17:27:58.000+0300",
+    "resolution_date": "2019-11-07T09:39:23.000+0200",
+    "updated_date": "2022-02-28T14:55:04.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-162368",
+    "summary": "Burning mobs are no longer bright",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-30T21:09:32.000+0300",
+    "resolution_date": "2019-11-07T09:39:25.000+0200",
+    "updated_date": "2019-11-07T09:48:09.000+0200",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-162338",
+    "summary": "Entity shadows don't display properly on transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-30T18:05:21.000+0300",
+    "resolution_date": "2019-11-07T09:39:38.000+0200",
+    "updated_date": "2019-11-07T09:39:38.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-162279",
+    "summary": "Beacon beam loses color at high altitudes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-29T23:44:23.000+0300",
+    "resolution_date": "2019-11-07T09:39:35.000+0200",
+    "updated_date": "2019-11-07T09:39:35.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-162078",
+    "summary": "Bees cannot pathfind if they are submerged in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-28T14:51:14.000+0300",
+    "resolution_date": "2019-11-06T11:53:44.000+0200",
+    "updated_date": "2019-11-06T11:53:44.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-162013",
+    "summary": "Player model in inventory is affected by light level ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-28T07:16:07.000+0300",
+    "resolution_date": "2019-11-07T09:39:23.000+0200",
+    "updated_date": "2019-11-07T09:39:23.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-161976",
+    "summary": "Enchanted trident loses enchanted glint when thrown into the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-28T02:44:29.000+0300",
+    "resolution_date": "2019-11-07T09:39:17.000+0200",
+    "updated_date": "2020-03-13T21:40:25.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-161948",
+    "summary": "Models with alpha channel do not render all faces consistently",
+    "labels": [
+      "graphics",
+      "ice",
+      "item",
+      "models",
+      "rendering",
+      "semi-transparent",
+      "slime_block",
+      "stained_glass"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-28T00:35:59.000+0300",
+    "resolution_date": "2019-11-07T09:39:20.000+0200",
+    "updated_date": "2020-08-12T23:02:00.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-161927",
+    "summary": "Pillagers don't have any arms if they aren't carrying a crossbow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-27T23:11:39.000+0300",
+    "resolution_date": "2019-11-07T09:39:29.000+0200",
+    "updated_date": "2020-02-24T02:47:23.000+0200",
+    "watches": 13,
+    "votes": 15
+  },
+  {
+    "id": "MC-161923",
+    "summary": "Breaking animation is rendered behind water and nether portals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-27T22:53:12.000+0300",
+    "resolution_date": "2019-11-07T09:39:22.000+0200",
+    "updated_date": "2019-11-07T09:39:22.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-161896",
+    "summary": "Some transparent items make transparent blocks and beacon beams not render behind them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-27T21:08:11.000+0300",
+    "resolution_date": "2019-11-07T19:57:32.000+0200",
+    "updated_date": "2019-11-30T12:05:21.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-161849",
+    "summary": "Items in inventory, subtitles, background, chat, notifications on the screen and game menu are darker and have a blue tint when you have the night vision effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-27T18:15:58.000+0300",
+    "resolution_date": "2019-11-07T09:39:33.000+0200",
+    "updated_date": "2019-11-09T01:52:44.000+0200",
+    "watches": 4,
+    "votes": 17
+  },
+  {
+    "id": "MC-161302",
+    "summary": "Banners appear blank white for a split of a second when placing them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w39a",
+      "19w45a"
+    ],
+    "creation_date": "2019-09-18T18:08:15.000+0300",
+    "resolution_date": "2019-11-07T09:39:18.000+0200",
+    "updated_date": "2019-11-07T09:39:18.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-161277",
+    "summary": "Graphics card information displays method calls on the debug/F3 screen",
+    "labels": [
+      "debug-screen"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-18T16:22:38.000+0300",
+    "resolution_date": "2019-11-05T18:18:47.000+0200",
+    "updated_date": "2019-11-05T18:18:47.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-161009",
+    "summary": "Bee nests and hives drop in Creative mode even if gamerule doTileDrops is set to false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-13T09:46:19.000+0300",
+    "resolution_date": "2019-11-06T11:54:00.000+0200",
+    "updated_date": "2019-11-06T11:54:00.000+0200",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-161002",
+    "summary": "Endermen don't turn to face you when looked at",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-13T06:12:10.000+0300",
+    "resolution_date": "2019-11-06T17:04:47.000+0200",
+    "updated_date": "2019-11-06T17:04:47.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-160978",
+    "summary": "Foxes not consuming food anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-12T22:02:00.000+0300",
+    "resolution_date": "2019-11-06T17:04:50.000+0200",
+    "updated_date": "2020-10-10T12:30:11.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-160291",
+    "summary": "Bees leave their nest/hive when it is sheared or used to fill bottles, even there is a campfire below it and it is night time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-09-01T22:17:09.000+0300",
+    "resolution_date": "2019-11-06T11:53:48.000+0200",
+    "updated_date": "2019-11-06T12:55:40.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-160177",
+    "summary": "Block breaking animation doesn't show for other players",
+    "labels": [
+      "animation",
+      "block-breaking",
+      "multiplayer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-31T10:21:37.000+0300",
+    "resolution_date": "2019-11-07T09:39:34.000+0200",
+    "updated_date": "2019-11-07T09:39:34.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-159803",
+    "summary": "Bees wander too far from their nest and get lost",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-26T02:08:21.000+0300",
+    "resolution_date": "2019-11-06T12:50:01.000+0200",
+    "updated_date": "2019-11-09T15:55:52.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-159648",
+    "summary": "Bees can claim hives behind walls",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-24T14:37:17.000+0300",
+    "resolution_date": "2019-11-06T11:53:46.000+0200",
+    "updated_date": "2019-11-06T11:53:46.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-159646",
+    "summary": "Bees get stuck on cocoa beans",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-24T14:07:52.000+0300",
+    "resolution_date": "2019-11-06T11:53:57.000+0200",
+    "updated_date": "2020-01-05T15:28:10.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-159576",
+    "summary": "Yiddish is displayed left-to-right instead of right-to-left",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-23T23:17:58.000+0300",
+    "resolution_date": "2019-11-05T15:00:24.000+0200",
+    "updated_date": "2019-11-05T15:00:24.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-159514",
+    "summary": "Bees are flying back to original nest",
+    "labels": [
+      "block",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-23T10:53:34.000+0300",
+    "resolution_date": "2019-11-06T11:53:54.000+0200",
+    "updated_date": "2019-11-06T11:53:54.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-159496",
+    "summary": "Player death uses incorrect sound event",
+    "labels": [
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-23T07:14:20.000+0300",
+    "resolution_date": "2019-11-06T17:04:52.000+0200",
+    "updated_date": "2020-04-15T21:13:01.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-159447",
+    "summary": "Bees occasionally get stuck on fences, fence gates, and walls",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-22T23:46:52.000+0300",
+    "resolution_date": "2019-11-06T11:53:59.000+0200",
+    "updated_date": "2022-05-21T02:00:34.000+0300",
+    "watches": 11,
+    "votes": 25
+  },
+  {
+    "id": "MC-159418",
+    "summary": "Bees do not update their home hive even if there are empty hives nearby",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-22T21:39:21.000+0300",
+    "resolution_date": "2019-11-06T11:53:47.000+0200",
+    "updated_date": "2020-11-17T17:30:25.000+0200",
+    "watches": 18,
+    "votes": 20
+  },
+  {
+    "id": "MC-159410",
+    "summary": "Bees with NoAI can get angry",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-22T21:07:42.000+0300",
+    "resolution_date": "2019-11-06T11:53:51.000+0200",
+    "updated_date": "2020-03-13T21:36:06.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-159368",
+    "summary": "Bees do not follow players holding tall flowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-22T18:46:35.000+0300",
+    "resolution_date": "2019-11-06T11:53:50.000+0200",
+    "updated_date": "2019-11-06T11:53:50.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-159350",
+    "summary": "Bees freeze if they cannot execute their current AI task / Bees don't seem to have a wandering AI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-08-22T16:52:47.000+0300",
+    "resolution_date": "2019-11-06T11:53:53.000+0200",
+    "updated_date": "2021-02-06T16:06:12.000+0200",
+    "watches": 25,
+    "votes": 38
+  },
+  {
+    "id": "MC-155758",
+    "summary": "Endermen don't pick up non collidable blocks",
+    "labels": [
+      "enderman_holdable",
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-07-01T16:31:32.000+0300",
+    "resolution_date": "2019-11-06T17:04:49.000+0200",
+    "updated_date": "2020-01-02T23:51:31.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-155289",
+    "summary": "Mob spawning rate in the Overworld is reduced",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-06-25T20:57:11.000+0300",
+    "resolution_date": "2019-11-07T13:50:32.000+0200",
+    "updated_date": "2020-03-13T21:32:40.000+0200",
+    "watches": 30,
+    "votes": 33
+  },
+  {
+    "id": "MC-153697",
+    "summary": "Iron golems will occasionally attack players in creative/spectator mode",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-06-03T11:54:15.000+0300",
+    "resolution_date": "2019-11-07T16:32:34.000+0200",
+    "updated_date": "2021-08-18T16:39:58.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-153334",
+    "summary": "Cured villagers sell bookshelves for 1 emerald and buy books for 1 emerald, allowing players to easily get an unlimited amount of emeralds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-05-29T08:57:07.000+0300",
+    "resolution_date": "2019-11-04T13:19:14.000+0200",
+    "updated_date": "2021-04-12T22:36:44.000+0300",
+    "watches": 10,
+    "votes": 7
+  },
+  {
+    "id": "MC-152683",
+    "summary": "Spectral Arrow doesn't count for \"Take Aim\" achievement",
+    "labels": [
+      "advancement",
+      "bow",
+      "mojang_internal_1",
+      "spectral-arrow",
+      "take-aim"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-05-23T04:28:36.000+0300",
+    "resolution_date": "2019-11-06T17:04:51.000+0200",
+    "updated_date": "2019-11-06T17:04:51.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-152159",
+    "summary": "You can hit the dragon during its death animation",
+    "labels": [
+      "animation",
+      "ender-dragon",
+      "ender-dragon-death",
+      "hit",
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-05-17T23:04:24.000+0300",
+    "resolution_date": "2019-11-07T16:32:34.000+0200",
+    "updated_date": "2021-08-18T16:39:45.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-149343",
+    "summary": "Chunk block lag when tall spruce tree is grown in that chunk",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-04-24T06:27:45.000+0300",
+    "resolution_date": "2019-11-07T17:26:49.000+0200",
+    "updated_date": "2019-11-07T17:26:49.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-149181",
+    "summary": "Biome blend causes massive stuttering when loading chunks or when placing/breaking blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-04-23T21:14:52.000+0300",
+    "resolution_date": "2019-11-07T17:26:49.000+0200",
+    "updated_date": "2022-08-14T22:31:50.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-147548",
+    "summary": "Terrible performance with large forest fires",
+    "labels": [
+      "block-update",
+      "fire",
+      "forest",
+      "lighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2019-04-06T12:45:57.000+0300",
+    "resolution_date": "2021-11-03T10:07:26.000+0200",
+    "updated_date": "2021-11-03T16:16:08.000+0200",
+    "watches": 23,
+    "votes": 53
+  },
+  {
+    "id": "MC-136757",
+    "summary": "End gateway magenta beam height varies based on the distance from the player",
+    "labels": [
+      "beam",
+      "end-gateway",
+      "gateway"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2018-09-06T05:05:26.000+0300",
+    "resolution_date": "2019-12-08T00:20:03.000+0200",
+    "updated_date": "2019-12-08T00:20:03.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-133877",
+    "summary": "Extreme lag from decaying leaves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2018-07-18T05:03:28.000+0300",
+    "resolution_date": "2019-11-07T17:26:45.000+0200",
+    "updated_date": "2019-11-26T01:27:28.000+0200",
+    "watches": 44,
+    "votes": 89
+  },
+  {
+    "id": "MC-117635",
+    "summary": "Rear legs of sitting tamed wolf are displayed hovering",
+    "labels": [
+      "legs",
+      "sitting",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2017-05-18T16:58:30.000+0300",
+    "resolution_date": "2019-11-07T16:32:33.000+0200",
+    "updated_date": "2021-08-18T16:39:54.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-94013",
+    "summary": "End Stone Bricks are less durable than End Stone and destroyed by the Ender Dragon",
+    "labels": [
+      "blast-resistance",
+      "end_stone",
+      "end_stone_bricks"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2015-12-08T15:09:03.000+0200",
+    "resolution_date": "2019-11-06T17:04:46.000+0200",
+    "updated_date": "2021-02-18T00:53:53.000+0200",
+    "watches": 22,
+    "votes": 52
+  },
+  {
+    "id": "MC-58177",
+    "summary": "Night vision rendered darker and orange when nearing light sources with brightness on moody",
+    "labels": [
+      "brightness",
+      "color",
+      "light",
+      "night-vision",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2014-06-20T10:03:05.000+0300",
+    "resolution_date": "2019-11-08T18:55:25.000+0200",
+    "updated_date": "2021-12-06T05:37:33.000+0200",
+    "watches": 17,
+    "votes": 15
+  },
+  {
+    "id": "MC-24336",
+    "summary": "Withers are harmed by the explosions of their wither skulls",
+    "labels": [
+      "damage",
+      "explosion",
+      "wither",
+      "wither_skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 14w04a",
+      "19w45a"
+    ],
+    "creation_date": "2013-07-09T05:05:31.000+0300",
+    "resolution_date": "2019-11-07T16:32:32.000+0200",
+    "updated_date": "2020-03-13T21:36:27.000+0200",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-3591",
+    "summary": "Cured zombie villagers don't drop picked up items",
+    "labels": [
+      "armor",
+      "cure",
+      "drop",
+      "item",
+      "villager",
+      "zombie_villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a"
+    ],
+    "creation_date": "2012-11-21T08:31:51.000+0200",
+    "resolution_date": "2019-11-06T17:04:44.000+0200",
+    "updated_date": "2020-07-25T21:58:49.000+0300",
+    "watches": 8,
+    "votes": 28
+  }
+]

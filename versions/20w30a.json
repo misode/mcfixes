@@ -1,0 +1,612 @@
+[
+  {
+    "id": "MC-195582",
+    "summary": "Typing a colon twice or after a slash in chat when specifying a function/item/block/etc. in a command crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-07-20T18:57:48.000+0300",
+    "resolution_date": "2020-07-22T10:29:24.000+0300",
+    "updated_date": "2020-07-23T02:36:26.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-195119",
+    "summary": "Villages no longer generate in \"Classic Flat\" Superflat preset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-07-16T06:49:52.000+0300",
+    "resolution_date": "2020-08-08T22:18:12.000+0300",
+    "updated_date": "2020-08-08T22:18:13.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-195052",
+    "summary": "\"angle\" argument in spawnpoint command doesn't use \"minecraft:rotation\" parser",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-07-15T19:22:03.000+0300",
+    "resolution_date": "2020-07-20T10:42:14.000+0300",
+    "updated_date": "2020-07-20T10:42:14.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-194350",
+    "summary": "Some feature configurations don't load in a datapack (java.lang.IllegalArgumentException: value already present: clh@77f95e19)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-07-09T17:47:19.000+0300",
+    "resolution_date": "2020-07-22T15:46:40.000+0300",
+    "updated_date": "2020-07-22T15:46:40.000+0300",
+    "watches": 12,
+    "votes": 18
+  },
+  {
+    "id": "MC-194273",
+    "summary": "Save data of new Nether biomes is lost when upgrading a world to 20w28a or above",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-07-09T07:15:52.000+0300",
+    "resolution_date": "2020-07-21T12:10:02.000+0300",
+    "updated_date": "2020-07-25T06:35:28.000+0300",
+    "watches": 14,
+    "votes": 18
+  },
+  {
+    "id": "MC-193339",
+    "summary": "NullPointerException during shutdown when rcon enabled with no password",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Dedicated Server"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-07-03T02:18:24.000+0300",
+    "resolution_date": "2020-07-20T10:27:46.000+0300",
+    "updated_date": "2020-07-20T10:27:46.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-193276",
+    "summary": "Player floats slightly above strider while riding it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-07-02T19:37:06.000+0300",
+    "resolution_date": "2020-07-22T12:55:48.000+0300",
+    "updated_date": "2020-07-22T12:55:48.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-192296",
+    "summary": "Spider Jockey from a spawner minecart crashes with\"java.lang.IllegalStateException: Entity is already tracked\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Minecart",
+      "Mob spawning"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-27T13:50:07.000+0300",
+    "resolution_date": "2020-07-21T16:27:17.000+0300",
+    "updated_date": "2022-07-07T22:55:16.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-191562",
+    "summary": "\"Cancel\" button overlaps \"Done\" button when uploading a world to Realms, making users unable to upload world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-24T17:06:40.000+0300",
+    "resolution_date": "2020-07-20T15:48:29.000+0300",
+    "updated_date": "2020-07-20T15:48:29.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-191441",
+    "summary": "Right-to-left text is rendered bottom-up in some cases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-24T07:18:01.000+0300",
+    "resolution_date": "2020-07-20T11:31:10.000+0300",
+    "updated_date": "2020-07-20T18:47:31.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-190288",
+    "summary": "Fabulous and Fancy graphics tooltips have missing commas",
+    "labels": [
+      "comma",
+      "fabulous",
+      "fancy",
+      "tooltip"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-18T03:27:18.000+0300",
+    "resolution_date": "2020-07-20T10:27:21.000+0300",
+    "updated_date": "2021-08-18T16:39:45.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-190102",
+    "summary": "Some UI strings are not consistently capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-17T00:23:21.000+0300",
+    "resolution_date": "2020-07-20T10:24:22.000+0300",
+    "updated_date": "2021-08-18T16:39:56.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-189918",
+    "summary": "Multiplayer warning uses \"Mojang\" instead of \"Mojang Studios\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-16T00:26:17.000+0300",
+    "resolution_date": "2020-07-20T10:24:21.000+0300",
+    "updated_date": "2021-08-18T16:39:58.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-188880",
+    "summary": "Baby zombified piglins riding on chickens aren't positioned properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-12T09:54:09.000+0300",
+    "resolution_date": "2020-07-21T18:01:38.000+0300",
+    "updated_date": "2020-07-28T21:38:31.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-188621",
+    "summary": "Mojang \"Production Manager\" credit is indented further than other credits",
+    "labels": [
+      "credits.txt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-11T14:37:41.000+0300",
+    "resolution_date": "2020-07-20T10:24:22.000+0300",
+    "updated_date": "2021-08-18T16:39:44.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-188392",
+    "summary": "Death message for getting shot by a skull is not grammatically correct in all situations",
+    "labels": [
+      "language",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-10T11:13:18.000+0300",
+    "resolution_date": "2020-07-20T10:24:22.000+0300",
+    "updated_date": "2021-08-18T16:39:41.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-188390",
+    "summary": "Comma splices in four strings",
+    "labels": [
+      "language",
+      "punctuation",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-10T10:58:53.000+0300",
+    "resolution_date": "2020-07-20T10:24:21.000+0300",
+    "updated_date": "2021-08-18T16:39:37.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-188389",
+    "summary": "Several minor errors in datapackFailure.title",
+    "labels": [
+      "language",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-10T10:50:28.000+0300",
+    "resolution_date": "2020-07-20T10:27:21.000+0300",
+    "updated_date": "2021-08-18T16:39:51.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-187380",
+    "summary": "Incorrect grammar in en_us translation of pack.dropConfirm",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-04T23:04:54.000+0300",
+    "resolution_date": "2020-07-20T10:27:21.000+0300",
+    "updated_date": "2020-07-20T10:27:21.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-187379",
+    "summary": "Text for pack.incompatible.confirm.new makes no sense",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-04T23:03:35.000+0300",
+    "resolution_date": "2020-07-20T10:27:21.000+0300",
+    "updated_date": "2021-08-18T16:39:34.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-187344",
+    "summary": "Fast graphics tooltip has incorrect 'tree-leaves' spelling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-06-04T21:52:48.000+0300",
+    "resolution_date": "2020-07-20T10:24:21.000+0300",
+    "updated_date": "2021-08-18T16:39:47.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-181925",
+    "summary": "Unarmed vexes raise their arms in an offensive way when attacking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-05-01T15:43:25.000+0300",
+    "resolution_date": "2020-07-20T11:18:06.000+0300",
+    "updated_date": "2022-11-09T18:51:12.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-158767",
+    "summary": "Sleeping beside lava wakes player in lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2019-08-11T01:51:25.000+0300",
+    "resolution_date": "2020-10-17T20:17:53.000+0300",
+    "updated_date": "2020-10-17T20:17:53.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-153195",
+    "summary": "Mobs can drop items with duplicate enchantments",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2019-05-28T02:57:09.000+0300",
+    "resolution_date": "2020-07-20T10:27:47.000+0300",
+    "updated_date": "2020-12-28T00:36:04.000+0200",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-149060",
+    "summary": "Villagers \"spam\" doors by opening and closing them really fast",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2019-04-22T23:03:11.000+0300",
+    "resolution_date": "2020-07-22T12:51:17.000+0300",
+    "updated_date": "2020-11-01T06:41:32.000+0200",
+    "watches": 16,
+    "votes": 34
+  },
+  {
+    "id": "MC-148447",
+    "summary": "Villagers often get stuck while trying to go through a door at the same time",
+    "labels": [
+      "pathfinding",
+      "villagers"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2019-04-16T21:56:31.000+0300",
+    "resolution_date": "2020-07-21T10:12:56.000+0300",
+    "updated_date": "2020-10-10T00:21:22.000+0300",
+    "watches": 9,
+    "votes": 18
+  },
+  {
+    "id": "MC-116857",
+    "summary": "Advancement descriptions use unnecessary capitalization on generic resource names",
+    "labels": [
+      "advancement",
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2017-04-30T20:08:18.000+0300",
+    "resolution_date": "2020-07-20T10:24:21.000+0300",
+    "updated_date": "2021-08-18T16:39:45.000+0300",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-93024",
+    "summary": "Bow From Skeleton Traps enchanted twice with the same enchantment",
+    "labels": [
+      "item",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2015-11-19T21:08:57.000+0200",
+    "resolution_date": "2020-12-28T00:34:33.000+0200",
+    "updated_date": "2021-01-13T02:31:26.000+0200",
+    "watches": 12,
+    "votes": 13
+  },
+  {
+    "id": "MC-57869",
+    "summary": "Some item tooltips use \u00a7 for coloring, rendering them incorrect in right-to-left languages",
+    "labels": [
+      "color",
+      "language",
+      "right-to-left",
+      "style"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 18w01a",
+      "20w30a"
+    ],
+    "creation_date": "2014-06-19T15:57:58.000+0300",
+    "resolution_date": "2020-07-20T11:31:07.000+0300",
+    "updated_date": "2021-09-12T14:52:11.000+0300",
+    "watches": 13,
+    "votes": 19
+  },
+  {
+    "id": "MC-35765",
+    "summary": "Viewing text in Right-to-Left language while in another language renders backwards and non-connected",
+    "labels": [
+      "language"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2013-10-18T08:43:44.000+0300",
+    "resolution_date": "2020-07-20T11:31:07.000+0300",
+    "updated_date": "2022-08-04T17:50:32.000+0300",
+    "watches": 11,
+    "votes": 16
+  }
+]

@@ -1,0 +1,1228 @@
+[
+  {
+    "id": "MC-165876",
+    "summary": "Sand particles don't have gravity anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-19T11:21:20.000+0200",
+    "resolution_date": "2019-11-19T14:50:59.000+0200",
+    "updated_date": "2019-11-24T20:24:46.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-165789",
+    "summary": "Under certain circumstances mob body parts don't render underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-17T13:49:57.000+0200",
+    "resolution_date": "2019-11-22T20:30:58.000+0200",
+    "updated_date": "2020-12-23T19:05:27.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-165727",
+    "summary": "Falling blocks on top of non-full block without block below do not break",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-16T17:05:39.000+0200",
+    "resolution_date": "2019-11-21T18:23:58.000+0200",
+    "updated_date": "2019-12-29T01:17:21.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-165676",
+    "summary": "Aquatic mobs don't move below sea level",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-15T18:28:19.000+0200",
+    "resolution_date": "2019-11-20T18:41:00.000+0200",
+    "updated_date": "2019-11-20T18:41:00.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-165667",
+    "summary": "Hitbox of entities is not rendered through transparent blocks when viewing from certains angles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-15T14:17:48.000+0200",
+    "resolution_date": "2019-11-21T23:01:20.000+0200",
+    "updated_date": "2019-11-21T23:01:20.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-165627",
+    "summary": "Falling blocks glitch through shulkers when the shulker is opening / closing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-14T22:57:00.000+0200",
+    "resolution_date": "2019-11-21T18:23:58.000+0200",
+    "updated_date": "2022-10-30T17:21:51.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-165611",
+    "summary": "Enchantment glint doesn't render in boat interior",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-14T19:12:20.000+0200",
+    "resolution_date": "2019-11-22T15:52:17.000+0200",
+    "updated_date": "2020-05-12T08:03:02.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-165606",
+    "summary": "\"Bee Our Guest\" advancement is only triggered when more then one bottle is in the players hand while right clicking the hive",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-14T18:05:36.000+0200",
+    "resolution_date": "2019-11-21T18:07:21.000+0200",
+    "updated_date": "2019-11-21T18:07:21.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-165605",
+    "summary": "Command starting with / in command block shows error but still works",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-14T17:49:44.000+0200",
+    "resolution_date": "2019-11-20T18:48:20.000+0200",
+    "updated_date": "2019-11-20T18:48:20.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-165573",
+    "summary": "Filled item frames do not show the item when viewed through glass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-14T03:54:34.000+0200",
+    "resolution_date": "2019-11-21T20:08:14.000+0200",
+    "updated_date": "2019-11-21T20:08:14.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-165550",
+    "summary": "Ligthing of slimes and magma cubes becomes dark when they land to the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1",
+      "1.15 Pre-release 3"
+    ],
+    "creation_date": "2019-11-13T22:51:11.000+0200",
+    "resolution_date": "2019-11-28T17:31:00.000+0200",
+    "updated_date": "2019-11-28T17:31:00.000+0200",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-165531",
+    "summary": "Conduit don't render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-13T19:57:32.000+0200",
+    "resolution_date": "2019-12-05T23:16:58.000+0200",
+    "updated_date": "2019-12-05T23:16:58.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-165527",
+    "summary": "Item of advancement pop up is visible on text in the advancement menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-13T19:28:08.000+0200",
+    "resolution_date": "2019-11-19T09:41:11.000+0200",
+    "updated_date": "2019-11-19T09:41:11.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-165524",
+    "summary": "Zombie pigman spawn eggs used on zombie pigmen do not spawn baby zombie pigmen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-13T19:16:12.000+0200",
+    "resolution_date": "2019-11-20T18:48:19.000+0200",
+    "updated_date": "2019-11-20T18:48:19.000+0200",
+    "watches": 2,
+    "votes": 11
+  },
+  {
+    "id": "MC-165497",
+    "summary": "Programmer art shield pattern textures have not been updated to the new resource pack format",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-13T01:08:10.000+0200",
+    "resolution_date": "2019-11-21T17:57:34.000+0200",
+    "updated_date": "2019-11-21T17:57:34.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-165422",
+    "summary": "some player heads will only render behind tinted glass if you look at a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-11T09:02:24.000+0200",
+    "resolution_date": "2019-11-22T21:01:55.000+0200",
+    "updated_date": "2020-02-26T01:23:06.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-165358",
+    "summary": "Entities are sometimes rendered too dark when changing heights",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-10T10:20:48.000+0200",
+    "resolution_date": "2019-11-19T09:41:01.000+0200",
+    "updated_date": "2019-11-19T09:41:02.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-165339",
+    "summary": "Shulker boxes do not render behind transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-10T01:56:18.000+0200",
+    "resolution_date": "2019-11-21T22:42:52.000+0200",
+    "updated_date": "2019-12-08T14:10:07.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-165298",
+    "summary": "Entities are rendered too dark when standing on soul sand or snow layers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-09T14:34:50.000+0200",
+    "resolution_date": "2019-11-19T09:41:00.000+0200",
+    "updated_date": "2019-11-19T09:41:00.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-165276",
+    "summary": "Items held by entities don't render through transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-09T08:25:53.000+0200",
+    "resolution_date": "2019-11-21T20:30:43.000+0200",
+    "updated_date": "2019-11-21T20:30:43.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-165252",
+    "summary": "Banners are rendered completely white when looking at them through transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-09T03:28:39.000+0200",
+    "resolution_date": "2019-11-21T20:17:40.000+0200",
+    "updated_date": "2019-11-21T20:17:40.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-165225",
+    "summary": "Dropped items do not render behind transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-08T20:21:17.000+0200",
+    "resolution_date": "2019-11-21T20:14:41.000+0200",
+    "updated_date": "2020-05-29T16:21:35.000+0300",
+    "watches": 5,
+    "votes": 16
+  },
+  {
+    "id": "MC-165173",
+    "summary": "Bees immediately enter their nests/hives after leaving them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-08T05:59:55.000+0200",
+    "resolution_date": "2019-11-21T18:42:03.000+0200",
+    "updated_date": "2019-11-21T19:57:34.000+0200",
+    "watches": 18,
+    "votes": 24
+  },
+  {
+    "id": "MC-165156",
+    "summary": "Transparent block items no longer render behind transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-08T00:06:37.000+0200",
+    "resolution_date": "2020-03-30T11:16:08.000+0300",
+    "updated_date": "2020-06-09T04:22:46.000+0300",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-165155",
+    "summary": "Block hitboxes no longer render behind transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-08T00:04:45.000+0200",
+    "resolution_date": "2019-11-21T17:58:44.000+0200",
+    "updated_date": "2021-04-19T17:18:07.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-165154",
+    "summary": "Entities riding boats, minecarts or other entities are rendered too dark when their hitbox intersects solid blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-07T23:58:01.000+0200",
+    "resolution_date": "2019-11-19T09:41:02.000+0200",
+    "updated_date": "2019-11-20T20:30:09.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-165153",
+    "summary": "Breaking animation no longer renders behind transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-07T23:43:29.000+0200",
+    "resolution_date": "2019-11-21T20:10:16.000+0200",
+    "updated_date": "2019-11-21T20:10:16.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-165134",
+    "summary": "Entities are rendered too dark when in the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-07T19:39:43.000+0200",
+    "resolution_date": "2019-11-19T09:41:03.000+0200",
+    "updated_date": "2019-11-19T09:41:03.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-165133",
+    "summary": "Ignited TNT appears offset one block to the west",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-07T19:37:49.000+0200",
+    "resolution_date": "2019-11-19T09:41:09.000+0200",
+    "updated_date": "2019-11-22T00:46:23.000+0200",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-164896",
+    "summary": "Chests, boats and beds not shown/transparent behind dropped stained glass",
+    "labels": [
+      "block",
+      "chest",
+      "item",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-11-02T17:56:52.000+0200",
+    "resolution_date": "2019-11-23T21:23:25.000+0200",
+    "updated_date": "2019-11-23T21:27:19.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-164535",
+    "summary": "/playsound uses wrong feedback message for multiple targets",
+    "labels": [
+      "/playsound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a",
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-27T02:21:49.000+0300",
+    "resolution_date": "2019-11-20T18:48:18.000+0200",
+    "updated_date": "2019-11-20T18:48:18.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-164076",
+    "summary": "Transparent texture parts of invisible entities are rendered black when looking at them in spectator mode",
+    "labels": [
+      "spectator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-19T00:25:02.000+0300",
+    "resolution_date": "2019-11-19T09:40:59.000+0200",
+    "updated_date": "2019-11-22T00:47:53.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-163982",
+    "summary": "Semi-transparent entities are rendered behind clouds, transparent blocks, breaking animations, etc.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-17T19:13:25.000+0300",
+    "resolution_date": "2019-11-22T00:51:17.000+0200",
+    "updated_date": "2019-11-22T00:51:17.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-163953",
+    "summary": "/fill command doesn't create block entities for all bocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-17T12:23:52.000+0300",
+    "resolution_date": "2019-11-20T18:58:43.000+0200",
+    "updated_date": "2019-11-20T18:58:43.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-163947",
+    "summary": "When mobs sliding down honey blocks, the subtitles will show footsteps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-17T10:22:18.000+0300",
+    "resolution_date": "2019-11-19T09:42:16.000+0200",
+    "updated_date": "2019-11-19T09:42:16.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-163745",
+    "summary": "Dramatic speed up after falling through cobweb",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-15T11:12:02.000+0300",
+    "resolution_date": "2019-11-19T09:27:13.000+0200",
+    "updated_date": "2019-11-19T09:27:14.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-163560",
+    "summary": "Berry bushes no longer slow down the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-12T22:12:26.000+0300",
+    "resolution_date": "2019-11-19T09:27:13.000+0200",
+    "updated_date": "2019-11-19T09:27:14.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-163553",
+    "summary": "Dragon texture flickering issue",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-12T21:17:47.000+0300",
+    "resolution_date": "2019-11-21T17:57:57.000+0200",
+    "updated_date": "2019-12-03T15:32:29.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-163369",
+    "summary": "Summoning a leash knot using the command is broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-11T04:07:22.000+0300",
+    "resolution_date": "2019-11-22T21:07:18.000+0200",
+    "updated_date": "2019-11-22T21:07:18.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-163308",
+    "summary": "Pillagers still spawning in trees in 1.14.4",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-10T17:49:35.000+0300",
+    "resolution_date": "2019-11-20T18:48:20.000+0200",
+    "updated_date": "2019-11-20T18:48:20.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-161900",
+    "summary": "Advancement menu background is rendered in front of toasts",
+    "labels": [
+      "advancement",
+      "gui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-09-27T21:18:33.000+0300",
+    "resolution_date": "2019-11-19T09:41:10.000+0200",
+    "updated_date": "2019-11-20T19:29:56.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-161844",
+    "summary": "Resource pack version has not been increased, despite resource packs from 1.15 snapshots being incompatible with 1.14 resource packs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-09-27T18:06:50.000+0300",
+    "resolution_date": "2019-11-22T20:33:30.000+0200",
+    "updated_date": "2019-11-22T20:33:30.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-161132",
+    "summary": "Leaves are considered solid faces for block placement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-09-15T09:31:18.000+0300",
+    "resolution_date": "2019-11-20T18:58:42.000+0200",
+    "updated_date": "2019-11-22T17:36:55.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-160931",
+    "summary": "1.15 chunk rendering is slow and laggy",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-09-12T06:09:14.000+0300",
+    "resolution_date": "2019-11-23T22:45:56.000+0200",
+    "updated_date": "2019-11-23T22:46:31.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-152198",
+    "summary": "Actual render distance is 2 chunks lower than render distance setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1",
+      "1.18.1 Release Candidate 1"
+    ],
+    "creation_date": "2019-05-18T06:02:28.000+0300",
+    "resolution_date": "2021-12-09T10:35:12.000+0200",
+    "updated_date": "2021-12-09T10:35:12.000+0200",
+    "watches": 10,
+    "votes": 16
+  },
+  {
+    "id": "MC-151275",
+    "summary": "Rain and snow turns grey when picking up arrows",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-05-09T05:16:05.000+0300",
+    "resolution_date": "2019-11-21T23:40:57.000+0200",
+    "updated_date": "2019-11-21T23:40:57.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-147241",
+    "summary": "Recipe grouping pop-up is darker than it should be",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-04-03T10:21:17.000+0300",
+    "resolution_date": "2019-11-23T11:18:02.000+0200",
+    "updated_date": "2019-11-23T11:18:03.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-146327",
+    "summary": "Reloading resource pack unsticks held item position",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-03-21T09:17:52.000+0200",
+    "resolution_date": "2019-11-24T00:14:30.000+0200",
+    "updated_date": "2019-11-24T00:14:30.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-135110",
+    "summary": "Crash when using outdated resource pack: Non [a-z0-9/._-] character in path of location",
+    "labels": [
+      "crash",
+      "lag",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2018-07-28T08:11:21.000+0300",
+    "resolution_date": "2019-11-19T09:34:17.000+0200",
+    "updated_date": "2019-12-05T16:53:28.000+0200",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-127005",
+    "summary": "Bottom of waterlogged blocks shows water texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2018-03-09T19:09:20.000+0200",
+    "resolution_date": "2019-11-21T22:04:37.000+0200",
+    "updated_date": "2021-02-02T05:00:55.000+0200",
+    "watches": 18,
+    "votes": 49
+  },
+  {
+    "id": "MC-125511",
+    "summary": "Item entity merging ignores Owner tag",
+    "labels": [
+      "Owner",
+      "item",
+      "item-entity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2018-02-15T20:19:27.000+0200",
+    "resolution_date": "2019-11-20T18:48:21.000+0200",
+    "updated_date": "2019-11-20T18:48:21.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-125495",
+    "summary": "Owner tag of item entities is ignored if entity is destroyed in 200 ticks (Age >= 5800)",
+    "labels": [
+      "Age",
+      "Owner",
+      "item",
+      "item-entity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2018-02-15T19:35:31.000+0200",
+    "resolution_date": "2019-11-20T18:48:21.000+0200",
+    "updated_date": "2019-11-20T18:48:21.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-112292",
+    "summary": "Texture for blocks using TileEntitySpecialRenderer is not bound for short moment when entering world and in superflat settings",
+    "labels": [
+      "block",
+      "chest",
+      "ender_chest",
+      "rendering",
+      "shulker_box",
+      "superflat-customization",
+      "texture",
+      "trapped_chest"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2017-01-06T20:34:32.000+0200",
+    "resolution_date": "2019-11-23T19:14:30.000+0200",
+    "updated_date": "2019-11-23T19:14:30.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-94838",
+    "summary": "Comparator affected through gap",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2015-12-26T22:55:29.000+0200",
+    "resolution_date": "2019-11-20T18:48:18.000+0200",
+    "updated_date": "2019-11-20T18:48:18.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-93967",
+    "summary": "The smoke particles of the explosion are displayed when Particles option is set to minimal",
+    "labels": [
+      "explode",
+      "explosion",
+      "particle",
+      "smoke"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2015-12-07T09:55:27.000+0200",
+    "resolution_date": "2021-09-09T10:43:06.000+0300",
+    "updated_date": "2021-10-18T16:59:00.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-90602",
+    "summary": "Chunks don't load correctly/not rendering",
+    "labels": [
+      "chunk",
+      "load",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 15w51a",
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2015-10-14T18:54:45.000+0300",
+    "resolution_date": "2019-11-21T18:24:00.000+0200",
+    "updated_date": "2019-11-22T12:28:28.000+0200",
+    "watches": 66,
+    "votes": 124
+  },
+  {
+    "id": "MC-77652",
+    "summary": "Falling Block does not have uniform transparency/non-transparency in the End",
+    "labels": [
+      "end",
+      "falling_block",
+      "transparent"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2015-02-16T09:29:07.000+0200",
+    "resolution_date": "2019-11-25T12:08:41.000+0200",
+    "updated_date": "2019-11-25T12:08:41.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-63669",
+    "summary": "Comparator Timing Issue",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2014-07-25T12:35:17.000+0300",
+    "resolution_date": "2019-11-20T18:48:16.000+0200",
+    "updated_date": "2020-07-19T01:17:25.000+0300",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-14826",
+    "summary": "Leads in unloaded chunks break, become invisible or connect to an invisible target far away",
+    "labels": [
+      "fence",
+      "horse",
+      "lead",
+      "leash_knot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 15w31b",
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2013-04-28T04:18:49.000+0300",
+    "resolution_date": "2019-11-21T18:24:00.000+0200",
+    "updated_date": "2019-12-15T13:30:46.000+0200",
+    "watches": 93,
+    "votes": 302
+  },
+  {
+    "id": "MC-12211",
+    "summary": "Comparator in subtraction mode does not update visually under certain conditions",
+    "labels": [
+      "redstone",
+      "redstone-comparator",
+      "redstone-signal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2013-03-17T15:21:11.000+0200",
+    "resolution_date": "2019-11-20T18:48:16.000+0200",
+    "updated_date": "2019-11-20T18:48:16.000+0200",
+    "watches": 22,
+    "votes": 45
+  },
+  {
+    "id": "MC-5336",
+    "summary": "Bonus chest doesn't always spawn on 'Snowy Kingdom' preset",
+    "labels": [
+      "bonus-chest",
+      "snow",
+      "snowy-kingdom",
+      "superflat-world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2012-12-25T05:13:46.000+0200",
+    "resolution_date": "2019-11-22T13:14:43.000+0200",
+    "updated_date": "2019-11-22T15:33:17.000+0200",
+    "watches": 7,
+    "votes": 7
+  }
+]

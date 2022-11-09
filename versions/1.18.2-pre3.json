@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MC-248748",
+    "summary": "Explorer maps leading to custom structures can cause the server to hang",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2022-02-22T01:36:23.000+0200",
+    "resolution_date": "2022-02-23T17:04:17.000+0200",
+    "updated_date": "2022-05-10T23:41:05.000+0300",
+    "watches": 9,
+    "votes": 27
+  },
+  {
+    "id": "MC-248680",
+    "summary": "The world freezes on superflat when using the /locate command to find a pillager outpost",
+    "labels": [
+      "lag-spike"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2022-02-19T02:16:03.000+0200",
+    "resolution_date": "2022-02-22T18:51:28.000+0200",
+    "updated_date": "2022-02-23T17:32:00.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-248637",
+    "summary": "Crash when opening singleplayer screen due to StackOverflowError in net.minecraft.nbt.CompoundTag$1.skip",
+    "labels": [
+      "StackOverflowError"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2022-02-16T21:31:00.000+0200",
+    "resolution_date": "2022-02-23T15:52:38.000+0200",
+    "updated_date": "2022-02-23T18:16:31.000+0200",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-248636",
+    "summary": "The game output and server console are logged and spammed with \"Creating a MIN function between two non-overlapping inputs\" when joining or creating a world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2022-02-16T20:38:45.000+0200",
+    "resolution_date": "2022-02-23T11:23:40.000+0200",
+    "updated_date": "2022-02-23T11:23:40.000+0200",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-248618",
+    "summary": "Every time a resource pack is reloaded, gameplay timers and notices reload",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2022-02-14T15:02:51.000+0200",
+    "resolution_date": "2022-02-24T12:41:23.000+0200",
+    "updated_date": "2022-02-24T12:41:23.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-248539",
+    "summary": "/locate command not working properly in Flat Worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2022-02-10T15:36:50.000+0200",
+    "resolution_date": "2022-02-22T18:51:28.000+0200",
+    "updated_date": "2022-02-24T18:48:38.000+0200",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-244772",
+    "summary": "Can't double click to join a realm",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2021-12-06T03:19:57.000+0200",
+    "resolution_date": "2022-02-23T12:38:50.000+0200",
+    "updated_date": "2022-02-23T12:38:50.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-218739",
+    "summary": "Glow berries and glow lichen generation does not cause light updates across chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1",
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2021-03-10T20:39:43.000+0200",
+    "resolution_date": "2022-02-23T13:32:06.000+0200",
+    "updated_date": "2022-03-26T18:23:06.000+0200",
+    "watches": 13,
+    "votes": 18
+  },
+  {
+    "id": "MC-170545",
+    "summary": "macOS: Crash upon entering fullscreen",
+    "labels": [
+      "jvm-crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2020-01-29T12:29:06.000+0200",
+    "resolution_date": "2022-05-10T06:37:33.000+0300",
+    "updated_date": "2022-05-10T06:38:00.000+0300",
+    "watches": 16,
+    "votes": 23
+  }
+]

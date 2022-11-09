@@ -1,0 +1,78 @@
+[
+  {
+    "id": "MC-156574",
+    "summary": "Villager demand values increase/decrease indefinitely",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.14.4 Pre-Release 7"
+    ],
+    "creation_date": "2019-07-12T07:07:06.000+0300",
+    "resolution_date": "2019-07-17T14:38:22.000+0300",
+    "updated_date": "2019-07-17T14:38:22.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-156407",
+    "summary": "Unobtainable (speed) suspicious stew can be obtained from villagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.14.4 Pre-Release 7"
+    ],
+    "creation_date": "2019-07-10T08:51:33.000+0300",
+    "resolution_date": "2019-07-17T14:25:20.000+0300",
+    "updated_date": "2019-07-17T14:25:20.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-156389",
+    "summary": "Game Crashes when Shift + Command + Delete 18 characters at once on Anvil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4 Pre-Release 7"
+    ],
+    "creation_date": "2019-07-10T00:14:33.000+0300",
+    "resolution_date": "2019-07-18T11:10:56.000+0300",
+    "updated_date": "2019-07-18T11:10:56.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-150623",
+    "summary": "The game crashed whilst rendering overlay: Unable to fit texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.14.4 Pre-Release 7"
+    ],
+    "creation_date": "2019-05-02T21:52:21.000+0300",
+    "resolution_date": "2019-07-18T10:59:02.000+0300",
+    "updated_date": "2020-05-01T06:40:39.000+0300",
+    "watches": 4,
+    "votes": 5
+  }
+]

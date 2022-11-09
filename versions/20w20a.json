@@ -1,0 +1,148 @@
+[
+  {
+    "id": "MC-182967",
+    "summary": "Throwing ender pearl whilst mounted doesn't teleport you",
+    "labels": [
+      "ender_pearl",
+      "mount",
+      "teleport",
+      "throw"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w20a",
+      "20w22a"
+    ],
+    "creation_date": "2020-05-07T20:38:38.000+0300",
+    "resolution_date": "2020-05-28T16:24:40.000+0300",
+    "updated_date": "2020-05-28T16:24:40.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-181482",
+    "summary": "Dying while riding an entity only respawns the player next to that entity if the gamerule doImmediateRespawn is true",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w20a"
+    ],
+    "creation_date": "2020-04-29T21:19:18.000+0300",
+    "resolution_date": "2020-05-26T00:13:47.000+0300",
+    "updated_date": "2020-06-08T14:30:13.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-179481",
+    "summary": "Structure block offset can't be bigger than 32",
+    "labels": [
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w20a"
+    ],
+    "creation_date": "2020-04-19T21:08:21.000+0300",
+    "resolution_date": "2020-05-13T11:45:37.000+0300",
+    "updated_date": "2020-07-24T13:39:09.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-175992",
+    "summary": "Striders are not part of the \"Two by Two\" advancement challenge",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w20a"
+    ],
+    "creation_date": "2020-03-25T19:49:14.000+0200",
+    "resolution_date": "2020-05-13T12:57:54.000+0300",
+    "updated_date": "2020-05-13T12:57:54.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-173756",
+    "summary": "Ice Bucket Challenge advancement can be obtained by collecting obsidian from bartering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w20a"
+    ],
+    "creation_date": "2020-03-04T21:30:41.000+0200",
+    "resolution_date": "2020-05-13T12:57:53.000+0300",
+    "updated_date": "2021-03-01T03:27:12.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-173207",
+    "summary": "Bullseye advancement can be made when using a non-arrow projectile, even though the description explicitly mentions arrows",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w20a"
+    ],
+    "creation_date": "2020-02-26T21:48:24.000+0200",
+    "resolution_date": "2020-05-13T12:58:28.000+0300",
+    "updated_date": "2020-05-13T20:29:17.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-118234",
+    "summary": "Advancement 'Not Today, Thank You' can be triggered by non-arrow projectiles",
+    "labels": [
+      "advancement",
+      "projectile",
+      "shield",
+      "shulker_bullet"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w20a"
+    ],
+    "creation_date": "2017-06-03T22:41:19.000+0300",
+    "resolution_date": "2020-05-13T12:57:53.000+0300",
+    "updated_date": "2020-05-13T20:29:56.000+0300",
+    "watches": 1,
+    "votes": 4
+  }
+]

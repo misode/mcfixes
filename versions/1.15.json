@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MC-132304",
+    "summary": "When the resource pack has CJK / non ASCII characters in filename, it will be removed at restart of the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15"
+    ],
+    "creation_date": "2018-06-29T06:18:16.000+0300",
+    "resolution_date": "2019-12-17T01:45:46.000+0200",
+    "updated_date": "2019-12-17T01:45:46.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-85133",
+    "summary": "Back-face culling is not enabled for items held in 3rd person",
+    "labels": [
+      "culling",
+      "rendering",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15"
+    ],
+    "creation_date": "2015-08-05T18:56:29.000+0300",
+    "resolution_date": "2020-03-18T21:45:43.000+0200",
+    "updated_date": "2020-03-18T21:45:43.000+0200",
+    "watches": 8,
+    "votes": 8
+  }
+]

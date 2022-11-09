@@ -1,0 +1,229 @@
+[
+  {
+    "id": "MC-152824",
+    "summary": "Stuck in Doorways and fence gates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2019-05-24T21:25:48.000+0300",
+    "resolution_date": "2019-05-27T10:02:19.000+0300",
+    "updated_date": "2020-01-28T10:45:46.000+0200",
+    "watches": 29,
+    "votes": 62
+  },
+  {
+    "id": "MC-152090",
+    "summary": "Repeating Command Blocks Stop working",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2019-05-17T08:40:46.000+0300",
+    "resolution_date": "2019-06-01T13:01:01.000+0300",
+    "updated_date": "2019-06-02T00:31:28.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-151083",
+    "summary": "Client log error \"Block entity invalid: minecraft:<bloc> @ ev{x=##, y=##, z=-##}\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2019-05-07T22:24:56.000+0300",
+    "resolution_date": "2019-05-29T19:00:08.000+0300",
+    "updated_date": "2019-05-29T19:01:58.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-150872",
+    "summary": "Foxes can't go through nether portals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2019-05-05T14:01:42.000+0300",
+    "resolution_date": "2019-05-31T20:07:15.000+0300",
+    "updated_date": "2019-05-31T20:07:15.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-144776",
+    "summary": "Iron golems move and attack way slower when going away from the village to persue enemies, making them more vulnerable and less effective when defending villages",
+    "labels": [
+      "attack",
+      "enemy",
+      "iron_golem",
+      "looking",
+      "pathfinding",
+      "protect",
+      "range",
+      "slow",
+      "slowly",
+      "village"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2019-02-23T08:07:03.000+0200",
+    "resolution_date": "2019-06-10T13:48:43.000+0300",
+    "updated_date": "2019-06-10T13:48:43.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-141006",
+    "summary": "taiga_decoration_1 has trapdoors waterlogged which results in a mess",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2018-12-13T10:28:38.000+0200",
+    "resolution_date": "2019-06-20T02:57:25.000+0300",
+    "updated_date": "2020-11-17T10:56:33.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-139304",
+    "summary": "Ravagers ridden by illagers bob their heads while targeting the player, slowing down their movement",
+    "labels": [
+      "illager_beast",
+      "ravager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2018-11-13T01:07:32.000+0200",
+    "resolution_date": "2019-06-10T13:35:58.000+0300",
+    "updated_date": "2019-06-10T13:35:58.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-119909",
+    "summary": "Falling blocks disappear when falling in unloaded chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2017-08-03T11:50:05.000+0300",
+    "resolution_date": "2019-06-16T04:11:30.000+0300",
+    "updated_date": "2019-06-16T04:11:30.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-73368",
+    "summary": "Splash/drinkable/lingering potion effects are ambient if applied while ambient effect is on player already",
+    "labels": [
+      "ambient",
+      "potion-effect",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2014-10-20T11:57:56.000+0300",
+    "resolution_date": "2019-06-10T23:28:12.000+0300",
+    "updated_date": "2021-07-23T23:25:27.000+0300",
+    "watches": 5,
+    "votes": 1
+  },
+  {
+    "id": "MC-50108",
+    "summary": "Sometimes gain normal world beacon effect in nether at matching coordinates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2014-03-03T22:20:58.000+0200",
+    "resolution_date": "2019-06-10T11:12:00.000+0300",
+    "updated_date": "2019-06-10T11:12:00.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-10657",
+    "summary": "Player entering nether portal while sneaking stuck in 'partial sneak'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2"
+    ],
+    "creation_date": "2013-03-01T20:57:05.000+0200",
+    "resolution_date": "2019-06-05T02:58:01.000+0300",
+    "updated_date": "2020-03-22T12:35:11.000+0200",
+    "watches": 8,
+    "votes": 12
+  }
+]

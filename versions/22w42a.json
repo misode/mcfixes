@@ -1,0 +1,1651 @@
+[
+  {
+    "id": "MC-256217",
+    "summary": "Explosions create ghost blocks on servers at high coordinates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-10-03T13:00:42.000+0300",
+    "resolution_date": "2022-10-04T11:21:10.000+0300",
+    "updated_date": "2022-10-04T11:21:10.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-255715",
+    "summary": "Menu panorama stops spinning after several days",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-09-03T15:07:46.000+0300",
+    "resolution_date": "2022-10-10T09:55:31.000+0300",
+    "updated_date": "2022-10-10T09:55:31.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-255164",
+    "summary": "Sculk Shrieker warning level resets to 0 after player's death",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Parity",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-08-12T11:10:11.000+0300",
+    "resolution_date": "2022-08-18T11:10:57.000+0300",
+    "updated_date": "2022-09-04T20:11:55.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-255151",
+    "summary": "net.minecraft.client.Camera#getMaxZoom(double) issue",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-08-11T22:48:30.000+0300",
+    "resolution_date": "2022-10-10T09:59:56.000+0300",
+    "updated_date": "2022-10-10T09:59:56.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-254774",
+    "summary": "Crash when a villager with a gossip of value 0 shares gossips",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-07-30T23:43:56.000+0300",
+    "resolution_date": "2022-08-30T15:24:58.000+0300",
+    "updated_date": "2022-08-30T15:24:58.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-254695",
+    "summary": "\"Narrator Disabled\" pop-up doesn't render fully",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-07-29T00:37:08.000+0300",
+    "resolution_date": "2022-09-08T11:52:52.000+0300",
+    "updated_date": "2022-10-31T01:09:48.000+0200",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-254535",
+    "summary": "Nether portals cannot replace snow layers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-07-24T17:38:02.000+0300",
+    "resolution_date": "2022-09-14T09:49:30.000+0300",
+    "updated_date": "2022-09-16T11:08:18.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-254427",
+    "summary": "Secure chat warning toast can appear on singleplayer worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-07-21T20:10:39.000+0300",
+    "resolution_date": "2022-09-06T16:47:28.000+0300",
+    "updated_date": "2022-10-12T22:48:28.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-254395",
+    "summary": "Command suggestions can overlap the chat preview field when the chat preview option is set to \"When Sending\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-07-20T20:00:11.000+0300",
+    "resolution_date": "2022-09-13T17:04:40.000+0300",
+    "updated_date": "2022-09-13T17:04:40.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-254189",
+    "summary": "Parity issue: Allay cannot be interacted with while it is inside a boats or minecarts in Java",
+    "labels": [
+      "allay",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-07-14T08:05:32.000+0300",
+    "resolution_date": "2022-10-19T18:29:45.000+0300",
+    "updated_date": "2022-10-19T18:30:10.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-254119",
+    "summary": "Breeding a Screaming Goat and a Regular Goat never results in a screaming goat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-07-12T06:02:59.000+0300",
+    "resolution_date": "2022-09-28T17:18:02.000+0300",
+    "updated_date": "2022-09-28T17:18:02.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-253738",
+    "summary": "Vibration particle faces at a constant pitch of about 60 degrees, not pointing towards the target",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-06-30T17:12:47.000+0300",
+    "resolution_date": "2022-07-06T16:46:59.000+0300",
+    "updated_date": "2022-07-14T15:32:30.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-253367",
+    "summary": "The screen is sometimes flashed with the \"Loading terrain...\" screen after proceeding with the chat preview warning when all nearby chunks are loaded",
+    "labels": [
+      "photosensitive-epilepsy"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-06-20T12:19:12.000+0300",
+    "resolution_date": "2022-09-13T17:04:40.000+0300",
+    "updated_date": "2022-09-13T17:04:40.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-253189",
+    "summary": "Allays with NoAI can dance",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-06-16T21:13:13.000+0300",
+    "resolution_date": "2022-06-23T14:02:29.000+0300",
+    "updated_date": "2022-06-23T14:02:29.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-253125",
+    "summary": "Allays can dance while panicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-06-15T22:04:52.000+0300",
+    "resolution_date": "2022-06-22T15:26:47.000+0300",
+    "updated_date": "2022-06-22T15:26:47.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-253076",
+    "summary": "Allay duplicates Items when its NBT data is updated every tick",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-06-15T08:31:04.000+0300",
+    "resolution_date": "2022-07-06T11:17:26.000+0300",
+    "updated_date": "2022-07-06T11:17:26.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-252415",
+    "summary": "Bedrock Edition's new 1.19.10 splash text is not available on Java 1.19",
+    "labels": [
+      "splashes",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-06-02T17:19:55.000+0300",
+    "resolution_date": "2022-07-28T17:01:33.000+0300",
+    "updated_date": "2022-07-28T22:14:32.000+0300",
+    "watches": 9,
+    "votes": 15
+  },
+  {
+    "id": "MC-252239",
+    "summary": "Sculk Shrieker count resets when entering exit end portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-05-26T23:44:15.000+0300",
+    "resolution_date": "2022-10-21T12:09:58.000+0300",
+    "updated_date": "2022-10-21T12:09:58.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-252089",
+    "summary": "The chat preview warning menu is forcibly closed when the player dies or changes dimensions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-05-23T12:53:36.000+0300",
+    "resolution_date": "2022-09-13T17:04:39.000+0300",
+    "updated_date": "2022-09-13T17:04:39.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-251688",
+    "summary": "Chat preview can overlap chat contents if the message is long enough",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-05-14T07:10:01.000+0300",
+    "resolution_date": "2022-09-13T17:04:39.000+0300",
+    "updated_date": "2022-09-13T17:04:39.000+0300",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-251296",
+    "summary": "Allay has a transparent texture but it is not transparent in game",
+    "labels": [
+      "allay",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-05-04T14:14:57.000+0300",
+    "resolution_date": "2022-07-06T15:31:24.000+0300",
+    "updated_date": "2022-11-09T18:08:00.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-250943",
+    "summary": "minecraft.used:minecraft.goat_horn doesn't increase when using goat horns",
+    "labels": [
+      "goat_horn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-27T20:06:57.000+0300",
+    "resolution_date": "2022-10-10T10:16:05.000+0300",
+    "updated_date": "2022-11-04T11:02:48.000+0200",
+    "watches": 9,
+    "votes": 21
+  },
+  {
+    "id": "MC-250423",
+    "summary": "Frog frequently fails to long jump to small blocks",
+    "labels": [
+      "frog",
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-21T15:56:41.000+0300",
+    "resolution_date": "2022-06-22T12:42:32.000+0300",
+    "updated_date": "2022-06-22T12:42:32.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-250311",
+    "summary": "The minecraft:entity.tadpole.grow_up sound event doesn't have a translation key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-20T19:13:06.000+0300",
+    "resolution_date": "2022-09-22T11:14:00.000+0300",
+    "updated_date": "2022-10-16T00:41:38.000+0300",
+    "watches": 14,
+    "votes": 18
+  },
+  {
+    "id": "MC-250249",
+    "summary": "Parity Issue: Allays pick up arrow/potion items with other effects than the ones they're holding",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-16T21:38:41.000+0300",
+    "resolution_date": "2022-07-06T14:53:34.000+0300",
+    "updated_date": "2022-07-06T14:53:34.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-250212",
+    "summary": "Custom world import settings always fails with \"Error Importing Settings\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-15T05:37:05.000+0300",
+    "resolution_date": "2022-11-06T19:32:26.000+0200",
+    "updated_date": "2022-11-06T19:32:26.000+0200",
+    "watches": 14,
+    "votes": 17
+  },
+  {
+    "id": "MC-250113",
+    "summary": "Muddy mangrove roots are not grouped with mud in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-11T20:24:21.000+0300",
+    "resolution_date": "2022-10-19T17:05:03.000+0300",
+    "updated_date": "2022-10-19T17:05:03.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-249935",
+    "summary": "New advancement \"Birthday Song\" grants no experience",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-06T20:23:57.000+0300",
+    "resolution_date": "2022-09-28T18:20:11.000+0300",
+    "updated_date": "2022-09-28T18:20:11.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-249875",
+    "summary": "Parity Issue: Allays hesitate for a few seconds before following, throwing items, or doing other actions in Java",
+    "labels": [
+      "allay",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-04T03:58:29.000+0300",
+    "resolution_date": "2022-07-06T15:31:23.000+0300",
+    "updated_date": "2022-11-06T12:47:53.000+0200",
+    "watches": 8,
+    "votes": 22
+  },
+  {
+    "id": "MC-249806",
+    "summary": "Allay renders too low in boat, boat with chest, minecart and entities",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-04-01T16:01:47.000+0300",
+    "resolution_date": "2022-10-05T14:08:38.000+0300",
+    "updated_date": "2022-10-05T14:08:38.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-249765",
+    "summary": "Allays don't render semi-transparent when invisible where appropriate",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-31T22:24:16.000+0300",
+    "resolution_date": "2022-07-06T15:31:24.000+0300",
+    "updated_date": "2022-07-29T17:10:57.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-249720",
+    "summary": "Allay's wings are not attached to its body",
+    "labels": [
+      "allay",
+      "mob",
+      "model"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w14a",
+      "22w42a"
+    ],
+    "creation_date": "2022-03-31T20:09:04.000+0300",
+    "resolution_date": "2022-07-06T15:31:22.000+0300",
+    "updated_date": "2022-07-06T15:31:22.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-249513",
+    "summary": "Frogspawn is not grouped with turtle eggs in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-25T22:42:03.000+0200",
+    "resolution_date": "2022-10-11T17:20:35.000+0300",
+    "updated_date": "2022-10-11T17:20:35.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-249463",
+    "summary": "Shulkers in boats with chests are lowered",
+    "labels": [
+      "boat-with-chest",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-25T02:38:37.000+0200",
+    "resolution_date": "2022-10-05T11:41:00.000+0300",
+    "updated_date": "2022-10-05T11:41:00.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-249419",
+    "summary": "Map color for mud brick slab is no longer consistent with map color for other mud brick blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-24T21:31:34.000+0200",
+    "resolution_date": "2022-10-12T09:32:51.000+0300",
+    "updated_date": "2022-10-12T14:43:41.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-249294",
+    "summary": "Rabbits ignore the \"MoreCarrotTicks\" value, causing them to always try to eat carrots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-20T00:18:51.000+0200",
+    "resolution_date": "2022-09-13T11:43:25.000+0300",
+    "updated_date": "2022-09-13T11:43:25.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-249257",
+    "summary": "The sounds of splashing when creating mud aren't controlled by the \"Blocks\" sound slider",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-19T12:17:58.000+0200",
+    "resolution_date": "2022-10-05T12:02:56.000+0300",
+    "updated_date": "2022-10-05T12:02:56.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-249232",
+    "summary": "Frogs can sometimes fall into deep holes when pathfinding to entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-18T21:45:40.000+0200",
+    "resolution_date": "2022-10-10T11:17:44.000+0300",
+    "updated_date": "2022-10-10T11:17:44.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-249106",
+    "summary": "Water rendering incorrectly through frogspawn hitbox/model",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-03-16T19:50:44.000+0200",
+    "resolution_date": "2022-07-12T15:27:07.000+0300",
+    "updated_date": "2022-10-26T22:55:15.000+0300",
+    "watches": 8,
+    "votes": 20
+  },
+  {
+    "id": "MC-248753",
+    "summary": "Pressure plates don't activate even though visually they should",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2022-02-22T15:39:19.000+0200",
+    "resolution_date": "2022-09-15T14:49:12.000+0300",
+    "updated_date": "2022-09-15T14:49:12.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-243458",
+    "summary": "Worldgen data packs don't work on servers at first launch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Data Packs",
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-12-01T03:33:53.000+0200",
+    "resolution_date": "2022-09-13T09:27:17.000+0300",
+    "updated_date": "2022-09-13T10:37:39.000+0300",
+    "watches": 11,
+    "votes": 30
+  },
+  {
+    "id": "MC-242663",
+    "summary": "Melons can generate underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-11-24T03:00:29.000+0200",
+    "resolution_date": "2022-09-13T12:43:28.000+0300",
+    "updated_date": "2022-09-13T12:43:28.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-239465",
+    "summary": "Emerald block in creative inventory looks out of place",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-10-21T02:22:22.000+0300",
+    "resolution_date": "2022-10-11T17:20:34.000+0300",
+    "updated_date": "2022-10-11T17:20:34.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-234446",
+    "summary": "Moss Block appears in the wrong creative inventory tab",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-08-14T05:25:48.000+0300",
+    "resolution_date": "2022-10-11T17:20:34.000+0300",
+    "updated_date": "2022-10-11T17:20:34.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-228475",
+    "summary": "Pointed dripstone is not grouped with dripstone blocks in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-06-11T02:51:42.000+0300",
+    "resolution_date": "2022-10-11T17:20:35.000+0300",
+    "updated_date": "2022-10-11T17:20:35.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-226566",
+    "summary": "Inconsistency: Blocks are not placed correctly in Creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-05-28T05:08:29.000+0300",
+    "resolution_date": "2022-10-11T17:20:35.000+0300",
+    "updated_date": "2022-10-11T17:20:35.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-226184",
+    "summary": "Axolotls pathfinding to water can sometimes fall in wide holes",
+    "labels": [
+      "axolotl",
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w37a",
+      "22w16a",
+      "22w42a"
+    ],
+    "creation_date": "2021-05-23T22:56:32.000+0300",
+    "resolution_date": "2022-10-10T11:17:44.000+0300",
+    "updated_date": "2022-10-30T19:04:06.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-224921",
+    "summary": "Mob pathfinding fails under certain circumstances / mobs fall on closed turns",
+    "labels": [
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-05-05T17:50:39.000+0300",
+    "resolution_date": "2022-10-10T11:17:45.000+0300",
+    "updated_date": "2022-10-10T11:17:45.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-222879",
+    "summary": "Netherite scrap comes after netherite ingot in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-04-10T18:27:06.000+0300",
+    "resolution_date": "2022-10-11T17:20:34.000+0300",
+    "updated_date": "2022-10-11T17:20:34.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-221568",
+    "summary": "Inconsistency: Barriers and structure voids produce particles when broken, but light blocks do not",
+    "labels": [
+      "barrier",
+      "invisible-block-manipulation",
+      "invisible-blocks",
+      "invisible-blocks-not-invisible",
+      "light_block",
+      "structure_void",
+      "unneccessary-particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-03-31T20:35:19.000+0300",
+    "resolution_date": "2022-09-19T18:18:28.000+0300",
+    "updated_date": "2022-09-19T18:18:28.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-220489",
+    "summary": "Beds and respawn anchors are not grouped in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-03-21T21:43:28.000+0200",
+    "resolution_date": "2022-10-11T17:20:35.000+0300",
+    "updated_date": "2022-10-11T17:20:35.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-218534",
+    "summary": "Blackstone stairs & slabs are not grouped with the other stone type stairs & slabs",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-03-10T07:17:50.000+0200",
+    "resolution_date": "2022-10-11T17:57:25.000+0300",
+    "updated_date": "2022-10-11T17:57:25.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-217644",
+    "summary": "Wart blocks and shroomlights are in different Creative tabs",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-03-03T20:45:50.000+0200",
+    "resolution_date": "2022-10-11T17:57:32.000+0300",
+    "updated_date": "2022-10-11T17:57:32.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-216733",
+    "summary": "Basalt and blackstone are not grouped together with other \"polishable\" stone types in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-02-24T20:10:45.000+0200",
+    "resolution_date": "2022-10-11T17:57:55.000+0300",
+    "updated_date": "2022-10-11T17:57:55.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-202607",
+    "summary": "Cat can get off lead by teleporting when it gives a gift after sleeping",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-10-22T20:37:35.000+0300",
+    "resolution_date": "2022-10-06T09:11:59.000+0300",
+    "updated_date": "2022-10-06T09:11:59.000+0300",
+    "watches": 7,
+    "votes": 21
+  },
+  {
+    "id": "MC-201759",
+    "summary": "Obsidians aren't grouped together in Creative",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-10-09T01:20:23.000+0300",
+    "resolution_date": "2022-10-11T17:56:29.000+0300",
+    "updated_date": "2022-10-11T17:56:29.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-201684",
+    "summary": "Torches and soul torches aren't grouped together in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-10-07T17:37:13.000+0300",
+    "resolution_date": "2022-10-11T17:20:34.000+0300",
+    "updated_date": "2022-10-11T17:20:34.000+0300",
+    "watches": 2,
+    "votes": 11
+  },
+  {
+    "id": "MC-199162",
+    "summary": "One farmland block in plains_large_farm_1 has moisture level 0",
+    "labels": [
+      "village"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "Village system"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-08-28T22:28:58.000+0300",
+    "resolution_date": "2022-09-13T10:14:02.000+0300",
+    "updated_date": "2022-09-13T10:14:02.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-197476",
+    "summary": "Some hover texts are wrapped too late making them cut off at edge of screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-08-08T23:17:22.000+0300",
+    "resolution_date": "2022-10-26T22:45:16.000+0300",
+    "updated_date": "2022-10-26T22:45:16.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-197150",
+    "summary": "Horse armor and carpets cannot be equipped onto horses or llamas by right-clicking them whilst having these items held in your hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-08-05T22:32:31.000+0300",
+    "resolution_date": "2022-10-07T14:44:55.000+0300",
+    "updated_date": "2022-10-08T16:13:43.000+0300",
+    "watches": 2,
+    "votes": 11
+  },
+  {
+    "id": "MC-183899",
+    "summary": "You can set your spawn point inside an end portal, causing the player to become stuck in the End",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-05-14T08:45:05.000+0300",
+    "resolution_date": "2022-10-10T09:59:55.000+0300",
+    "updated_date": "2022-10-10T09:59:55.000+0300",
+    "watches": 12,
+    "votes": 18
+  },
+  {
+    "id": "MC-183831",
+    "summary": "Villagers breed when not standing up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-05-13T22:34:26.000+0300",
+    "resolution_date": "2022-09-14T09:33:26.000+0300",
+    "updated_date": "2022-09-14T09:33:26.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-183502",
+    "summary": "The sounds for collecting honey in a bottle and collecting honeycomb with shears is categorised under friendly creatures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-05-11T17:15:12.000+0300",
+    "resolution_date": "2022-10-03T10:47:19.000+0300",
+    "updated_date": "2022-10-03T10:47:19.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-183069",
+    "summary": "Donkeys, mules and undead horses cannot be saddled by right-clicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-05-08T12:24:36.000+0300",
+    "resolution_date": "2022-10-07T14:44:54.000+0300",
+    "updated_date": "2022-10-08T16:13:43.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-182708",
+    "summary": "Nether and warped wart blocks do not come after leaves in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-05-06T16:46:14.000+0300",
+    "resolution_date": "2022-10-11T17:56:46.000+0300",
+    "updated_date": "2022-10-11T17:56:46.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-177738",
+    "summary": "Spawnpoint set on respawn anchor using /spawnpoint depletes glowstone charge, and doesn't stay on respawn anchor if its charge is depleted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-04-08T02:08:37.000+0300",
+    "resolution_date": "2022-10-10T09:59:56.000+0300",
+    "updated_date": "2022-10-10T09:59:56.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-175313",
+    "summary": "Composter filling sounds originate from the bottom northwest corner of the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-03-19T13:51:11.000+0200",
+    "resolution_date": "2022-09-13T11:13:20.000+0300",
+    "updated_date": "2022-09-13T11:13:20.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-170817",
+    "summary": "Click sound of sliders in the video settings noticeably louder than anywhere else",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-02-05T19:15:49.000+0200",
+    "resolution_date": "2022-10-11T14:18:08.000+0300",
+    "updated_date": "2022-10-11T14:18:08.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-170457",
+    "summary": "Chest latch doesn't rotate properly",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-01-27T04:03:47.000+0200",
+    "resolution_date": "2022-09-14T16:58:42.000+0300",
+    "updated_date": "2022-10-15T21:59:19.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-160610",
+    "summary": "Mobs are able to spawn on Chorus Flowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2019-09-06T14:11:52.000+0300",
+    "resolution_date": "2022-09-22T18:45:12.000+0300",
+    "updated_date": "2022-09-22T18:45:12.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-152752",
+    "summary": "Jukebox music sound originates from north-west edge of the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2019-05-24T01:04:18.000+0300",
+    "resolution_date": "2022-09-13T11:13:19.000+0300",
+    "updated_date": "2022-09-13T11:13:19.000+0300",
+    "watches": 8,
+    "votes": 24
+  },
+  {
+    "id": "MC-150488",
+    "summary": "Mobs can spawn on scaffolding",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2019-05-01T17:25:14.000+0300",
+    "resolution_date": "2022-10-05T18:40:20.000+0300",
+    "updated_date": "2022-10-24T14:05:35.000+0300",
+    "watches": 18,
+    "votes": 23
+  },
+  {
+    "id": "MC-146930",
+    "summary": "The \"Programmer Art\" resource pack is internally called \"programer_art\"",
+    "labels": [
+      "programmer_art"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2019-03-28T19:32:28.000+0200",
+    "resolution_date": "2022-10-06T12:40:56.000+0300",
+    "updated_date": "2022-10-06T12:40:56.000+0300",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-145748",
+    "summary": "Clicking a settings button when there's a slider under the mouse in the next screen plays the click sound twice",
+    "labels": [
+      "button",
+      "click",
+      "clickEvent",
+      "cursor",
+      "gui",
+      "gui-slider",
+      "menu",
+      "mouse",
+      "music",
+      "screen",
+      "slider",
+      "sound",
+      "sounds",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2019-03-13T21:48:30.000+0200",
+    "resolution_date": "2022-10-10T16:19:16.000+0300",
+    "updated_date": "2022-10-10T16:19:16.000+0300",
+    "watches": 24,
+    "votes": 87
+  },
+  {
+    "id": "MC-135973",
+    "summary": "Can't hold Q to drop items rapidly from container inventories",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input",
+      "Inventory",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2018-08-14T00:39:17.000+0300",
+    "resolution_date": "2022-10-03T13:06:15.000+0300",
+    "updated_date": "2022-10-03T13:06:15.000+0300",
+    "watches": 17,
+    "votes": 76
+  },
+  {
+    "id": "MC-130754",
+    "summary": "Jumping on farmland pushes the player a bit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2018-06-04T20:51:35.000+0300",
+    "resolution_date": "2022-06-22T10:48:54.000+0300",
+    "updated_date": "2022-10-12T19:09:33.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-96449",
+    "summary": "Rabbits sometimes don't drop any raw rabbit upon being killed",
+    "labels": [
+      "rabbit"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2016-02-01T00:04:52.000+0200",
+    "resolution_date": "2022-10-03T09:49:23.000+0300",
+    "updated_date": "2022-10-27T04:44:36.000+0300",
+    "watches": 4,
+    "votes": 17
+  },
+  {
+    "id": "MC-75699",
+    "summary": "Villager restock hover text is not automatically wrapped making it cut off at edge of screen",
+    "labels": [
+      "hover",
+      "hoverEvent",
+      "line-break",
+      "linebreak",
+      "screen",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2014-12-23T17:40:58.000+0200",
+    "resolution_date": "2022-10-26T22:45:31.000+0300",
+    "updated_date": "2022-10-26T23:00:05.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-26757",
+    "summary": "Large item tooltips can get cut off at the edges of the screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2013-07-20T21:57:47.000+0300",
+    "resolution_date": "2022-10-26T22:45:49.000+0300",
+    "updated_date": "2022-11-07T20:09:14.000+0200",
+    "watches": 18,
+    "votes": 29
+  },
+  {
+    "id": "MC-14167",
+    "summary": "Mobs build up fall damage when dangling on a lead",
+    "labels": [
+      "fall-damage",
+      "leash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2013-04-20T07:01:26.000+0300",
+    "resolution_date": "2022-09-28T16:49:15.000+0300",
+    "updated_date": "2022-09-30T09:16:43.000+0300",
+    "watches": 26,
+    "votes": 85
+  }
+]

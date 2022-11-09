@@ -1,0 +1,167 @@
+[
+  {
+    "id": "MC-155971",
+    "summary": "Iron golems not spawned by villagers in 1.14.4 pre-releases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2019-07-04T11:45:18.000+0300",
+    "resolution_date": "2019-07-08T10:07:22.000+0300",
+    "updated_date": "2019-07-17T21:53:21.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-155906",
+    "summary": "Failed to save debug dump if the destination location contains a space",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2019-07-03T18:10:48.000+0300",
+    "resolution_date": "2019-07-04T15:18:28.000+0300",
+    "updated_date": "2019-07-04T15:18:28.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-155147",
+    "summary": "Mouse acceleration with the new 1.14.3 update",
+    "labels": [
+      "glfw",
+      "lwjgl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2019-06-24T23:28:42.000+0300",
+    "resolution_date": "2019-07-04T16:05:39.000+0300",
+    "updated_date": "2020-03-13T21:34:17.000+0200",
+    "watches": 13,
+    "votes": 24
+  },
+  {
+    "id": "MC-151810",
+    "summary": "Mobs don't try to avoid fall damage anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-14T07:48:06.000+0300",
+    "resolution_date": "2019-07-04T15:34:18.000+0300",
+    "updated_date": "2020-03-03T22:55:20.000+0200",
+    "watches": 11,
+    "votes": 30
+  },
+  {
+    "id": "MC-151376",
+    "summary": "Villagers are not pathfinding towards their POI; POI detection range is too small",
+    "labels": [
+      "bed",
+      "bell",
+      "meeting-point",
+      "village",
+      "villager",
+      "workstations"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-10T04:15:22.000+0300",
+    "resolution_date": "2019-07-04T17:00:17.000+0300",
+    "updated_date": "2019-09-02T13:16:46.000+0300",
+    "watches": 28,
+    "votes": 40
+  },
+  {
+    "id": "MC-151150",
+    "summary": "Entities (Villagers) cause massive lag when attempting to pathfind",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-08T05:31:51.000+0300",
+    "resolution_date": "2019-07-04T15:35:29.000+0300",
+    "updated_date": "2020-05-02T04:41:07.000+0300",
+    "watches": 12,
+    "votes": 24
+  },
+  {
+    "id": "MC-136318",
+    "summary": "Floatable mobs are unable to walk when in waterlogged blocks",
+    "labels": [
+      "spin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2018-08-22T20:20:57.000+0300",
+    "resolution_date": "2019-07-04T16:22:00.000+0300",
+    "updated_date": "2019-08-28T18:56:31.000+0300",
+    "watches": 18,
+    "votes": 45
+  },
+  {
+    "id": "MC-134811",
+    "summary": "Undead mobs bob up and down in waterlogged slabs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 2"
+    ],
+    "creation_date": "2018-07-25T17:51:35.000+0300",
+    "resolution_date": "2019-07-05T22:55:14.000+0300",
+    "updated_date": "2019-07-05T22:55:14.000+0300",
+    "watches": 1,
+    "votes": 0
+  }
+]

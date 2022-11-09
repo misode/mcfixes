@@ -1,0 +1,855 @@
+[
+  {
+    "id": "MC-159825",
+    "summary": "Honey Bottle not included in A Balanced Diet advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-26T09:50:00.000+0300",
+    "resolution_date": "2019-08-28T15:23:14.000+0300",
+    "updated_date": "2019-08-28T15:23:14.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-159733",
+    "summary": "Craftable bee hives are not flammable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-25T07:08:03.000+0300",
+    "resolution_date": "2019-08-28T15:23:08.000+0300",
+    "updated_date": "2019-09-05T23:06:53.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159574",
+    "summary": "When switching to another item while drinking a potion, the item is replaced with an empty bottle and the slot with the potion is cleared",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-23T23:08:15.000+0300",
+    "resolution_date": "2019-08-28T11:29:34.000+0300",
+    "updated_date": "2019-10-14T18:47:35.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159476",
+    "summary": "Bee model is not centered properly inside of the hitbox",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-23T03:00:56.000+0300",
+    "resolution_date": "2019-08-28T15:23:11.000+0300",
+    "updated_date": "2019-08-28T15:23:11.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-159472",
+    "summary": "Trees spawned from saplings can have bee nests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-23T02:31:15.000+0300",
+    "resolution_date": "2019-08-28T15:23:12.000+0300",
+    "updated_date": "2020-03-13T21:39:48.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-159462",
+    "summary": "Scrolling hotbar slots while consuming uses multiple items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-23T01:35:15.000+0300",
+    "resolution_date": "2019-09-17T00:54:37.000+0300",
+    "updated_date": "2019-11-04T15:05:26.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-159456",
+    "summary": "Bees are floating one pixel above the ground when sitting on the ground",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-23T00:34:39.000+0300",
+    "resolution_date": "2019-08-28T15:23:10.000+0300",
+    "updated_date": "2021-08-18T16:40:01.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-159446",
+    "summary": "Bees get pollen from lower half of sunflower",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-22T23:46:01.000+0300",
+    "resolution_date": "2019-08-28T15:23:14.000+0300",
+    "updated_date": "2020-03-13T21:41:20.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-159429",
+    "summary": "Switching to a different item while consuming a honey bottle will change it into an empty glass bottle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-22T22:17:27.000+0300",
+    "resolution_date": "2019-08-28T11:32:35.000+0300",
+    "updated_date": "2019-08-28T11:32:35.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-159357",
+    "summary": "Bee breeding does not count toward \"Two by Two\" (minecraft:husbandry/bred_all_animals) advancement progress",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-22T17:54:09.000+0300",
+    "resolution_date": "2019-08-28T15:23:13.000+0300",
+    "updated_date": "2019-08-28T15:23:13.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-158705",
+    "summary": "When I drink a potion in creative it changes the potion next to it when I scroll to that potion in the hotbar.",
+    "labels": [
+      "potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-08-09T23:33:38.000+0300",
+    "resolution_date": "2019-09-17T01:17:57.000+0300",
+    "updated_date": "2020-08-27T00:19:36.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-156856",
+    "summary": "Ravager pathfinding AI becomes broken when Ravager encounters a Pillager Patrol",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-07-15T22:40:42.000+0300",
+    "resolution_date": "2019-08-28T16:05:09.000+0300",
+    "updated_date": "2020-02-27T23:57:45.000+0200",
+    "watches": 17,
+    "votes": 102
+  },
+  {
+    "id": "MC-154280",
+    "summary": "The nitwit has a badge, even though unemployed villagers don't because they can't trade",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-06-10T06:29:47.000+0300",
+    "resolution_date": "2019-08-28T20:11:24.000+0300",
+    "updated_date": "2019-08-28T21:28:20.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-153820",
+    "summary": " The entity_properties block loot table condition only works for players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-06-04T22:06:47.000+0300",
+    "resolution_date": "2019-08-28T22:44:59.000+0300",
+    "updated_date": "2020-06-11T12:54:12.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-152839",
+    "summary": "Screen is shaking on death",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-05-25T01:22:42.000+0300",
+    "resolution_date": "2019-08-28T16:10:04.000+0300",
+    "updated_date": "2019-08-29T15:46:58.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-148865",
+    "summary": "Title screen panorama turns white after clicking \"Delete World\" in hardcore mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-04-20T10:12:16.000+0300",
+    "resolution_date": "2019-08-28T16:09:39.000+0300",
+    "updated_date": "2019-09-30T20:03:52.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-145587",
+    "summary": "Endermen will teleport into water (without taking damage) to dodge a projectile",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-03-10T22:47:59.000+0200",
+    "resolution_date": "2019-08-28T15:15:32.000+0300",
+    "updated_date": "2019-08-28T15:15:32.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-144766",
+    "summary": "Chunks stop rendering in respawn screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-02-23T05:45:21.000+0200",
+    "resolution_date": "2019-08-28T16:09:42.000+0300",
+    "updated_date": "2019-08-28T16:09:42.000+0300",
+    "watches": 10,
+    "votes": 23
+  },
+  {
+    "id": "MC-144688",
+    "summary": "Projectiles (snowballs, etc) do not preserve item data if using the item depletes the stack",
+    "labels": [
+      "custom_model_data",
+      "item-stack",
+      "nbt",
+      "projectiles",
+      "snowball"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-02-22T10:52:27.000+0200",
+    "resolution_date": "2019-08-28T16:09:44.000+0300",
+    "updated_date": "2020-06-21T23:11:17.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-142848",
+    "summary": "Hitbox and eye level of polar bear is not adjusted when attacking",
+    "labels": [
+      "eye-level",
+      "hitbox",
+      "polar_bear"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2019-01-22T00:21:55.000+0200",
+    "resolution_date": "2019-08-29T04:25:25.000+0300",
+    "updated_date": "2022-04-02T20:42:01.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-137297",
+    "summary": "Clicking \"Leave server\" after dying on hardcore multiplayer does not disconnect you from the server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2018-10-16T15:58:48.000+0300",
+    "resolution_date": "2019-09-28T15:51:24.000+0300",
+    "updated_date": "2019-09-28T15:51:24.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-136074",
+    "summary": "Enderman can teleport onto waterlogged blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2018-08-16T03:04:44.000+0300",
+    "resolution_date": "2019-08-28T15:15:33.000+0300",
+    "updated_date": "2019-08-28T15:15:33.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-125810",
+    "summary": "Carved pumpkin can't be enchanted in survival mode",
+    "labels": [
+      "anvil",
+      "carved_pumpkin",
+      "enchanting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2018-02-18T00:46:01.000+0200",
+    "resolution_date": "2019-08-28T16:09:38.000+0300",
+    "updated_date": "2019-10-12T01:04:34.000+0300",
+    "watches": 14,
+    "votes": 42
+  },
+  {
+    "id": "MC-120558",
+    "summary": "Advancement trigger consume_item not working for single potion item stack",
+    "labels": [
+      "advancement",
+      "consume_item",
+      "potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2017-09-07T00:20:20.000+0300",
+    "resolution_date": "2019-10-26T19:58:34.000+0300",
+    "updated_date": "2020-06-16T22:16:43.000+0300",
+    "watches": 7,
+    "votes": 15
+  },
+  {
+    "id": "MC-115567",
+    "summary": "Enderman stare sound doesn't play if enderman was spawned less than 20 seconds ago",
+    "labels": [
+      "enderman",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2017-04-07T07:29:04.000+0300",
+    "resolution_date": "2019-08-28T15:15:30.000+0300",
+    "updated_date": "2019-09-13T15:57:14.000+0300",
+    "watches": 7,
+    "votes": 17
+  },
+  {
+    "id": "MC-107941",
+    "summary": "Shooting, summoning or editing an arrow and reloading the world gives potion particles",
+    "labels": [
+      "arrow",
+      "potion",
+      "relog",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 16w40a",
+      "19w35a"
+    ],
+    "creation_date": "2016-09-30T19:37:30.000+0300",
+    "resolution_date": "2019-08-28T16:09:46.000+0300",
+    "updated_date": "2019-10-28T14:51:07.000+0200",
+    "watches": 27,
+    "votes": 57
+  },
+  {
+    "id": "MC-101725",
+    "summary": "Enderman takes continuous damage from cacti and magma blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2016-05-09T17:12:08.000+0300",
+    "resolution_date": "2019-08-29T04:43:42.000+0300",
+    "updated_date": "2020-03-15T20:38:53.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-101700",
+    "summary": "Missing server-side check in enderman teleport",
+    "labels": [
+      "client-side",
+      "enderman",
+      "server-side",
+      "teleport"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2016-05-08T16:33:10.000+0300",
+    "resolution_date": "2019-08-28T15:15:32.000+0300",
+    "updated_date": "2019-08-29T14:01:09.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-96521",
+    "summary": "After clicking \"Delete World\", hardcore world still runs in background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2016-02-03T20:22:39.000+0200",
+    "resolution_date": "2019-09-18T11:12:37.000+0300",
+    "updated_date": "2020-12-12T02:35:49.000+0200",
+    "watches": 17,
+    "votes": 24
+  },
+  {
+    "id": "MC-88209",
+    "summary": "Endermen make stare sound even when provoked by attacking",
+    "labels": [
+      "aggressive",
+      "attack",
+      "enderman",
+      "hit",
+      "sound",
+      "stare"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2015-09-06T22:01:48.000+0300",
+    "resolution_date": "2019-08-28T15:15:30.000+0300",
+    "updated_date": "2022-01-02T19:02:55.000+0200",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-88179",
+    "summary": "Armor bar disappears after changing dimension until GUI update",
+    "labels": [
+      "armor",
+      "end",
+      "nether"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2015-09-06T12:05:35.000+0300",
+    "resolution_date": "2019-08-28T16:09:45.000+0300",
+    "updated_date": "2020-05-07T00:32:00.000+0300",
+    "watches": 31,
+    "votes": 76
+  },
+  {
+    "id": "MC-63720",
+    "summary": "Banners don't move in wind when over certain \"Time\" value of the level.dat",
+    "labels": [
+      "animation",
+      "banner",
+      "precision-loss",
+      "time"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.8-pre1",
+      "19w35a",
+      "1.15 Pre-release 3"
+    ],
+    "creation_date": "2014-07-25T18:26:33.000+0300",
+    "resolution_date": "2019-11-28T17:00:32.000+0200",
+    "updated_date": "2022-03-21T17:02:44.000+0200",
+    "watches": 20,
+    "votes": 43
+  },
+  {
+    "id": "MC-47091",
+    "summary": "Slimes, Magma Cubes, Ocelots, and Iron Golems don't use generic.attackDamage Attribute",
+    "labels": [
+      "attributes",
+      "damage",
+      "health",
+      "iron_golem",
+      "magma_cube",
+      "ocelot",
+      "potion-effect",
+      "slime",
+      "strength",
+      "weakness"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2014-02-02T10:29:19.000+0200",
+    "resolution_date": "2019-08-28T16:05:07.000+0300",
+    "updated_date": "2022-11-04T14:10:13.000+0200",
+    "watches": 41,
+    "votes": 128
+  },
+  {
+    "id": "MC-30646",
+    "summary": "Hardcore game is not deleted",
+    "labels": [
+      "GUI",
+      "death",
+      "delete",
+      "hardcore",
+      "screen",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2013-09-10T17:46:51.000+0300",
+    "resolution_date": "2019-08-28T16:09:39.000+0300",
+    "updated_date": "2019-12-07T20:45:39.000+0200",
+    "watches": 36,
+    "votes": 49
+  },
+  {
+    "id": "MC-29386",
+    "summary": "Health boost not showing additional hearts when switching dimensions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2013-09-01T00:16:39.000+0300",
+    "resolution_date": "2019-08-28T20:49:33.000+0300",
+    "updated_date": "2019-08-28T20:49:33.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-28447",
+    "summary": "Speed effect stops working after switching dimensions but resumes after sprinting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2013-08-11T02:48:10.000+0300",
+    "resolution_date": "2019-08-28T20:47:13.000+0300",
+    "updated_date": "2019-08-28T20:47:13.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-15862",
+    "summary": "Dying enderman teleports away if falls into water; takes experience to the teleportation destination",
+    "labels": [
+      "death",
+      "enderman",
+      "experience",
+      "experience_orb",
+      "teleport",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 16w06a",
+      "19w35a"
+    ],
+    "creation_date": "2013-05-18T13:54:04.000+0300",
+    "resolution_date": "2019-08-28T15:15:33.000+0300",
+    "updated_date": "2020-08-07T19:19:05.000+0300",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-10209",
+    "summary": "'Allow Cheats' and 'Bonus Chest' buttons get unlocked after entering superflat/buffet customization options",
+    "labels": [
+      "bonus-chest",
+      "cheats",
+      "hardcore",
+      "superflat-world",
+      "world-options"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 14w08a",
+      "19w35a"
+    ],
+    "creation_date": "2013-02-24T05:20:24.000+0200",
+    "resolution_date": "2019-08-29T19:38:34.000+0300",
+    "updated_date": "2019-11-04T22:22:29.000+0200",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-3984",
+    "summary": "A re-created Hardcore game isn't Hardcore unless you cycle through game modes and reset it to Hardcore",
+    "labels": [
+      "hardcore",
+      "re-create"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a"
+    ],
+    "creation_date": "2012-11-30T03:05:39.000+0200",
+    "resolution_date": "2019-08-28T16:09:41.000+0300",
+    "updated_date": "2019-08-28T16:09:41.000+0300",
+    "watches": 9,
+    "votes": 15
+  },
+  {
+    "id": "MC-849",
+    "summary": "Eating a food item / drinking potion / curing zombie / feeding animal has a chance of also consuming a second food item / potion without any animation",
+    "labels": [
+      "animation",
+      "eating",
+      "food"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 15w31a",
+      "19w35a"
+    ],
+    "creation_date": "2012-10-27T08:59:36.000+0300",
+    "resolution_date": "2019-08-28T11:32:35.000+0300",
+    "updated_date": "2019-10-29T21:38:08.000+0200",
+    "watches": 49,
+    "votes": 227
+  }
+]

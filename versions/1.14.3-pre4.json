@@ -1,0 +1,119 @@
+[
+  {
+    "id": "MC-154602",
+    "summary": "End cities being generated causes the game to crash (caused by Elytra item frame)",
+    "labels": [
+      "crash",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 4"
+    ],
+    "creation_date": "2019-06-15T17:54:47.000+0300",
+    "resolution_date": "2019-06-20T01:02:34.000+0300",
+    "updated_date": "2019-06-20T01:02:34.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-154506",
+    "summary": "Pigmen do not aggro on players even if the alarmed pigman has line of sight",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 4"
+    ],
+    "creation_date": "2019-06-14T15:01:42.000+0300",
+    "resolution_date": "2019-06-17T15:06:11.000+0300",
+    "updated_date": "2019-06-17T15:06:11.000+0300",
+    "watches": 17,
+    "votes": 19
+  },
+  {
+    "id": "MC-154499",
+    "summary": "Item frames in the world disappear and cause multiple error messages in the server console / Placing an item frame causes the client to crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 4"
+    ],
+    "creation_date": "2019-06-14T12:38:12.000+0300",
+    "resolution_date": "2019-06-17T14:49:16.000+0300",
+    "updated_date": "2022-08-14T16:30:46.000+0300",
+    "watches": 28,
+    "votes": 44
+  },
+  {
+    "id": "MC-154082",
+    "summary": "The world border is no longer solid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 4"
+    ],
+    "creation_date": "2019-06-08T01:19:22.000+0300",
+    "resolution_date": "2019-06-17T15:08:51.000+0300",
+    "updated_date": "2019-06-17T15:08:51.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-145202",
+    "summary": "Blazes can see through blocks they shouldn't be able to ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 4"
+    ],
+    "creation_date": "2019-03-02T00:05:51.000+0200",
+    "resolution_date": "2019-06-17T14:49:18.000+0300",
+    "updated_date": "2022-02-04T16:45:34.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-99198",
+    "summary": "Villagers can't seem to breed with beetroot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 4"
+    ],
+    "creation_date": "2016-03-07T18:55:00.000+0200",
+    "resolution_date": "2019-06-22T21:29:07.000+0300",
+    "updated_date": "2019-06-22T21:46:26.000+0300",
+    "watches": 13,
+    "votes": 26
+  }
+]

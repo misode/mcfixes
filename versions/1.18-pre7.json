@@ -1,0 +1,118 @@
+[
+  {
+    "id": "MC-242546",
+    "summary": "When optimizing 1.17 world in 1.18, old \"Level\" Compound is not deleted, resulting in increased world size",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-11-22T22:43:47.000+0200",
+    "resolution_date": "2021-11-23T14:08:49.000+0200",
+    "updated_date": "2021-11-23T14:08:49.000+0200",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-242068",
+    "summary": "Dirt part of the Dirt Path texture is one pixel too low",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-11-20T05:24:52.000+0200",
+    "resolution_date": "2021-11-23T17:31:40.000+0200",
+    "updated_date": "2021-11-23T17:31:40.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-241327",
+    "summary": "Render Distance 13 at the world border causes excessive lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-11-12T21:39:51.000+0200",
+    "resolution_date": "2021-11-23T16:23:34.000+0200",
+    "updated_date": "2021-11-23T16:23:34.000+0200",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-241277",
+    "summary": "Server can't generate amplified/large biomes worlds from scratch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-11-12T12:24:31.000+0200",
+    "resolution_date": "2021-11-23T14:40:07.000+0200",
+    "updated_date": "2021-11-24T03:34:59.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-241240",
+    "summary": "Pointed dripstone can occasionally generate unwaterlogged when generating in water aquifers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-11-12T02:06:39.000+0200",
+    "resolution_date": "2021-11-24T13:02:37.000+0200",
+    "updated_date": "2021-11-24T19:41:19.000+0200",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-218592",
+    "summary": "Azalea trees can generate in more than two blocks of water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a",
+      "21w44a",
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-03-10T18:11:55.000+0200",
+    "resolution_date": "2021-11-23T17:23:45.000+0200",
+    "updated_date": "2021-11-23T17:23:45.000+0200",
+    "watches": 21,
+    "votes": 33
+  }
+]

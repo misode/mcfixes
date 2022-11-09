@@ -1,0 +1,746 @@
+[
+  {
+    "id": "MC-172025",
+    "summary": "Several misrotated blocks at snowy_medium_house_2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-13T18:29:32.000+0200",
+    "resolution_date": "2020-02-14T09:26:13.000+0200",
+    "updated_date": "2022-03-02T00:16:26.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-171333",
+    "summary": "Killing a hoglin does not grant the 'Monster Hunter'/'Monsters Hunted' advancements",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-07T17:50:07.000+0200",
+    "resolution_date": "2020-02-14T11:18:00.000+0200",
+    "updated_date": "2020-03-25T21:14:43.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-171211",
+    "summary": "Observers no longer detect a piston base starting to retract",
+    "labels": [
+      "piston",
+      "redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-06T22:37:39.000+0200",
+    "resolution_date": "2020-02-14T14:03:21.000+0200",
+    "updated_date": "2020-02-14T14:03:21.000+0200",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-171023",
+    "summary": "Walls don't stack properly in some directions when placed next to blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-06T01:59:14.000+0200",
+    "resolution_date": "2020-02-07T09:52:30.000+0200",
+    "updated_date": "2020-02-22T22:03:15.000+0200",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-170951",
+    "summary": "Cannot teleport entities outside of the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T23:01:59.000+0200",
+    "resolution_date": "2020-02-11T09:39:03.000+0200",
+    "updated_date": "2020-02-15T18:21:29.000+0200",
+    "watches": 10,
+    "votes": 19
+  },
+  {
+    "id": "MC-170939",
+    "summary": "Walls don't create pillars with string / tripwire above",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T22:37:59.000+0200",
+    "resolution_date": "2020-02-07T09:52:32.000+0200",
+    "updated_date": "2020-02-17T13:24:54.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-170899",
+    "summary": "Netherite cannot power beacons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T21:26:51.000+0200",
+    "resolution_date": "2020-02-14T14:10:47.000+0200",
+    "updated_date": "2020-11-12T13:37:13.000+0200",
+    "watches": 1,
+    "votes": 8
+  },
+  {
+    "id": "MC-170886",
+    "summary": "Alt+F3 debug graph no longer functions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T21:03:38.000+0200",
+    "resolution_date": "2020-02-07T09:52:33.000+0200",
+    "updated_date": "2020-02-10T18:20:17.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-170881",
+    "summary": "Fire doesn't burn items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T20:58:15.000+0200",
+    "resolution_date": "2020-02-06T14:14:53.000+0200",
+    "updated_date": "2020-04-09T05:10:17.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-170869",
+    "summary": "Soul fire lantern animation missing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T20:42:10.000+0200",
+    "resolution_date": "2020-02-14T11:12:52.000+0200",
+    "updated_date": "2020-07-19T21:54:02.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-170862",
+    "summary": "Soul \"Lights\" do not update walls",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T20:31:55.000+0200",
+    "resolution_date": "2020-02-07T09:52:32.000+0200",
+    "updated_date": "2020-02-07T14:01:39.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-170853",
+    "summary": "Cannot spawn baby hoglin using spawn eggs on adult hoglin",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T20:06:20.000+0200",
+    "resolution_date": "2020-02-14T17:37:48.000+0200",
+    "updated_date": "2020-02-14T17:37:49.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-170852",
+    "summary": "Breaking a warped or crimson doors drops two items in Survival mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T20:04:43.000+0200",
+    "resolution_date": "2020-02-07T09:52:31.000+0200",
+    "updated_date": "2021-05-02T13:03:17.000+0300",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-170849",
+    "summary": "Hoglin's hitbox is way too small",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T20:00:07.000+0200",
+    "resolution_date": "2020-02-06T10:29:28.000+0200",
+    "updated_date": "2021-12-13T12:49:50.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-170848",
+    "summary": "Hoglin and zombie pigman spawn eggs look identical",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T19:59:19.000+0200",
+    "resolution_date": "2020-02-06T10:29:12.000+0200",
+    "updated_date": "2020-02-09T08:39:32.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-170846",
+    "summary": "Stacked walls create pillars when they should not, depending on the order of placement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T19:57:50.000+0200",
+    "resolution_date": "2020-02-07T09:52:30.000+0200",
+    "updated_date": "2020-02-22T21:56:33.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-170816",
+    "summary": "Debug Pie freezes in place when closing F3 menu and stays there",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2020-02-05T19:11:48.000+0200",
+    "resolution_date": "2020-02-07T09:52:31.000+0200",
+    "updated_date": "2021-02-25T00:01:01.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-167692",
+    "summary": "Infested blocks don't spawn silverfish when blown up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2019-12-12T07:15:19.000+0200",
+    "resolution_date": "2020-02-14T14:25:59.000+0200",
+    "updated_date": "2021-02-25T19:48:29.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-167561",
+    "summary": "All players can make a dog stand up or sit down",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2019-12-11T14:38:18.000+0200",
+    "resolution_date": "2020-02-13T15:46:39.000+0200",
+    "updated_date": "2020-06-14T17:00:47.000+0300",
+    "watches": 10,
+    "votes": 11
+  },
+  {
+    "id": "MC-166245",
+    "summary": "No sound for shearing snow golems",
+    "labels": [
+      "missing-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2019-11-24T01:09:01.000+0200",
+    "resolution_date": "2020-02-07T09:45:16.000+0200",
+    "updated_date": "2021-09-30T18:37:17.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-160053",
+    "summary": "Enderman keeps following the player after becoming neutral/passive",
+    "labels": [
+      "enderman",
+      "endermen",
+      "hostility",
+      "mob-behavior",
+      "neutral",
+      "passive",
+      "teleport",
+      "teleporting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2019-08-29T21:12:15.000+0300",
+    "resolution_date": "2020-02-07T09:45:21.000+0200",
+    "updated_date": "2020-02-07T09:45:21.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-159672",
+    "summary": "Vex will occasionally try to attack the player in creative/spectator",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2019-08-24T18:37:18.000+0300",
+    "resolution_date": "2020-02-17T07:37:10.000+0200",
+    "updated_date": "2022-03-21T17:08:47.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-155977",
+    "summary": "Enchanting a book makes the book lose its name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2019-07-04T12:46:29.000+0300",
+    "resolution_date": "2020-02-14T14:26:01.000+0200",
+    "updated_date": "2022-02-09T01:43:37.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-148067",
+    "summary": "Snow Golems Damaged by Snowfall in Mountain/Cold Biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2019-04-13T12:37:11.000+0300",
+    "resolution_date": "2020-02-07T09:45:18.000+0200",
+    "updated_date": "2020-02-07T09:45:18.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-136063",
+    "summary": "Incorrect spacing for \"entity.minecraft.tropical_fish.type.sunstreak\"s value",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2018-08-15T22:35:01.000+0300",
+    "resolution_date": "2020-02-15T00:02:21.000+0200",
+    "updated_date": "2020-02-15T00:02:21.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-135034",
+    "summary": "Burning mobs are extinguished by snow in cold biomes, but not in snowy biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2018-07-27T12:50:11.000+0300",
+    "resolution_date": "2020-02-07T09:45:19.000+0200",
+    "updated_date": "2020-11-11T23:23:46.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-133088",
+    "summary": "Missing translation string death.attack.magic.player",
+    "labels": [
+      "death.attack.magic.player",
+      "en_us.json",
+      "translation-string"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2018-07-09T09:01:31.000+0300",
+    "resolution_date": "2020-02-07T10:41:56.000+0200",
+    "updated_date": "2020-11-25T15:44:28.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-132967",
+    "summary": "Mushrooms show as green dots on map",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2018-07-07T12:07:22.000+0300",
+    "resolution_date": "2020-02-07T09:45:15.000+0200",
+    "updated_date": "2020-02-07T13:33:50.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-123453",
+    "summary": "Armor stands can't be placed in a 1 block high space if the EntityTag \"Small:1b\" is set",
+    "labels": [
+      "armor",
+      "stand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2017-12-21T18:37:53.000+0200",
+    "resolution_date": "2020-04-27T00:34:33.000+0300",
+    "updated_date": "2022-01-25T16:28:56.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-94730",
+    "summary": "Endermen become passive when teleporting randomly during day while being aggressive",
+    "labels": [
+      "aggressive",
+      "day",
+      "enderman",
+      "teleport"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2015-12-23T21:23:07.000+0200",
+    "resolution_date": "2020-02-07T09:45:20.000+0200",
+    "updated_date": "2020-02-07T09:49:48.000+0200",
+    "watches": 8,
+    "votes": 21
+  },
+  {
+    "id": "MC-94094",
+    "summary": "Snow golems don't drop their pumpkin when sheared",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2015-12-10T04:58:39.000+0200",
+    "resolution_date": "2020-02-07T09:45:15.000+0200",
+    "updated_date": "2020-06-15T18:07:31.000+0300",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-93813",
+    "summary": "Snow golems throwing snowballs play arrow shooting sound",
+    "labels": [
+      "snow_golem",
+      "snowball",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2015-12-04T15:35:32.000+0200",
+    "resolution_date": "2020-02-07T09:45:19.000+0200",
+    "updated_date": "2022-07-28T16:12:53.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-89043",
+    "summary": "Slime blocks moved by pistons often fail to bounce up the player",
+    "labels": [
+      "piston",
+      "player",
+      "slime_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2015-09-19T04:06:18.000+0300",
+    "resolution_date": "2020-02-14T14:25:58.000+0200",
+    "updated_date": "2020-08-12T22:10:09.000+0300",
+    "watches": 34,
+    "votes": 94
+  },
+  {
+    "id": "MC-79944",
+    "summary": "Various statistics overflow at 32-bit integer limit",
+    "labels": [
+      "distance",
+      "minecart",
+      "overflow",
+      "statistics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2015-04-27T16:51:13.000+0300",
+    "resolution_date": "2020-02-07T09:45:17.000+0200",
+    "updated_date": "2021-07-27T12:28:16.000+0300",
+    "watches": 16,
+    "votes": 32
+  },
+  {
+    "id": "MC-75328",
+    "summary": "/clear doesn't clear items in the inventory crafting grid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2014-12-13T15:35:39.000+0200",
+    "resolution_date": "2020-02-07T09:45:20.000+0200",
+    "updated_date": "2022-02-06T23:47:22.000+0200",
+    "watches": 13,
+    "votes": 22
+  },
+  {
+    "id": "MC-65951",
+    "summary": "Armor stands fall through fences",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2014-08-07T20:48:17.000+0300",
+    "resolution_date": "2020-02-14T14:25:57.000+0200",
+    "updated_date": "2021-04-16T00:16:16.000+0300",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-64871",
+    "summary": "Can't sleep while on fire, even with Fire Resistance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w07a"
+    ],
+    "creation_date": "2014-08-01T08:00:57.000+0300",
+    "resolution_date": "2020-02-14T16:48:42.000+0200",
+    "updated_date": "2020-02-14T16:48:42.000+0200",
+    "watches": 7,
+    "votes": 3
+  }
+]

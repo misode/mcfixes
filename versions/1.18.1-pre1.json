@@ -1,0 +1,63 @@
+[
+  {
+    "id": "MC-243216",
+    "summary": "Chunk render distance on servers seems shorter than in 1.17.1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.1 Pre-release 1"
+    ],
+    "creation_date": "2021-11-30T20:54:48.000+0200",
+    "resolution_date": "2021-12-03T16:09:36.000+0200",
+    "updated_date": "2022-08-13T04:20:10.000+0300",
+    "watches": 23,
+    "votes": 29
+  },
+  {
+    "id": "MC-242729",
+    "summary": "Observer activating without any updates nearby, caused by /clone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.1 Pre-release 1"
+    ],
+    "creation_date": "2021-11-24T21:28:56.000+0200",
+    "resolution_date": "2021-12-03T15:09:51.000+0200",
+    "updated_date": "2021-12-04T06:58:37.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-219507",
+    "summary": "Beacon's power reverts back to previous one on world reload",
+    "labels": [
+      "beacon",
+      "beacon-pyramid",
+      "chunk-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.1 Pre-release 1"
+    ],
+    "creation_date": "2021-03-14T16:01:43.000+0200",
+    "resolution_date": "2021-12-03T13:44:46.000+0200",
+    "updated_date": "2021-12-25T08:14:51.000+0200",
+    "watches": 5,
+    "votes": 7
+  }
+]

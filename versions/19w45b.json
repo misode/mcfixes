@@ -1,0 +1,421 @@
+[
+  {
+    "id": "MC-165137",
+    "summary": "java.lang.NullPointerException: Tesselating liquid in world - Crash while loading some worlds because of a grass block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2019-11-07T20:02:58.000+0200",
+    "resolution_date": "2019-11-08T08:54:11.000+0200",
+    "updated_date": "2019-11-08T17:44:54.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-160854",
+    "summary": "Bees cannot enter their nest/hive unless they're \"pollinated\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2019-09-11T05:32:33.000+0300",
+    "resolution_date": "2019-11-09T10:05:02.000+0200",
+    "updated_date": "2019-11-09T10:05:02.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-159987",
+    "summary": "Bees and parrots don't avoid lava",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2019-08-28T23:50:27.000+0300",
+    "resolution_date": "2019-11-08T12:33:59.000+0200",
+    "updated_date": "2020-03-11T22:51:22.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-159196",
+    "summary": "Cape is rendered too dark if the player is sprinting and has an arrow in it",
+    "labels": [
+      "cape"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2019-08-19T15:38:49.000+0300",
+    "resolution_date": "2019-11-10T13:08:50.000+0200",
+    "updated_date": "2019-11-10T13:08:50.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-136865",
+    "summary": "Fortune and Silk Touch enchantments not working on last use",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2018-09-12T12:03:12.000+0300",
+    "resolution_date": "2019-11-10T18:30:26.000+0200",
+    "updated_date": "2019-11-10T18:30:37.000+0200",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-126996",
+    "summary": "Primed TNT in low light levels loses its texture ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2018-03-09T18:06:32.000+0200",
+    "resolution_date": "2019-11-10T17:48:59.000+0200",
+    "updated_date": "2019-11-10T17:48:59.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-114522",
+    "summary": "Invisible mob / player taking damage is rendered opaque and in wrong order",
+    "labels": [
+      "damage",
+      "invisible",
+      "mob",
+      "opaque",
+      "player",
+      "scoreboard-teams",
+      "seefriendlyinvisibles",
+      "spectator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2017-03-12T22:54:20.000+0200",
+    "resolution_date": "2019-11-10T14:31:55.000+0200",
+    "updated_date": "2019-11-10T14:31:55.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-113899",
+    "summary": "Leaves of Swamp world generation trees replace all non-full blocks",
+    "labels": [
+      "block",
+      "leaves",
+      "swamp",
+      "tree",
+      "tree-generation",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2017-02-16T18:50:42.000+0200",
+    "resolution_date": "2019-11-13T17:37:46.000+0200",
+    "updated_date": "2019-11-13T17:37:46.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-103212",
+    "summary": "F3+B Hitbox not rendering in front of block 36",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2016-06-08T04:03:59.000+0300",
+    "resolution_date": "2019-11-10T14:41:45.000+0200",
+    "updated_date": "2019-12-06T19:40:07.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-80694",
+    "summary": "DisplayTile block in Minecart in spawner is dark",
+    "labels": [
+      "DisplayTile",
+      "MinecartRideable",
+      "MinecartSpawner",
+      "minecart",
+      "mob-spawner",
+      "rendering",
+      "spawner"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2015-05-25T22:47:09.000+0300",
+    "resolution_date": "2019-11-10T14:21:13.000+0200",
+    "updated_date": "2019-11-10T14:21:13.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-69696",
+    "summary": "Fire animation is dark for spiders, endermen and phantoms",
+    "labels": [
+      "cave-spider",
+      "enderman",
+      "fire",
+      "flame",
+      "light",
+      "light-level",
+      "phantom",
+      "spider",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting",
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2014-08-27T18:38:51.000+0300",
+    "resolution_date": "2019-11-09T16:44:06.000+0200",
+    "updated_date": "2019-11-09T16:44:07.000+0200",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-54619",
+    "summary": "World border invisible with blindness effect",
+    "labels": [
+      "rendering",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2014-05-05T04:49:44.000+0300",
+    "resolution_date": "2019-11-10T13:22:51.000+0200",
+    "updated_date": "2021-09-11T07:53:58.000+0300",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-41825",
+    "summary": "Some entities are darker/black in the End (without light)",
+    "labels": [
+      "end",
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2013-12-08T15:10:44.000+0200",
+    "resolution_date": "2019-11-10T13:46:48.000+0200",
+    "updated_date": "2019-11-10T13:57:03.000+0200",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-41822",
+    "summary": "Black squares and triangles in the end sky with low render distance",
+    "labels": [
+      "end",
+      "sky"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2013-12-08T14:35:49.000+0200",
+    "resolution_date": "2019-11-10T17:26:40.000+0200",
+    "updated_date": "2021-07-03T18:54:26.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-19764",
+    "summary": "Trades are still possible after a villager/wandering trader died",
+    "labels": [
+      "trade-gui",
+      "trading",
+      "villager",
+      "wandering_trader"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Trading",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2013-06-29T16:39:14.000+0300",
+    "resolution_date": "2019-11-10T18:14:20.000+0200",
+    "updated_date": "2019-11-10T18:15:54.000+0200",
+    "watches": 14,
+    "votes": 22
+  },
+  {
+    "id": "MC-10135",
+    "summary": "Arrows stuck in players create an odd lighting bug",
+    "labels": [
+      "arrow",
+      "lighting",
+      "pig",
+      "skeleton"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting",
+      "Player",
+      "Projectiles",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2013-02-22T04:49:52.000+0200",
+    "resolution_date": "2019-11-10T15:47:52.000+0200",
+    "updated_date": "2019-11-10T15:47:52.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-6932",
+    "summary": "Minecart with TNT/Hopper/Furnace lighting error",
+    "labels": [
+      "lighting",
+      "minecart",
+      "tnt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2013-01-11T00:31:01.000+0200",
+    "resolution_date": "2019-11-08T17:34:33.000+0200",
+    "updated_date": "2019-11-10T13:46:48.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-3784",
+    "summary": "You can see the moon/sun through clouds with solid blocks above them",
+    "labels": [
+      "clouds",
+      "moon",
+      "rendering",
+      "sun"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w45b"
+    ],
+    "creation_date": "2012-11-24T12:14:36.000+0200",
+    "resolution_date": "2019-11-10T21:07:59.000+0200",
+    "updated_date": "2019-12-03T18:06:04.000+0200",
+    "watches": 11,
+    "votes": 24
+  }
+]

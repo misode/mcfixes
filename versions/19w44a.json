@@ -1,0 +1,578 @@
+[
+  {
+    "id": "MC-164038",
+    "summary": "Serializer for storage nbt component is missing",
+    "labels": [
+      "component"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-18T09:14:07.000+0300",
+    "resolution_date": "2019-10-30T11:11:45.000+0200",
+    "updated_date": "2019-10-30T11:11:46.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-163877",
+    "summary": "Banners are still discolored when viewing from certain angles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-16T21:25:33.000+0300",
+    "resolution_date": "2019-10-30T19:37:14.000+0200",
+    "updated_date": "2019-10-30T19:37:15.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-163849",
+    "summary": "Stopping Creative flight with double-space triggers elytra flight",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-16T19:37:15.000+0300",
+    "resolution_date": "2019-10-28T18:19:52.000+0200",
+    "updated_date": "2020-03-13T21:39:11.000+0200",
+    "watches": 8,
+    "votes": 6
+  },
+  {
+    "id": "MC-163840",
+    "summary": "Witch nose is always high when holding item, but item doesn't render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-16T19:20:08.000+0300",
+    "resolution_date": "2019-10-30T18:54:50.000+0200",
+    "updated_date": "2019-10-30T18:56:38.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-163744",
+    "summary": "Missing predicates return true/false rather than failing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-15T09:18:06.000+0300",
+    "resolution_date": "2019-10-30T16:50:33.000+0200",
+    "updated_date": "2019-10-30T16:50:33.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-163403",
+    "summary": "Trees now require much more free space around them to grow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-11T14:24:53.000+0300",
+    "resolution_date": "2019-10-28T17:36:24.000+0200",
+    "updated_date": "2019-10-30T01:06:41.000+0200",
+    "watches": 12,
+    "votes": 22
+  },
+  {
+    "id": "MC-163400",
+    "summary": "Parrots can imitate wolves, polar bears and  zombie pigmen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-11T13:13:22.000+0300",
+    "resolution_date": "2019-10-28T17:25:32.000+0200",
+    "updated_date": "2020-03-13T21:43:07.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-163028",
+    "summary": "Experience orbs turn white when being picked up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-09T19:48:36.000+0300",
+    "resolution_date": "2019-10-30T16:28:14.000+0200",
+    "updated_date": "2019-10-30T16:28:15.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-162606",
+    "summary": "Evoker fangs are rendered too big",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-03T05:37:11.000+0300",
+    "resolution_date": "2019-10-30T16:28:00.000+0200",
+    "updated_date": "2022-07-08T05:00:52.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-162530",
+    "summary": "Grass block and leaves sides are not colored correctly in first person mode when being held in the hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-02T18:43:58.000+0300",
+    "resolution_date": "2019-10-30T16:28:09.000+0200",
+    "updated_date": "2019-10-30T16:28:09.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-162526",
+    "summary": "Edge of spawn eggs are incorrectly colored when held in the hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-10-02T18:31:57.000+0300",
+    "resolution_date": "2019-10-30T16:28:08.000+0200",
+    "updated_date": "2019-10-30T16:28:08.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-162361",
+    "summary": "Potions and water bottles are incorrectly colored when held in the hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-30T20:06:26.000+0300",
+    "resolution_date": "2019-10-30T16:28:11.000+0200",
+    "updated_date": "2019-10-30T16:28:11.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-162026",
+    "summary": "Some blocks held by the witch, the rendering is very strange",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-28T09:35:52.000+0300",
+    "resolution_date": "2019-10-30T16:27:58.000+0200",
+    "updated_date": "2019-10-30T16:27:58.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-161941",
+    "summary": "Some items lose their colour when being picked up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-27T23:54:36.000+0300",
+    "resolution_date": "2019-10-30T16:28:13.000+0200",
+    "updated_date": "2019-10-30T16:28:13.000+0200",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-161918",
+    "summary": "Item and experience orb shadows turn completely black during pickup animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-27T22:36:35.000+0300",
+    "resolution_date": "2019-10-30T16:28:14.000+0200",
+    "updated_date": "2019-10-30T16:28:14.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-161846",
+    "summary": "Shulkers on walls (facing east or west) are sometimes incorrectly oriented",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-27T18:09:38.000+0300",
+    "resolution_date": "2019-10-30T16:27:57.000+0200",
+    "updated_date": "2021-02-24T15:23:50.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-161841",
+    "summary": "Top texture of leaves and grass blocks is gray in first person mode when being held in the hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-27T18:02:20.000+0300",
+    "resolution_date": "2019-10-30T16:28:13.000+0200",
+    "updated_date": "2019-12-20T04:50:27.000+0200",
+    "watches": 10,
+    "votes": 32
+  },
+  {
+    "id": "MC-161837",
+    "summary": "Some biome-affected items are coloured incorrectly when held in the hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-27T17:59:48.000+0300",
+    "resolution_date": "2019-10-30T16:28:12.000+0200",
+    "updated_date": "2019-10-30T16:28:12.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-161835",
+    "summary": "Shulker boxes and chests in the inventory are shaded very light",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-27T17:58:28.000+0300",
+    "resolution_date": "2019-10-31T09:04:17.000+0200",
+    "updated_date": "2019-11-11T23:29:38.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-161083",
+    "summary": "Inconsistency with how multi-block objects display cracking animations",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-09-14T15:09:29.000+0300",
+    "resolution_date": "2019-10-31T09:03:12.000+0200",
+    "updated_date": "2021-03-09T18:26:28.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-158911",
+    "summary": "Fences and walls connect to closed shulker boxes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-08-13T22:54:48.000+0300",
+    "resolution_date": "2019-10-28T17:28:31.000+0200",
+    "updated_date": "2019-11-04T15:05:58.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-156197",
+    "summary": "Using Shears with 1 Durability remaining drops nothing or wrong drop",
+    "labels": [
+      "Damage",
+      "Durability",
+      "Grass",
+      "cobweb",
+      "cobwebs",
+      "damage",
+      "durability",
+      "grass",
+      "leaves",
+      "shears",
+      "tool"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-07-07T16:07:10.000+0300",
+    "resolution_date": "2019-10-30T21:46:09.000+0200",
+    "updated_date": "2019-10-30T21:46:09.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-151962",
+    "summary": "The last use of a shear will not drop the item on one high blocks",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2019-05-16T01:20:16.000+0300",
+    "resolution_date": "2019-10-28T17:25:31.000+0200",
+    "updated_date": "2019-10-30T15:54:15.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-132211",
+    "summary": "Book Edits Occur on Network Thread",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2018-06-28T03:31:00.000+0300",
+    "resolution_date": "2019-10-30T11:11:46.000+0200",
+    "updated_date": "2019-10-30T11:11:46.000+0200",
+    "watches": 12,
+    "votes": 8
+  },
+  {
+    "id": "MC-108666",
+    "summary": "Chest / trapped chest / ender chest / shulker box / bed / conduit held by witches are too small",
+    "labels": [
+      "bed",
+      "chest",
+      "conduit",
+      "ender_chest",
+      "held-item",
+      "shulker_box",
+      "trapped_chest",
+      "witch"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2016-10-13T15:01:16.000+0300",
+    "resolution_date": "2019-10-30T18:58:30.000+0200",
+    "updated_date": "2019-10-30T18:58:30.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-106494",
+    "summary": "Items despawn after one minute instead of five when dropped from the Creative inventory",
+    "labels": [
+      "despawning",
+      "item",
+      "item-drops"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2016-08-25T10:13:15.000+0300",
+    "resolution_date": "2019-10-28T18:19:52.000+0200",
+    "updated_date": "2021-03-22T13:50:04.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-93932",
+    "summary": "Blocks/items held by witches are flipped upside-down",
+    "labels": [
+      "block",
+      "item",
+      "witch"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2015-12-06T16:42:31.000+0200",
+    "resolution_date": "2019-10-30T19:03:19.000+0200",
+    "updated_date": "2019-11-09T17:15:56.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-63179",
+    "summary": "Clouds move with the player",
+    "labels": [
+      "clouds",
+      "height",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w44a"
+    ],
+    "creation_date": "2014-07-23T21:19:36.000+0300",
+    "resolution_date": "2019-10-30T16:27:59.000+0200",
+    "updated_date": "2020-03-13T21:34:59.000+0200",
+    "watches": 18,
+    "votes": 22
+  }
+]

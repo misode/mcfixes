@@ -1,0 +1,957 @@
+[
+  {
+    "id": "MC-238265",
+    "summary": "version.json contains internal revision ID instead of game version ID",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-10-04T00:19:28.000+0300",
+    "resolution_date": "2021-10-05T10:04:26.000+0300",
+    "updated_date": "2021-10-05T10:04:26.000+0300",
+    "watches": 6,
+    "votes": 1
+  },
+  {
+    "id": "MC-238104",
+    "summary": "Blue Orchid generation has decreased",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-10-01T17:03:22.000+0300",
+    "resolution_date": "2021-10-06T15:36:26.000+0300",
+    "updated_date": "2021-10-23T14:16:24.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-238006",
+    "summary": "Emerald ore and infested blocks do not generate in Snowy Mountain biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-30T17:19:25.000+0300",
+    "resolution_date": "2021-10-08T17:24:39.000+0300",
+    "updated_date": "2021-10-08T17:24:39.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-237962",
+    "summary": "Entities bob their head up and down when targeting towards the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-30T02:29:57.000+0300",
+    "resolution_date": "2021-10-06T15:46:16.000+0300",
+    "updated_date": "2022-01-13T17:40:22.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-237951",
+    "summary": "Cave vines can generate into water",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-30T00:27:13.000+0300",
+    "resolution_date": "2021-10-06T15:36:27.000+0300",
+    "updated_date": "2021-10-06T15:36:27.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-237950",
+    "summary": "Cave vines can generate without tip because prioritize_tip option is negated",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-30T00:22:48.000+0300",
+    "resolution_date": "2021-10-06T15:36:26.000+0300",
+    "updated_date": "2021-10-06T15:36:26.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-237933",
+    "summary": "Sweet Berries generate much too often",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-29T21:11:48.000+0300",
+    "resolution_date": "2021-10-06T15:36:25.000+0300",
+    "updated_date": "2021-11-05T14:09:29.000+0200",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-237925",
+    "summary": "Opening world from 1.12.2 (or older) in latest snapshot regenerates random chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-29T20:35:10.000+0300",
+    "resolution_date": "2021-10-01T11:16:07.000+0300",
+    "updated_date": "2021-10-05T10:16:32.000+0300",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-237666",
+    "summary": "Unused biomes still present in game files",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-25T17:51:21.000+0300",
+    "resolution_date": "2021-10-07T13:57:40.000+0300",
+    "updated_date": "2021-10-07T13:57:40.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-237586",
+    "summary": "Entities that die outside of simulation distance remain frozen in the death animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-24T20:44:39.000+0300",
+    "resolution_date": "2021-10-13T17:54:21.000+0300",
+    "updated_date": "2021-10-13T18:02:37.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-237490",
+    "summary": "The bottom parts of aquifers aren't always surrounded by blocks which can occasionally cause them to spill into caves in ways that appear bizarre",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-23T21:55:51.000+0300",
+    "resolution_date": "2021-10-07T09:37:36.000+0300",
+    "updated_date": "2021-10-07T22:33:31.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-236896",
+    "summary": "Strange mini broken aquifer walls generating commonly on the surface",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-17T06:01:33.000+0300",
+    "resolution_date": "2021-10-07T09:08:51.000+0300",
+    "updated_date": "2021-10-27T15:54:18.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-236894",
+    "summary": "Foliage from specific biomes can generate in biomes they aren't meant for",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-17T05:52:05.000+0300",
+    "resolution_date": "2021-10-08T22:32:49.000+0300",
+    "updated_date": "2021-10-08T22:32:49.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-236736",
+    "summary": "No relief on treasure map or explorer maps",
+    "labels": [
+      "map",
+      "rendering",
+      "treasure-map"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-16T03:05:56.000+0300",
+    "resolution_date": "2021-10-05T19:04:04.000+0300",
+    "updated_date": "2021-11-28T13:03:20.000+0200",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-236663",
+    "summary": "Command blocks do not display command in their UI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-15T21:30:57.000+0300",
+    "resolution_date": "2021-10-01T10:54:33.000+0300",
+    "updated_date": "2022-06-21T13:25:05.000+0300",
+    "watches": 15,
+    "votes": 31
+  },
+  {
+    "id": "MC-236632",
+    "summary": "Banners without patterns do not render properly",
+    "labels": [
+      "banner",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-15T20:39:26.000+0300",
+    "resolution_date": "2021-10-01T10:51:31.000+0300",
+    "updated_date": "2021-10-08T11:06:03.000+0300",
+    "watches": 10,
+    "votes": 16
+  },
+  {
+    "id": "MC-236617",
+    "summary": "Mountains & Gravelly Mountains use their 1.17.1 biome ID name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-15T20:19:29.000+0300",
+    "resolution_date": "2021-10-07T13:50:36.000+0300",
+    "updated_date": "2021-10-07T13:50:36.000+0300",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-236614",
+    "summary": "Adventuring Time advancement still accepts non generating biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-15T20:14:51.000+0300",
+    "resolution_date": "2021-10-07T20:12:25.000+0300",
+    "updated_date": "2021-10-07T20:12:25.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-236609",
+    "summary": "New mountain biomes use translations strings in biome selection",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-09-15T20:09:12.000+0300",
+    "resolution_date": "2021-10-07T20:12:13.000+0300",
+    "updated_date": "2021-10-07T20:12:13.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-233661",
+    "summary": "In some cases, sand blocks generating over lakes do not cause light updates, resulting in large dark spots",
+    "labels": [
+      "lighting",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-08-03T02:55:00.000+0300",
+    "resolution_date": "2021-10-08T10:04:12.000+0300",
+    "updated_date": "2021-10-08T10:04:12.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-231400",
+    "summary": "Modified Badlands Plateau and Mountain Edge don't generate and gives out invalid biome data in single biome worlds",
+    "labels": [
+      "custom-worldgen",
+      "data-pack",
+      "modified_badlands_plateau",
+      "mountain_edge",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-07-07T20:41:48.000+0300",
+    "resolution_date": "2021-10-07T20:15:03.000+0300",
+    "updated_date": "2021-10-07T20:15:03.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-229365",
+    "summary": "Large amounts of goats causes performance issues ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-06-17T14:58:27.000+0300",
+    "resolution_date": "2021-10-05T19:29:20.000+0300",
+    "updated_date": "2021-10-05T19:29:20.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-227064",
+    "summary": "Floating grass can still generate above water lakes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-06-01T20:32:51.000+0300",
+    "resolution_date": "2021-10-07T13:58:44.000+0300",
+    "updated_date": "2021-10-07T13:58:44.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-226682",
+    "summary": "World can fail to render/load causing visual issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-05-29T01:30:22.000+0300",
+    "resolution_date": "2021-11-05T12:24:52.000+0200",
+    "updated_date": "2021-11-05T12:24:52.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-226437",
+    "summary": "Water lakes generating in snowy tundra's can sometimes contain dark spots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-05-27T17:03:55.000+0300",
+    "resolution_date": "2021-10-08T10:03:53.000+0300",
+    "updated_date": "2021-10-08T10:03:53.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-226000",
+    "summary": "Pointed dripstone items in underground pools",
+    "labels": [
+      "pointed-dripstone",
+      "pools",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-05-21T05:43:16.000+0300",
+    "resolution_date": "2021-10-25T12:50:20.000+0300",
+    "updated_date": "2021-10-25T12:50:20.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-225858",
+    "summary": "Seeds and flowers appear in ponds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-05-19T20:52:36.000+0300",
+    "resolution_date": "2021-10-07T13:58:31.000+0300",
+    "updated_date": "2021-10-07T13:58:31.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-225842",
+    "summary": "Flowers can generate on large plants near lakes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-05-19T20:00:05.000+0300",
+    "resolution_date": "2021-10-07T13:58:49.000+0300",
+    "updated_date": "2021-10-07T13:58:49.000+0300",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-225506",
+    "summary": "Grass blocks can generate naturally in underground pools",
+    "labels": [
+      "grass-block",
+      "pools",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-05-14T01:21:33.000+0300",
+    "resolution_date": "2021-10-08T10:02:10.000+0300",
+    "updated_date": "2021-10-08T10:02:10.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-225030",
+    "summary": "Dungeons are extremely rare compared to in the past",
+    "labels": [
+      "dungeon",
+      "structure",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-05-06T20:55:08.000+0300",
+    "resolution_date": "2021-10-07T20:14:32.000+0300",
+    "updated_date": "2021-10-07T20:14:32.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-224494",
+    "summary": "Regular dirt can generate naturally on the surface near pools",
+    "labels": [
+      "decoration",
+      "dirt",
+      "pools",
+      "surface",
+      "water",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-04-30T00:36:55.000+0300",
+    "resolution_date": "2021-10-08T10:01:36.000+0300",
+    "updated_date": "2021-10-08T10:01:36.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-217906",
+    "summary": "Large amounts of axolotls cause performance issues",
+    "labels": [
+      "lag",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2021-03-06T21:07:58.000+0200",
+    "resolution_date": "2021-10-05T19:29:13.000+0300",
+    "updated_date": "2021-10-05T19:29:13.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-200803",
+    "summary": "Gravelly Mountains+/Modified Gravelly mountains placed incorrectly in the biome selection",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2020-09-22T16:25:25.000+0300",
+    "resolution_date": "2021-10-08T17:19:40.000+0300",
+    "updated_date": "2021-10-08T17:19:40.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-200640",
+    "summary": "Despite being a coastal biome, mushroom field shores don't have a warm/unique water color",
+    "labels": [
+      "single-biome-only"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2020-09-20T00:31:09.000+0300",
+    "resolution_date": "2021-10-07T20:13:16.000+0300",
+    "updated_date": "2021-10-07T20:13:16.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-197688",
+    "summary": "Mountain Edge never generates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2020-08-11T10:02:28.000+0300",
+    "resolution_date": "2021-10-07T13:48:15.000+0300",
+    "updated_date": "2021-10-07T13:48:15.000+0300",
+    "watches": 7,
+    "votes": 18
+  },
+  {
+    "id": "MC-190724",
+    "summary": "Spawning in solid blocks in single biome \"Badlands Plateau\" world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2020-06-20T19:35:41.000+0300",
+    "resolution_date": "2021-10-07T20:14:46.000+0300",
+    "updated_date": "2021-10-07T20:14:46.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-177016",
+    "summary": "Some lakes in frozen biomes generate unfrozen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2020-04-02T03:48:22.000+0300",
+    "resolution_date": "2021-10-07T20:14:39.000+0300",
+    "updated_date": "2021-10-17T15:12:53.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-169523",
+    "summary": "As of 18w06a, the sand, clay and gravel blocks no longer generate around small lakes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2020-01-06T16:18:20.000+0200",
+    "resolution_date": "2021-10-07T13:58:55.000+0300",
+    "updated_date": "2021-10-07T14:04:47.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-152966",
+    "summary": "Increase villages generate in versions after 1.10",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Village system",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2019-05-26T05:59:18.000+0300",
+    "resolution_date": "2021-10-08T02:45:43.000+0300",
+    "updated_date": "2021-10-08T02:45:44.000+0300",
+    "watches": 8,
+    "votes": 3
+  },
+  {
+    "id": "MC-138939",
+    "summary": "Fish and dolphins spawn in water above sea level",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2018-11-06T12:42:38.000+0200",
+    "resolution_date": "2021-12-14T16:21:22.000+0200",
+    "updated_date": "2021-12-14T16:21:22.000+0200",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-138782",
+    "summary": "Stranded dolphin tries to catch the boat on the water and stops beating",
+    "labels": [
+      "ai",
+      "dolphin",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2018-11-03T06:35:54.000+0200",
+    "resolution_date": "2021-10-10T08:45:28.000+0300",
+    "updated_date": "2021-10-10T08:45:28.000+0300",
+    "watches": 8,
+    "votes": 6
+  },
+  {
+    "id": "MC-138734",
+    "summary": "Spawn point for seed 0, world type Buffet with Badlands Plateau biome is under surface, \u21d2 player dies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2018-11-02T16:06:54.000+0200",
+    "resolution_date": "2021-10-07T20:14:55.000+0300",
+    "updated_date": "2021-10-07T20:14:55.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-137956",
+    "summary": "Lakes still generate in superflat preset \"Overworld\" after removing its tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2018-10-25T22:13:09.000+0300",
+    "resolution_date": "2021-10-08T10:00:33.000+0300",
+    "updated_date": "2021-10-08T10:00:33.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-137140",
+    "summary": "Llamas cannot spawn in shattered savanna plateau",
+    "labels": [
+      "single-biome-only"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2018-10-02T05:27:52.000+0300",
+    "resolution_date": "2021-10-07T20:13:23.000+0300",
+    "updated_date": "2021-11-01T19:20:19.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-133582",
+    "summary": "Dolphins try to catch up with boat on land",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2018-07-15T09:09:33.000+0300",
+    "resolution_date": "2021-10-10T08:53:54.000+0300",
+    "updated_date": "2021-10-10T08:53:54.000+0300",
+    "watches": 11,
+    "votes": 14
+  },
+  {
+    "id": "MC-132306",
+    "summary": "Snowy grass without snow near lakes in snowy biome",
+    "labels": [
+      "grass_block",
+      "snowy"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 1.13-pre10",
+      "21w40a"
+    ],
+    "creation_date": "2018-06-29T08:52:21.000+0300",
+    "resolution_date": "2021-10-07T13:58:38.000+0300",
+    "updated_date": "2022-05-13T10:28:56.000+0300",
+    "watches": 21,
+    "votes": 41
+  },
+  {
+    "id": "MC-128770",
+    "summary": "Woodland mansions still generate in dark forest hills",
+    "labels": [
+      "single-biome-only"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w40a"
+    ],
+    "creation_date": "2018-04-21T08:45:45.000+0300",
+    "resolution_date": "2021-10-07T20:13:32.000+0300",
+    "updated_date": "2021-10-07T20:13:32.000+0300",
+    "watches": 5,
+    "votes": 4
+  }
+]

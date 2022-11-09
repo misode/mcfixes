@@ -1,0 +1,853 @@
+[
+  {
+    "id": "MC-204861",
+    "summary": "Datapack format potential conflicts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-09T19:39:14.000+0200",
+    "resolution_date": "2020-11-12T12:26:42.000+0200",
+    "updated_date": "2020-11-12T12:26:42.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-204221",
+    "summary": "Calcite has transparent texture but is opaque in-game",
+    "labels": [
+      "block",
+      "rendering",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-05T21:20:29.000+0200",
+    "resolution_date": "2020-11-23T14:34:44.000+0200",
+    "updated_date": "2020-11-23T14:34:44.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-204054",
+    "summary": "When using the spyglass with a shield on your secondary hand, the shield appears on the zoom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-05T14:21:12.000+0200",
+    "resolution_date": "2020-11-17T19:05:32.000+0200",
+    "updated_date": "2020-11-19T15:08:41.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-203880",
+    "summary": "Floating creepers / creeper with no AI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-05T04:48:48.000+0200",
+    "resolution_date": "2020-11-11T15:08:24.000+0200",
+    "updated_date": "2021-03-20T23:41:48.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-203746",
+    "summary": "Levitation particles go on forever when killed by a levitating creeper",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-05T00:06:46.000+0200",
+    "resolution_date": "2020-11-11T14:55:35.000+0200",
+    "updated_date": "2020-11-11T16:11:41.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-203648",
+    "summary": "The armour stand model floats above its base",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:59:14.000+0200",
+    "resolution_date": "2020-11-09T11:22:13.000+0200",
+    "updated_date": "2022-11-08T06:17:21.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-203646",
+    "summary": "Some mobs won't despawn when switched to peaceful",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:57:20.000+0200",
+    "resolution_date": "2020-11-11T12:24:07.000+0200",
+    "updated_date": "2020-11-12T18:20:24.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-203644",
+    "summary": "Cats & Ocelots are missing one of their legs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:54:03.000+0200",
+    "resolution_date": "2020-11-09T11:22:13.000+0200",
+    "updated_date": "2021-02-25T00:27:31.000+0200",
+    "watches": 12,
+    "votes": 30
+  },
+  {
+    "id": "MC-203643",
+    "summary": "Command modified bundle has a bigger progress bar than a slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:53:33.000+0200",
+    "resolution_date": "2020-11-11T12:45:47.000+0200",
+    "updated_date": "2022-11-02T15:34:05.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-203631",
+    "summary": "Amethyst buds do not drop themselves with silk touch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:45:32.000+0200",
+    "resolution_date": "2020-11-11T15:17:33.000+0200",
+    "updated_date": "2022-01-22T16:26:03.000+0200",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-203622",
+    "summary": "Arm when using Spyglass aligned wrong on Multiplayer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:38:23.000+0200",
+    "resolution_date": "2020-11-09T12:47:29.000+0200",
+    "updated_date": "2020-11-11T15:57:03.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-203621",
+    "summary": "Unable to pick up experience orbs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:38:17.000+0200",
+    "resolution_date": "2020-11-11T13:30:13.000+0200",
+    "updated_date": "2020-11-11T13:30:13.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-203574",
+    "summary": "Decorations don't generate in the Nether",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T21:06:57.000+0200",
+    "resolution_date": "2020-11-10T16:49:09.000+0200",
+    "updated_date": "2020-11-12T23:19:30.000+0200",
+    "watches": 25,
+    "votes": 60
+  },
+  {
+    "id": "MC-203562",
+    "summary": "Shulker boxes animate when shulkers do",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T20:58:00.000+0200",
+    "resolution_date": "2020-11-09T11:22:14.000+0200",
+    "updated_date": "2020-11-09T21:54:28.000+0200",
+    "watches": 16,
+    "votes": 42
+  },
+  {
+    "id": "MC-203551",
+    "summary": "Putting lava in a cauldron makes the water bucket sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-11-04T20:44:57.000+0200",
+    "resolution_date": "2020-11-11T19:19:44.000+0200",
+    "updated_date": "2021-06-05T10:59:54.000+0300",
+    "watches": 7,
+    "votes": 17
+  },
+  {
+    "id": "MC-199988",
+    "summary": "When accessing a UI of a structure block from /setblock the texture changes from data to save",
+    "labels": [
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-09-11T05:06:36.000+0300",
+    "resolution_date": "2020-11-16T17:04:45.000+0200",
+    "updated_date": "2020-11-16T17:04:45.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-198725",
+    "summary": "Crash when clicking \"Presets\" after setting the superflat preset with a non-existent biome",
+    "labels": [
+      "crash",
+      "customized-world",
+      "superflat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-08-23T00:05:13.000+0300",
+    "resolution_date": "2020-11-10T17:01:46.000+0200",
+    "updated_date": "2021-05-23T00:43:28.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-198535",
+    "summary": "\"time_check\" predicate condition requires both \"min\" and \"max\" value",
+    "labels": [
+      "max",
+      "min",
+      "time_check"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-08-21T06:51:06.000+0300",
+    "resolution_date": "2020-11-15T15:34:36.000+0200",
+    "updated_date": "2020-11-15T15:36:01.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-198514",
+    "summary": "Creating a superflat world with nothing but air crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-08-20T23:11:33.000+0300",
+    "resolution_date": "2020-11-10T17:01:46.000+0200",
+    "updated_date": "2020-11-10T17:01:47.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-197276",
+    "summary": "Pufferfish gives poison IV instead of II",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-08-06T23:39:17.000+0300",
+    "resolution_date": "2020-11-11T15:31:00.000+0200",
+    "updated_date": "2021-05-04T14:39:23.000+0300",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-196425",
+    "summary": "\"Off\" is not completely capitalized for the Distortion Effects and FOV Effects sliders, which is inconsistent with other sliders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-07-29T18:17:17.000+0300",
+    "resolution_date": "2020-11-11T15:30:59.000+0200",
+    "updated_date": "2020-11-11T15:30:59.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-195827",
+    "summary": "\"datapackFailure.title\" line in \"en_us.json\" file has double spaces between the translation string and the equivalent text",
+    "labels": [
+      "datapackFailure.title",
+      "double-space",
+      "en_us.json",
+      "space",
+      "text",
+      "translation-string"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-07-23T01:29:13.000+0300",
+    "resolution_date": "2020-11-15T15:35:05.000+0200",
+    "updated_date": "2021-08-18T16:39:58.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-195461",
+    "summary": "The upper part of potted cactus/bamboo texture is not visible if there is a half block above it",
+    "labels": [
+      "bamboo",
+      "block-model",
+      "cactus",
+      "culling",
+      "slab"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-07-19T15:37:40.000+0300",
+    "resolution_date": "2020-11-24T06:56:40.000+0200",
+    "updated_date": "2021-05-30T15:06:25.000+0300",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-189482",
+    "summary": "LAN World screen buttons are selected in the wrong order when using Tab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-06-14T00:18:11.000+0300",
+    "resolution_date": "2020-11-11T16:24:36.000+0200",
+    "updated_date": "2020-11-11T16:24:36.000+0200",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-188448",
+    "summary": "Food pops off of campfire when extinguished",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-06-10T19:17:24.000+0300",
+    "resolution_date": "2020-11-11T15:30:58.000+0200",
+    "updated_date": "2020-11-12T10:04:42.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-185605",
+    "summary": "Kelp generates on top of Magma Blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-05-25T18:33:26.000+0300",
+    "resolution_date": "2020-11-10T17:01:50.000+0200",
+    "updated_date": "2020-11-10T17:01:50.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-183917",
+    "summary": "Min and max are both required in entity_scores condition",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-05-14T12:39:15.000+0300",
+    "resolution_date": "2020-11-09T17:54:11.000+0200",
+    "updated_date": "2020-11-13T01:45:43.000+0200",
+    "watches": 10,
+    "votes": 18
+  },
+  {
+    "id": "MC-183771",
+    "summary": "Gamemode switcher icons in the F3+F4 menu are not centered",
+    "labels": [
+      "GUI",
+      "game-mode-switcher",
+      "menu",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-05-13T19:20:11.000+0300",
+    "resolution_date": "2020-11-11T15:30:57.000+0200",
+    "updated_date": "2020-11-12T01:21:32.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-182954",
+    "summary": "\"block.minecraft.banner.base.<color>\" displays raw translation string (is untranslated)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-05-07T19:03:15.000+0300",
+    "resolution_date": "2020-11-11T15:30:57.000+0200",
+    "updated_date": "2020-11-11T15:30:57.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-170659",
+    "summary": "Loss of precision in entity_scores conditions",
+    "labels": [
+      "entity_scores"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2020-02-01T18:25:43.000+0200",
+    "resolution_date": "2022-07-19T22:49:53.000+0300",
+    "updated_date": "2022-07-19T22:57:25.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-162910",
+    "summary": "Additional map is created when using an empty map in Creative in a newly created world",
+    "labels": [
+      "map"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2019-10-07T05:47:02.000+0300",
+    "resolution_date": "2020-11-09T20:05:45.000+0200",
+    "updated_date": "2020-11-12T01:22:11.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-158466",
+    "summary": "Server Crash (Exception ticking world: ConcurrentModificationException)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2019-08-05T22:24:19.000+0300",
+    "resolution_date": "2021-05-20T15:00:38.000+0300",
+    "updated_date": "2021-05-20T15:00:40.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-147729",
+    "summary": "Crafting via the recipe book can delete items if picking up items while crafting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Inventory",
+      "Items",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2019-04-10T01:25:41.000+0300",
+    "resolution_date": "2020-11-10T17:01:49.000+0200",
+    "updated_date": "2021-02-08T09:32:34.000+0200",
+    "watches": 17,
+    "votes": 36
+  },
+  {
+    "id": "MC-143821",
+    "summary": "Using empty map in creative mode can create additional map with ID 0",
+    "labels": [
+      "filled_map",
+      "map"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Maps"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2019-02-07T19:43:23.000+0200",
+    "resolution_date": "2020-11-09T20:05:45.000+0200",
+    "updated_date": "2021-01-31T13:25:35.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-110903",
+    "summary": "Cannot remove horse saddle using /replaceitem",
+    "labels": [
+      "/replaceitem",
+      "air",
+      "horse",
+      "saddle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2016-11-28T16:22:30.000+0200",
+    "resolution_date": "2020-11-09T17:54:21.000+0200",
+    "updated_date": "2020-11-25T14:36:05.000+0200",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-106690",
+    "summary": "Servers sends SPacketMaps packets even if the map data did not change",
+    "labels": [
+      "filled_map",
+      "map",
+      "packet",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2016-08-31T21:43:39.000+0300",
+    "resolution_date": "2021-05-27T15:15:31.000+0300",
+    "updated_date": "2021-05-27T15:15:32.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-99259",
+    "summary": "As of 1.9, the wither health bar doesn't go up during spawn",
+    "labels": [
+      "health",
+      "spawning",
+      "wither"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2016-03-08T20:13:34.000+0200",
+    "resolution_date": "2020-11-11T15:30:59.000+0200",
+    "updated_date": "2020-11-11T15:30:59.000+0200",
+    "watches": 9,
+    "votes": 23
+  },
+  {
+    "id": "MC-99189",
+    "summary": "Client overrides map data of map with id 0 when a new map is created",
+    "labels": [
+      "client",
+      "filled_map",
+      "map"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2016-03-07T13:05:24.000+0200",
+    "resolution_date": "2021-10-12T04:42:00.000+0300",
+    "updated_date": "2021-10-12T04:42:00.000+0300",
+    "watches": 11,
+    "votes": 10
+  },
+  {
+    "id": "MC-80468",
+    "summary": "Inconsistency between block names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2015-05-21T15:09:11.000+0300",
+    "resolution_date": "2020-11-11T15:30:54.000+0200",
+    "updated_date": "2021-08-18T16:39:49.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-53518",
+    "summary": "Endermen don't attack endermites spawned using spawn eggs or /summon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w46a"
+    ],
+    "creation_date": "2014-04-25T05:01:08.000+0300",
+    "resolution_date": "2020-11-11T15:30:56.000+0200",
+    "updated_date": "2021-05-21T11:32:51.000+0300",
+    "watches": 20,
+    "votes": 30
+  },
+  {
+    "id": "MC-2490",
+    "summary": "TNT animation ends at 80 ticks, ignores fuse length changes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 15w32c",
+      "20w46a"
+    ],
+    "creation_date": "2012-11-08T14:47:01.000+0200",
+    "resolution_date": "2020-11-11T15:30:56.000+0200",
+    "updated_date": "2020-11-14T13:49:22.000+0200",
+    "watches": 22,
+    "votes": 29
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "MC-251989",
+    "summary": "Cannot send chats or use commands in multiplayer since 1.19 Pre-release 1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2022-05-21T00:25:36.000+0300",
+    "resolution_date": "2022-05-30T13:34:54.000+0300",
+    "updated_date": "2022-06-05T00:20:56.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-251859",
+    "summary": "Gear equipping sound plays every time armor/elytra durability changes while equipped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2",
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2022-05-18T19:14:18.000+0300",
+    "resolution_date": "2022-05-30T12:13:04.000+0300",
+    "updated_date": "2022-06-05T00:21:27.000+0300",
+    "watches": 13,
+    "votes": 22
+  },
+  {
+    "id": "MC-251840",
+    "summary": "Game crash whilst getting block state: cwj: Missing Palette entry for index 8",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2022-05-18T00:28:40.000+0300",
+    "resolution_date": "2022-05-30T14:51:41.000+0300",
+    "updated_date": "2022-10-14T03:42:36.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-250918",
+    "summary": "Players are disconnected from servers when opening command blocks that consist of large numbers of characters within the previous output field",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2022-04-27T12:39:28.000+0300",
+    "resolution_date": "2022-07-05T14:14:53.000+0300",
+    "updated_date": "2022-07-05T14:14:53.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-249831",
+    "summary": "Aquifers can cut themselves off at chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2022-04-02T04:59:02.000+0300",
+    "resolution_date": "2022-05-30T16:59:46.000+0300",
+    "updated_date": "2022-05-30T16:59:46.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-245504",
+    "summary": "Touchscreen mode crash // java.lang.ClassCastException: class eec$a cannot be cast to class eec$c (eec$a and eec$c are in unnamed module of loader 'app')",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2021-12-14T19:03:26.000+0200",
+    "resolution_date": "2022-05-30T15:51:07.000+0300",
+    "updated_date": "2022-05-30T15:51:07.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-220067",
+    "summary": "Chunk corruption with command block full of certain Unicode characters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2021-03-18T21:18:01.000+0200",
+    "resolution_date": "2022-05-30T16:43:49.000+0300",
+    "updated_date": "2022-05-31T15:07:28.000+0300",
+    "watches": 15,
+    "votes": 13
+  }
+]

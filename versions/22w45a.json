@@ -1,0 +1,707 @@
+[
+  {
+    "id": "MC-257234",
+    "summary": "Applying bone meal to warped or crimson fungus crashes client on multiplayer",
+    "labels": [
+      "bone_meal",
+      "crash",
+      "fungus",
+      "multiplayer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-11-05T15:28:15.000+0200",
+    "resolution_date": "2022-11-08T15:25:29.000+0200",
+    "updated_date": "2022-11-08T15:25:29.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-257182",
+    "summary": "Scaffolding does not match the bamboo color scheme",
+    "labels": [
+      "mismatching-textures",
+      "outdated-textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-11-03T16:43:33.000+0200",
+    "resolution_date": "2022-11-09T17:56:35.000+0200",
+    "updated_date": "2022-11-09T17:56:35.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-257118",
+    "summary": "Buttons are placed different than pressure plates in Creative Inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-11-02T18:26:19.000+0200",
+    "resolution_date": "2022-11-09T14:12:37.000+0200",
+    "updated_date": "2022-11-09T14:12:37.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-257104",
+    "summary": "\"Lava\" in gamerule.lavaSourceConversion is misspelled as \"Lave\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-11-02T16:52:12.000+0200",
+    "resolution_date": "2022-11-03T09:58:09.000+0200",
+    "updated_date": "2022-11-08T10:32:22.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-257102",
+    "summary": "Missing Structure Block in creative tab",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-11-02T16:45:14.000+0200",
+    "resolution_date": "2022-11-08T17:24:12.000+0200",
+    "updated_date": "2022-11-08T17:24:12.000+0200",
+    "watches": 11,
+    "votes": 12
+  },
+  {
+    "id": "MC-256990",
+    "summary": "Superflat Worlds can use Disabled Blocks as part of their layers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Data Packs",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-29T01:48:31.000+0300",
+    "resolution_date": "2022-11-07T16:29:37.000+0200",
+    "updated_date": "2022-11-07T16:29:37.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-256961",
+    "summary": "Multishot shoots projectiles backwards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-28T04:12:36.000+0300",
+    "resolution_date": "2022-11-07T10:09:05.000+0200",
+    "updated_date": "2022-11-07T10:09:05.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-256951",
+    "summary": "TNT Minecarts don't record what caused its explosion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-27T21:18:06.000+0300",
+    "resolution_date": "2022-11-07T14:25:34.000+0200",
+    "updated_date": "2022-11-07T14:25:34.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-256917",
+    "summary": "Death message from explosions by TNT and TNT minecarts that are not the cause of a player or another mob has changed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-27T05:38:16.000+0300",
+    "resolution_date": "2022-11-07T14:25:33.000+0200",
+    "updated_date": "2022-11-07T18:45:59.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-256903",
+    "summary": "Lodestone compass's enchantment glint is scaled incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-27T01:59:48.000+0300",
+    "resolution_date": "2022-11-08T15:25:20.000+0200",
+    "updated_date": "2022-11-09T06:12:55.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-256888",
+    "summary": "New network protocols prevent logging into offline servers",
+    "labels": [
+      "multiplayer",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-26T19:13:44.000+0300",
+    "resolution_date": "2022-11-08T13:46:35.000+0200",
+    "updated_date": "2022-11-08T13:46:35.000+0200",
+    "watches": 7,
+    "votes": 3
+  },
+  {
+    "id": "MC-256885",
+    "summary": "The word \"messages\" within the \"gui.chatSelection.fold\" string is always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-26T17:40:42.000+0300",
+    "resolution_date": "2022-11-08T13:46:35.000+0200",
+    "updated_date": "2022-11-08T13:46:35.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-256884",
+    "summary": "Mobs don't shoot correctly from crossbows",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-26T17:20:17.000+0300",
+    "resolution_date": "2022-11-08T12:28:43.000+0200",
+    "updated_date": "2022-11-09T13:44:53.000+0200",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-256854",
+    "summary": "Error in any model file causes resource reload fail now",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-24T23:50:53.000+0300",
+    "resolution_date": "2022-11-07T16:29:37.000+0200",
+    "updated_date": "2022-11-07T16:29:37.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-256765",
+    "summary": "References to chat reporting in singleplayer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-22T11:53:12.000+0300",
+    "resolution_date": "2022-11-08T13:46:36.000+0200",
+    "updated_date": "2022-11-08T13:46:36.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-256674",
+    "summary": "FileAlreadyExistsException if the resourcepacks directory is a symbolic link",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-20T12:37:58.000+0300",
+    "resolution_date": "2022-11-07T16:29:38.000+0200",
+    "updated_date": "2022-11-07T16:29:38.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-256616",
+    "summary": "Weighted pressure plates make incorrect sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-19T23:50:16.000+0300",
+    "resolution_date": "2022-11-09T09:17:45.000+0200",
+    "updated_date": "2022-11-09T09:17:45.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-256532",
+    "summary": "Sounds for Bamboo, Crimson and Warped hanging signs use the generic wood sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-19T18:08:38.000+0300",
+    "resolution_date": "2022-11-03T10:34:09.000+0200",
+    "updated_date": "2022-11-03T10:34:09.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256516",
+    "summary": "Inconsistent textures with jungle hanging signs",
+    "labels": [
+      "hanging_sign",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-19T17:50:20.000+0300",
+    "resolution_date": "2022-11-07T09:26:40.000+0200",
+    "updated_date": "2022-11-07T09:26:40.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-256511",
+    "summary": "Non-controlling passengers can make camels dash",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-19T17:43:19.000+0300",
+    "resolution_date": "2022-11-07T09:36:54.000+0200",
+    "updated_date": "2022-11-07T09:36:54.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256475",
+    "summary": "Placing or taking books from chiseled bookshelves displays the \"Block placed\" subtitle",
+    "labels": [
+      "chiseled_bookshelf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-19T16:33:59.000+0300",
+    "resolution_date": "2022-11-09T17:55:51.000+0200",
+    "updated_date": "2022-11-09T17:55:51.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-256461",
+    "summary": "Camel's back of neck is visible during the sit down animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-10-19T16:08:07.000+0300",
+    "resolution_date": "2022-11-07T09:26:39.000+0200",
+    "updated_date": "2022-11-07T09:26:39.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-255743",
+    "summary": "Bees' path finding system may cause performance issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-09-05T02:21:23.000+0300",
+    "resolution_date": "2022-11-08T15:25:17.000+0200",
+    "updated_date": "2022-11-08T15:25:17.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-255370",
+    "summary": "Chat hover & click events are offset if \"Line Spacing\" chat setting is used",
+    "labels": [
+      "Chat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2022-08-20T01:48:32.000+0300",
+    "resolution_date": "2022-11-08T15:25:18.000+0200",
+    "updated_date": "2022-11-08T15:25:18.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-244550",
+    "summary": "Empty Tags match Empty Slots in Shaped Recipes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting",
+      "Data Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2021-12-04T14:20:16.000+0200",
+    "resolution_date": "2022-11-08T15:25:17.000+0200",
+    "updated_date": "2022-11-08T15:25:17.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-235414",
+    "summary": "Player desynchronization with Nether Portals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2021-08-28T04:00:48.000+0300",
+    "resolution_date": "2022-11-07T17:18:38.000+0200",
+    "updated_date": "2022-11-07T17:18:38.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-200000",
+    "summary": "Merchant trade select packet (C2S) does not check for negative indices",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2020-09-11T05:48:14.000+0300",
+    "resolution_date": "2022-11-08T15:25:16.000+0200",
+    "updated_date": "2022-11-08T15:25:16.000+0200",
+    "watches": 12,
+    "votes": 18
+  },
+  {
+    "id": "MC-194390",
+    "summary": "A firework rocket from the creative inventory doesn't show a flight duration",
+    "labels": [
+      "firework",
+      "firework_rocket",
+      "flight-duration"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2020-07-09T23:11:17.000+0300",
+    "resolution_date": "2022-11-09T17:57:26.000+0200",
+    "updated_date": "2022-11-09T17:57:26.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-193360",
+    "summary": "Inconsistent eye level between piglins or zombified piglins and piglin brutes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2020-07-03T05:21:58.000+0300",
+    "resolution_date": "2022-11-09T15:38:51.000+0200",
+    "updated_date": "2022-11-09T15:38:51.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-177789",
+    "summary": "Shulker box doesn't destroy twisting vines when placed on top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2020-04-08T17:04:30.000+0300",
+    "resolution_date": "2022-11-09T17:35:05.000+0200",
+    "updated_date": "2022-11-09T17:35:05.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-177523",
+    "summary": "Enderman angry/screaming sound event subtitled identically to idle sound",
+    "labels": [
+      "reused-subtitle",
+      "sound-testing-zone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2020-04-05T19:48:04.000+0300",
+    "resolution_date": "2022-11-09T11:17:28.000+0200",
+    "updated_date": "2022-11-09T11:17:28.000+0200",
+    "watches": 6,
+    "votes": 20
+  },
+  {
+    "id": "MC-127110",
+    "summary": "You can't empty water buckets into waterlogged blocks",
+    "labels": [
+      "bucket",
+      "empty",
+      "water",
+      "water_bucket",
+      "waterlogged-blocks"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2018-03-10T19:59:52.000+0200",
+    "resolution_date": "2022-11-07T09:50:33.000+0200",
+    "updated_date": "2022-11-07T09:50:33.000+0200",
+    "watches": 13,
+    "votes": 37
+  },
+  {
+    "id": "MC-118140",
+    "summary": "Result map tooltip when zooming out a map shows previous zoom value instead of new one",
+    "labels": [
+      "crafting",
+      "filled_map",
+      "item-description",
+      "map",
+      "tooltip",
+      "zooming"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2017-06-01T15:16:05.000+0300",
+    "resolution_date": "2022-11-08T15:45:47.000+0200",
+    "updated_date": "2022-11-08T15:45:47.000+0200",
+    "watches": 15,
+    "votes": 29
+  },
+  {
+    "id": "MC-80032",
+    "summary": "Horses can suffocate when going through nether portals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a",
+      "22w45a"
+    ],
+    "creation_date": "2015-05-02T16:59:37.000+0300",
+    "resolution_date": "2022-11-07T10:15:31.000+0200",
+    "updated_date": "2022-11-07T10:15:31.000+0200",
+    "watches": 41,
+    "votes": 71
+  }
+]

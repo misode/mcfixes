@@ -1,0 +1,609 @@
+[
+  {
+    "id": "MC-206058",
+    "summary": "/item modify doesn't visually update the model of an item in an item frame",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-19T08:53:28.000+0200",
+    "resolution_date": "2020-11-24T09:22:24.000+0200",
+    "updated_date": "2020-12-26T14:03:48.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-205627",
+    "summary": "Item modifiers that change the count to 0 don't completely remove the item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-14T18:38:00.000+0200",
+    "resolution_date": "2020-11-24T09:22:24.000+0200",
+    "updated_date": "2020-11-24T09:22:24.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-205567",
+    "summary": "TNT flashes are translucent once again",
+    "labels": [
+      "flash",
+      "flashing",
+      "tnt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-14T02:22:48.000+0200",
+    "resolution_date": "2020-11-24T10:50:04.000+0200",
+    "updated_date": "2020-11-24T10:50:05.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-205492",
+    "summary": "The 'Include entities' option in the structure block UI is the opposite of the actual behavior",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-13T16:08:31.000+0200",
+    "resolution_date": "2020-11-24T09:22:22.000+0200",
+    "updated_date": "2020-11-24T09:22:22.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-205455",
+    "summary": "Bundles cannot pick up items in certain slots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-13T07:26:38.000+0200",
+    "resolution_date": "2020-11-30T02:35:05.000+0200",
+    "updated_date": "2022-11-02T15:34:50.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-205454",
+    "summary": "Bundles can be used to duplicate items in the crafting grid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-13T07:14:54.000+0200",
+    "resolution_date": "2020-11-25T19:28:13.000+0200",
+    "updated_date": "2022-11-02T15:35:20.000+0200",
+    "watches": 12,
+    "votes": 38
+  },
+  {
+    "id": "MC-205445",
+    "summary": "The Fabulous graphics warning is shown at the wrong time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-13T03:54:27.000+0200",
+    "resolution_date": "2020-11-16T10:42:46.000+0200",
+    "updated_date": "2020-11-26T19:42:36.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-205321",
+    "summary": "Item modifiers that change the item type don't work on entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-12T10:09:33.000+0200",
+    "resolution_date": "2020-11-24T09:22:24.000+0200",
+    "updated_date": "2020-12-28T00:52:52.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-205269",
+    "summary": "Chest closing sounds desynced with closing animations",
+    "labels": [
+      "animation",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-12T04:16:42.000+0200",
+    "resolution_date": "2020-11-23T10:48:31.000+0200",
+    "updated_date": "2020-11-28T22:19:31.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-205228",
+    "summary": "Player arms still move when using a spyglass while flying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-12T01:10:14.000+0200",
+    "resolution_date": "2020-11-26T19:37:42.000+0200",
+    "updated_date": "2020-11-26T19:37:43.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-205220",
+    "summary": "Cannot manipulate horse.saddle using /item command",
+    "labels": [
+      "/item",
+      "air",
+      "commands",
+      "donkey",
+      "mule",
+      "saddle",
+      "skeleton_horse",
+      "zombie_horse"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-12T00:03:34.000+0200",
+    "resolution_date": "2020-11-24T09:22:23.000+0200",
+    "updated_date": "2020-11-24T09:22:23.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-205197",
+    "summary": "Creating a map from an empty map no longer plays a sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-11T22:23:23.000+0200",
+    "resolution_date": "2020-11-16T10:42:44.000+0200",
+    "updated_date": "2020-11-16T10:42:44.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-205145",
+    "summary": "Compass with nothing to point to will spin very rapidly when in bundle.",
+    "labels": [
+      "Bundle",
+      "Compass"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-11T20:25:41.000+0200",
+    "resolution_date": "2020-11-24T09:38:36.000+0200",
+    "updated_date": "2022-11-02T15:33:27.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-205072",
+    "summary": "Snow Ambient Effect sometimes don't show correctly on the edge of a Powder Snow Block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-11T19:04:31.000+0200",
+    "resolution_date": "2020-11-25T14:20:05.000+0200",
+    "updated_date": "2020-11-25T14:20:05.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-205069",
+    "summary": "Powdered snow doesn't give you frozen effect in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-11T19:03:48.000+0200",
+    "resolution_date": "2020-11-24T17:05:32.000+0200",
+    "updated_date": "2020-11-24T17:05:32.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-205041",
+    "summary": "Full leather armour does not prevent freezing damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-11T18:42:05.000+0200",
+    "resolution_date": "2020-11-24T17:05:33.000+0200",
+    "updated_date": "2020-11-25T18:22:14.000+0200",
+    "watches": 15,
+    "votes": 34
+  },
+  {
+    "id": "MC-204424",
+    "summary": "Using a spyglass while gliding with an elytra points the spyglass down in third person view",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-06T20:37:35.000+0200",
+    "resolution_date": "2020-11-23T10:46:57.000+0200",
+    "updated_date": "2020-11-23T10:46:57.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-204323",
+    "summary": "Inconsistency: Crafting copper blocks into slabs only yields 4 slabs instead of 6",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-06T07:27:15.000+0200",
+    "resolution_date": "2020-11-19T10:59:04.000+0200",
+    "updated_date": "2020-11-19T10:59:04.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-203951",
+    "summary": "The elder guardian particle moves when an elder guardian moves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-05T09:11:45.000+0200",
+    "resolution_date": "2020-11-25T14:31:38.000+0200",
+    "updated_date": "2021-11-05T00:56:09.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-203925",
+    "summary": "Items inside of a bundle disappear if you empty the bundle in the inventory when in Creative mode while the inventory is full",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-05T07:11:08.000+0200",
+    "resolution_date": "2020-11-24T10:31:34.000+0200",
+    "updated_date": "2020-11-24T10:31:34.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-203824",
+    "summary": "Weird Hand animation when attacking and using spyglass at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-05T02:07:17.000+0200",
+    "resolution_date": "2020-11-23T10:46:54.000+0200",
+    "updated_date": "2020-11-26T16:33:32.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-203645",
+    "summary": "Spyglass wobbles when walking while in use",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-04T21:57:04.000+0200",
+    "resolution_date": "2020-11-23T10:46:54.000+0200",
+    "updated_date": "2020-11-23T18:30:22.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-203602",
+    "summary": "Spyglass animation is wrong when swimming",
+    "labels": [
+      "hand-animation",
+      "spyglass",
+      "swimming"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-11-04T21:26:28.000+0200",
+    "resolution_date": "2020-11-23T10:46:54.000+0200",
+    "updated_date": "2020-11-23T10:46:55.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-200696",
+    "summary": "Clock's texture does not match the new gold color pallete",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-09-20T20:03:52.000+0300",
+    "resolution_date": "2020-11-25T19:49:34.000+0200",
+    "updated_date": "2021-05-04T14:39:22.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-198864",
+    "summary": "World border does not render below y=0 / above y=255",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-08-25T01:30:43.000+0300",
+    "resolution_date": "2020-11-24T11:20:05.000+0200",
+    "updated_date": "2021-07-14T20:26:30.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-189885",
+    "summary": "New byte previousGamemode is read incorrectly",
+    "labels": [
+      "networking",
+      "packet"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-06-15T22:01:04.000+0300",
+    "resolution_date": "2021-02-02T15:12:23.000+0200",
+    "updated_date": "2021-08-18T16:39:43.000+0300",
+    "watches": 10,
+    "votes": 13
+  },
+  {
+    "id": "MC-176614",
+    "summary": "Swimming and doing certain actions make the player look very odd/does not have animations for swimming + doing certain actions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-03-28T22:22:15.000+0200",
+    "resolution_date": "2020-11-23T10:46:54.000+0200",
+    "updated_date": "2020-11-23T10:46:55.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-173745",
+    "summary": "Lower part of end gateway block beam renders incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2020-03-04T20:18:23.000+0200",
+    "resolution_date": "2020-11-28T22:54:16.000+0200",
+    "updated_date": "2020-11-28T22:54:16.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-8017",
+    "summary": "Arrows and tridents are not being slowed down by webs but eggs and snowballs are",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w48a"
+    ],
+    "creation_date": "2013-01-20T21:24:32.000+0200",
+    "resolution_date": "2020-11-25T23:43:18.000+0200",
+    "updated_date": "2022-08-05T18:17:00.000+0300",
+    "watches": 18,
+    "votes": 31
+  },
+  {
+    "id": "MC-3615",
+    "summary": "Lava and water are completely transparent at certain height levels",
+    "labels": [
+      "lava",
+      "visibility"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 14w25b",
+      "20w48a"
+    ],
+    "creation_date": "2012-11-21T16:33:25.000+0200",
+    "resolution_date": "2020-11-25T14:20:16.000+0200",
+    "updated_date": "2022-08-17T21:48:37.000+0300",
+    "watches": 20,
+    "votes": 31
+  }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "id": "MC-196743",
+    "summary": "Custom/modified biomes don't work in the overworld",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-08-01T21:52:24.000+0300",
+    "resolution_date": "2020-08-05T16:43:47.000+0300",
+    "updated_date": "2020-08-05T16:43:47.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-196653",
+    "summary": "Creating multiple datapack dimensions which reference the same dimension_type string causes \"unregistered dimension\" crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-31T21:57:30.000+0300",
+    "resolution_date": "2020-08-05T16:43:54.000+0300",
+    "updated_date": "2020-08-05T16:43:54.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-196473",
+    "summary": "Pufferfish gives Nausea II instead of the maximum of Nausea I",
+    "labels": [
+      "eating",
+      "nausea_effect",
+      "pufferfish"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-29T22:40:40.000+0300",
+    "resolution_date": "2020-08-04T17:04:41.000+0300",
+    "updated_date": "2021-02-18T12:24:53.000+0200",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-196469",
+    "summary": "F1 hides the nausea green tint",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-29T22:31:48.000+0300",
+    "resolution_date": "2020-08-05T11:58:32.000+0300",
+    "updated_date": "2021-05-22T22:11:32.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-196441",
+    "summary": "Stonecutter/Smithing Table recipes are not given after crafting a stack of more than one",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-29T19:10:57.000+0300",
+    "resolution_date": "2020-08-03T12:48:04.000+0300",
+    "updated_date": "2020-08-04T19:13:13.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-196245",
+    "summary": "Charged creeper does not always drop skull if zombie variants are nearby",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-27T16:27:30.000+0300",
+    "resolution_date": "2020-08-05T12:38:45.000+0300",
+    "updated_date": "2020-08-05T12:38:45.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-195851",
+    "summary": "\"Hat\" layer on helmets detaches from Piglins' heads while bartering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-23T07:52:29.000+0300",
+    "resolution_date": "2020-08-05T12:25:20.000+0300",
+    "updated_date": "2020-08-05T12:25:20.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-195803",
+    "summary": "Mob kill statistics are formatted in reverse: \"N killed you <mob> times\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-22T22:01:44.000+0300",
+    "resolution_date": "2020-08-04T17:04:43.000+0300",
+    "updated_date": "2020-08-07T12:57:07.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-194953",
+    "summary": "Custom Biomes are not useable in Predicates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-14T20:12:06.000+0300",
+    "resolution_date": "2020-08-05T16:44:00.000+0300",
+    "updated_date": "2020-08-05T16:44:00.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-194867",
+    "summary": "Minecarts come out the wrong side of a nether portal and lose momentum when coming back to overworld",
+    "labels": [
+      "minecart",
+      "redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-07-14T01:21:12.000+0300",
+    "resolution_date": "2020-08-05T15:54:06.000+0300",
+    "updated_date": "2020-08-05T21:52:19.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-192845",
+    "summary": "Block Event Lag in 1.16 is excessive",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-30T11:30:24.000+0300",
+    "resolution_date": "2020-08-05T13:51:00.000+0300",
+    "updated_date": "2020-08-07T19:30:30.000+0300",
+    "watches": 42,
+    "votes": 96
+  },
+  {
+    "id": "MC-192371",
+    "summary": "Paintings in the same block space pop off when chunk loads",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-27T21:56:17.000+0300",
+    "resolution_date": "2020-08-05T14:15:06.000+0300",
+    "updated_date": "2020-08-05T16:28:54.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-192236",
+    "summary": "Endermen can place blocks on top of item frames on the floor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-27T05:34:37.000+0300",
+    "resolution_date": "2020-08-04T17:04:43.000+0300",
+    "updated_date": "2020-08-04T17:20:53.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-192136",
+    "summary": "Lava damage works differently than in previous versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-26T19:06:56.000+0300",
+    "resolution_date": "2020-08-05T14:15:07.000+0300",
+    "updated_date": "2020-08-09T16:17:08.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-190859",
+    "summary": "floating_islands or caves buffet worlds no longer generate strongholds and ender eyes do not locate previously generated strongholds after upgrading to 1.16",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-21T20:32:32.000+0300",
+    "resolution_date": "2020-08-04T17:04:42.000+0300",
+    "updated_date": "2020-08-04T17:04:42.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-190552",
+    "summary": "Demo mode resets position and inventory upon launch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-19T17:45:37.000+0300",
+    "resolution_date": "2020-08-03T12:48:03.000+0300",
+    "updated_date": "2020-09-10T04:27:27.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-189736",
+    "summary": "\"distance\" within predicate no longer works",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-15T01:16:02.000+0300",
+    "resolution_date": "2020-08-03T12:06:25.000+0300",
+    "updated_date": "2020-08-03T12:06:25.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-187357",
+    "summary": "Strongholds will not generate in floating_islands or caves preset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-06-04T22:11:11.000+0300",
+    "resolution_date": "2020-08-04T17:04:42.000+0300",
+    "updated_date": "2021-11-28T10:46:39.000+0200",
+    "watches": 12,
+    "votes": 23
+  },
+  {
+    "id": "MC-177733",
+    "summary": "Powered & Activator Rail Dupe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-04-08T01:04:42.000+0300",
+    "resolution_date": "2020-08-08T19:57:12.000+0300",
+    "updated_date": "2020-08-08T19:57:12.000+0300",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-177684",
+    "summary": "Cocoa beans, bone meal and lapis between dyes in creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-04-07T16:36:29.000+0300",
+    "resolution_date": "2020-08-05T19:38:51.000+0300",
+    "updated_date": "2020-08-05T20:24:56.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-176491",
+    "summary": "Nylium randomly catches fire from lava and burns infinitely",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2020-03-27T19:47:27.000+0200",
+    "resolution_date": "2020-08-05T18:58:34.000+0300",
+    "updated_date": "2020-08-05T18:59:44.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-169203",
+    "summary": "Sloped redstone type rail not dropping item when pushed by piston to a spot without adjacent block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2019-12-31T17:27:10.000+0200",
+    "resolution_date": "2020-08-06T14:11:09.000+0300",
+    "updated_date": "2020-08-06T14:11:09.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-152037",
+    "summary": "Powered, activator and detector rails are deleted when pushed/pulled onto a block they cannot be placed on",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2019-05-16T21:42:26.000+0300",
+    "resolution_date": "2020-08-03T12:20:14.000+0300",
+    "updated_date": "2020-09-02T21:26:30.000+0300",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-136553",
+    "summary": "Dyes in creative inventory are in reverse order",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2018-08-29T09:57:33.000+0300",
+    "resolution_date": "2020-08-05T12:38:46.000+0300",
+    "updated_date": "2021-03-21T22:10:11.000+0200",
+    "watches": 6,
+    "votes": 20
+  },
+  {
+    "id": "MC-134084",
+    "summary": "If gamerule sendCommandFeedback is disabled, /msg or /tell don't display the message to the sender",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2018-07-19T04:04:15.000+0300",
+    "resolution_date": "2020-08-04T17:04:41.000+0300",
+    "updated_date": "2022-08-22T06:21:07.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-130558",
+    "summary": "Item frames cannot be emptied if gamerule doEntityDrops is set to false",
+    "labels": [
+      "doEntityDrops",
+      "item_frame"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2018-05-31T18:48:23.000+0300",
+    "resolution_date": "2020-08-05T16:08:59.000+0300",
+    "updated_date": "2020-08-05T16:08:59.000+0300",
+    "watches": 17,
+    "votes": 31
+  },
+  {
+    "id": "MC-124320",
+    "summary": "Endermen can pick up and place snowless snowy grass blocks",
+    "labels": [
+      "enderman",
+      "grass_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2018-01-15T22:35:14.000+0200",
+    "resolution_date": "2020-08-05T12:38:46.000+0300",
+    "updated_date": "2020-08-05T12:38:46.000+0300",
+    "watches": 20,
+    "votes": 40
+  },
+  {
+    "id": "MC-69876",
+    "summary": "Pistons at Y=1 do not push downwards / at Y=254 do not push upwards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 2"
+    ],
+    "creation_date": "2014-08-29T06:34:18.000+0300",
+    "resolution_date": "2020-08-05T12:38:46.000+0300",
+    "updated_date": "2020-08-05T17:25:46.000+0300",
+    "watches": 10,
+    "votes": 9
+  }
+]

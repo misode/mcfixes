@@ -1,0 +1,2149 @@
+[
+  {
+    "id": "MC-186696",
+    "summary": "Totem of Undying causes red or blue tint in the screen when in F5 mode",
+    "labels": [
+      "totem",
+      "totem_of_undying"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-31T12:29:46.000+0300",
+    "resolution_date": "2020-06-04T19:32:06.000+0300",
+    "updated_date": "2020-06-04T19:32:06.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-186600",
+    "summary": "Nether gold ore is gray on a map",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-30T23:51:12.000+0300",
+    "resolution_date": "2020-06-02T11:29:13.000+0300",
+    "updated_date": "2020-08-10T17:48:33.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-186480",
+    "summary": "Inner parts of slime blocks and honey blocks disappear again while the block is moved by a piston",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-30T13:42:54.000+0300",
+    "resolution_date": "2020-06-04T19:32:07.000+0300",
+    "updated_date": "2020-06-04T19:32:07.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-186478",
+    "summary": "Tag minecraft:tick doesn't work when joining a world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-30T13:40:28.000+0300",
+    "resolution_date": "2020-06-03T14:44:24.000+0300",
+    "updated_date": "2020-06-04T11:47:20.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-186464",
+    "summary": "Enabled data packs still show up in the \"/datapack enable\" list",
+    "labels": [
+      "/datapack",
+      "data-pack",
+      "datapack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-30T12:58:59.000+0300",
+    "resolution_date": "2020-06-03T14:44:22.000+0300",
+    "updated_date": "2020-06-03T14:44:22.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-186455",
+    "summary": "Persistent villagers without experience can despawn after converting to a witch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-30T12:04:32.000+0300",
+    "resolution_date": "2020-06-03T16:16:25.000+0300",
+    "updated_date": "2020-06-03T16:16:25.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-186335",
+    "summary": "Bees age calculation inside hive/nest is broken",
+    "labels": [
+      "Age",
+      "Beehive",
+      "Breeding",
+      "bee"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-30T02:10:18.000+0300",
+    "resolution_date": "2020-06-02T11:29:11.000+0300",
+    "updated_date": "2020-06-05T13:29:01.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-186314",
+    "summary": "Villagers become fixated on potential job site",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-30T01:02:26.000+0300",
+    "resolution_date": "2020-06-02T11:29:14.000+0300",
+    "updated_date": "2021-01-14T22:39:44.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-186284",
+    "summary": "Player's point of view is upside down in 20w22a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T23:45:31.000+0300",
+    "resolution_date": "2020-06-04T20:14:47.000+0300",
+    "updated_date": "2020-06-04T23:27:26.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-186274",
+    "summary": "Purple light from Ender Dragon's Death doesn't appear",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T23:28:32.000+0300",
+    "resolution_date": "2020-06-04T19:32:05.000+0300",
+    "updated_date": "2020-06-04T19:32:05.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-186253",
+    "summary": "Held translucent blocks make the water, clouds, particles, and placed translucent blocks behind them invisible in third person mode.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T22:48:40.000+0300",
+    "resolution_date": "2020-06-04T19:32:04.000+0300",
+    "updated_date": "2020-06-04T19:32:04.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-186204",
+    "summary": "Items render in front of other entities, transparent blocks, and blocks with special renderers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T20:35:49.000+0300",
+    "resolution_date": "2020-06-04T20:15:01.000+0300",
+    "updated_date": "2020-06-04T20:15:01.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-186149",
+    "summary": "\"Debug Mode\" world causes error on world list",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T18:24:32.000+0300",
+    "resolution_date": "2020-06-05T11:13:32.000+0300",
+    "updated_date": "2020-06-05T11:13:32.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-186124",
+    "summary": "Lightning bolt doesn't render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T17:41:37.000+0300",
+    "resolution_date": "2020-06-02T09:56:39.000+0300",
+    "updated_date": "2020-06-04T21:16:25.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-186111",
+    "summary": "Debug mode is accessible in any gamemode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T17:13:12.000+0300",
+    "resolution_date": "2020-06-05T11:09:21.000+0300",
+    "updated_date": "2020-06-18T21:38:54.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-186109",
+    "summary": "You can use multiplayer commands on a singleplayer world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T17:07:34.000+0300",
+    "resolution_date": "2020-06-03T14:44:24.000+0300",
+    "updated_date": "2020-06-03T14:44:24.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-186108",
+    "summary": "Enchantment glint does not render on dropped/thrown items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T17:07:29.000+0300",
+    "resolution_date": "2020-06-04T19:32:07.000+0300",
+    "updated_date": "2021-05-02T13:03:49.000+0300",
+    "watches": 8,
+    "votes": 20
+  },
+  {
+    "id": "MC-186101",
+    "summary": "Some commands in functions cause a NullPointerException",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:50:27.000+0300",
+    "resolution_date": "2020-06-03T14:44:24.000+0300",
+    "updated_date": "2020-06-03T14:44:24.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-186089",
+    "summary": "Functions load before entity tags do, causing loading errors.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:34:54.000+0300",
+    "resolution_date": "2020-06-03T14:44:21.000+0300",
+    "updated_date": "2020-06-03T14:44:21.000+0300",
+    "watches": 12,
+    "votes": 19
+  },
+  {
+    "id": "MC-186088",
+    "summary": "Block hitboxes once again cause semi-transparent blocks not to render behind them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:31:24.000+0300",
+    "resolution_date": "2020-06-04T19:32:04.000+0300",
+    "updated_date": "2020-06-10T21:27:09.000+0300",
+    "watches": 2,
+    "votes": 13
+  },
+  {
+    "id": "MC-186080",
+    "summary": "Entities, block entities, and items are rendered black on some graphics cards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:20:43.000+0300",
+    "resolution_date": "2020-06-04T20:15:16.000+0300",
+    "updated_date": "2021-07-04T16:52:32.000+0300",
+    "watches": 22,
+    "votes": 35
+  },
+  {
+    "id": "MC-186079",
+    "summary": "Superflat world has dark sky",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:18:43.000+0300",
+    "resolution_date": "2020-06-05T02:50:38.000+0300",
+    "updated_date": "2021-02-13T10:33:40.000+0200",
+    "watches": 9,
+    "votes": 21
+  },
+  {
+    "id": "MC-186075",
+    "summary": "GPU usage in latest snapshot significantly higher than before, causing lag or crash for some users",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:12:01.000+0300",
+    "resolution_date": "2020-06-03T10:04:48.000+0300",
+    "updated_date": "2020-08-21T03:05:07.000+0300",
+    "watches": 69,
+    "votes": 124
+  },
+  {
+    "id": "MC-186074",
+    "summary": "Particles render in the wrong order with transparent blocks when using certain graphics cards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:10:36.000+0300",
+    "resolution_date": "2020-06-04T20:15:28.000+0300",
+    "updated_date": "2020-06-05T13:43:20.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-186071",
+    "summary": " Clouds are visible and don't render correctly when they are turned off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T16:06:13.000+0300",
+    "resolution_date": "2020-06-02T09:58:14.000+0300",
+    "updated_date": "2020-06-05T01:29:07.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-186067",
+    "summary": "Some structures' loot chests do not contain any items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T15:58:42.000+0300",
+    "resolution_date": "2020-06-01T11:12:38.000+0300",
+    "updated_date": "2020-11-19T16:05:36.000+0200",
+    "watches": 36,
+    "votes": 58
+  },
+  {
+    "id": "MC-186064",
+    "summary": "Clouds render in front of everything for some users",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T15:51:50.000+0300",
+    "resolution_date": "2020-06-04T20:15:37.000+0300",
+    "updated_date": "2020-06-05T09:55:37.000+0300",
+    "watches": 13,
+    "votes": 26
+  },
+  {
+    "id": "MC-186062",
+    "summary": "Warning \"Could not find uniform named InSize in the specified shader program.\" when loading resources",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-29T15:48:12.000+0300",
+    "resolution_date": "2020-06-04T19:54:13.000+0300",
+    "updated_date": "2021-08-18T16:39:44.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-185480",
+    "summary": "Casting issue: Smoke particles emitted by campfires during rain form at the wrong positions at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-24T18:38:16.000+0300",
+    "resolution_date": "2020-06-02T17:00:30.000+0300",
+    "updated_date": "2021-10-17T02:28:55.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-185377",
+    "summary": "Bone mealing kelp creates a large field of particles, rather than only within the kelp's block space",
+    "labels": [
+      "incorrect-particle-generation",
+      "unneccessary-particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-24T00:46:20.000+0300",
+    "resolution_date": "2020-06-02T17:12:29.000+0300",
+    "updated_date": "2021-10-17T02:29:04.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-185095",
+    "summary": "\"thrown_item_picked_up_by_entity\" advancement trigger does not work for players",
+    "labels": [
+      "Advancements",
+      "advancement",
+      "thrown_item_picked_up_by_entity",
+      "trigger"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-22T04:40:44.000+0300",
+    "resolution_date": "2020-06-04T20:01:42.000+0300",
+    "updated_date": "2020-06-04T20:13:43.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-184947",
+    "summary": "Carriage return symbol can be seen when importing or exporting world generation settings to or from certain worlds",
+    "labels": [
+      "symbol",
+      "symbols",
+      "worldgen",
+      "worldgen-settings"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-21T09:01:59.000+0300",
+    "resolution_date": "2020-06-03T14:44:22.000+0300",
+    "updated_date": "2020-06-06T15:51:42.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-184679",
+    "summary": "Using custom world generation, temperature is written wrong",
+    "labels": [
+      "worldgen-settings"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-20T17:57:35.000+0300",
+    "resolution_date": "2020-06-04T19:04:34.000+0300",
+    "updated_date": "2020-06-04T19:04:34.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-183825",
+    "summary": "New nether challenges don't grant experience points",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-13T22:10:28.000+0300",
+    "resolution_date": "2020-06-04T20:01:44.000+0300",
+    "updated_date": "2020-06-04T20:05:44.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-183821",
+    "summary": "\"Game Mode Switcher\" bottom hint text isn't centered",
+    "labels": [
+      "game-mode-switcher"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-13T21:47:46.000+0300",
+    "resolution_date": "2020-06-04T19:54:13.000+0300",
+    "updated_date": "2021-08-18T16:39:58.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-183792",
+    "summary": "piglin_loved item tag has unnecessary items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-13T20:07:51.000+0300",
+    "resolution_date": "2020-06-04T20:01:43.000+0300",
+    "updated_date": "2021-08-18T16:39:53.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-183767",
+    "summary": "Incorrect filename for \"Serious Dedication\" advancement in vanilla data pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-13T19:09:57.000+0300",
+    "resolution_date": "2020-06-04T20:01:43.000+0300",
+    "updated_date": "2020-06-04T20:01:43.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-183766",
+    "summary": "Who Is Cutting Onions Improperly Capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-13T19:07:07.000+0300",
+    "resolution_date": "2020-06-04T20:01:42.000+0300",
+    "updated_date": "2021-08-18T16:40:01.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-183174",
+    "summary": "Casting Issue: Certain detector rails unable to be powered when coordinate numbers are very high",
+    "labels": [
+      "minecart",
+      "precision-loss",
+      "redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-09T02:39:29.000+0300",
+    "resolution_date": "2020-06-05T02:33:01.000+0300",
+    "updated_date": "2020-06-05T19:26:14.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-182883",
+    "summary": "Parity issue: Baby hoglins don't follow adult hoglins",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-07T07:46:21.000+0300",
+    "resolution_date": "2020-06-02T13:17:53.000+0300",
+    "updated_date": "2020-06-02T13:17:53.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-182748",
+    "summary": "Casting issue: Redstone dust particles are generated at the wrong positions at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-06T20:37:06.000+0300",
+    "resolution_date": "2020-06-02T17:00:29.000+0300",
+    "updated_date": "2021-10-17T02:29:09.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-182308",
+    "summary": "Chicken jockeys cannot despawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-05-04T01:47:46.000+0300",
+    "resolution_date": "2020-06-01T15:53:05.000+0300",
+    "updated_date": "2020-06-01T15:53:05.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-180922",
+    "summary": "Right clicking a mob with a spawn egg to spawn the baby variant doesn\u2019t play the hand swing animation when not aiming at a block through the mob",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-26T16:58:20.000+0300",
+    "resolution_date": "2020-06-04T16:02:52.000+0300",
+    "updated_date": "2020-06-04T16:02:52.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-180111",
+    "summary": "Hoglins angered for reasons other than being attacked by the player ignore placed repellents.",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-23T11:02:22.000+0300",
+    "resolution_date": "2020-06-02T13:17:56.000+0300",
+    "updated_date": "2020-06-02T13:17:56.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-179561",
+    "summary": "Retreating baby hoglins sometimes won't pathfind to the opposite direction of the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-20T15:45:07.000+0300",
+    "resolution_date": "2020-06-03T16:31:09.000+0300",
+    "updated_date": "2020-06-03T16:31:09.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-178961",
+    "summary": "`/loot ... fish ...` command no longer has any functionality",
+    "labels": [
+      "command",
+      "fishing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-16T09:58:34.000+0300",
+    "resolution_date": "2020-06-03T14:44:23.000+0300",
+    "updated_date": "2020-06-03T17:20:09.000+0300",
+    "watches": 4,
+    "votes": 19
+  },
+  {
+    "id": "MC-178618",
+    "summary": "Feeding a flower to a brown mooshroom does not perform hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-14T11:42:20.000+0300",
+    "resolution_date": "2020-06-04T16:08:55.000+0300",
+    "updated_date": "2021-03-13T17:27:25.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-178570",
+    "summary": "When blocking a wither skull with a shield, the player still receives the wither effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-14T00:36:13.000+0300",
+    "resolution_date": "2020-06-04T23:09:41.000+0300",
+    "updated_date": "2020-06-08T17:30:44.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-178567",
+    "summary": "Shearing sheep does not display hand animation again",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-14T00:21:52.000+0300",
+    "resolution_date": "2020-06-04T16:09:06.000+0300",
+    "updated_date": "2020-06-04T16:09:06.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-177723",
+    "summary": "Casting Issue: Mobs occasionally just spin around when coordinate numbers are very high",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-07T23:21:50.000+0300",
+    "resolution_date": "2020-06-05T02:37:37.000+0300",
+    "updated_date": "2020-06-05T19:26:35.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-176640",
+    "summary": "You can set your spawn point inside dangerous blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-29T01:59:22.000+0200",
+    "resolution_date": "2020-06-03T16:16:27.000+0300",
+    "updated_date": "2021-11-27T00:18:15.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-176637",
+    "summary": "Closing game during Mojang load screen causes NullPointerException",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-29T01:44:28.000+0200",
+    "resolution_date": "2020-06-03T15:21:50.000+0300",
+    "updated_date": "2020-06-05T12:53:42.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-176470",
+    "summary": "Respawning in the nether does not de-aggro zombified piglins",
+    "labels": [
+      "nether",
+      "snapshot",
+      "zombified_piglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-27T16:43:47.000+0200",
+    "resolution_date": "2020-06-03T16:02:22.000+0300",
+    "updated_date": "2020-10-06T18:12:06.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-176225",
+    "summary": "Accelerating a baby strider's growth does not display hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-26T05:27:31.000+0200",
+    "resolution_date": "2020-06-04T16:02:57.000+0300",
+    "updated_date": "2020-06-04T16:02:57.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-176188",
+    "summary": "Striders are not damaged by splash or lingering water bottles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-26T01:53:10.000+0200",
+    "resolution_date": "2020-06-04T13:00:51.000+0300",
+    "updated_date": "2020-06-04T13:00:51.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-176041",
+    "summary": "Using a spawn egg on a strider while aiming at lava spawns both a baby and an adult strider",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-25T20:37:07.000+0200",
+    "resolution_date": "2020-06-04T16:02:51.000+0300",
+    "updated_date": "2020-06-04T16:02:51.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-175911",
+    "summary": "Soul Speed lasts after leaving soul blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-24T23:53:48.000+0200",
+    "resolution_date": "2020-06-03T16:40:00.000+0300",
+    "updated_date": "2020-06-14T19:04:59.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-175476",
+    "summary": "Respawn anchor doesn't cull block faces",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-20T13:55:13.000+0200",
+    "resolution_date": "2020-06-01T16:58:12.000+0300",
+    "updated_date": "2020-06-01T16:58:12.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-175409",
+    "summary": "Soul speed \"effect\" stays when you levitate/fly off of soul sand or soul soil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-20T00:08:44.000+0200",
+    "resolution_date": "2020-06-03T16:40:00.000+0300",
+    "updated_date": "2020-06-15T20:14:21.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-175215",
+    "summary": "Respawn anchors destroy blocks when detonated underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-18T21:25:39.000+0200",
+    "resolution_date": "2020-06-02T12:28:39.000+0300",
+    "updated_date": "2020-06-02T12:28:40.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-175028",
+    "summary": "Sometimes hoglins don't avoid warped fungus",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-17T03:37:46.000+0200",
+    "resolution_date": "2020-06-02T13:17:56.000+0300",
+    "updated_date": "2020-06-02T18:00:35.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-174815",
+    "summary": "Piglins don't automatically attack withers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-14T17:17:32.000+0200",
+    "resolution_date": "2020-06-02T13:17:57.000+0300",
+    "updated_date": "2020-06-02T13:17:57.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-174195",
+    "summary": "Piglins don't become persistent if given gold nuggets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-03-08T12:09:35.000+0200",
+    "resolution_date": "2020-06-05T06:34:02.000+0300",
+    "updated_date": "2020-06-05T06:34:02.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-172610",
+    "summary": "When not aiming at a block through a ridable mob while using a spawn egg on it, the player starts riding the mob and a baby mob is spawned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-17T15:04:30.000+0200",
+    "resolution_date": "2020-06-04T16:02:51.000+0300",
+    "updated_date": "2020-06-04T16:02:51.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-172531",
+    "summary": "Small mobs get stuck in fence corners",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-16T22:32:05.000+0200",
+    "resolution_date": "2020-06-03T15:05:02.000+0300",
+    "updated_date": "2020-06-06T00:36:44.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-172259",
+    "summary": "Baby Hoglin/Zoglin have their head slightly above their neck, it seems that their head is partly floating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-15T02:28:01.000+0200",
+    "resolution_date": "2020-06-02T13:17:55.000+0300",
+    "updated_date": "2020-10-25T15:25:32.000+0200",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-171683",
+    "summary": "Crimson and warped doors can't have transparent textures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-09T14:32:20.000+0200",
+    "resolution_date": "2020-06-02T11:29:10.000+0300",
+    "updated_date": "2020-06-02T11:29:10.000+0300",
+    "watches": 2,
+    "votes": 11
+  },
+  {
+    "id": "MC-171663",
+    "summary": "Right-clicking on unemployed villagers sometimes cause hand animation to stop after a villager has a profession",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-09T11:00:34.000+0200",
+    "resolution_date": "2020-06-04T16:10:30.000+0300",
+    "updated_date": "2021-08-18T16:39:53.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-171037",
+    "summary": "Casting issue: Smoke produced by lava during rain loses precision at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-06T02:44:11.000+0200",
+    "resolution_date": "2020-06-02T17:00:29.000+0300",
+    "updated_date": "2022-03-24T16:28:08.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-171035",
+    "summary": "Casting issue: Particles from falling rain lose precision at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-06T02:41:33.000+0200",
+    "resolution_date": "2020-06-02T17:00:29.000+0300",
+    "updated_date": "2021-10-17T02:29:33.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-170944",
+    "summary": "/locatebiome messages do not fit for all biome names",
+    "labels": [
+      "/locatebiome"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a",
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-05T22:54:22.000+0200",
+    "resolution_date": "2020-06-02T17:00:25.000+0300",
+    "updated_date": "2020-06-02T17:00:25.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-170872",
+    "summary": "Casting issue: Nether biome particles suffer from precision loss",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-05T20:44:27.000+0200",
+    "resolution_date": "2020-06-02T17:00:25.000+0300",
+    "updated_date": "2021-10-17T02:29:45.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-170867",
+    "summary": "Incorrect subtitles when using axe to strip stem blocks",
+    "labels": [
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-05T20:41:25.000+0200",
+    "resolution_date": "2020-06-05T03:07:38.000+0300",
+    "updated_date": "2021-03-22T00:35:06.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-168675",
+    "summary": "Settings that update after closing the video settings menu don't if you change the fullscreen setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-23T17:00:12.000+0200",
+    "resolution_date": "2020-06-02T17:00:26.000+0300",
+    "updated_date": "2020-06-02T17:00:26.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-167971",
+    "summary": "Casting issue: Particles emitted by redstone repeaters lose precision at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-14T18:22:04.000+0200",
+    "resolution_date": "2020-06-02T17:00:28.000+0300",
+    "updated_date": "2021-10-17T02:30:25.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-167421",
+    "summary": "Casting issue: Minecarts with chests are generated in the wrong positions in abandoned mineshafts at high coordinates",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-10T02:31:08.000+0200",
+    "resolution_date": "2020-06-05T02:31:33.000+0300",
+    "updated_date": "2020-06-05T19:34:52.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-167195",
+    "summary": "Bees anger towards players in survival when killed in one hit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-06T18:58:48.000+0200",
+    "resolution_date": "2020-06-03T16:02:23.000+0300",
+    "updated_date": "2020-06-05T07:35:37.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-167103",
+    "summary": "Casting issue: Mob spawning loses precision at high coordinates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Mob spawning",
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-04T22:55:05.000+0200",
+    "resolution_date": "2020-06-05T02:32:35.000+0300",
+    "updated_date": "2020-06-05T02:46:26.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-167091",
+    "summary": "Casting issue: Water particles dripping from leaves lose precision at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-04T13:15:49.000+0200",
+    "resolution_date": "2020-06-02T17:00:28.000+0300",
+    "updated_date": "2021-10-17T02:30:31.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-167047",
+    "summary": "Casting issue: TNT blocks ignited by other explosions lose precision at high coordinates",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-03T20:25:13.000+0200",
+    "resolution_date": "2020-06-02T17:00:28.000+0300",
+    "updated_date": "2021-02-23T17:53:51.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-167046",
+    "summary": "Casting issue: Lava ember particles and lava popping sounds lose precision on creation at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-03T20:18:09.000+0200",
+    "resolution_date": "2020-06-02T17:00:27.000+0300",
+    "updated_date": "2021-10-17T02:30:40.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-167044",
+    "summary": "Casting issue: Enchanting table book does not open for the player at high distances in some cases",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-03T20:05:09.000+0200",
+    "resolution_date": "2020-06-02T17:00:27.000+0300",
+    "updated_date": "2021-02-23T17:54:25.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-167042",
+    "summary": "Casting issue: Campfire embers are generated at a point that loses precision at high coordinates",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-12-03T19:54:43.000+0200",
+    "resolution_date": "2020-06-02T17:00:27.000+0300",
+    "updated_date": "2021-02-23T17:54:41.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-166524",
+    "summary": "Trying to dye a sheep with the same color as sheep displays hand animation",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-11-26T19:46:23.000+0200",
+    "resolution_date": "2020-06-04T16:10:19.000+0300",
+    "updated_date": "2021-08-18T16:39:41.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-166188",
+    "summary": "Bees still hitting player after death",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-11-23T15:08:21.000+0200",
+    "resolution_date": "2020-06-03T16:02:23.000+0300",
+    "updated_date": "2020-06-03T16:02:23.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-165734",
+    "summary": "Minecarts with furnace still display a hand animation with incompatible items when not on a rail",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-11-16T18:04:28.000+0200",
+    "resolution_date": "2020-06-04T16:02:53.000+0300",
+    "updated_date": "2021-08-18T16:39:51.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-165669",
+    "summary": "Hand animation is playing when you're aiming at a block through the mob and use the spawn egg",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-11-15T14:32:49.000+0200",
+    "resolution_date": "2020-06-04T16:02:52.000+0300",
+    "updated_date": "2021-01-15T00:22:31.000+0200",
+    "watches": 3,
+    "votes": 12
+  },
+  {
+    "id": "MC-164692",
+    "summary": "Entering a boat does not play the hand animation",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-10-30T18:38:57.000+0200",
+    "resolution_date": "2020-06-05T10:41:55.000+0300",
+    "updated_date": "2020-06-06T16:02:39.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-163950",
+    "summary": "Ice bordering water causes z-fighting issues from a distance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-10-17T10:43:11.000+0300",
+    "resolution_date": "2020-06-01T16:58:11.000+0300",
+    "updated_date": "2020-11-12T02:46:25.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-161969",
+    "summary": "Casting issue: Adding ender eyes to end portal frames at high distances causes particles to lose precision",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-09-28T02:29:53.000+0300",
+    "resolution_date": "2020-06-02T17:00:27.000+0300",
+    "updated_date": "2021-10-17T02:33:53.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159500",
+    "summary": "Hostile mobs attacking bees also cause the bees to attack players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-08-23T07:40:26.000+0300",
+    "resolution_date": "2020-06-03T16:02:23.000+0300",
+    "updated_date": "2020-06-03T16:02:23.000+0300",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-158906",
+    "summary": "After sleeping in a bed, players aren't positioned in the center of a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2019-08-13T20:34:27.000+0300",
+    "resolution_date": "2020-06-03T16:16:28.000+0300",
+    "updated_date": "2020-06-03T16:16:28.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-138713",
+    "summary": "\"Two by Two\" advancement does not require donkeys or mules",
+    "labels": [
+      "Breeding",
+      "advancement",
+      "breeding",
+      "donkey",
+      "mojang_internal_1",
+      "two_by_two"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2018-11-02T05:06:28.000+0200",
+    "resolution_date": "2020-06-04T20:01:44.000+0300",
+    "updated_date": "2020-06-05T00:57:58.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-138675",
+    "summary": "Wither skulls inflict the Wither effect on players in Creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2018-11-01T19:14:24.000+0200",
+    "resolution_date": "2020-06-03T16:16:29.000+0300",
+    "updated_date": "2022-04-12T14:19:09.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-133692",
+    "summary": "When you're in lava, the orange appears darker/completely black at y=30 and below",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2018-07-16T22:39:47.000+0300",
+    "resolution_date": "2020-06-17T01:12:11.000+0300",
+    "updated_date": "2020-06-17T01:12:12.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-127004",
+    "summary": "Waterlogged blocks cause z-fighting when looking at them from a distance",
+    "labels": [
+      "distance",
+      "rendering",
+      "waterlogged-blocks",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2018-03-09T18:58:20.000+0200",
+    "resolution_date": "2020-06-20T19:57:39.000+0300",
+    "updated_date": "2020-06-20T20:10:11.000+0300",
+    "watches": 17,
+    "votes": 27
+  },
+  {
+    "id": "MC-106968",
+    "summary": "Snow golems aren't damaged by splash or lingering water bottles",
+    "labels": [
+      "damage",
+      "lingering_potion",
+      "snow_golem",
+      "splash_potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2016-09-11T18:47:55.000+0300",
+    "resolution_date": "2020-06-04T13:00:51.000+0300",
+    "updated_date": "2020-06-04T13:00:51.000+0300",
+    "watches": 7,
+    "votes": 20
+  },
+  {
+    "id": "MC-100258",
+    "summary": "Holding Right-Click on an untamed horse causes an obnoxiously loud sound",
+    "labels": [
+      "donkey",
+      "horse",
+      "mule",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2016-03-30T02:00:28.000+0300",
+    "resolution_date": "2020-06-06T00:55:00.000+0300",
+    "updated_date": "2020-06-06T00:55:00.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-90969",
+    "summary": "Cannot get mushroom stew from mooshrooms / milk from cows in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2015-10-19T22:16:39.000+0300",
+    "resolution_date": "2020-06-04T16:11:41.000+0300",
+    "updated_date": "2020-06-04T16:11:41.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-69032",
+    "summary": "When a mob hits a zombified piglin, and that mob dies, the zombified piglins attack you",
+    "labels": [
+      "killing",
+      "zombified_piglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2014-08-23T15:09:32.000+0300",
+    "resolution_date": "2020-06-03T17:02:59.000+0300",
+    "updated_date": "2020-11-15T18:26:50.000+0200",
+    "watches": 75,
+    "votes": 208
+  },
+  {
+    "id": "MC-64623",
+    "summary": "Lightning bolts cannot be targeted by selectors",
+    "labels": [
+      "lightning_bolt",
+      "selector"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2014-07-31T04:17:40.000+0300",
+    "resolution_date": "2020-06-04T13:40:23.000+0300",
+    "updated_date": "2020-06-04T13:40:23.000+0300",
+    "watches": 14,
+    "votes": 16
+  },
+  {
+    "id": "MC-63714",
+    "summary": "Zombified piglins get angry when hit in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 16w02a",
+      "Minecraft 18w15a",
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2014-07-25T17:51:26.000+0300",
+    "resolution_date": "2020-09-06T00:24:31.000+0300",
+    "updated_date": "2020-09-06T00:26:40.000+0300",
+    "watches": 11,
+    "votes": 12
+  },
+  {
+    "id": "MC-36322",
+    "summary": "Unable to milk cows in creative",
+    "labels": [
+      "cow",
+      "milk_bucket"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2013-10-21T05:07:01.000+0300",
+    "resolution_date": "2020-06-04T16:11:26.000+0300",
+    "updated_date": "2020-06-04T16:11:26.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-9856",
+    "summary": "you cannot pick up buckets of water/lava in creative mode",
+    "labels": [
+      "lava",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2013-02-16T01:29:37.000+0200",
+    "resolution_date": "2020-06-04T16:12:24.000+0300",
+    "updated_date": "2020-07-29T21:21:54.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-4520",
+    "summary": "Aggressive neutral mobs become neutral when the world is reloaded",
+    "labels": [
+      "hostility",
+      "mob-behavior",
+      "neutral",
+      "neutral-mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2012-12-13T02:10:33.000+0200",
+    "resolution_date": "2020-06-03T16:02:20.000+0300",
+    "updated_date": "2021-07-07T10:40:23.000+0300",
+    "watches": 14,
+    "votes": 28
+  }
+]

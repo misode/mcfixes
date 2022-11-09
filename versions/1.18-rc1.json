@@ -1,0 +1,23 @@
+[
+  {
+    "id": "MC-242708",
+    "summary": "Moving through blocks in spectator mode causes a memory leak",
+    "labels": [
+      "memory-leak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Release Candidate 1"
+    ],
+    "creation_date": "2021-11-24T18:23:49.000+0200",
+    "resolution_date": "2021-11-25T15:48:07.000+0200",
+    "updated_date": "2021-11-25T16:35:28.000+0200",
+    "watches": 10,
+    "votes": 14
+  }
+]

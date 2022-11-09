@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MC-226782",
+    "summary": "/debug start does not work as described",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-05-30T01:25:50.000+0300",
+    "resolution_date": "2021-05-31T16:56:42.000+0300",
+    "updated_date": "2021-05-31T23:21:26.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-226654",
+    "summary": "\"Failed sysctl call\" errors on start and F3 + L with certain devices",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-05-28T21:45:03.000+0300",
+    "resolution_date": "2021-06-04T15:53:30.000+0300",
+    "updated_date": "2021-06-04T15:53:30.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-226576",
+    "summary": "Unknown CPU on Debug menu.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-05-28T07:12:16.000+0300",
+    "resolution_date": "2021-05-31T17:13:19.000+0300",
+    "updated_date": "2021-05-31T17:13:19.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-226561",
+    "summary": "Facing away from signs with glowing text makes the text disappear or z-fight",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-05-28T04:14:47.000+0300",
+    "resolution_date": "2021-05-31T16:12:10.000+0300",
+    "updated_date": "2021-05-31T16:12:10.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-226470",
+    "summary": "Nether Fossils generate on the nether roof above bedrock in soul sand valleys",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-05-27T18:46:34.000+0300",
+    "resolution_date": "2021-05-31T15:55:15.000+0300",
+    "updated_date": "2021-06-02T00:13:03.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-225911",
+    "summary": "Slimes and Magma Cubes not interacting with player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-05-20T06:39:43.000+0300",
+    "resolution_date": "2021-05-31T15:55:16.000+0300",
+    "updated_date": "2021-05-31T15:55:16.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-225190",
+    "summary": "Tnt can be pushed with enchanted sword with knockback",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-05-10T11:28:48.000+0300",
+    "resolution_date": "2021-05-31T15:55:16.000+0300",
+    "updated_date": "2021-05-31T15:55:16.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-223602",
+    "summary": "Glowing translucent entities often don't merge their outlines with other glowing entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-04-19T02:42:36.000+0300",
+    "resolution_date": "2021-05-31T11:15:36.000+0300",
+    "updated_date": "2021-05-31T11:15:36.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-220698",
+    "summary": "The ExplosionPower of ghast fireballs is uncapped, causing a freeze / crash",
+    "labels": [
+      "crash",
+      "fireball"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-03-24T19:09:02.000+0200",
+    "resolution_date": "2021-05-31T17:32:48.000+0300",
+    "updated_date": "2021-06-01T19:09:11.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-220109",
+    "summary": "Horses' fur patterns are outlined by the glowing effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-03-19T04:54:25.000+0200",
+    "resolution_date": "2021-05-31T22:44:45.000+0300",
+    "updated_date": "2021-05-31T22:44:45.000+0300",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-213767",
+    "summary": "Flowering azalea leaves ID is unintuitive",
+    "labels": [
+      "incorrect-block-id"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2021-02-03T20:17:08.000+0200",
+    "resolution_date": "2021-05-31T16:54:11.000+0300",
+    "updated_date": "2021-09-30T18:27:12.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-205840",
+    "summary": "Smooth lighting behaves oddly on blocks covered with tinted glass",
+    "labels": [
+      "smooth-lighting",
+      "smooth-lighting-interpolation-incorrect",
+      "smooth-lighting-not-smooth"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2020-11-16T21:48:12.000+0200",
+    "resolution_date": "2021-05-31T11:18:53.000+0300",
+    "updated_date": "2022-02-03T01:03:35.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-196298",
+    "summary": "Arrows fired into the side of bamboo or pointed dripstone never despawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2020-07-28T05:26:54.000+0300",
+    "resolution_date": "2021-05-31T17:32:49.000+0300",
+    "updated_date": "2021-06-03T14:38:11.000+0300",
+    "watches": 13,
+    "votes": 26
+  },
+  {
+    "id": "MC-173834",
+    "summary": "Glowing damaged iron golem outline shows cracks",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w10a",
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2020-03-05T05:33:37.000+0200",
+    "resolution_date": "2021-05-31T22:43:54.000+0300",
+    "updated_date": "2021-05-31T22:43:55.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-106417",
+    "summary": "Shulkers can be pushed outside of the world border by a piston",
+    "labels": [
+      "piston",
+      "pushed",
+      "shulker",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2016-08-21T08:22:18.000+0300",
+    "resolution_date": "2021-05-31T22:05:25.000+0300",
+    "updated_date": "2021-05-31T22:05:25.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-68129",
+    "summary": "Smooth lighting doesn't work properly underwater",
+    "labels": [
+      "mojang_internal_1",
+      "rendering",
+      "smooth-lighting",
+      "smooth-lighting-interpolation-incorrect",
+      "smooth-lighting-not-smooth"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 2"
+    ],
+    "creation_date": "2014-08-19T00:46:46.000+0300",
+    "resolution_date": "2021-05-28T17:38:19.000+0300",
+    "updated_date": "2022-02-03T01:02:30.000+0200",
+    "watches": 27,
+    "votes": 66
+  }
+]

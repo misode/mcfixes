@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MC-227232",
+    "summary": "Player head SkullOwner tag with username string no longer works",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 5"
+    ],
+    "creation_date": "2021-06-03T04:17:31.000+0300",
+    "resolution_date": "2021-06-03T19:01:45.000+0300",
+    "updated_date": "2021-06-03T19:01:45.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-227208",
+    "summary": "Breaking bamboo is excessively laggy since the 1.17 pre-releases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 5"
+    ],
+    "creation_date": "2021-06-03T00:17:28.000+0300",
+    "resolution_date": "2021-06-03T17:17:35.000+0300",
+    "updated_date": "2021-06-03T17:17:35.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-227207",
+    "summary": "Datafixer doesn't properly update certain scoreboard objectives from 1.16 to 1.17",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 5"
+    ],
+    "creation_date": "2021-06-03T00:12:06.000+0300",
+    "resolution_date": "2021-06-03T18:21:19.000+0300",
+    "updated_date": "2021-06-03T18:21:19.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-227065",
+    "summary": "Cannot Invoke \"na.b(String, int)\" because \"\u00e2\u02dc\u0192 is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 5"
+    ],
+    "creation_date": "2021-06-01T20:39:16.000+0300",
+    "resolution_date": "2021-06-03T14:09:12.000+0300",
+    "updated_date": "2021-10-20T14:56:48.000+0300",
+    "watches": 14,
+    "votes": 14
+  },
+  {
+    "id": "MC-225707",
+    "summary": "Caves and Cliffs Datapacks Server Error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 5"
+    ],
+    "creation_date": "2021-05-17T11:44:12.000+0300",
+    "resolution_date": "2021-06-03T19:20:55.000+0300",
+    "updated_date": "2021-07-21T00:38:44.000+0300",
+    "watches": 4,
+    "votes": 3
+  }
+]

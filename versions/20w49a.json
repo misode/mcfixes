@@ -1,0 +1,557 @@
+[
+  {
+    "id": "MC-206961",
+    "summary": "Flashing frozen hearts use the poisoned absorption heart texture",
+    "labels": [
+      "hud-status-icons",
+      "icons.png"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-29T04:13:54.000+0200",
+    "resolution_date": "2020-12-04T19:19:50.000+0200",
+    "updated_date": "2021-09-23T13:30:31.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-206878",
+    "summary": "Pointed dripstone attached to a piston is not removed as the piston extends",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-28T06:43:40.000+0200",
+    "resolution_date": "2020-12-02T15:51:12.000+0200",
+    "updated_date": "2020-12-02T15:51:12.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-206790",
+    "summary": "Waterlogged dripstone does not update",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-27T06:42:13.000+0200",
+    "resolution_date": "2020-12-02T15:51:11.000+0200",
+    "updated_date": "2020-12-03T05:10:21.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-206711",
+    "summary": "Coding error at net.minecraft.world.entity.Entity.resetPos()",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-26T13:09:30.000+0200",
+    "resolution_date": "2020-12-02T14:57:37.000+0200",
+    "updated_date": "2020-12-02T14:57:37.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-206691",
+    "summary": "Pointed dripstone replaces items with pointed dripstone items",
+    "labels": [
+      "pointed-dripstone",
+      "stalactite"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-26T07:38:48.000+0200",
+    "resolution_date": "2020-12-02T15:51:11.000+0200",
+    "updated_date": "2020-12-02T17:06:30.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-206689",
+    "summary": "floating pointed dripstone top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-26T07:37:47.000+0200",
+    "resolution_date": "2020-12-16T18:32:34.000+0200",
+    "updated_date": "2020-12-16T18:32:34.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-206682",
+    "summary": "Floating dripstone tips are sometimes left behind from large dripstone pillars",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-26T05:24:21.000+0200",
+    "resolution_date": "2020-12-02T15:51:10.000+0200",
+    "updated_date": "2020-12-02T17:03:05.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-206669",
+    "summary": "Inconsistency between dripstone and non-mob entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-26T03:04:11.000+0200",
+    "resolution_date": "2020-12-02T15:51:12.000+0200",
+    "updated_date": "2020-12-02T15:51:12.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-206643",
+    "summary": "When a dripstone's hitbox extends into the space of another block, the area that extends into said block cannot be targeted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T23:39:21.000+0200",
+    "resolution_date": "2020-12-02T17:22:35.000+0200",
+    "updated_date": "2020-12-04T20:36:44.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-206642",
+    "summary": "Stalactites destroy items they fall on, however stalagmites don't",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T23:37:10.000+0200",
+    "resolution_date": "2020-12-02T15:51:09.000+0200",
+    "updated_date": "2020-12-03T20:28:58.000+0200",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-206615",
+    "summary": "Pointed dripstone's hitbox can extend further than a block, causing nearby stalactites to not be able to fall",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T21:09:59.000+0200",
+    "resolution_date": "2020-12-02T17:22:35.000+0200",
+    "updated_date": "2021-02-14T11:47:33.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-206613",
+    "summary": "Pointed Dripstone duplicates when the block it was attached to is removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T21:03:25.000+0200",
+    "resolution_date": "2020-12-02T15:51:08.000+0200",
+    "updated_date": "2020-12-02T15:51:08.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-206606",
+    "summary": "Frustum stage of stalactites negates fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T20:42:04.000+0200",
+    "resolution_date": "2020-12-02T15:51:07.000+0200",
+    "updated_date": "2020-12-04T20:17:56.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-206594",
+    "summary": "Large stalactites falling occasionally don't drop all of their pointed dripstone items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T19:52:09.000+0200",
+    "resolution_date": "2020-12-02T15:51:09.000+0200",
+    "updated_date": "2020-12-02T15:51:09.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-206591",
+    "summary": "Setting any floating block to a pointed dripstone, causes the replaced block to drop as an item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T19:37:18.000+0200",
+    "resolution_date": "2020-12-02T15:51:13.000+0200",
+    "updated_date": "2020-12-02T15:51:13.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-206583",
+    "summary": "Cauldrons below stalactites at least 2 blocks tall won't fill up",
+    "labels": [
+      "pointed-dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T19:17:58.000+0200",
+    "resolution_date": "2020-11-30T11:37:59.000+0200",
+    "updated_date": "2020-11-30T11:37:59.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-206578",
+    "summary": "Large pillars of stalactites don't fall when the block above is removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T19:09:08.000+0200",
+    "resolution_date": "2020-12-02T17:22:34.000+0200",
+    "updated_date": "2020-12-02T17:22:34.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-206563",
+    "summary": "Pointed dripstone is not connected to the player's hand",
+    "labels": [
+      "pointed-dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T18:51:48.000+0200",
+    "resolution_date": "2020-12-02T17:22:36.000+0200",
+    "updated_date": "2020-12-02T17:22:36.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-206553",
+    "summary": "Pointed Dripstone creates water particles in the Nether",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-25T18:37:26.000+0200",
+    "resolution_date": "2020-12-02T17:22:35.000+0200",
+    "updated_date": "2021-01-21T19:07:20.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-205629",
+    "summary": "Unused sign cache when rendering signs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-14T19:00:36.000+0200",
+    "resolution_date": "2020-12-02T10:59:39.000+0200",
+    "updated_date": "2020-12-02T10:59:39.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-205391",
+    "summary": "Waxing cut copper doesn\u2019t prevent it from oxidising",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-12T20:28:48.000+0200",
+    "resolution_date": "2020-11-30T13:27:57.000+0200",
+    "updated_date": "2020-12-08T00:09:18.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-205096",
+    "summary": "Hardcore hearts lose all color when player is taking freeze damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-11T19:22:50.000+0200",
+    "resolution_date": "2020-11-26T09:33:18.000+0200",
+    "updated_date": "2021-01-20T13:14:37.000+0200",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-205043",
+    "summary": "Absorption hearts appear broken when taking freezing damage",
+    "labels": [
+      "hud-status-icons",
+      "icons.png"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-11T18:43:24.000+0200",
+    "resolution_date": "2020-11-26T09:33:18.000+0200",
+    "updated_date": "2021-09-23T13:30:52.000+0300",
+    "watches": 9,
+    "votes": 23
+  },
+  {
+    "id": "MC-204314",
+    "summary": "Double copper slabs only drop a single slab when mined",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-06T05:45:04.000+0200",
+    "resolution_date": "2020-11-30T13:27:57.000+0200",
+    "updated_date": "2020-11-30T13:27:57.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-203797",
+    "summary": "Placing or removing a block over the void causes a DecoderException on servers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-11-05T01:24:34.000+0200",
+    "resolution_date": "2020-11-30T13:27:58.000+0200",
+    "updated_date": "2020-11-30T13:27:58.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-201840",
+    "summary": "Optional function tags sometimes don't run even when the tag exists",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2020-10-10T05:21:19.000+0300",
+    "resolution_date": "2020-11-27T11:13:27.000+0200",
+    "updated_date": "2020-11-27T11:13:27.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-46650",
+    "summary": "When flying through blocks in spectator mode in F5, the camera zooms in and out a lot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 16w05a",
+      "20w49a"
+    ],
+    "creation_date": "2014-01-31T07:29:21.000+0200",
+    "resolution_date": "2020-12-04T19:17:53.000+0200",
+    "updated_date": "2020-12-04T19:17:54.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-18880",
+    "summary": "The Absorption effect has no texture for poison/wither hearts (appears empty instead)",
+    "labels": [
+      "absorption",
+      "effect",
+      "hearts",
+      "poison",
+      "potion",
+      "resource-pack-support",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w49a"
+    ],
+    "creation_date": "2013-06-23T19:56:35.000+0300",
+    "resolution_date": "2020-11-26T09:33:18.000+0200",
+    "updated_date": "2021-02-24T23:34:49.000+0200",
+    "watches": 11,
+    "votes": 27
+  }
+]

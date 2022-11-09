@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MC-242859",
+    "summary": "Blocks losing the loot inside them after dying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Release Candidate 3"
+    ],
+    "creation_date": "2021-11-26T01:33:32.000+0200",
+    "resolution_date": "2021-11-26T17:47:10.000+0200",
+    "updated_date": "2021-12-20T16:25:29.000+0200",
+    "watches": 5,
+    "votes": 2
+  }
+]

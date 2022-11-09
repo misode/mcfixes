@@ -1,0 +1,46 @@
+[
+  {
+    "id": "MC-194927",
+    "summary": "When a pack is selected or deselected from the Available or Selected list in the pack menu, switching from windowed mode to full screen or vice versa reverts the changes",
+    "labels": [
+      "data-pack",
+      "fullscreen",
+      "menu",
+      "resource-pack",
+      "windowed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2"
+    ],
+    "creation_date": "2020-07-14T14:55:23.000+0300",
+    "resolution_date": "2020-08-12T21:39:09.000+0300",
+    "updated_date": "2021-03-22T15:21:29.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-193080",
+    "summary": "Piglin Brutes riding on other entities float",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2"
+    ],
+    "creation_date": "2020-07-01T20:12:51.000+0300",
+    "resolution_date": "2020-08-12T08:06:16.000+0300",
+    "updated_date": "2020-08-13T20:05:00.000+0300",
+    "watches": 4,
+    "votes": 7
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MC-178029",
+    "summary": "Chunks get scrambled by logging in twice on solo world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-04-09T23:23:11.000+0300",
+    "resolution_date": "2020-04-10T00:16:27.000+0300",
+    "updated_date": "2020-04-10T00:21:50.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-177225",
+    "summary": "Tag minecraft:water used before it was bound",
+    "labels": [
+      "crash",
+      "multiplayer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-04-03T05:54:39.000+0300",
+    "resolution_date": "2020-04-06T11:29:29.000+0300",
+    "updated_date": "2020-04-09T23:18:05.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-177102",
+    "summary": "Zoglins aren't considered an undead mob",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-04-02T19:54:33.000+0300",
+    "resolution_date": "2020-04-07T11:39:33.000+0300",
+    "updated_date": "2020-06-29T22:27:50.000+0300",
+    "watches": 11,
+    "votes": 24
+  },
+  {
+    "id": "MC-177085",
+    "summary": "Missing UUID field in attributes crash the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-04-02T19:27:16.000+0300",
+    "resolution_date": "2020-04-06T11:29:52.000+0300",
+    "updated_date": "2020-04-10T13:38:09.000+0300",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-177081",
+    "summary": "Zoglins are attacked by the Wither",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-04-02T19:24:58.000+0300",
+    "resolution_date": "2020-04-08T23:17:12.000+0300",
+    "updated_date": "2020-04-08T23:17:12.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-177069",
+    "summary": "Dispenser will not drop glowstone as item when not connected to a respawn anchor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-04-02T18:31:31.000+0300",
+    "resolution_date": "2020-04-07T11:04:14.000+0300",
+    "updated_date": "2020-04-27T00:10:44.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-176633",
+    "summary": "Lime carpets are named \"acacia slab\" in Spanish (Spain)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-29T01:00:06.000+0200",
+    "resolution_date": "2020-04-06T15:27:34.000+0300",
+    "updated_date": "2020-04-06T15:35:53.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-176517",
+    "summary": "striders spawn in underground lava pockets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-28T00:28:31.000+0200",
+    "resolution_date": "2020-04-07T11:23:05.000+0300",
+    "updated_date": "2020-04-07T11:23:05.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-176384",
+    "summary": "CompassItem checks twice if LodestonePos tag exists",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-26T23:43:39.000+0200",
+    "resolution_date": "2020-04-07T11:33:35.000+0300",
+    "updated_date": "2020-04-07T11:33:35.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-176095",
+    "summary": "Striders have an unused fin in the strider.png texture file",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-25T21:58:43.000+0200",
+    "resolution_date": "2020-04-08T09:48:51.000+0300",
+    "updated_date": "2021-08-18T16:39:54.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-175566",
+    "summary": "Piglins with full inventories drop the items they received",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-21T09:10:30.000+0200",
+    "resolution_date": "2020-04-07T09:37:53.000+0300",
+    "updated_date": "2020-04-10T11:36:50.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-175538",
+    "summary": "Fish/Swimming sounds are louder than they should be",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-21T01:16:14.000+0200",
+    "resolution_date": "2020-04-08T13:26:29.000+0300",
+    "updated_date": "2020-05-12T23:36:34.000+0300",
+    "watches": 11,
+    "votes": 29
+  },
+  {
+    "id": "MC-175452",
+    "summary": "Respawn anchor can be used infinitely if right clicked above world build limit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-20T07:35:26.000+0200",
+    "resolution_date": "2020-04-14T14:54:14.000+0300",
+    "updated_date": "2020-04-14T14:54:14.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-175402",
+    "summary": "Soul Fire Torches cannot be crafted with Soul Sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-19T23:43:24.000+0200",
+    "resolution_date": "2020-04-08T22:08:40.000+0300",
+    "updated_date": "2020-04-08T22:08:40.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-175356",
+    "summary": "Piglins and hoglins do not avoid magma blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-19T18:59:33.000+0200",
+    "resolution_date": "2020-04-08T09:56:50.000+0300",
+    "updated_date": "2020-05-25T19:48:38.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-175348",
+    "summary": "Respawn anchor explosion knocks back flying creative players",
+    "labels": [
+      "creative",
+      "explosion",
+      "respawn_anchor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-19T18:18:27.000+0200",
+    "resolution_date": "2020-04-10T21:28:16.000+0300",
+    "updated_date": "2021-08-18T16:39:35.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-175274",
+    "summary": "\"Quartz pillar\" is translated as \"White wool\" (\"Lana blanca\" instead of \"Pilar de cuarzo\") in Spanish (Spain)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-19T00:44:57.000+0200",
+    "resolution_date": "2020-04-06T15:30:23.000+0300",
+    "updated_date": "2020-04-06T15:30:23.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-175256",
+    "summary": "Screen is overlayed with a grey opaque texture when inside of a transparent block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-18T23:30:26.000+0200",
+    "resolution_date": "2020-04-06T11:31:26.000+0300",
+    "updated_date": "2020-07-01T23:07:31.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-175176",
+    "summary": "Using return portal in The End softlocks the game if /spawnpoint was used in The End",
+    "labels": [
+      "command",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-18T20:07:16.000+0200",
+    "resolution_date": "2020-04-07T18:15:56.000+0300",
+    "updated_date": "2020-04-07T18:15:56.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-175169",
+    "summary": "Respawn Anchor can create ghost blocks when it explodes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-18T19:57:52.000+0200",
+    "resolution_date": "2020-04-07T18:15:56.000+0300",
+    "updated_date": "2020-05-13T12:37:43.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-175030",
+    "summary": "Curse of Binding doesn't affect Piglins",
+    "labels": [
+      "curse-of-binding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-17T05:06:28.000+0200",
+    "resolution_date": "2020-04-07T11:39:32.000+0300",
+    "updated_date": "2020-04-07T11:39:32.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-174559",
+    "summary": "Baby hoglins/zoglins uses the same attack damage as an adult when spawned in some cases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Mob behaviour",
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-12T01:59:45.000+0200",
+    "resolution_date": "2020-04-07T09:37:53.000+0300",
+    "updated_date": "2020-04-10T12:23:21.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-174542",
+    "summary": "Killing baby hoglins drops leather and porkchop",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-03-12T00:07:53.000+0200",
+    "resolution_date": "2020-04-07T18:15:56.000+0300",
+    "updated_date": "2020-04-07T18:15:56.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-172517",
+    "summary": "Walls don't behave normally when next to soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-02-16T19:26:23.000+0200",
+    "resolution_date": "2020-04-11T15:31:49.000+0300",
+    "updated_date": "2020-04-11T15:31:49.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-172268",
+    "summary": "Bartering with a piglin by right-clicking does not display hand animation",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-02-15T03:05:09.000+0200",
+    "resolution_date": "2020-04-07T09:37:53.000+0300",
+    "updated_date": "2020-06-06T16:02:40.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-172250",
+    "summary": "Piglin and zombified piglin model doesn't use textures for left arm or leg",
+    "labels": [
+      "mob",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-02-15T02:03:07.000+0200",
+    "resolution_date": "2020-04-03T11:23:04.000+0300",
+    "updated_date": "2020-04-08T15:39:36.000+0300",
+    "watches": 14,
+    "votes": 25
+  },
+  {
+    "id": "MC-172226",
+    "summary": "Baby animals, villagers, and zombie villagers spawned with a spawn egg on an adult entity always are of the same variant",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-02-15T00:32:33.000+0200",
+    "resolution_date": "2020-04-07T11:41:26.000+0300",
+    "updated_date": "2021-02-18T00:43:39.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-172120",
+    "summary": "Hoglins don't try to avoid fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-02-14T18:47:52.000+0200",
+    "resolution_date": "2020-04-08T09:56:50.000+0300",
+    "updated_date": "2020-04-08T09:56:50.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-171463",
+    "summary": "Iron Bars don't fully connect to walls",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-02-08T05:51:49.000+0200",
+    "resolution_date": "2020-04-07T16:44:33.000+0300",
+    "updated_date": "2020-04-07T16:44:33.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-171273",
+    "summary": "Fungi and roots (both crimson and warped) as well as weeping vines, twisting vines and warped wart blocks, etc. can't be composted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2020-02-07T05:00:23.000+0200",
+    "resolution_date": "2020-04-15T01:27:51.000+0300",
+    "updated_date": "2020-04-15T01:27:51.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-166358",
+    "summary": "Inconsistency with sounds of dispensers using shears",
+    "labels": [
+      "dispenser-functionality",
+      "missing-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2019-11-25T16:31:15.000+0200",
+    "resolution_date": "2020-04-10T00:32:05.000+0300",
+    "updated_date": "2021-09-30T18:39:47.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-111493",
+    "summary": "Fireworks do not cause knockback to either the player or mobs.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2016-12-17T02:05:53.000+0200",
+    "resolution_date": "2020-04-13T12:35:26.000+0300",
+    "updated_date": "2020-04-13T12:35:26.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-105292",
+    "summary": "falling_block Lighting Inconsistency with Smooth Lighting on",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w15a"
+    ],
+    "creation_date": "2016-07-13T00:56:25.000+0300",
+    "resolution_date": "2020-04-12T14:48:48.000+0300",
+    "updated_date": "2020-04-12T14:48:48.000+0300",
+    "watches": 6,
+    "votes": 15
+  }
+]

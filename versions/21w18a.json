@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "MC-224428",
+    "summary": "Raw ore blocks can generate as floating blocks in ore veins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-28T21:34:33.000+0300",
+    "resolution_date": "2021-05-05T16:23:34.000+0300",
+    "updated_date": "2021-05-05T16:23:34.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-224401",
+    "summary": "Mob death does not show death particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-28T18:38:58.000+0300",
+    "resolution_date": "2021-05-05T11:53:30.000+0300",
+    "updated_date": "2021-05-05T11:53:30.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-223441",
+    "summary": "A redundant torch in the panorama background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-17T14:04:55.000+0300",
+    "resolution_date": "2021-05-06T11:30:25.000+0300",
+    "updated_date": "2022-08-16T21:13:38.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-223422",
+    "summary": "When removing water from base of Small Dripleaf, the block stands without water untill a block update",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-17T05:59:07.000+0300",
+    "resolution_date": "2021-05-05T08:44:58.000+0300",
+    "updated_date": "2021-05-05T15:41:23.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-223239",
+    "summary": "Ramming sound that comes from a baby goat does not change pitch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-15T02:23:39.000+0300",
+    "resolution_date": "2021-05-05T12:43:42.000+0300",
+    "updated_date": "2021-05-05T12:43:42.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-223203",
+    "summary": "Deepslate ore map colors are inconsistent with deepslate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-14T21:49:01.000+0300",
+    "resolution_date": "2021-05-05T09:07:22.000+0300",
+    "updated_date": "2021-05-05T09:07:22.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-223178",
+    "summary": "Deepslate Tile Stairs come before Deepslate Brick Stairs in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-14T19:49:37.000+0300",
+    "resolution_date": "2021-05-05T09:07:23.000+0300",
+    "updated_date": "2021-08-18T16:39:50.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-223166",
+    "summary": "Various goat sounds do not have any subtitles",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-14T19:18:05.000+0300",
+    "resolution_date": "2021-05-05T21:19:54.000+0300",
+    "updated_date": "2021-05-05T21:19:54.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-223150",
+    "summary": "Goats ram Marker armor stands & Invisible armor stands",
+    "labels": [
+      "goat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-14T18:47:37.000+0300",
+    "resolution_date": "2021-05-05T12:25:05.000+0300",
+    "updated_date": "2021-05-05T12:25:05.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-223145",
+    "summary": "Piglins aren't angered when mining a Block of Raw Gold",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-14T18:25:11.000+0300",
+    "resolution_date": "2021-05-05T09:07:21.000+0300",
+    "updated_date": "2021-05-05T09:07:21.000+0300",
+    "watches": 8,
+    "votes": 19
+  },
+  {
+    "id": "MC-223141",
+    "summary": "Piglins aren't attracted to a Block of Raw Gold",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-14T18:17:25.000+0300",
+    "resolution_date": "2021-05-05T09:07:22.000+0300",
+    "updated_date": "2021-05-05T09:07:22.000+0300",
+    "watches": 9,
+    "votes": 21
+  },
+  {
+    "id": "MC-222458",
+    "summary": "UVs on the goat's ears aren't mirrored as they should be",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-07T02:52:17.000+0300",
+    "resolution_date": "2021-05-05T12:43:39.000+0300",
+    "updated_date": "2021-05-05T12:43:39.000+0300",
+    "watches": 2,
+    "votes": 11
+  },
+  {
+    "id": "MC-222157",
+    "summary": "Eye position of the goat is too high in some cases, causing suffocation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-04T10:12:38.000+0300",
+    "resolution_date": "2021-05-05T12:43:38.000+0300",
+    "updated_date": "2021-05-05T13:09:40.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-222151",
+    "summary": "Goat head animation is weird when it rides a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-04T06:32:21.000+0300",
+    "resolution_date": "2021-05-05T09:38:17.000+0300",
+    "updated_date": "2021-05-05T10:05:04.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-222072",
+    "summary": "Problems connecting to server, getting kicked off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-03T11:14:39.000+0300",
+    "resolution_date": "2021-11-05T12:33:44.000+0200",
+    "updated_date": "2021-11-05T12:33:44.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-222013",
+    "summary": "Light blocks have transparent textures, but don't allow transparency",
+    "labels": [
+      "light_block",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-02T22:07:54.000+0300",
+    "resolution_date": "2021-08-13T14:40:56.000+0300",
+    "updated_date": "2022-11-03T15:53:01.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-222007",
+    "summary": "Giving a light block with a negative BlockStateTag.level value shows particle texture in inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-02T21:08:44.000+0300",
+    "resolution_date": "2021-09-21T21:10:47.000+0300",
+    "updated_date": "2021-09-22T00:05:23.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-221867",
+    "summary": "No subtitle for entity.goat.prepare_ram",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-01T21:01:12.000+0300",
+    "resolution_date": "2021-05-05T21:23:13.000+0300",
+    "updated_date": "2021-05-10T19:51:35.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-221840",
+    "summary": "Goats can still do high jumps normally when on honey blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-01T18:31:51.000+0300",
+    "resolution_date": "2021-05-05T12:43:42.000+0300",
+    "updated_date": "2021-05-05T12:43:42.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-221829",
+    "summary": "Leads on Goats appear a little too high",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-01T16:48:06.000+0300",
+    "resolution_date": "2021-05-05T21:19:32.000+0300",
+    "updated_date": "2021-05-05T21:19:32.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-221727",
+    "summary": "Goat eye height is outside of its hitbox while airborne",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-01T04:56:07.000+0300",
+    "resolution_date": "2021-05-05T12:43:38.000+0300",
+    "updated_date": "2021-05-05T19:00:43.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-221725",
+    "summary": "Legs of goats move differently",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-04-01T04:18:31.000+0300",
+    "resolution_date": "2021-05-05T12:43:36.000+0300",
+    "updated_date": "2021-05-05T12:43:36.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-221647",
+    "summary": "Goat Babies Don't Follow Parents",
+    "labels": [
+      "goat",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-03-31T22:39:07.000+0300",
+    "resolution_date": "2021-05-05T12:43:36.000+0300",
+    "updated_date": "2021-05-05T19:40:52.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-221617",
+    "summary": "Light block has an unnecessarily large texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-03-31T21:24:08.000+0300",
+    "resolution_date": "2021-05-05T21:54:46.000+0300",
+    "updated_date": "2021-05-05T21:54:46.000+0300",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-221611",
+    "summary": "Texture missing on parts of Light item levels 2-6",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-03-31T21:12:08.000+0300",
+    "resolution_date": "2021-05-05T22:07:05.000+0300",
+    "updated_date": "2021-05-05T22:07:05.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-216148",
+    "summary": "Some chunks occasionally don't save properly, resetting progress",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-19T07:02:38.000+0200",
+    "resolution_date": "2021-05-05T17:01:26.000+0300",
+    "updated_date": "2021-11-19T07:15:04.000+0200",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-215946",
+    "summary": "Game fatally crashed while exploring chunks (IllegalStateException: Accessing PalettedContainer from multiple threads)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a",
+      "1.17 Pre-release 3"
+    ],
+    "creation_date": "2021-02-18T01:58:03.000+0200",
+    "resolution_date": "2021-06-01T16:37:10.000+0300",
+    "updated_date": "2021-11-23T13:09:42.000+0200",
+    "watches": 10,
+    "votes": 16
+  },
+  {
+    "id": "MC-215867",
+    "summary": "Crash: java.lang.IllegalStateException: Chunk not there when requested",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-17T20:36:00.000+0200",
+    "resolution_date": "2021-05-05T17:01:51.000+0300",
+    "updated_date": "2021-05-05T17:01:51.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-214898",
+    "summary": "Extreme world generation lag",
+    "labels": [
+      "world-loading"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-10T22:49:02.000+0200",
+    "resolution_date": "2021-05-05T17:02:06.000+0300",
+    "updated_date": "2021-05-07T05:54:36.000+0300",
+    "watches": 12,
+    "votes": 26
+  },
+  {
+    "id": "MC-214860",
+    "summary": "Some chunks in a line are lit up constantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-10T21:29:49.000+0200",
+    "resolution_date": "2021-05-05T17:01:45.000+0300",
+    "updated_date": "2021-05-05T17:01:45.000+0300",
+    "watches": 12,
+    "votes": 17
+  },
+  {
+    "id": "MC-214808",
+    "summary": "World occasionally fails to load correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-10T20:37:25.000+0200",
+    "resolution_date": "2021-05-05T17:02:00.000+0300",
+    "updated_date": "2021-05-07T05:51:04.000+0300",
+    "watches": 23,
+    "votes": 45
+  },
+  {
+    "id": "MC-214793",
+    "summary": "Some strips of chunks generate completely dark",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-10T20:20:16.000+0200",
+    "resolution_date": "2021-05-05T17:01:33.000+0300",
+    "updated_date": "2021-05-05T17:01:33.000+0300",
+    "watches": 45,
+    "votes": 72
+  },
+  {
+    "id": "MC-214427",
+    "summary": "Spore Blossoms can be used to breathe underwater / cannot be waterlogged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-07T13:32:44.000+0200",
+    "resolution_date": "2021-05-05T09:56:57.000+0300",
+    "updated_date": "2021-05-05T09:56:57.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-214159",
+    "summary": "Small Dripleaf sometimes shrink into smaller (1 block tall) Big Dripleaf when using bone meal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-02-05T06:03:05.000+0200",
+    "resolution_date": "2021-05-05T16:59:38.000+0300",
+    "updated_date": "2021-05-05T16:59:38.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-211064",
+    "summary": "Loading in a TrueTypeFont with an out-of-bounds size crashes the game",
+    "labels": [
+      "crash",
+      "font",
+      "truetype"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2021-01-10T16:18:07.000+0200",
+    "resolution_date": "2021-05-05T12:18:12.000+0300",
+    "updated_date": "2021-05-05T12:18:12.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-208679",
+    "summary": "Axolotl inconsistently doesn't show its mouth in-game",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-12-16T22:00:04.000+0200",
+    "resolution_date": "2021-05-05T17:13:26.000+0300",
+    "updated_date": "2021-05-05T18:50:19.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-208430",
+    "summary": "Minecraft crashes when loading resource pack due to \"tessellating block model\"",
+    "labels": [
+      "Tessellating_block_m",
+      "crashes",
+      "resource-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-12-14T19:55:03.000+0200",
+    "resolution_date": "2021-05-05T12:18:12.000+0300",
+    "updated_date": "2021-05-05T13:08:17.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-206560",
+    "summary": "Pufferfish react to Marker armor stands and Invisible armor stands",
+    "labels": [
+      "pufferfish"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-11-25T18:46:04.000+0200",
+    "resolution_date": "2021-05-05T12:25:10.000+0300",
+    "updated_date": "2021-05-05T12:25:10.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-205797",
+    "summary": "Zoglins attack Marker armor stands and Invisible armor stands",
+    "labels": [
+      "armor_stand",
+      "marker-armor-stand",
+      "zoglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-11-16T13:00:11.000+0200",
+    "resolution_date": "2021-05-05T12:25:05.000+0300",
+    "updated_date": "2021-05-05T12:25:05.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-204969",
+    "summary": "No \"Burning\" sound for items burning in lava cauldron",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-11-10T21:37:35.000+0200",
+    "resolution_date": "2021-05-05T12:25:02.000+0300",
+    "updated_date": "2021-05-05T12:25:03.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-204707",
+    "summary": "Adventure mode players can extinguish candles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-11-08T09:55:23.000+0200",
+    "resolution_date": "2021-05-05T12:25:03.000+0300",
+    "updated_date": "2022-08-11T15:43:48.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-203566",
+    "summary": "Small/Medium amethyst buds don't show up in your hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-11-04T20:58:47.000+0200",
+    "resolution_date": "2021-05-06T11:43:43.000+0300",
+    "updated_date": "2021-05-06T11:43:43.000+0300",
+    "watches": 10,
+    "votes": 22
+  },
+  {
+    "id": "MC-197616",
+    "summary": "Certain custom biome settings cause game to spam \"Received invalid biome id: -1\" in the console, causing major lag or freeze",
+    "labels": [
+      "data-pack",
+      "performance"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-08-10T16:53:28.000+0300",
+    "resolution_date": "2021-05-05T10:41:31.000+0300",
+    "updated_date": "2022-06-02T20:41:13.000+0300",
+    "watches": 61,
+    "votes": 132
+  },
+  {
+    "id": "MC-179116",
+    "summary": "Burning item sound ignores lava hitbox level",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-04-17T08:52:01.000+0300",
+    "resolution_date": "2021-05-07T04:26:54.000+0300",
+    "updated_date": "2021-08-18T16:39:52.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-177630",
+    "summary": "Infested Stone blocks are mined instantly with silk touch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-04-06T23:35:40.000+0300",
+    "resolution_date": "2021-05-05T21:22:32.000+0300",
+    "updated_date": "2021-05-05T21:22:32.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-172362",
+    "summary": "Lava item burning sound does not play sometimes",
+    "labels": [
+      "burning",
+      "fire",
+      "items",
+      "lava",
+      "sounds"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2020-02-15T17:07:07.000+0200",
+    "resolution_date": "2021-05-07T04:28:26.000+0300",
+    "updated_date": "2021-06-11T19:32:20.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-162953",
+    "summary": "NativeImage bounds checks are incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2019-10-08T09:26:31.000+0300",
+    "resolution_date": "2021-05-05T12:18:13.000+0300",
+    "updated_date": "2021-05-05T12:18:13.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-138832",
+    "summary": "Pitch and volume are ignored in the new sound packet",
+    "labels": [
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2018-11-03T19:54:30.000+0200",
+    "resolution_date": "2022-01-05T23:58:49.000+0200",
+    "updated_date": "2022-01-05T23:58:49.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-125033",
+    "summary": "Old cave and ravine generation gets cut off unnaturally on chunk borders near water",
+    "labels": [
+      "caves",
+      "chunk-border",
+      "ravine",
+      "water",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w18a",
+      "21w37a"
+    ],
+    "creation_date": "2018-02-10T17:57:47.000+0200",
+    "resolution_date": "2021-11-17T10:31:05.000+0200",
+    "updated_date": "2021-11-17T10:31:05.000+0200",
+    "watches": 27,
+    "votes": 47
+  },
+  {
+    "id": "MC-3587",
+    "summary": "Last use of an anvil causes player to drop their item",
+    "labels": [
+      "anvil",
+      "inventory"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w18a"
+    ],
+    "creation_date": "2012-11-21T06:36:43.000+0200",
+    "resolution_date": "2021-05-05T17:29:09.000+0300",
+    "updated_date": "2021-09-27T09:34:18.000+0300",
+    "watches": 10,
+    "votes": 11
+  }
+]

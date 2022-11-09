@@ -1,0 +1,998 @@
+[
+  {
+    "id": "MC-251773",
+    "summary": "The --dev argument for the data generators no longer converts NBT to SNBT properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-16T00:15:05.000+0300",
+    "resolution_date": "2022-05-18T14:22:04.000+0300",
+    "updated_date": "2022-09-04T06:26:36.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-251762",
+    "summary": "You can run commands with double slash prefix",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-15T20:55:37.000+0300",
+    "resolution_date": "2022-05-17T17:08:48.000+0300",
+    "updated_date": "2022-05-17T17:08:48.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-251690",
+    "summary": "Wardens can spawn on any non-full block, as long as it's solid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-14T07:37:12.000+0300",
+    "resolution_date": "2022-05-18T16:51:56.000+0300",
+    "updated_date": "2022-05-18T16:51:56.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-251656",
+    "summary": "/say command fails to apply server message styling when sent from a command block, server console, or RCON, unlike /msg",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-13T06:29:12.000+0300",
+    "resolution_date": "2022-05-17T18:06:44.000+0300",
+    "updated_date": "2022-05-17T18:06:44.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-251652",
+    "summary": "Warden emerge/roar/sonic charge/dig animation (and possibly other similar animations) don't start unless the player looks at the Warden first",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-13T00:15:50.000+0300",
+    "resolution_date": "2022-05-16T18:56:58.000+0300",
+    "updated_date": "2022-05-16T18:56:58.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-251650",
+    "summary": "Iron golems can spawn on non spawnable blocks such as leaves, glass, sea lanterns, etc.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-12T23:53:31.000+0300",
+    "resolution_date": "2022-05-17T13:57:49.000+0300",
+    "updated_date": "2022-05-18T16:30:22.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-251649",
+    "summary": "Clicking \"incomplete command\" message removes / in chat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-12T23:38:44.000+0300",
+    "resolution_date": "2022-05-17T17:08:48.000+0300",
+    "updated_date": "2022-05-17T17:08:48.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-251647",
+    "summary": "Chat closes itself if the control for Open Chat is set to Enter",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-12T22:08:55.000+0300",
+    "resolution_date": "2022-05-16T19:13:22.000+0300",
+    "updated_date": "2022-05-18T13:10:54.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-251641",
+    "summary": "Game crash regarding warden anger",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-12T20:45:19.000+0300",
+    "resolution_date": "2022-05-16T15:25:11.000+0300",
+    "updated_date": "2022-05-16T15:25:11.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-251640",
+    "summary": "io.netty.handler.codec.EncoderException when using special characters in chat message",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-12T20:42:14.000+0300",
+    "resolution_date": "2022-05-17T17:08:48.000+0300",
+    "updated_date": "2022-05-20T20:30:22.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-251550",
+    "summary": "Failed to launch the game on 32-bit operating system",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-09T17:22:01.000+0300",
+    "resolution_date": "2022-05-18T11:57:51.000+0300",
+    "updated_date": "2022-05-18T12:39:34.000+0300",
+    "watches": 4,
+    "votes": 0
+  },
+  {
+    "id": "MC-251479",
+    "summary": "Duplicate object key [lang file]",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-07T23:26:52.000+0300",
+    "resolution_date": "2022-05-17T12:20:38.000+0300",
+    "updated_date": "2022-05-17T12:20:38.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-251405",
+    "summary": "Structure Block messages are formatted as chat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Input"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-06T00:17:38.000+0300",
+    "resolution_date": "2022-05-17T17:08:48.000+0300",
+    "updated_date": "2022-05-17T17:08:48.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-251396",
+    "summary": "java.lang.IllegalArgumentException: Name and ID cannot both be blank",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w19a",
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-05T18:33:45.000+0300",
+    "resolution_date": "2022-05-19T18:44:47.000+0300",
+    "updated_date": "2022-05-19T18:44:47.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-251355",
+    "summary": "Potted mangrove propagule model is incorrect",
+    "labels": [
+      "flower_pot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-05T13:11:16.000+0300",
+    "resolution_date": "2022-05-17T18:22:53.000+0300",
+    "updated_date": "2022-05-18T00:23:49.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-251312",
+    "summary": "Entity selectors in /say commands are no longer evaluated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-04T20:04:39.000+0300",
+    "resolution_date": "2022-05-17T18:06:44.000+0300",
+    "updated_date": "2022-05-17T18:06:44.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-251132",
+    "summary": "Server logs \"Game test server\" messages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-30T04:15:11.000+0300",
+    "resolution_date": "2022-05-17T12:20:39.000+0300",
+    "updated_date": "2022-05-17T12:20:39.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-250940",
+    "summary": "Goat horn playing isn't detected as a vibration",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-27T19:58:06.000+0300",
+    "resolution_date": "2022-05-18T15:12:51.000+0300",
+    "updated_date": "2022-05-18T15:12:51.000+0300",
+    "watches": 2,
+    "votes": 11
+  },
+  {
+    "id": "MC-250932",
+    "summary": "Goat horn subtitles are improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-27T19:47:02.000+0300",
+    "resolution_date": "2022-05-17T12:20:38.000+0300",
+    "updated_date": "2022-05-17T12:20:38.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-250919",
+    "summary": "The server crashes when attempting to load chunks that contain command blocks that consist of large numbers of characters within the previous output field",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-27T12:49:16.000+0300",
+    "resolution_date": "2022-05-17T12:29:54.000+0300",
+    "updated_date": "2022-05-17T12:29:54.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-250351",
+    "summary": "/tp \"argument\" duplicated on the tab options",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-20T22:03:49.000+0300",
+    "resolution_date": "2022-05-16T18:50:32.000+0300",
+    "updated_date": "2022-05-18T16:17:06.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-250317",
+    "summary": "The subtitle for picking up a Tadpole with a bucket is the generic \"Bucket fills\" subtitle",
+    "labels": [
+      "incorrect-subtitle",
+      "reused-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-20T19:22:42.000+0300",
+    "resolution_date": "2022-05-18T15:35:47.000+0300",
+    "updated_date": "2022-05-18T15:35:47.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-250022",
+    "summary": "Modifying offhand slot via /item command does not produce sound, but still triggers sculk sensors",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Commands",
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-08T10:11:38.000+0300",
+    "resolution_date": "2022-05-19T12:00:13.000+0300",
+    "updated_date": "2022-05-19T12:00:13.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-250019",
+    "summary": "Sculk catalyst triggers when a villager converts into zombie villager by a zombie",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-08T08:32:10.000+0300",
+    "resolution_date": "2022-05-18T15:12:49.000+0300",
+    "updated_date": "2022-05-18T15:12:49.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-250006",
+    "summary": "ID of the british cat doesn't match texture name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-07T18:08:52.000+0300",
+    "resolution_date": "2022-05-17T12:20:36.000+0300",
+    "updated_date": "2022-05-17T12:20:36.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-249980",
+    "summary": "The Birthday Song advancement description doesn't capitalise the word Cake",
+    "labels": [
+      "capitalization",
+      "husbandry/allay_deliver_cake_to_noteblock"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a",
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-07T08:59:59.000+0300",
+    "resolution_date": "2022-05-17T12:20:35.000+0300",
+    "updated_date": "2022-05-17T12:20:35.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-249834",
+    "summary": "Swapping items to the player's off-hand can generate vibrations",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-04-02T08:28:47.000+0300",
+    "resolution_date": "2022-05-17T16:31:42.000+0300",
+    "updated_date": "2022-05-19T01:49:24.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-249757",
+    "summary": "'It Spreads' advancement is not a child of 'Monster Hunter'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-31T21:27:44.000+0300",
+    "resolution_date": "2022-05-18T15:12:50.000+0300",
+    "updated_date": "2022-05-18T15:12:50.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249711",
+    "summary": "Items collected off the ground by allays travel too high above their hitboxes",
+    "labels": [
+      "allay",
+      "item-pickup"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-31T19:53:00.000+0300",
+    "resolution_date": "2022-05-18T14:45:41.000+0300",
+    "updated_date": "2022-05-18T14:45:41.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-249619",
+    "summary": "The comparator frequency of sculk sensors when you are stepping on it is the last frequency it heard",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-27T01:11:08.000+0200",
+    "resolution_date": "2022-05-18T15:12:49.000+0300",
+    "updated_date": "2022-05-18T15:12:49.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249456",
+    "summary": "Tadpoles drop experience, unlike other baby mobs",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-25T01:05:39.000+0200",
+    "resolution_date": "2022-05-18T15:35:59.000+0300",
+    "updated_date": "2022-05-18T15:35:59.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-249328",
+    "summary": "Frogs can jump around while being tempted with slimeballs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-21T01:24:08.000+0200",
+    "resolution_date": "2022-05-17T13:14:55.000+0300",
+    "updated_date": "2022-05-17T13:14:55.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-249260",
+    "summary": "Tadpoles are not tempted by slime balls",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-19T13:59:20.000+0200",
+    "resolution_date": "2022-05-18T15:35:58.000+0300",
+    "updated_date": "2022-05-18T15:35:58.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-249209",
+    "summary": "Frogs don't panic when tempted with their favorite food",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-17T22:12:51.000+0200",
+    "resolution_date": "2022-05-18T14:36:32.000+0300",
+    "updated_date": "2022-05-18T14:36:32.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-249164",
+    "summary": "The entity.frog.tounge sound is misspelled",
+    "labels": [
+      "incorrect-sound-event-id"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-17T00:50:34.000+0200",
+    "resolution_date": "2022-05-17T12:20:37.000+0300",
+    "updated_date": "2022-05-20T02:53:59.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-249141",
+    "summary": "No subtitles are produced upon frogs stepping",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-16T21:37:57.000+0200",
+    "resolution_date": "2022-05-18T15:35:47.000+0300",
+    "updated_date": "2022-08-17T15:04:09.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-249118",
+    "summary": "Crash on M1 computer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-03-16T20:18:10.000+0200",
+    "resolution_date": "2022-05-19T12:06:40.000+0300",
+    "updated_date": "2022-05-19T12:06:40.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-230735",
+    "summary": "\"FOV Effects\" setting description is innacurate",
+    "labels": [
+      "UI",
+      "description",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-06-30T15:03:45.000+0300",
+    "resolution_date": "2022-05-17T12:20:36.000+0300",
+    "updated_date": "2022-05-17T12:20:36.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-225195",
+    "summary": "Goats don't panic when tempted with their favorite food",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-05-10T11:43:29.000+0300",
+    "resolution_date": "2022-05-18T16:22:43.000+0300",
+    "updated_date": "2022-05-18T16:22:43.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-218222",
+    "summary": "Distance value for Sculk Sensors is limited to integers",
+    "labels": [
+      "block",
+      "redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-03-09T13:52:36.000+0200",
+    "resolution_date": "2022-05-18T15:12:51.000+0300",
+    "updated_date": "2022-05-18T16:01:28.000+0300",
+    "watches": 12,
+    "votes": 36
+  },
+  {
+    "id": "MC-213915",
+    "summary": "Equipping armor through the inventory does not count as a vibration",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-02-04T01:34:16.000+0200",
+    "resolution_date": "2022-05-17T16:31:42.000+0300",
+    "updated_date": "2022-05-17T16:31:42.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-213823",
+    "summary": "Minecart placed on wool is detected by sculk sensors but minecart driven over wool is not",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-02-03T21:26:48.000+0200",
+    "resolution_date": "2022-05-23T18:06:32.000+0300",
+    "updated_date": "2022-05-23T18:06:32.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-210329",
+    "summary": "Sculk sensors are not activated upon armor on entities breaking",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w19a",
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-01-02T22:43:19.000+0200",
+    "resolution_date": "2022-07-05T13:55:21.000+0300",
+    "updated_date": "2022-07-05T23:04:03.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-210279",
+    "summary": "Sculk sensors are not activated upon entities being summoned by a spawner",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-01-02T14:51:11.000+0200",
+    "resolution_date": "2022-05-18T15:12:50.000+0300",
+    "updated_date": "2022-05-18T15:12:50.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-209222",
+    "summary": "Attempting to open the Minecraft Realms menu claims that the client is outdated, even if the snapshot may be newer than the release",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2020-12-22T06:52:19.000+0200",
+    "resolution_date": "2022-05-17T12:20:37.000+0300",
+    "updated_date": "2022-05-17T12:20:37.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-134892",
+    "summary": "PacketBuffer.writeString's max length is in bytes, while readString is in characters",
+    "labels": [
+      "String",
+      "buffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2018-07-26T05:12:07.000+0300",
+    "resolution_date": "2022-05-17T17:08:49.000+0300",
+    "updated_date": "2022-05-17T17:08:49.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-131740",
+    "summary": "Re-running the data generator in the same folder causes previously generated -reports and- .snbt files to be deleted",
+    "labels": [
+      "data-generator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 18w50a",
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2018-06-21T06:04:47.000+0300",
+    "resolution_date": "2022-09-04T06:29:32.000+0300",
+    "updated_date": "2022-09-04T06:29:32.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-94060",
+    "summary": "Equipping armor/elytra through inventory or dispenser doesn't play sounds",
+    "labels": [
+      "armor",
+      "dispense",
+      "shift-click",
+      "sound",
+      "sound-event"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2015-12-09T19:47:57.000+0200",
+    "resolution_date": "2022-05-17T16:31:42.000+0300",
+    "updated_date": "2022-05-25T23:58:59.000+0300",
+    "watches": 27,
+    "votes": 54
+  },
+  {
+    "id": "MC-45838",
+    "summary": "Certain chat messages exceed 32767 byte limit and disconnect clients",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2014-01-24T22:43:40.000+0200",
+    "resolution_date": "2022-05-19T16:06:49.000+0300",
+    "updated_date": "2022-05-19T16:06:49.000+0300",
+    "watches": 18,
+    "votes": 21
+  }
+]

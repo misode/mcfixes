@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MC-238661",
+    "summary": "InhabitedTime value/Local Difficulty doesn't increase",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-10-09T19:13:58.000+0300",
+    "resolution_date": "2021-10-13T15:42:05.000+0300",
+    "updated_date": "2021-10-13T15:42:05.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-238561",
+    "summary": "Axolotls aren't able to spawn at all in lush caves (recurrence of MC-218701)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-10-08T15:02:22.000+0300",
+    "resolution_date": "2021-10-13T17:40:36.000+0300",
+    "updated_date": "2021-10-17T11:26:23.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-238003",
+    "summary": "Stone in jagged peaks is always covered by snow blocks",
+    "labels": [
+      "jagged-peaks",
+      "lofty-peaks",
+      "mountains",
+      "parity",
+      "vanilla-parity",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-09-30T16:39:25.000+0300",
+    "resolution_date": "2021-10-08T15:46:14.000+0300",
+    "updated_date": "2021-10-08T15:46:14.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-237457",
+    "summary": "Snowy Slopes biome no longer generates stone cliff feature from experimental snapshots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-09-23T19:12:39.000+0300",
+    "resolution_date": "2021-10-08T15:46:19.000+0300",
+    "updated_date": "2021-10-08T15:46:19.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-237330",
+    "summary": "Worlds created with seed \"REDApRES\" (0) crash when trying to load new 1.18 mountain biomes / java.lang.NullPointerException: Cannot invoke \"dfw.a(double, double, double)\" because \"this.a\" is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-09-21T19:55:20.000+0300",
+    "resolution_date": "2021-10-13T18:03:12.000+0300",
+    "updated_date": "2021-10-13T18:03:12.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-236767",
+    "summary": "Axolotls are extremely rare in lush caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-09-16T08:14:59.000+0300",
+    "resolution_date": "2021-10-21T20:51:00.000+0300",
+    "updated_date": "2021-10-21T20:51:00.000+0300",
+    "watches": 8,
+    "votes": 21
+  },
+  {
+    "id": "MC-236650",
+    "summary": "Minecraft in 1.18 has 2^48 seeds instead of 2^64 seeds.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-09-15T21:12:01.000+0300",
+    "resolution_date": "2021-10-13T17:25:05.000+0300",
+    "updated_date": "2022-04-24T14:44:38.000+0300",
+    "watches": 38,
+    "votes": 75
+  },
+  {
+    "id": "MC-236620",
+    "summary": "Nether biomes don't generate correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-09-15T20:25:18.000+0300",
+    "resolution_date": "2021-10-12T14:39:22.000+0300",
+    "updated_date": "2021-10-17T15:05:23.000+0300",
+    "watches": 49,
+    "votes": 101
+  },
+  {
+    "id": "MC-230302",
+    "summary": "Glow Item Frame item texture is missing two pixels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-06-26T06:17:10.000+0300",
+    "resolution_date": "2021-10-13T17:13:57.000+0300",
+    "updated_date": "2021-10-13T17:13:57.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-227398",
+    "summary": "Misplaced pixel on cave vines texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-06-04T20:35:00.000+0300",
+    "resolution_date": "2021-10-13T17:13:56.000+0300",
+    "updated_date": "2021-10-13T17:13:56.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-226313",
+    "summary": "Lava can generate floating in caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-05-25T23:30:30.000+0300",
+    "resolution_date": "2021-10-25T12:52:04.000+0300",
+    "updated_date": "2021-10-25T12:52:05.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-225949",
+    "summary": "Parity issue: Different Bedrock and Java sign item textures",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2021-05-20T18:13:53.000+0300",
+    "resolution_date": "2021-10-13T17:13:57.000+0300",
+    "updated_date": "2021-10-13T18:58:14.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-203155",
+    "summary": "Enchanting table GUI uses old lapis texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2020-10-30T11:49:00.000+0200",
+    "resolution_date": "2021-10-13T17:13:57.000+0300",
+    "updated_date": "2021-10-13T17:13:57.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-173339",
+    "summary": "Comparators lit base texture is incorrect",
+    "labels": [
+      "comparator",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2020-02-28T01:23:34.000+0200",
+    "resolution_date": "2021-10-13T17:13:58.000+0300",
+    "updated_date": "2021-10-13T17:13:58.000+0300",
+    "watches": 10,
+    "votes": 25
+  },
+  {
+    "id": "MC-166508",
+    "summary": "Glitchy chunk rendering since 1.15 pre-release 2",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15 Pre-release 3",
+      "21w41a"
+    ],
+    "creation_date": "2019-11-26T17:40:12.000+0200",
+    "resolution_date": "2021-10-15T14:34:33.000+0300",
+    "updated_date": "2021-10-17T19:59:30.000+0300",
+    "watches": 30,
+    "votes": 66
+  },
+  {
+    "id": "MC-160256",
+    "summary": "Texture of door items does not match the blocks",
+    "labels": [
+      "mismatching-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2019-09-01T13:28:08.000+0300",
+    "resolution_date": "2021-10-13T17:13:58.000+0300",
+    "updated_date": "2021-10-13T17:13:58.000+0300",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-152506",
+    "summary": "Wither skull projectile has faces with old texture",
+    "labels": [
+      "outdated-textures",
+      "texture",
+      "wither_skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2019-05-21T05:02:59.000+0300",
+    "resolution_date": "2021-10-13T17:13:56.000+0300",
+    "updated_date": "2021-10-13T17:13:56.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-148182",
+    "summary": "The zombie villager \"profession\" texture uses villager-skin-colored pixels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2019-04-13T23:44:58.000+0300",
+    "resolution_date": "2021-10-13T17:13:56.000+0300",
+    "updated_date": "2021-10-13T17:13:56.000+0300",
+    "watches": 10,
+    "votes": 17
+  },
+  {
+    "id": "MC-142385",
+    "summary": "Campfire texture has one pixel extending into hotbar outline",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2019-01-16T20:27:10.000+0200",
+    "resolution_date": "2021-10-13T17:13:56.000+0300",
+    "updated_date": "2021-10-13T17:13:56.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-137950",
+    "summary": "Signs textures does not correspond to the actual texture of their handle",
+    "labels": [
+      "mismatching-textures",
+      "sign",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2018-10-25T21:47:39.000+0300",
+    "resolution_date": "2021-10-13T17:13:57.000+0300",
+    "updated_date": "2021-10-13T17:13:57.000+0300",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-118134",
+    "summary": "Item frame texture as an item uses texture of oak planks",
+    "labels": [
+      "entity",
+      "item",
+      "item_frame",
+      "mismatching-textures",
+      "planks",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w41a"
+    ],
+    "creation_date": "2017-06-01T11:56:51.000+0300",
+    "resolution_date": "2021-10-13T17:13:58.000+0300",
+    "updated_date": "2021-10-13T17:13:58.000+0300",
+    "watches": 11,
+    "votes": 14
+  }
+]

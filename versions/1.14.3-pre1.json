@@ -1,0 +1,716 @@
+[
+  {
+    "id": "MC-153355",
+    "summary": "java.util.NoSuchElementException ticking entity crash when a workstation is destroyed near a villager with a job",
+    "labels": [
+      "crash",
+      "villager",
+      "workstations"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Entities",
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-29T17:59:21.000+0300",
+    "resolution_date": "2019-06-05T13:07:49.000+0300",
+    "updated_date": "2019-06-05T13:07:49.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-153222",
+    "summary": "Broken/Incorrect recipe files cause a data pack not to load with nothing in log",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-28T09:25:10.000+0300",
+    "resolution_date": "2019-05-29T08:47:28.000+0300",
+    "updated_date": "2019-05-29T08:47:29.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-152810",
+    "summary": "Cat's natural spawning causes Null Pointer Exception",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-24T18:59:34.000+0300",
+    "resolution_date": "2019-05-28T16:17:20.000+0300",
+    "updated_date": "2019-05-28T16:17:20.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-152542",
+    "summary": "Resource Warning \"Codepoint '1ed0' declared multiple times in minecraft:textures/font/accented.png\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-21T18:24:39.000+0300",
+    "resolution_date": "2019-05-29T17:03:46.000+0300",
+    "updated_date": "2019-06-22T13:27:58.000+0300",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-152228",
+    "summary": "Can not /summon trader llama",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-18T13:02:36.000+0300",
+    "resolution_date": "2019-05-29T08:48:03.000+0300",
+    "updated_date": "2019-06-02T12:46:04.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-152053",
+    "summary": "High client-side lag when pistons activate ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-16T23:49:49.000+0300",
+    "resolution_date": "2019-05-27T18:32:38.000+0300",
+    "updated_date": "2019-06-04T16:33:50.000+0300",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-152044",
+    "summary": "Baby trader llamas disappear immediately",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-16T22:33:57.000+0300",
+    "resolution_date": "2019-05-27T18:33:17.000+0300",
+    "updated_date": "2019-09-09T14:47:02.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-151995",
+    "summary": "Patrol Leaders spawning without banner",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-16T12:12:58.000+0300",
+    "resolution_date": "2019-05-27T18:06:41.000+0300",
+    "updated_date": "2019-06-12T19:04:37.000+0300",
+    "watches": 7,
+    "votes": 28
+  },
+  {
+    "id": "MC-151802",
+    "summary": "Spawning causes massive TPS CPU load on a flat world.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-14T06:00:08.000+0300",
+    "resolution_date": "2019-05-28T16:17:17.000+0300",
+    "updated_date": "2019-05-28T16:42:30.000+0300",
+    "watches": 15,
+    "votes": 31
+  },
+  {
+    "id": "MC-151772",
+    "summary": "Mob cap in the hundreds to over 1000 per player.",
+    "labels": [
+      "lag",
+      "multiplayer",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-14T01:37:21.000+0300",
+    "resolution_date": "2019-05-28T11:29:12.000+0300",
+    "updated_date": "2019-06-20T04:30:08.000+0300",
+    "watches": 13,
+    "votes": 26
+  },
+  {
+    "id": "MC-151771",
+    "summary": "Villagers don't try to run away from zombie villagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-14T01:36:30.000+0300",
+    "resolution_date": "2019-05-28T16:12:26.000+0300",
+    "updated_date": "2019-05-28T16:12:26.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-151753",
+    "summary": "More than one raid can happen in a village",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-13T23:01:51.000+0300",
+    "resolution_date": "2019-05-27T18:06:41.000+0300",
+    "updated_date": "2020-04-11T20:15:25.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-151395",
+    "summary": "Farmers create Bread ONLY when they pick up at least 3 wheat AT ONCE",
+    "labels": [
+      "Villagers",
+      "farming"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-10T14:24:22.000+0300",
+    "resolution_date": "2019-05-28T16:12:24.000+0300",
+    "updated_date": "2019-05-31T03:41:21.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-151346",
+    "summary": "Crash while F3 menu tries to access tags while /reload-ing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-09T22:26:34.000+0300",
+    "resolution_date": "2019-05-28T15:58:26.000+0300",
+    "updated_date": "2019-05-28T15:58:26.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-151337",
+    "summary": "Mob spawn rate too high",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-09T20:45:59.000+0300",
+    "resolution_date": "2019-05-28T11:28:56.000+0300",
+    "updated_date": "2019-06-29T19:08:42.000+0300",
+    "watches": 16,
+    "votes": 29
+  },
+  {
+    "id": "MC-151225",
+    "summary": "Upgrading Worlds from 1.14 causes Villagers to lose their Brain Memories",
+    "labels": [
+      "POI",
+      "ai",
+      "nbt",
+      "villager",
+      "villagers"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-08T21:00:30.000+0300",
+    "resolution_date": "2019-06-04T07:54:35.000+0300",
+    "updated_date": "2019-06-12T06:28:12.000+0300",
+    "watches": 12,
+    "votes": 26
+  },
+  {
+    "id": "MC-151185",
+    "summary": "Game crash after breaking villager point of interest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 1",
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-08T15:09:11.000+0300",
+    "resolution_date": "2019-05-28T16:31:42.000+0300",
+    "updated_date": "2019-06-02T16:45:14.000+0300",
+    "watches": 10,
+    "votes": 24
+  },
+  {
+    "id": "MC-151144",
+    "summary": "Hostile mobs in lazy chunks no longer count towards mob cap, breaking mob switches",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-08T04:49:15.000+0300",
+    "resolution_date": "2019-05-28T11:28:30.000+0300",
+    "updated_date": "2020-02-04T15:52:54.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-151084",
+    "summary": "Chunk rendering is slow and random in 1.14.1 (pre 1)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-07T22:32:32.000+0300",
+    "resolution_date": "2019-05-28T14:02:02.000+0300",
+    "updated_date": "2020-04-06T00:53:14.000+0300",
+    "watches": 33,
+    "votes": 46
+  },
+  {
+    "id": "MC-151079",
+    "summary": "An employed villager quickly becomes unemployed and employed when he works, even if his workstation has not been deleted.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-07T22:05:28.000+0300",
+    "resolution_date": "2019-05-27T18:33:20.000+0300",
+    "updated_date": "2020-05-23T11:47:10.000+0300",
+    "watches": 33,
+    "votes": 49
+  },
+  {
+    "id": "MC-150319",
+    "summary": "I can't load up my minecraft world after doing /kill",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-29T23:18:41.000+0300",
+    "resolution_date": "2019-05-27T18:23:42.000+0300",
+    "updated_date": "2019-05-27T18:23:42.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-149443",
+    "summary": "Iron golems spawn too often",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-24T17:39:27.000+0300",
+    "resolution_date": "2019-06-03T15:48:38.000+0300",
+    "updated_date": "2020-03-14T01:13:28.000+0200",
+    "watches": 34,
+    "votes": 43
+  },
+  {
+    "id": "MC-149372",
+    "summary": "Game crashes when opening a 1.13.2 world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-24T09:41:50.000+0300",
+    "resolution_date": "2019-05-28T12:18:41.000+0300",
+    "updated_date": "2019-05-28T12:18:41.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-148610",
+    "summary": "Hostile mobs spawning on top of Iron, Crimson and Warped Trapdoors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-18T10:20:44.000+0300",
+    "resolution_date": "2019-05-27T18:33:18.000+0300",
+    "updated_date": "2020-06-26T19:32:12.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-148013",
+    "summary": "Farmer villager behavior too lazy / not farming at all",
+    "labels": [
+      "behavior",
+      "farmer",
+      "farming",
+      "farmland"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-12T18:54:05.000+0300",
+    "resolution_date": "2019-06-04T12:52:18.000+0300",
+    "updated_date": "2020-08-12T22:13:17.000+0300",
+    "watches": 43,
+    "votes": 130
+  },
+  {
+    "id": "MC-147851",
+    "summary": "Villagers frequently run right into mobs they're \"trying\" to avoid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-11T05:42:31.000+0300",
+    "resolution_date": "2019-05-28T11:01:27.000+0300",
+    "updated_date": "2019-08-09T03:21:06.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-147740",
+    "summary": "Villagers sometimes don't restock",
+    "labels": [
+      "restock",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-10T09:14:53.000+0300",
+    "resolution_date": "2019-06-04T09:14:40.000+0300",
+    "updated_date": "2020-02-11T22:42:44.000+0200",
+    "watches": 36,
+    "votes": 86
+  },
+  {
+    "id": "MC-146835",
+    "summary": "Illager captain spawned from raids will still give the bad omen effect to its killer, causing raids to never end",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-27T23:39:01.000+0200",
+    "resolution_date": "2019-05-27T18:06:42.000+0300",
+    "updated_date": "2021-01-05T18:20:53.000+0200",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-146429",
+    "summary": "Farmer villagers stumble between farming and using their composters",
+    "labels": [
+      "composter",
+      "farmer",
+      "farming",
+      "strumble",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-22T16:01:29.000+0200",
+    "resolution_date": "2019-06-07T10:55:42.000+0300",
+    "updated_date": "2019-06-13T01:33:28.000+0300",
+    "watches": 14,
+    "votes": 28
+  },
+  {
+    "id": "MC-145863",
+    "summary": "Villagers breed even if there are not enough beds",
+    "labels": [
+      "beds",
+      "breeding",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-14T17:23:33.000+0200",
+    "resolution_date": "2019-05-27T17:44:16.000+0300",
+    "updated_date": "2020-10-26T03:43:01.000+0200",
+    "watches": 24,
+    "votes": 39
+  },
+  {
+    "id": "MC-143369",
+    "summary": "Wandering trader text implies trades refresh",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-01-30T19:11:53.000+0200",
+    "resolution_date": "2019-05-27T18:33:23.000+0300",
+    "updated_date": "2019-05-31T02:02:22.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-138053",
+    "summary": "Gamerule spectatorsGenerateChunks being false prevents chunks from being loaded",
+    "labels": [
+      "chunk",
+      "gamerule",
+      "spectatorsGenerateChunks"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2018-10-26T14:53:15.000+0300",
+    "resolution_date": "2019-05-28T16:22:59.000+0300",
+    "updated_date": "2022-11-04T16:53:05.000+0200",
+    "watches": 21,
+    "votes": 50
+  },
+  {
+    "id": "MC-135001",
+    "summary": "Beds drop as an item when loaded in a structure",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2018-07-27T04:09:04.000+0300",
+    "resolution_date": "2019-06-03T18:30:21.000+0300",
+    "updated_date": "2019-06-03T18:30:44.000+0300",
+    "watches": 9,
+    "votes": 15
+  },
+  {
+    "id": "MC-123836",
+    "summary": "Double blocks aren't loaded in structures",
+    "labels": [
+      "beds",
+      "doors",
+      "double-plant",
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.13-pre7",
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2018-01-04T07:28:51.000+0200",
+    "resolution_date": "2019-05-28T13:11:23.000+0300",
+    "updated_date": "2019-05-28T13:11:23.000+0300",
+    "watches": 17,
+    "votes": 29
+  },
+  {
+    "id": "MC-74407",
+    "summary": "Villager inventories can get into a state where villagers cannot do anything useful",
+    "labels": [
+      "inventory",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 1"
+    ],
+    "creation_date": "2014-11-16T19:04:36.000+0200",
+    "resolution_date": "2019-05-28T16:12:59.000+0300",
+    "updated_date": "2020-02-01T17:09:22.000+0200",
+    "watches": 13,
+    "votes": 23
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "MC-253813",
+    "summary": "Chat commands with entity selectors often reported as \"This message is not secure\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Pre-release 4"
+    ],
+    "creation_date": "2022-07-02T18:30:09.000+0300",
+    "resolution_date": "2022-07-08T15:30:05.000+0300",
+    "updated_date": "2022-07-08T15:30:05.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-253743",
+    "summary": "The server console doesn't state if chat messages aren't secure or have been modified",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Pre-release 4"
+    ],
+    "creation_date": "2022-06-30T21:12:21.000+0300",
+    "resolution_date": "2022-07-07T15:44:20.000+0300",
+    "updated_date": "2022-07-07T15:44:20.000+0300",
+    "watches": 2,
+    "votes": 2
+  }
+]

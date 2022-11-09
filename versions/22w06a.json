@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MC-248106",
+    "summary": "Parrot dying while using Riptide enchantment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2022-01-12T04:47:05.000+0200",
+    "resolution_date": "2022-02-23T09:45:08.000+0200",
+    "updated_date": "2022-02-23T09:45:08.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-247871",
+    "summary": "Cannot invoke \"com.mojang.datafixers.util.Either.left()\" because \"$$6\" is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2022-01-05T22:35:20.000+0200",
+    "resolution_date": "2022-02-15T11:40:05.000+0200",
+    "updated_date": "2022-02-15T11:40:05.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-245937",
+    "summary": "Flashing particles when boosting upwards with firework rockets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2021-12-22T22:24:15.000+0200",
+    "resolution_date": "2022-02-09T11:14:38.000+0200",
+    "updated_date": "2022-02-15T17:00:47.000+0200",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-239708",
+    "summary": "Superflat world \"Water World\" preset settings are obsolete for the 1.18 update",
+    "labels": [
+      "superflat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2021-10-24T18:38:27.000+0300",
+    "resolution_date": "2022-02-08T18:44:36.000+0200",
+    "updated_date": "2022-04-17T12:40:44.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-238696",
+    "summary": "Using '/locate stronghold' or throwing an eye of ender in the superflat, will be able to find the stronghold that do not actually exist",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2021-10-10T09:42:23.000+0300",
+    "resolution_date": "2022-02-16T10:01:52.000+0200",
+    "updated_date": "2022-03-09T22:42:09.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-232822",
+    "summary": "Various structures not generating in superflat worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2021-07-22T05:25:10.000+0300",
+    "resolution_date": "2022-02-16T13:00:48.000+0200",
+    "updated_date": "2022-02-16T13:00:48.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-192361",
+    "summary": "/locate stronghold does not locate stronghold in Superflat worlds despite them generating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2020-06-27T21:21:50.000+0300",
+    "resolution_date": "2022-02-16T13:00:42.000+0200",
+    "updated_date": "2022-03-19T23:35:11.000+0200",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-138717",
+    "summary": "/locate command does not locate certain structures in Superflat",
+    "labels": [
+      "/locate",
+      "monument",
+      "ocean_ruin",
+      "shipwreck"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2018-11-02T08:43:44.000+0200",
+    "resolution_date": "2022-02-16T13:00:33.000+0200",
+    "updated_date": "2022-02-16T13:00:33.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-129652",
+    "summary": "Long names of backed up worlds are cut off in toasts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2018-05-15T21:32:25.000+0300",
+    "resolution_date": "2022-05-08T16:57:20.000+0300",
+    "updated_date": "2022-05-08T16:57:20.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-105317",
+    "summary": "Structure blocks do not rotate entities correctly when loading",
+    "labels": [
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w06a"
+    ],
+    "creation_date": "2016-07-13T23:24:34.000+0300",
+    "resolution_date": "2022-02-09T14:19:23.000+0200",
+    "updated_date": "2022-02-28T18:36:16.000+0200",
+    "watches": 17,
+    "votes": 20
+  }
+]

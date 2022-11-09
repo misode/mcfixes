@@ -1,0 +1,78 @@
+[
+  {
+    "id": "MC-241778",
+    "summary": "Game crashes or freeze when loading and upgrading the 1.17.1 version of the Superflat world // java.util.concurrent.CompletionException: z: Biome decoration ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 4"
+    ],
+    "creation_date": "2021-11-17T19:05:33.000+0200",
+    "resolution_date": "2021-11-17T20:01:49.000+0200",
+    "updated_date": "2021-11-17T20:56:06.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-241775",
+    "summary": "Crash when going through end portals or creating a single biome world with end biomes // java.lang.NegativeArraySizeException: -5",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 4"
+    ],
+    "creation_date": "2021-11-17T19:01:57.000+0200",
+    "resolution_date": "2021-11-17T19:54:35.000+0200",
+    "updated_date": "2021-11-18T00:31:52.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-241774",
+    "summary": "Crash when going nether portals or creating a single biome world with nether biomes // java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 4"
+    ],
+    "creation_date": "2021-11-17T18:54:27.000+0200",
+    "resolution_date": "2021-11-17T19:48:06.000+0200",
+    "updated_date": "2021-11-17T20:00:29.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-241172",
+    "summary": "Rare Datafixer error occured in old world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 4"
+    ],
+    "creation_date": "2021-11-11T19:55:28.000+0200",
+    "resolution_date": "2021-11-19T10:57:22.000+0200",
+    "updated_date": "2021-11-19T10:57:22.000+0200",
+    "watches": 7,
+    "votes": 8
+  }
+]

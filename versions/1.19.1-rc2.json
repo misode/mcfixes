@@ -1,0 +1,97 @@
+[
+  {
+    "id": "MC-254421",
+    "summary": "Social interaction messages aren't prefixed with gray color indicators",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Release Candidate 2"
+    ],
+    "creation_date": "2022-07-21T16:18:20.000+0300",
+    "resolution_date": "2022-07-21T23:38:47.000+0300",
+    "updated_date": "2022-07-21T23:38:47.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-254419",
+    "summary": "Local game hosting messages aren't prefixed with gray color indicators",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Release Candidate 2"
+    ],
+    "creation_date": "2022-07-21T15:28:09.000+0300",
+    "resolution_date": "2022-07-21T23:28:07.000+0300",
+    "updated_date": "2022-07-21T23:28:07.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-254417",
+    "summary": "Screenshot messages aren't prefixed with gray color indicators",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.1 Release Candidate 2"
+    ],
+    "creation_date": "2022-07-21T15:05:06.000+0300",
+    "resolution_date": "2022-07-21T23:27:57.000+0300",
+    "updated_date": "2022-07-21T23:27:57.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-254405",
+    "summary": "Debug messages aren't prefixed with gray color indicators",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.1 Release Candidate 2"
+    ],
+    "creation_date": "2022-07-20T23:20:00.000+0300",
+    "resolution_date": "2022-07-21T12:33:55.000+0300",
+    "updated_date": "2022-07-21T16:42:32.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-254355",
+    "summary": "Key binds set to mouse buttons of number greater than 8 switch over by 1 when the game starts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Release Candidate 2"
+    ],
+    "creation_date": "2022-07-19T11:00:10.000+0300",
+    "resolution_date": "2022-07-21T17:58:08.000+0300",
+    "updated_date": "2022-08-16T14:13:42.000+0300",
+    "watches": 4,
+    "votes": 3
+  }
+]

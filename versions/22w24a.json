@@ -1,0 +1,276 @@
+[
+  {
+    "id": "MC-252683",
+    "summary": "Unexpected exception in the selector loop causing server lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-06-09T04:18:38.000+0300",
+    "resolution_date": "2022-06-10T10:28:47.000+0300",
+    "updated_date": "2022-07-23T13:51:24.000+0300",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-252539",
+    "summary": "Commands sending messages use formatting of regular chat in server logs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-06-07T22:48:33.000+0300",
+    "resolution_date": "2022-06-10T16:59:07.000+0300",
+    "updated_date": "2022-06-29T16:56:22.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-252439",
+    "summary": "Cured Villager trades are not refreshing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-06-03T20:30:17.000+0300",
+    "resolution_date": "2022-06-10T09:39:36.000+0300",
+    "updated_date": "2022-09-01T07:40:03.000+0300",
+    "watches": 18,
+    "votes": 9
+  },
+  {
+    "id": "MC-252363",
+    "summary": "Mobs that naturally spawn in with equipment will play the respective equipping noise",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-05-31T00:51:00.000+0300",
+    "resolution_date": "2022-06-09T14:53:19.000+0300",
+    "updated_date": "2022-07-15T20:16:56.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-252082",
+    "summary": "Loading server resource packs reloads twice when one is already loaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-05-23T08:37:02.000+0300",
+    "resolution_date": "2022-06-09T12:13:03.000+0300",
+    "updated_date": "2022-06-21T10:13:15.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-250267",
+    "summary": "Frogs don't lay their spawn on waterlogged blocks",
+    "labels": [
+      "frog",
+      "frog-spawn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-04-17T19:16:08.000+0300",
+    "resolution_date": "2022-06-09T12:36:50.000+0300",
+    "updated_date": "2022-06-21T10:13:16.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-250261",
+    "summary": "Frogs can lay spawn on flowing water",
+    "labels": [
+      "frog",
+      "frog-spawn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-04-17T13:48:07.000+0300",
+    "resolution_date": "2022-06-09T12:36:50.000+0300",
+    "updated_date": "2022-08-16T19:25:18.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-249523",
+    "summary": "Sky color is visible for a brief moment after applying Night Vision under Darkness effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2022-03-26T04:38:53.000+0200",
+    "resolution_date": "2022-06-09T12:54:06.000+0300",
+    "updated_date": "2022-06-21T10:13:16.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-177505",
+    "summary": "Cured Villager can work at wrong workstation",
+    "labels": [
+      "ai",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2020-04-05T18:03:43.000+0300",
+    "resolution_date": "2022-06-10T09:39:19.000+0300",
+    "updated_date": "2022-06-21T10:13:15.000+0300",
+    "watches": 10,
+    "votes": 11
+  },
+  {
+    "id": "MC-165516",
+    "summary": "Snow Golem, Witch, Llama, Drowned, and Wither will keep attacking after its target is gone if `generic.movement_speed` is 0",
+    "labels": [
+      "drowned",
+      "llama",
+      "mob-behavior",
+      "movementSpeed",
+      "snow_golem",
+      "targeting",
+      "witch",
+      "wither"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2019-11-13T17:42:59.000+0200",
+    "resolution_date": "2022-06-17T00:33:56.000+0300",
+    "updated_date": "2022-06-17T00:33:56.000+0300",
+    "watches": 11,
+    "votes": 20
+  },
+  {
+    "id": "MC-146891",
+    "summary": "Nitwit villager can have a profession",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2019-03-28T12:06:05.000+0200",
+    "resolution_date": "2022-06-10T09:17:57.000+0300",
+    "updated_date": "2022-06-21T10:13:15.000+0300",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-144043",
+    "summary": "Trader llamas continue to spit after their target died",
+    "labels": [
+      "llama",
+      "llama_spit",
+      "mob",
+      "trader_llama",
+      "wandering_trader",
+      "zombie"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2019-02-12T19:16:15.000+0200",
+    "resolution_date": "2022-06-09T16:41:05.000+0300",
+    "updated_date": "2022-06-21T10:13:16.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-72687",
+    "summary": "There are no shadows on text displayed within the action bar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w24a"
+    ],
+    "creation_date": "2014-10-04T21:42:28.000+0300",
+    "resolution_date": "2022-06-15T21:07:35.000+0300",
+    "updated_date": "2022-07-29T18:27:54.000+0300",
+    "watches": 12,
+    "votes": 14
+  }
+]

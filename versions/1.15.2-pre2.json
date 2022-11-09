@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MC-169930",
+    "summary": "Simultaneously having 3 or more levels of the same potion effect only remembers one of the lower levels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-release 2"
+    ],
+    "creation_date": "2020-01-16T11:20:29.000+0200",
+    "resolution_date": "2020-01-17T04:17:55.000+0200",
+    "updated_date": "2020-01-17T04:17:55.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-169886",
+    "summary": "No older world protection in 1.15.2 PR 1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15.2 Pre-release 2"
+    ],
+    "creation_date": "2020-01-15T17:11:12.000+0200",
+    "resolution_date": "2020-01-16T14:20:48.000+0200",
+    "updated_date": "2020-01-16T14:20:48.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-169848",
+    "summary": "Crashes when trying to create Beehive From planted tree",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-release 2"
+    ],
+    "creation_date": "2020-01-14T23:48:59.000+0200",
+    "resolution_date": "2020-01-16T14:03:19.000+0200",
+    "updated_date": "2020-01-16T14:03:19.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-169840",
+    "summary": "Drinking a level 1 potion under a level 2 beacon and leaving results in the effect being lost",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-release 2"
+    ],
+    "creation_date": "2020-01-14T22:00:45.000+0200",
+    "resolution_date": "2020-01-16T14:03:18.000+0200",
+    "updated_date": "2020-01-16T14:03:18.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-169839",
+    "summary": "Certain potion effects that override lower level effects don't get removed after their duration ends",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.2 Pre-release 2"
+    ],
+    "creation_date": "2020-01-14T21:47:35.000+0200",
+    "resolution_date": "2020-01-16T14:03:16.000+0200",
+    "updated_date": "2020-01-16T14:03:16.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-169825",
+    "summary": "\"Multiplayer (3rd party)\" shows in window title when disconnecting from a singleplayer world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15.2 Pre-release 2"
+    ],
+    "creation_date": "2020-01-14T19:02:52.000+0200",
+    "resolution_date": "2020-01-16T12:22:41.000+0200",
+    "updated_date": "2020-10-22T00:03:17.000+0300",
+    "watches": 2,
+    "votes": 2
+  }
+]

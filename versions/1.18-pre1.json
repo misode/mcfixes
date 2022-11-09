@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "MC-240998",
+    "summary": "Portals no longer load chunks as non entity processing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-08T23:47:22.000+0200",
+    "resolution_date": "2021-11-11T14:24:31.000+0200",
+    "updated_date": "2021-11-11T14:52:53.000+0200",
+    "watches": 21,
+    "votes": 52
+  },
+  {
+    "id": "MC-240631",
+    "summary": "Extremely slow End terrain generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-04T20:08:07.000+0200",
+    "resolution_date": "2021-11-11T14:10:01.000+0200",
+    "updated_date": "2021-11-19T07:23:27.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-240534",
+    "summary": "Clicking a JFR link copies full server-side path to clipboard",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Dedicated Server"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-04T00:07:17.000+0200",
+    "resolution_date": "2021-11-05T12:37:40.000+0200",
+    "updated_date": "2021-11-05T12:37:40.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-240531",
+    "summary": "Block simulation distance is always 8 chunks regardless of the slider's value",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-03T23:44:18.000+0200",
+    "resolution_date": "2021-11-05T12:17:24.000+0200",
+    "updated_date": "2021-11-19T06:46:38.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-240516",
+    "summary": "Noise cave carvers don't generate below old chunks",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-03T22:17:42.000+0200",
+    "resolution_date": "2021-11-11T16:50:23.000+0200",
+    "updated_date": "2021-11-11T17:02:43.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-240503",
+    "summary": "Bedrock doesn`t generate in Badlands or Wooded Badlands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-03T21:17:56.000+0200",
+    "resolution_date": "2021-11-11T11:01:18.000+0200",
+    "updated_date": "2021-11-19T09:45:12.000+0200",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-240495",
+    "summary": "Deepslate does not generate below Y=0 in Badlands or Wooded Badlands Biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-03T20:45:48.000+0200",
+    "resolution_date": "2021-11-11T11:01:18.000+0200",
+    "updated_date": "2021-11-16T17:41:00.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-240482",
+    "summary": "There is no bedrock in the overworld in old chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-03T20:05:58.000+0200",
+    "resolution_date": "2021-11-11T17:47:20.000+0200",
+    "updated_date": "2021-11-19T09:20:42.000+0200",
+    "watches": 11,
+    "votes": 37
+  },
+  {
+    "id": "MC-240481",
+    "summary": "Deepslate doesn't generate in the new cave generation under old chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-11-03T20:02:31.000+0200",
+    "resolution_date": "2021-11-11T13:51:15.000+0200",
+    "updated_date": "2021-11-11T13:51:15.000+0200",
+    "watches": 15,
+    "votes": 41
+  },
+  {
+    "id": "MC-240021",
+    "summary": "Cullface arguments in cauldrons are excessive",
+    "labels": [
+      "unneccessary-cullface"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-10-29T16:21:17.000+0300",
+    "resolution_date": "2021-11-09T17:30:30.000+0200",
+    "updated_date": "2021-11-11T14:50:58.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-239852",
+    "summary": "Lava pools intersecting strongholds can cause end portal frames to be deleted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-10-27T20:24:35.000+0300",
+    "resolution_date": "2021-11-11T10:44:38.000+0200",
+    "updated_date": "2021-11-11T10:44:38.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-239851",
+    "summary": "Upgrading old worlds causes leaves to change to surface builder blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-10-27T20:24:03.000+0300",
+    "resolution_date": "2021-11-11T13:51:11.000+0200",
+    "updated_date": "2021-11-15T11:49:45.000+0200",
+    "watches": 15,
+    "votes": 22
+  },
+  {
+    "id": "MC-239714",
+    "summary": "Doing /locate desert_pryamid in a desert superflat world freezes the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-10-24T20:24:55.000+0300",
+    "resolution_date": "2021-11-09T19:53:56.000+0200",
+    "updated_date": "2021-11-11T17:00:44.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-238972",
+    "summary": "Deserts generate with little or no sandstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-10-14T18:00:46.000+0300",
+    "resolution_date": "2021-11-11T11:01:18.000+0200",
+    "updated_date": "2021-11-11T11:01:18.000+0200",
+    "watches": 11,
+    "votes": 22
+  },
+  {
+    "id": "MC-238038",
+    "summary": "Newly added advancements' namespace IDs do not match their translation keys",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-30T21:19:36.000+0300",
+    "resolution_date": "2021-11-08T10:37:09.000+0200",
+    "updated_date": "2021-11-11T16:58:36.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-237954",
+    "summary": "The \"Sound of Music\" and \"Feels like home\" advancements are internally located in the incorrect tab folder",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-30T01:08:55.000+0300",
+    "resolution_date": "2021-11-08T10:37:09.000+0200",
+    "updated_date": "2021-11-11T09:42:18.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-237791",
+    "summary": "Villager spawn eggs used on grove, frozen peaks, snowy slopes and jagged peaks don't spawn snowy plains villagers",
+    "labels": [
+      "frozen-peaks",
+      "jagged-peaks",
+      "snowy-slopes",
+      "villager_spawn_egg"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-27T17:52:13.000+0300",
+    "resolution_date": "2021-11-10T17:19:45.000+0200",
+    "updated_date": "2021-11-12T12:07:24.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-237621",
+    "summary": "Missing biome definitions in some peak grid cells causes unintended ocean placement",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-25T02:59:42.000+0300",
+    "resolution_date": "2021-11-08T14:55:48.000+0200",
+    "updated_date": "2021-12-04T13:05:12.000+0200",
+    "watches": 16,
+    "votes": 21
+  },
+  {
+    "id": "MC-237598",
+    "summary": "Projectiles glitch around in the air when exiting simulation distance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-24T22:23:05.000+0300",
+    "resolution_date": "2021-11-09T10:57:42.000+0200",
+    "updated_date": "2022-08-05T15:35:38.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-236803",
+    "summary": "Extremely low amount of pillager spawns in outpost on jagged peaks, groves, snowy slopes & frozen peaks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-16T16:02:10.000+0300",
+    "resolution_date": "2021-11-11T15:02:08.000+0200",
+    "updated_date": "2021-11-11T15:02:08.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-236659",
+    "summary": "Lava lakes spawn more on the surface than usual",
+    "labels": [
+      "lava-lake",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-15T21:27:54.000+0300",
+    "resolution_date": "2021-11-12T17:22:55.000+0200",
+    "updated_date": "2021-11-12T23:25:08.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-236652",
+    "summary": "Weather can sometimes be incorrect within a biome",
+    "labels": [
+      "jungle",
+      "rain",
+      "snow",
+      "weather"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-15T21:15:06.000+0300",
+    "resolution_date": "2021-11-10T18:55:48.000+0200",
+    "updated_date": "2021-12-05T19:01:58.000+0200",
+    "watches": 13,
+    "votes": 26
+  },
+  {
+    "id": "MC-236628",
+    "summary": "Lava pools cause sand to fall now instead of putting sandstone beneath it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-15T20:38:11.000+0300",
+    "resolution_date": "2021-11-11T16:06:50.000+0200",
+    "updated_date": "2021-11-11T16:06:50.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-236610",
+    "summary": "Lava lakes generate without stone around",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-09-15T20:09:59.000+0300",
+    "resolution_date": "2021-11-11T16:06:50.000+0200",
+    "updated_date": "2021-11-11T16:22:24.000+0200",
+    "watches": 17,
+    "votes": 30
+  },
+  {
+    "id": "MC-231666",
+    "summary": "Dragon egg can teleport to outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-07-10T23:32:32.000+0300",
+    "resolution_date": "2021-11-10T18:45:23.000+0200",
+    "updated_date": "2021-11-10T18:45:23.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-229517",
+    "summary": "Conversion sounds for strays & drowned is controlled by Friendly Creatures mixer, not Hostile Creatures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-06-19T00:57:18.000+0300",
+    "resolution_date": "2021-11-09T17:30:30.000+0200",
+    "updated_date": "2021-11-14T15:53:31.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-229013",
+    "summary": "Lava lake decorator config is unused",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-06-14T18:21:04.000+0300",
+    "resolution_date": "2021-11-10T16:06:03.000+0200",
+    "updated_date": "2021-11-10T16:06:03.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-222388",
+    "summary": "Acacia trees under y=0 often grow with bare branches",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-04-06T09:12:43.000+0300",
+    "resolution_date": "2021-11-11T15:23:59.000+0200",
+    "updated_date": "2021-11-13T04:17:51.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-219035",
+    "summary": "Fossil structures can't generate in far east and south blocks of a chunk",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-03-11T15:22:05.000+0200",
+    "resolution_date": "2021-11-10T16:06:43.000+0200",
+    "updated_date": "2021-11-16T20:59:37.000+0200",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-218739",
+    "summary": "Glow berries and glow lichen generation does not cause light updates across chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1",
+      "1.18.2 Pre-release 3"
+    ],
+    "creation_date": "2021-03-10T20:39:43.000+0200",
+    "resolution_date": "2022-02-23T13:32:06.000+0200",
+    "updated_date": "2022-03-26T18:23:06.000+0200",
+    "watches": 13,
+    "votes": 18
+  },
+  {
+    "id": "MC-215139",
+    "summary": "Some water in caves will not start flowing",
+    "labels": [
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-02-11T22:39:46.000+0200",
+    "resolution_date": "2021-11-11T11:26:42.000+0200",
+    "updated_date": "2021-11-19T21:46:34.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-214963",
+    "summary": "Mineshaft generation is non-deterministic",
+    "labels": [
+      "mineshaft",
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2021-02-11T02:03:33.000+0200",
+    "resolution_date": "2021-11-16T19:47:07.000+0200",
+    "updated_date": "2021-11-16T19:47:07.000+0200",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-206660",
+    "summary": "Stalactites don't fall properly if there are blocks directly below it",
+    "labels": [
+      "stalactite"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2020-11-26T01:39:20.000+0200",
+    "resolution_date": "2021-11-11T11:27:30.000+0200",
+    "updated_date": "2021-11-12T01:08:38.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-206620",
+    "summary": "Cauldron invisible when crawling in it",
+    "labels": [
+      "cauldron"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2020-11-25T21:47:50.000+0200",
+    "resolution_date": "2021-11-12T02:45:09.000+0200",
+    "updated_date": "2021-11-12T02:45:09.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-187174",
+    "summary": "Worldborder does not take nether coordinates into account",
+    "labels": [
+      "server",
+      "word",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2020-06-03T17:24:50.000+0300",
+    "resolution_date": "2021-11-10T17:28:00.000+0200",
+    "updated_date": "2021-11-10T17:28:00.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-147122",
+    "summary": "You can set your spawn point outside the world border using a bed or respawn anchor",
+    "labels": [
+      "bed",
+      "obstructed",
+      "respawn_anchor",
+      "spawn",
+      "spawnpoint",
+      "world-border",
+      "world-spawn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2019-03-31T05:03:32.000+0300",
+    "resolution_date": "2021-11-12T02:45:32.000+0200",
+    "updated_date": "2021-11-12T02:45:32.000+0200",
+    "watches": 12,
+    "votes": 14
+  },
+  {
+    "id": "MC-136523",
+    "summary": "Invisible world border in the end dimension",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2018-08-28T01:18:21.000+0300",
+    "resolution_date": "2021-11-10T17:28:06.000+0200",
+    "updated_date": "2021-11-10T17:28:06.000+0200",
+    "watches": 4,
+    "votes": 15
+  },
+  {
+    "id": "MC-135947",
+    "summary": "Conduit takes a long time to break when underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2018-08-13T01:24:36.000+0300",
+    "resolution_date": "2021-11-12T02:46:34.000+0200",
+    "updated_date": "2021-11-12T02:46:34.000+0200",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-131808",
+    "summary": "Forests don't spawn trees near the positive edges, but overstretch bounds on the negative edges",
+    "labels": [
+      "chunk-boundary",
+      "forest"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2018-06-21T22:14:19.000+0300",
+    "resolution_date": "2021-11-10T16:06:11.000+0200",
+    "updated_date": "2021-11-10T16:06:11.000+0200",
+    "watches": 15,
+    "votes": 26
+  },
+  {
+    "id": "MC-121997",
+    "summary": "Every dimension's world border is operating independently, and doesn't appear where it actually is",
+    "labels": [
+      "end",
+      "nether",
+      "overworld",
+      "the_end",
+      "the_nether",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2017-11-16T02:55:47.000+0200",
+    "resolution_date": "2021-11-10T17:28:14.000+0200",
+    "updated_date": "2022-08-27T22:45:52.000+0300",
+    "watches": 26,
+    "votes": 47
+  },
+  {
+    "id": "MC-117800",
+    "summary": "Half bed can be placed outside the worldborder",
+    "labels": [
+      "bed",
+      "block-placement",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2017-05-21T18:40:14.000+0300",
+    "resolution_date": "2021-11-10T18:45:23.000+0200",
+    "updated_date": "2021-11-10T18:45:23.000+0200",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-113425",
+    "summary": "Player can interact with entities outside the worldborder",
+    "labels": [
+      "entity",
+      "interaction",
+      "mob",
+      "player",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2017-02-09T05:58:16.000+0200",
+    "resolution_date": "2021-11-09T17:18:56.000+0200",
+    "updated_date": "2021-11-09T17:18:56.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-101334",
+    "summary": "Required space for placing a boat is too small",
+    "labels": [
+      "block",
+      "boat",
+      "desired-range",
+      "hitbox",
+      "overlay",
+      "placed",
+      "small",
+      "through-wall"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2016-04-26T17:26:55.000+0300",
+    "resolution_date": "2021-11-20T06:17:01.000+0200",
+    "updated_date": "2021-11-20T06:17:01.000+0200",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-96535",
+    "summary": "Ambient property of potion effects with ShowParticles:0b is not disregarded",
+    "labels": [
+      "ambient",
+      "beacon",
+      "particle",
+      "potion-effect"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2016-02-04T03:31:52.000+0200",
+    "resolution_date": "2021-11-09T19:03:25.000+0200",
+    "updated_date": "2021-11-26T23:00:04.000+0200",
+    "watches": 10,
+    "votes": 20
+  },
+  {
+    "id": "MC-62550",
+    "summary": "Worldborder not correctly initialized for the End and Nether",
+    "labels": [
+      "block",
+      "end",
+      "mojang_internal_1",
+      "nether",
+      "server",
+      "the_end",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2014-07-18T22:44:11.000+0300",
+    "resolution_date": "2021-11-10T17:28:21.000+0200",
+    "updated_date": "2021-11-10T17:28:21.000+0200",
+    "watches": 15,
+    "votes": 25
+  },
+  {
+    "id": "MC-54119",
+    "summary": "Can place/take water/lava/lily pads outside world border and inside spawn protection",
+    "labels": [
+      "bucket",
+      "desync",
+      "glass_bottle",
+      "lava",
+      "lily_pad",
+      "spawn-protection",
+      "water",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2014-04-30T22:02:38.000+0300",
+    "resolution_date": "2021-11-09T17:19:03.000+0200",
+    "updated_date": "2021-12-26T09:06:45.000+0200",
+    "watches": 16,
+    "votes": 39
+  },
+  {
+    "id": "MC-53444",
+    "summary": "You can get outside of the worldborder by mounting a rideable entity (boat, pig, etc.) outside of it",
+    "labels": [
+      "boat",
+      "riding",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2014-04-24T21:52:47.000+0300",
+    "resolution_date": "2021-11-09T17:18:35.000+0200",
+    "updated_date": "2021-12-28T21:31:33.000+0200",
+    "watches": 17,
+    "votes": 12
+  },
+  {
+    "id": "MC-50888",
+    "summary": "Can get out of 30,000,000 area",
+    "labels": [
+      "border",
+      "farlands",
+      "high-distance-current"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2014-03-12T16:44:04.000+0200",
+    "resolution_date": "2021-11-13T01:06:48.000+0200",
+    "updated_date": "2021-11-13T01:06:48.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-46584",
+    "summary": "Clicking and dragging MOUSE3 (Mouse wheel) over item slots incorrectly attempts to place full stacks in survival",
+    "labels": [
+      "drag",
+      "item",
+      "middle-click"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 1"
+    ],
+    "creation_date": "2014-01-31T01:02:38.000+0200",
+    "resolution_date": "2021-11-09T17:18:35.000+0200",
+    "updated_date": "2021-11-09T17:18:35.000+0200",
+    "watches": 17,
+    "votes": 41
+  }
+]

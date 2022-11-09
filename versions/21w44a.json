@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MC-239902",
+    "summary": "Weather effects appear in caves and structures in 1.17.1 worlds loaded in 21w43a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-28T04:01:53.000+0300",
+    "resolution_date": "2021-11-11T15:01:02.000+0200",
+    "updated_date": "2021-11-18T00:13:51.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-239882",
+    "summary": "Beacons deactivate when upgrading worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-27T23:03:36.000+0300",
+    "resolution_date": "2021-11-11T17:55:23.000+0200",
+    "updated_date": "2021-11-11T17:55:23.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-239876",
+    "summary": "Maps appear grey when opened in old terrain after conversion ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "Maps"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-27T22:23:04.000+0300",
+    "resolution_date": "2021-11-11T17:44:33.000+0200",
+    "updated_date": "2021-11-19T08:54:45.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-239866",
+    "summary": "Terrain shaper in noise_settings is not used",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-27T21:17:01.000+0300",
+    "resolution_date": "2021-11-02T15:27:31.000+0200",
+    "updated_date": "2021-11-02T15:27:31.000+0200",
+    "watches": 18,
+    "votes": 48
+  },
+  {
+    "id": "MC-239858",
+    "summary": "Nether decorations can be generated on the original bedrock layer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-27T20:37:47.000+0300",
+    "resolution_date": "2021-11-03T17:24:02.000+0200",
+    "updated_date": "2021-11-04T09:14:43.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-239854",
+    "summary": "Nether and caves world is missing bedrock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-27T20:27:59.000+0300",
+    "resolution_date": "2021-11-03T17:24:02.000+0200",
+    "updated_date": "2021-11-19T09:46:44.000+0200",
+    "watches": 12,
+    "votes": 28
+  },
+  {
+    "id": "MC-239689",
+    "summary": "The \"amplified\" boolean in noise settings does nothing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-24T10:38:50.000+0300",
+    "resolution_date": "2021-11-02T11:22:27.000+0200",
+    "updated_date": "2021-11-02T11:22:27.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-239359",
+    "summary": "Wither Skeletons can only spawn on Nether Bricks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-20T02:35:26.000+0300",
+    "resolution_date": "2021-11-03T10:44:19.000+0200",
+    "updated_date": "2021-11-03T10:44:19.000+0200",
+    "watches": 8,
+    "votes": 6
+  },
+  {
+    "id": "MC-239344",
+    "summary": "All torches in mineshafts are facing the wrong way",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-19T21:20:21.000+0300",
+    "resolution_date": "2021-11-02T14:04:48.000+0200",
+    "updated_date": "2021-11-02T14:04:48.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-239280",
+    "summary": "Withers do not move down to follow the player when the wither's health is half or lower",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-18T21:18:31.000+0300",
+    "resolution_date": "2021-11-03T16:26:21.000+0200",
+    "updated_date": "2022-07-24T03:12:23.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-238968",
+    "summary": "Windswept Gravelly Hills & Windswept Savanna aren't apart of the \"Adventuring Time\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-14T17:10:03.000+0300",
+    "resolution_date": "2021-11-02T14:31:54.000+0200",
+    "updated_date": "2022-08-10T15:17:56.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-238966",
+    "summary": "Old Growth Spruce Taiga and Old Growth Birch Forest aren't part of the \"Adventuring Time\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-14T17:07:02.000+0300",
+    "resolution_date": "2021-11-02T14:31:55.000+0200",
+    "updated_date": "2021-11-02T15:01:47.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-238962",
+    "summary": "Icebergs go all the way to ocean floor.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-14T15:24:10.000+0300",
+    "resolution_date": "2021-11-03T16:18:28.000+0200",
+    "updated_date": "2021-11-03T16:18:28.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-238912",
+    "summary": "Powder snow strips can't generate exposed to the surface",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-13T22:14:59.000+0300",
+    "resolution_date": "2021-11-02T17:09:31.000+0200",
+    "updated_date": "2021-11-02T17:09:31.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-238900",
+    "summary": "Values of 'Infinity' in noise settings in default worldgen ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w42a",
+      "21w44a"
+    ],
+    "creation_date": "2021-10-13T20:03:50.000+0300",
+    "resolution_date": "2021-11-03T15:31:43.000+0200",
+    "updated_date": "2021-11-03T22:52:09.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-238877",
+    "summary": "Deep Ocean & Ocean is not needed for the \"Adventure Time\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-13T16:29:45.000+0300",
+    "resolution_date": "2021-11-02T14:31:54.000+0200",
+    "updated_date": "2021-11-02T14:31:54.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-238761",
+    "summary": "Adventuring Time does not account for the new cave biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-11T09:31:56.000+0300",
+    "resolution_date": "2021-11-02T14:31:54.000+0200",
+    "updated_date": "2022-03-07T17:54:38.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-238062",
+    "summary": "Foxes & Wolves don't spawn in Groves",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-10-01T04:22:59.000+0300",
+    "resolution_date": "2021-11-03T16:42:31.000+0200",
+    "updated_date": "2021-11-20T15:01:38.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-237986",
+    "summary": "Mobs specific to structures aren't spawning in their structures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-09-30T10:38:25.000+0300",
+    "resolution_date": "2021-11-03T10:44:13.000+0200",
+    "updated_date": "2022-10-17T23:42:22.000+0300",
+    "watches": 45,
+    "votes": 79
+  },
+  {
+    "id": "MC-236938",
+    "summary": "/jfr stop output does not have a link",
+    "labels": [
+      "jfr"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-09-17T18:34:44.000+0300",
+    "resolution_date": "2021-11-02T15:13:40.000+0200",
+    "updated_date": "2021-11-03T17:47:36.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-236701",
+    "summary": "New mountain biomes don't count towards \"Adventuring Time\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-09-15T23:15:00.000+0300",
+    "resolution_date": "2021-11-02T14:31:54.000+0200",
+    "updated_date": "2021-11-02T14:31:54.000+0200",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-218592",
+    "summary": "Azalea trees can generate in more than two blocks of water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w16a",
+      "21w44a",
+      "1.18 Pre-release 7"
+    ],
+    "creation_date": "2021-03-10T18:11:55.000+0200",
+    "resolution_date": "2021-11-23T17:23:45.000+0200",
+    "updated_date": "2021-11-23T17:23:45.000+0200",
+    "watches": 21,
+    "votes": 33
+  },
+  {
+    "id": "MC-217038",
+    "summary": "Large dripstone structures can be generated outside the caves",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a",
+      "1.18 Pre-release 2"
+    ],
+    "creation_date": "2021-02-25T22:30:48.000+0200",
+    "resolution_date": "2021-11-15T16:26:06.000+0200",
+    "updated_date": "2021-11-15T16:26:06.000+0200",
+    "watches": 15,
+    "votes": 23
+  },
+  {
+    "id": "MC-216561",
+    "summary": "Torches not spawning in abandoned mineshafts under y=0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-02-22T21:47:55.000+0200",
+    "resolution_date": "2021-11-02T14:04:48.000+0200",
+    "updated_date": "2021-11-02T14:04:48.000+0200",
+    "watches": 12,
+    "votes": 12
+  },
+  {
+    "id": "MC-216432",
+    "summary": "Mineshafts can generate with light but without any torches",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2021-02-21T18:29:59.000+0200",
+    "resolution_date": "2021-11-02T14:04:48.000+0200",
+    "updated_date": "2021-11-02T14:04:48.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-200494",
+    "summary": "In mineshafts, torches can generate attached to blocks other than the wooden supports",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2020-09-18T01:23:42.000+0300",
+    "resolution_date": "2021-11-02T14:04:48.000+0200",
+    "updated_date": "2021-11-02T14:04:48.000+0200",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-190285",
+    "summary": "\"bedrock_roof_position\" tag number does not represent height, but height modifier",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2020-06-18T03:19:35.000+0300",
+    "resolution_date": "2021-11-11T09:08:32.000+0200",
+    "updated_date": "2021-11-11T09:08:32.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-187716",
+    "summary": "Nether biome surface builder types incorrectly assume the world height is 128 blocks",
+    "labels": [
+      "Surface_builders",
+      "custom-worldgen"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2020-06-05T23:47:27.000+0300",
+    "resolution_date": "2021-11-05T14:54:20.000+0200",
+    "updated_date": "2021-11-07T01:15:08.000+0200",
+    "watches": 29,
+    "votes": 53
+  },
+  {
+    "id": "MC-170551",
+    "summary": "Foxes can't spawn on podzol or coarse dirt",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2020-01-29T16:15:27.000+0200",
+    "resolution_date": "2021-11-03T16:42:31.000+0200",
+    "updated_date": "2021-11-03T16:42:31.000+0200",
+    "watches": 6,
+    "votes": 20
+  },
+  {
+    "id": "MC-63340",
+    "summary": "Sleeping always resets time until rain",
+    "labels": [
+      "rain",
+      "sleeping",
+      "thunder"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w44a"
+    ],
+    "creation_date": "2014-07-24T04:43:59.000+0300",
+    "resolution_date": "2021-11-03T16:57:26.000+0200",
+    "updated_date": "2021-11-03T16:57:26.000+0200",
+    "watches": 17,
+    "votes": 38
+  }
+]

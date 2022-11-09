@@ -1,0 +1,131 @@
+[
+  {
+    "id": "MC-191138",
+    "summary": "Crash when click on realms info - java.lang.ArrayIndexOutOfBoundsException: -1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.1"
+    ],
+    "creation_date": "2020-06-23T17:15:20.000+0300",
+    "resolution_date": "2020-06-24T13:14:00.000+0300",
+    "updated_date": "2020-06-24T16:33:48.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-186546",
+    "summary": "Endermen that have been turned hostile by other means than looking at them will turn neutral when looked at",
+    "labels": [
+      "enderman",
+      "endermen",
+      "mob",
+      "mobs",
+      "neutral",
+      "neutral-mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.1"
+    ],
+    "creation_date": "2020-05-30T19:10:15.000+0300",
+    "resolution_date": "2020-06-30T14:06:09.000+0300",
+    "updated_date": "2020-06-30T14:06:09.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-153750",
+    "summary": "Gravity decreases at y=256 when the player hops into water at y=255",
+    "labels": [
+      "multiplayer",
+      "water",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.1"
+    ],
+    "creation_date": "2019-06-04T01:06:07.000+0300",
+    "resolution_date": "2020-07-08T17:39:45.000+0300",
+    "updated_date": "2020-07-08T17:39:51.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-146743",
+    "summary": "Mainhand third person animations incorrect while loaded crossbow in offhand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.1"
+    ],
+    "creation_date": "2019-03-27T04:50:24.000+0200",
+    "resolution_date": "2020-07-03T15:03:12.000+0300",
+    "updated_date": "2020-07-03T15:03:12.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-135831",
+    "summary": "Low gravity bug at world height",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.1"
+    ],
+    "creation_date": "2018-08-10T03:06:14.000+0300",
+    "resolution_date": "2020-07-08T17:40:45.000+0300",
+    "updated_date": "2020-07-08T17:40:45.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-110792",
+    "summary": "Slime blocks no longer launch arrows",
+    "labels": [
+      "slime_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.1"
+    ],
+    "creation_date": "2016-11-26T18:49:02.000+0200",
+    "resolution_date": "2020-07-25T12:23:45.000+0300",
+    "updated_date": "2020-07-25T12:23:45.000+0300",
+    "watches": 7,
+    "votes": 6
+  }
+]

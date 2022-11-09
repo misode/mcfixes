@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-172078",
+    "summary": "All villagers with saved memory disappear when upgrading to 20w07a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w08a"
+    ],
+    "creation_date": "2020-02-14T16:57:53.000+0200",
+    "resolution_date": "2020-02-18T19:15:14.000+0200",
+    "updated_date": "2021-04-14T05:50:04.000+0300",
+    "watches": 46,
+    "votes": 74
+  }
+]

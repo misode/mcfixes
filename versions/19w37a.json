@@ -1,0 +1,745 @@
+[
+  {
+    "id": "MC-160498",
+    "summary": "Gamerule fireDamage being set to false does not prevent lava damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-09-04T23:28:45.000+0300",
+    "resolution_date": "2019-09-06T15:07:43.000+0300",
+    "updated_date": "2019-09-06T15:07:43.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-160484",
+    "summary": "Placing wet sponges in the nether does not update redstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-09-04T20:58:14.000+0300",
+    "resolution_date": "2019-09-06T15:07:42.000+0300",
+    "updated_date": "2019-10-28T11:08:03.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-160464",
+    "summary": "New gamerules introduced in snapshot 19w36a default to false in worlds from older versions",
+    "labels": [
+      "damage",
+      "gamerule"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-09-04T17:28:05.000+0300",
+    "resolution_date": "2019-09-05T17:19:40.000+0300",
+    "updated_date": "2020-02-17T07:20:33.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-160461",
+    "summary": "When being activated with Redstone, bells always ring in the same direction, even if that should not be possible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-09-04T17:04:04.000+0300",
+    "resolution_date": "2019-09-06T15:07:42.000+0300",
+    "updated_date": "2020-05-26T23:14:39.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-160458",
+    "summary": "Using a portal in an older world creates a new portal instead of taking you to an existing one",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-09-04T16:39:08.000+0300",
+    "resolution_date": "2019-09-06T15:24:37.000+0300",
+    "updated_date": "2019-10-21T15:53:57.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-160456",
+    "summary": "Bee Hives filled with honey are missing their top and bottom texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-09-04T16:32:02.000+0300",
+    "resolution_date": "2019-09-09T16:22:04.000+0300",
+    "updated_date": "2019-09-09T16:22:04.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-160248",
+    "summary": "Slime and magma cube spawners crash the game",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-09-01T08:07:33.000+0300",
+    "resolution_date": "2019-09-05T17:22:40.000+0300",
+    "updated_date": "2019-09-07T01:34:24.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-160123",
+    "summary": "Large ferns no longer drop seeds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-08-30T20:06:41.000+0300",
+    "resolution_date": "2019-09-06T15:24:41.000+0300",
+    "updated_date": "2021-05-03T05:06:21.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-159785",
+    "summary": "Cloned block contains same item in memory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-08-25T22:24:36.000+0300",
+    "resolution_date": "2019-09-06T15:24:36.000+0300",
+    "updated_date": "2019-09-06T15:24:36.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-159455",
+    "summary": "Mob riding item frame riding mob crashes the server when item frame breaks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-08-23T00:23:02.000+0300",
+    "resolution_date": "2019-09-05T17:22:40.000+0300",
+    "updated_date": "2019-09-05T17:41:09.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-158853",
+    "summary": "Chests missing after converting and loading old map from 1.7.10",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-08-12T20:00:11.000+0300",
+    "resolution_date": "2019-09-06T15:24:37.000+0300",
+    "updated_date": "2019-09-06T15:24:37.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-157494",
+    "summary": "Tamed animals no longer teleport to players properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-07-23T03:45:05.000+0300",
+    "resolution_date": "2019-09-11T10:55:17.000+0300",
+    "updated_date": "2019-12-19T20:07:42.000+0200",
+    "watches": 26,
+    "votes": 37
+  },
+  {
+    "id": "MC-154873",
+    "summary": "When breaking a block with an enchanted book with Silk Touch on it, the block drops itself",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-06-19T23:26:31.000+0300",
+    "resolution_date": "2019-09-06T15:24:34.000+0300",
+    "updated_date": "2019-09-12T13:43:18.000+0300",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-153661",
+    "summary": "Villagers always ring bells in the same direction, even if that should not be possible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-06-02T22:49:38.000+0300",
+    "resolution_date": "2019-09-06T15:07:43.000+0300",
+    "updated_date": "2020-06-20T18:23:47.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-152751",
+    "summary": "Horse armor can occasionally be duplicated when killing a horse wearing it with Looting III",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-05-24T01:03:44.000+0300",
+    "resolution_date": "2019-09-06T15:24:38.000+0300",
+    "updated_date": "2019-09-06T15:24:39.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-145179",
+    "summary": "data modify modifies player item data but shows error message",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-03-01T13:02:23.000+0200",
+    "resolution_date": "2019-09-06T15:24:36.000+0300",
+    "updated_date": "2019-09-06T15:24:36.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-136470",
+    "summary": "Buckets' CanPlaceOn NBT check is applied to the block behind",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2018-08-26T00:23:02.000+0300",
+    "resolution_date": "2019-09-11T11:21:43.000+0300",
+    "updated_date": "2020-06-05T18:42:25.000+0300",
+    "watches": 9,
+    "votes": 27
+  },
+  {
+    "id": "MC-136352",
+    "summary": "Tools from creative inventory/crafting don't have Damage:0 set until relog",
+    "labels": [
+      "damage",
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2018-08-23T13:35:37.000+0300",
+    "resolution_date": "2019-09-06T15:08:03.000+0300",
+    "updated_date": "2019-10-17T20:40:51.000+0300",
+    "watches": 2,
+    "votes": 10
+  },
+  {
+    "id": "MC-135098",
+    "summary": "Animal spawn eggs occasionally spawn baby animals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2018-07-28T03:39:33.000+0300",
+    "resolution_date": "2019-09-16T19:29:58.000+0300",
+    "updated_date": "2020-05-02T17:26:02.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-132445",
+    "summary": "Spawn eggs used on water do not display a hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a",
+      "19w42a"
+    ],
+    "creation_date": "2018-07-01T00:54:53.000+0300",
+    "resolution_date": "2019-10-16T18:01:17.000+0300",
+    "updated_date": "2019-11-24T19:56:33.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-127094",
+    "summary": "Arm animation is not executed in certain circumstances",
+    "labels": [
+      "acacia_boat",
+      "animation",
+      "arrow",
+      "birch_boat",
+      "boats",
+      "bow",
+      "bucket",
+      "clownfish_bucket",
+      "cod_bucket",
+      "ender_eye",
+      "ender_pearl",
+      "experience_bottle",
+      "item",
+      "jungle_boat",
+      "lava_bucket",
+      "lingering_potion",
+      "oak_boat",
+      "player-hand",
+      "pufferfish_bucket",
+      "salmon_bucket",
+      "snowball",
+      "splash_potion",
+      "spruce_boat",
+      "water_bucket"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2018-03-10T17:12:50.000+0200",
+    "resolution_date": "2019-09-11T11:21:43.000+0300",
+    "updated_date": "2019-11-24T19:56:33.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-125880",
+    "summary": "Recipe book rejects bows with Damage:0 tag when crafting dispensers",
+    "labels": [
+      "Damage",
+      "bow",
+      "dispenser",
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2018-02-19T00:51:24.000+0200",
+    "resolution_date": "2019-09-06T15:07:45.000+0300",
+    "updated_date": "2020-07-17T13:57:22.000+0300",
+    "watches": 10,
+    "votes": 13
+  },
+  {
+    "id": "MC-123686",
+    "summary": "Old chests disappear when updating to 1.8+",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2017-12-30T05:51:53.000+0200",
+    "resolution_date": "2019-09-12T09:44:32.000+0300",
+    "updated_date": "2019-09-12T09:44:32.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-123307",
+    "summary": "'/execute store' can modify player data inside item \"tags\" of their Inventory or EnderItems",
+    "labels": [
+      "/execute",
+      "/execute-store",
+      "player",
+      "player-data"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2017-12-16T18:24:40.000+0200",
+    "resolution_date": "2019-09-06T15:24:34.000+0300",
+    "updated_date": "2020-04-18T01:16:39.000+0300",
+    "watches": 24,
+    "votes": 13
+  },
+  {
+    "id": "MC-114715",
+    "summary": "Mobs picking up items can drop their current item even with drop chance of 0",
+    "labels": [
+      "CanPickUpLoot",
+      "DropChances",
+      "chance",
+      "equipment",
+      "mob",
+      "pickup"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2017-03-22T17:42:18.000+0200",
+    "resolution_date": "2019-09-06T15:24:40.000+0300",
+    "updated_date": "2019-09-10T11:16:35.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-110907",
+    "summary": "Curse of vanishing doesn't work in some places",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2016-11-28T17:13:59.000+0200",
+    "resolution_date": "2019-09-06T15:24:41.000+0300",
+    "updated_date": "2019-09-11T18:38:37.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-99779",
+    "summary": "Right-clicking creeper with flint and steel uses item in off-hand as well",
+    "labels": [
+      "flint_and_steel",
+      "interaction",
+      "main-hand",
+      "name_tag",
+      "off-hand",
+      "right-click"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2016-03-19T23:44:25.000+0200",
+    "resolution_date": "2020-01-26T13:48:56.000+0200",
+    "updated_date": "2020-01-26T13:48:56.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-93841",
+    "summary": "Right clicking on a tamed wolf, ocelot or parrot causes it to sit / stand up and uses item",
+    "labels": [
+      "cat",
+      "dog",
+      "ocelot",
+      "parrot",
+      "right-click",
+      "sit",
+      "stand",
+      "use-item",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2015-12-05T00:15:04.000+0200",
+    "resolution_date": "2020-01-20T05:35:38.000+0200",
+    "updated_date": "2020-01-20T05:36:03.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-93827",
+    "summary": "Clicking with meat on wolf / fish on ocelot to breed also causes it to sit / stand up",
+    "labels": [
+      "breeding",
+      "fish",
+      "meat",
+      "ocelot",
+      "right-click",
+      "sit",
+      "stand",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2015-12-04T20:59:58.000+0200",
+    "resolution_date": "2020-01-20T05:35:26.000+0200",
+    "updated_date": "2020-01-20T05:36:00.000+0200",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-88014",
+    "summary": "Interacting with shears on sheep always uses item in off-hand as well",
+    "labels": [
+      "interact",
+      "off-hand",
+      "shears",
+      "sheep"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2015-09-03T22:46:24.000+0300",
+    "resolution_date": "2020-01-26T13:47:32.000+0200",
+    "updated_date": "2020-01-26T13:47:32.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-60634",
+    "summary": "Spawn egg 'use' animation not shown when using on animal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2014-07-05T15:25:40.000+0300",
+    "resolution_date": "2019-09-11T11:21:45.000+0300",
+    "updated_date": "2020-11-04T20:09:28.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-42248",
+    "summary": "Placing lily pads does not have a hand animation in third-person",
+    "labels": [
+      "animation",
+      "lily_pad"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2013-12-14T23:25:44.000+0200",
+    "resolution_date": "2019-09-11T11:21:45.000+0300",
+    "updated_date": "2019-09-11T11:21:45.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-13884",
+    "summary": "Hanging snow golems don't throw snowballs",
+    "labels": [
+      "fence",
+      "lead",
+      "snow_golem"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2013-04-19T04:35:06.000+0300",
+    "resolution_date": "2019-09-14T15:10:04.000+0300",
+    "updated_date": "2020-07-30T17:28:50.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-2958",
+    "summary": "Custom mobs and normal Vexes drop equipped items with looting despite DropChances set to 0",
+    "labels": [
+      "DropChances",
+      "equipment",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2012-11-14T16:01:41.000+0200",
+    "resolution_date": "2019-09-06T15:24:39.000+0300",
+    "updated_date": "2019-09-06T15:24:39.000+0300",
+    "watches": 12,
+    "votes": 13
+  }
+]

@@ -1,0 +1,851 @@
+[
+  {
+    "id": "MC-162952",
+    "summary": "Stacked numbers of an item in inventory are rendered behind the potion effect  status effect in inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-08T08:26:05.000+0300",
+    "resolution_date": "2019-10-09T19:04:18.000+0300",
+    "updated_date": "2019-10-09T19:04:18.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-162936",
+    "summary": "java.lang.IllegalArgumentException when using an enchanted totem of undying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-07T21:53:20.000+0300",
+    "resolution_date": "2019-10-09T18:19:51.000+0300",
+    "updated_date": "2019-10-09T18:19:51.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-162671",
+    "summary": "Mooshroom cow's mushroom texture is too bright",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-03T21:21:58.000+0300",
+    "resolution_date": "2019-10-11T10:59:49.000+0300",
+    "updated_date": "2019-10-11T10:59:49.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-162616",
+    "summary": "java.lang.NullPointerException after attacking a parrot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-03T07:48:53.000+0300",
+    "resolution_date": "2019-10-07T12:04:44.000+0300",
+    "updated_date": "2022-07-17T18:01:08.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-162586",
+    "summary": "Log repeatedly prints the message \"Ticking entity\", and finally crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-03T02:29:53.000+0300",
+    "resolution_date": "2019-10-07T12:04:44.000+0300",
+    "updated_date": "2019-10-09T18:35:55.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-162569",
+    "summary": "Placing torches in water causes serious lag and stuttering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a",
+      "19w45a"
+    ],
+    "creation_date": "2019-10-02T23:15:27.000+0300",
+    "resolution_date": "2019-11-08T13:31:39.000+0200",
+    "updated_date": "2019-11-08T13:31:39.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-162550",
+    "summary": "Offhand slot is glitched / black in some circumstances",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-02T20:32:27.000+0300",
+    "resolution_date": "2019-10-09T19:43:39.000+0300",
+    "updated_date": "2019-10-09T19:43:39.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-162538",
+    "summary": "Creative menu corners have opacity issues; outlines have no transparency",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-02T19:18:25.000+0300",
+    "resolution_date": "2019-10-09T19:36:02.000+0300",
+    "updated_date": "2019-10-09T19:43:07.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-162518",
+    "summary": "Blocks in the inventory are no longer shaded properly ",
+    "labels": [
+      "inventory",
+      "mojang_internal_2",
+      "rendering",
+      "shadows"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a",
+      "1.15 Pre-release 3"
+    ],
+    "creation_date": "2019-10-02T17:23:14.000+0300",
+    "resolution_date": "2019-11-28T18:37:08.000+0200",
+    "updated_date": "2020-04-10T15:01:13.000+0300",
+    "watches": 12,
+    "votes": 28
+  },
+  {
+    "id": "MC-162432",
+    "summary": "Some blocks like chests and beds are no longer shaded in the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-10-01T15:13:44.000+0300",
+    "resolution_date": "2019-10-14T09:36:49.000+0300",
+    "updated_date": "2019-10-14T09:36:50.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-162378",
+    "summary": "Screen turns black during the totem of undying activation animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-30T22:31:15.000+0300",
+    "resolution_date": "2019-10-09T18:20:02.000+0300",
+    "updated_date": "2019-10-09T18:20:02.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-162118",
+    "summary": "Iron Golems hanging in mid air",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-28T21:09:16.000+0300",
+    "resolution_date": "2022-07-23T00:27:56.000+0300",
+    "updated_date": "2022-07-23T00:27:57.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-162087",
+    "summary": "Parrots can imitate pandas",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-28T16:12:20.000+0300",
+    "resolution_date": "2019-10-07T12:04:45.000+0300",
+    "updated_date": "2019-10-11T17:11:33.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-162042",
+    "summary": "Items with partially transparent textures will render incorrectly in item frames",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-28T11:51:09.000+0300",
+    "resolution_date": "2019-10-10T12:13:06.000+0300",
+    "updated_date": "2019-10-10T12:13:06.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-161891",
+    "summary": "Blocks with special rendering are not rendered behind transparent block items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-27T20:43:44.000+0300",
+    "resolution_date": "2019-10-10T12:15:23.000+0300",
+    "updated_date": "2019-11-05T00:53:32.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-161889",
+    "summary": "Mobs in spawners are in full lighting even when no light source is around",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-27T20:40:52.000+0300",
+    "resolution_date": "2019-10-10T15:13:22.000+0300",
+    "updated_date": "2019-10-20T15:07:19.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-161856",
+    "summary": "Items held by armorstands are only visible in spectator mode",
+    "labels": [
+      "armor_stand",
+      "items",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-27T18:52:46.000+0300",
+    "resolution_date": "2019-10-15T12:37:23.000+0300",
+    "updated_date": "2019-10-15T12:37:23.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-161855",
+    "summary": "Icons used for customizing superflat worlds are not displayed if no world has been opened before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-27T18:42:55.000+0300",
+    "resolution_date": "2019-10-14T18:08:19.000+0300",
+    "updated_date": "2021-02-22T19:14:40.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-161847",
+    "summary": "Armor slots in the inventory are displayed black in some circumstances",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-27T18:12:48.000+0300",
+    "resolution_date": "2019-10-09T19:34:47.000+0300",
+    "updated_date": "2019-10-09T19:34:47.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-161840",
+    "summary": "Entities are shaded far darker than usual",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-27T18:00:37.000+0300",
+    "resolution_date": "2019-10-10T11:56:54.000+0300",
+    "updated_date": "2019-10-10T11:56:54.000+0300",
+    "watches": 15,
+    "votes": 34
+  },
+  {
+    "id": "MC-161733",
+    "summary": "Vindicator idle5 sound is unused",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-24T14:28:50.000+0300",
+    "resolution_date": "2019-10-09T14:54:10.000+0300",
+    "updated_date": "2019-10-09T14:54:10.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-161692",
+    "summary": "Hopper creating a furnace blockentity by transferring an item crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-23T17:47:03.000+0300",
+    "resolution_date": "2019-10-09T17:56:37.000+0300",
+    "updated_date": "2019-10-09T17:56:37.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-161495",
+    "summary": "Horse texture is partially translucent when viewing it from certain angles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-20T16:04:36.000+0300",
+    "resolution_date": "2019-10-14T09:45:21.000+0300",
+    "updated_date": "2019-10-14T09:45:21.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-161391",
+    "summary": "Strays are brighter",
+    "labels": [
+      "stray",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-19T07:37:37.000+0300",
+    "resolution_date": "2019-10-15T21:28:27.000+0300",
+    "updated_date": "2020-08-11T23:29:00.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-161297",
+    "summary": "Shulker box inside textures are invisible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-18T17:53:13.000+0300",
+    "resolution_date": "2019-10-09T16:22:08.000+0300",
+    "updated_date": "2019-10-09T16:22:08.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-160957",
+    "summary": "Bees don't leave the nest or hive, when the nest or hive is destroyed by the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-09-12T17:38:12.000+0300",
+    "resolution_date": "2019-10-09T19:56:41.000+0300",
+    "updated_date": "2019-10-09T19:56:42.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-160102",
+    "summary": "IllegalArgumentException when being attacked by a weak iron golem",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-08-30T14:08:04.000+0300",
+    "resolution_date": "2019-10-08T11:45:21.000+0300",
+    "updated_date": "2019-10-08T11:45:22.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159469",
+    "summary": "There is a space in \"Beehive\" when there shouldn't be",
+    "labels": [
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-08-23T02:15:22.000+0300",
+    "resolution_date": "2019-10-11T14:31:30.000+0300",
+    "updated_date": "2020-03-13T21:38:37.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-159423",
+    "summary": "Bees can't get to flowers on edges",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-08-22T21:57:50.000+0300",
+    "resolution_date": "2019-10-04T13:54:43.000+0300",
+    "updated_date": "2019-10-14T19:48:09.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-156005",
+    "summary": "Tamed wolves do no longer teleport to the player when they're in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-07-04T19:51:29.000+0300",
+    "resolution_date": "2019-10-04T14:30:15.000+0300",
+    "updated_date": "2019-11-27T00:32:59.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-146213",
+    "summary": "Loading bar on splash screen is able to extend beyond its black outline",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-03-19T21:18:24.000+0200",
+    "resolution_date": "2019-10-08T14:53:59.000+0300",
+    "updated_date": "2019-10-08T14:53:59.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-145021",
+    "summary": "Tamed animals are not able to teleport to the player when they are on the snow layer blocks",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2019-02-26T20:28:29.000+0200",
+    "resolution_date": "2019-10-04T14:30:14.000+0300",
+    "updated_date": "2019-10-08T14:00:46.000+0300",
+    "watches": 9,
+    "votes": 18
+  },
+  {
+    "id": "MC-131552",
+    "summary": "Can't craft stripped wood from stripped log",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2018-06-17T19:22:22.000+0300",
+    "resolution_date": "2019-10-08T11:45:24.000+0300",
+    "updated_date": "2020-03-13T21:33:02.000+0200",
+    "watches": 13,
+    "votes": 29
+  },
+  {
+    "id": "MC-129806",
+    "summary": "Team prefixes and suffixes don't show for villagers without a custom name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2018-05-17T19:21:14.000+0300",
+    "resolution_date": "2019-10-09T17:56:37.000+0300",
+    "updated_date": "2019-10-09T17:56:37.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-125104",
+    "summary": "Cancelling delete world screen and options sub-menus using ESC opens main menu",
+    "labels": [
+      "esc",
+      "main-menu"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2018-02-12T01:49:55.000+0200",
+    "resolution_date": "2019-10-09T14:48:10.000+0300",
+    "updated_date": "2019-10-09T14:48:10.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-124140",
+    "summary": "Anchoring does not reset after use, and is implicitly applied in nonsensical cases by default",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2018-01-10T22:04:04.000+0200",
+    "resolution_date": "2019-10-08T10:35:09.000+0300",
+    "updated_date": "2020-03-13T21:34:49.000+0200",
+    "watches": 20,
+    "votes": 22
+  },
+  {
+    "id": "MC-121942",
+    "summary": "Item count renders behind crafting preview items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2017-11-14T01:56:17.000+0200",
+    "resolution_date": "2020-05-01T01:09:32.000+0300",
+    "updated_date": "2020-05-01T01:09:32.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-120480",
+    "summary": "Pets teleport onto blocks which have a solid \"bottom\", not \"top\" face",
+    "labels": [
+      "ocelot",
+      "pet",
+      "teleport",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2017-08-31T02:44:04.000+0300",
+    "resolution_date": "2019-10-04T14:30:14.000+0300",
+    "updated_date": "2019-10-04T15:19:32.000+0300",
+    "watches": 5,
+    "votes": 15
+  },
+  {
+    "id": "MC-109108",
+    "summary": "Mobs getting stuck on vines",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2016-10-24T15:36:47.000+0300",
+    "resolution_date": "2019-10-11T16:54:47.000+0300",
+    "updated_date": "2020-03-13T21:31:33.000+0200",
+    "watches": 26,
+    "votes": 76
+  },
+  {
+    "id": "MC-86846",
+    "summary": "Changing a powered Command block from impulse/chain mode to repeat mode doesn't trigger it until repowering",
+    "labels": [
+      "chain-mode",
+      "impulse-mode",
+      "powered-command-block",
+      "repeat-mode",
+      "trigger"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2015-08-21T00:30:54.000+0300",
+    "resolution_date": "2019-10-08T11:45:24.000+0300",
+    "updated_date": "2021-11-19T17:56:09.000+0200",
+    "watches": 18,
+    "votes": 28
+  },
+  {
+    "id": "MC-35920",
+    "summary": "Some translucent parts of entities make translucent blocks, block entities and some entities invisible (depending on loading order)",
+    "labels": [
+      "item",
+      "nameplate",
+      "rendering",
+      "semi-transparent"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2013-10-19T00:10:44.000+0300",
+    "resolution_date": "2019-11-07T18:33:58.000+0200",
+    "updated_date": "2020-08-26T22:43:43.000+0300",
+    "watches": 15,
+    "votes": 23
+  },
+  {
+    "id": "MC-20144",
+    "summary": "Saturation and Instant Health/Damage effects don't have an icon",
+    "labels": [
+      "instant-damage",
+      "instant-health",
+      "potion-effect",
+      "saturation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2013-07-01T18:20:25.000+0300",
+    "resolution_date": "2019-10-04T15:14:30.000+0300",
+    "updated_date": "2020-11-04T13:05:20.000+0200",
+    "watches": 15,
+    "votes": 24
+  }
+]

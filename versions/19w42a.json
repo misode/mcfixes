@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "MC-163811",
+    "summary": "Summoned item frames are invisible/distant",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-16T08:41:26.000+0300",
+    "resolution_date": "2019-10-16T20:22:16.000+0300",
+    "updated_date": "2019-10-16T20:22:16.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-163734",
+    "summary": "Skeleton and wither skeleton skull textures underneath are completely black",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-15T03:34:36.000+0300",
+    "resolution_date": "2019-10-16T20:04:17.000+0300",
+    "updated_date": "2021-02-23T17:55:34.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-163371",
+    "summary": "Paintings drop after world reload",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-11T04:53:57.000+0300",
+    "resolution_date": "2019-10-16T10:46:09.000+0300",
+    "updated_date": "2020-03-02T12:08:40.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-163314",
+    "summary": "Minecarts cause constant noises when in a honey block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-10T18:29:05.000+0300",
+    "resolution_date": "2019-10-14T14:12:05.000+0300",
+    "updated_date": "2019-10-14T19:42:29.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-163255",
+    "summary": "Some mobs can still jump when on a honey block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-10T09:30:14.000+0300",
+    "resolution_date": "2019-10-14T14:11:58.000+0300",
+    "updated_date": "2019-10-16T20:46:13.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-163242",
+    "summary": "Blocks on armor stands render shadows based on camera vector",
+    "labels": [
+      "inventory",
+      "item-model",
+      "rendering",
+      "shading"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a",
+      "19w45a"
+    ],
+    "creation_date": "2019-10-10T08:15:05.000+0300",
+    "resolution_date": "2019-11-07T09:39:27.000+0200",
+    "updated_date": "2020-09-21T19:57:28.000+0300",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-163227",
+    "summary": "Persian cats have a black nose",
+    "labels": [
+      "mob",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-10T06:40:37.000+0300",
+    "resolution_date": "2019-10-14T18:19:05.000+0300",
+    "updated_date": "2019-10-20T16:07:35.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-163159",
+    "summary": "Honey block recipe is unlocked when honey block is obtained",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-10T00:55:35.000+0300",
+    "resolution_date": "2019-10-14T14:12:13.000+0300",
+    "updated_date": "2019-10-15T19:47:06.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-163146",
+    "summary": "Entities without transparency by default ignore transparency in resource packs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-10T00:28:40.000+0300",
+    "resolution_date": "2019-10-15T18:34:13.000+0300",
+    "updated_date": "2020-08-21T20:04:18.000+0300",
+    "watches": 9,
+    "votes": 22
+  },
+  {
+    "id": "MC-163110",
+    "summary": "Some blocks are lit inconsistently in the inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T22:59:15.000+0300",
+    "resolution_date": "2019-10-14T18:18:56.000+0300",
+    "updated_date": "2019-11-28T21:53:10.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-163105",
+    "summary": "Held item lighting is based on the player's point of view in third-person mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T22:40:25.000+0300",
+    "resolution_date": "2019-10-16T19:37:44.000+0300",
+    "updated_date": "2019-10-16T19:37:44.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-163102",
+    "summary": "Some blocks and items are discolored when viewing from certain angles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T22:33:16.000+0300",
+    "resolution_date": "2019-10-16T19:36:22.000+0300",
+    "updated_date": "2019-10-17T02:50:07.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-163095",
+    "summary": "Crossbow is darker than it should be",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T22:14:11.000+0300",
+    "resolution_date": "2019-10-17T13:48:02.000+0300",
+    "updated_date": "2019-10-17T13:48:02.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-163089",
+    "summary": "Saddle texture on horses/donkeys appear black or completely broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T22:08:04.000+0300",
+    "resolution_date": "2019-10-15T18:34:09.000+0300",
+    "updated_date": "2019-10-15T18:50:02.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-163085",
+    "summary": "Textures on some horses and donkeys/mules appear black/white on their hair and tails",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T21:58:20.000+0300",
+    "resolution_date": "2019-10-15T18:34:09.000+0300",
+    "updated_date": "2019-10-15T18:48:59.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-163045",
+    "summary": "Breaking animation is not always displayed correctly, depending on the angle it's viewed from",
+    "labels": [
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T20:05:32.000+0300",
+    "resolution_date": "2019-10-14T18:18:55.000+0300",
+    "updated_date": "2019-10-16T17:04:26.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-163030",
+    "summary": "Advancements menu isn't clipped by bounds properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T19:50:42.000+0300",
+    "resolution_date": "2019-10-15T18:34:10.000+0300",
+    "updated_date": "2019-10-18T00:49:32.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-163022",
+    "summary": "Mobs do not avoid walking over honey blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T19:43:11.000+0300",
+    "resolution_date": "2019-10-14T14:11:52.000+0300",
+    "updated_date": "2019-10-19T17:37:52.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-163019",
+    "summary": "Honey blocks don't prevent slimes and magma cubes from jumping",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T19:41:25.000+0300",
+    "resolution_date": "2019-10-14T14:11:44.000+0300",
+    "updated_date": "2022-07-09T15:47:12.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-163009",
+    "summary": "Zombie and player head blocks are completely black",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T19:18:48.000+0300",
+    "resolution_date": "2019-10-14T18:19:02.000+0300",
+    "updated_date": "2019-10-15T14:54:04.000+0300",
+    "watches": 9,
+    "votes": 13
+  },
+  {
+    "id": "MC-163008",
+    "summary": "Zombies, husks and giants have black heads",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T19:17:53.000+0300",
+    "resolution_date": "2019-10-15T18:34:13.000+0300",
+    "updated_date": "2019-10-16T16:02:23.000+0300",
+    "watches": 12,
+    "votes": 31
+  },
+  {
+    "id": "MC-163001",
+    "summary": "Certain items have a black background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-09T19:04:27.000+0300",
+    "resolution_date": "2019-10-14T18:19:01.000+0300",
+    "updated_date": "2020-12-27T18:30:19.000+0200",
+    "watches": 14,
+    "votes": 21
+  },
+  {
+    "id": "MC-162783",
+    "summary": "Banner block outline is white",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-05T14:03:03.000+0300",
+    "resolution_date": "2019-10-14T18:19:05.000+0300",
+    "updated_date": "2019-11-22T14:34:35.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-162729",
+    "summary": "Held map doesn't respect light level",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-04T19:17:24.000+0300",
+    "resolution_date": "2019-10-14T18:18:59.000+0300",
+    "updated_date": "2019-10-14T18:18:59.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-162611",
+    "summary": "Breaking animation is rendered upside down",
+    "labels": [
+      "animation",
+      "block-breaking",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-03T06:35:21.000+0300",
+    "resolution_date": "2019-10-14T18:19:03.000+0300",
+    "updated_date": "2019-10-17T14:20:00.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-162540",
+    "summary": "When a witch drinks a potion, it's far from her body",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-02T19:19:16.000+0300",
+    "resolution_date": "2019-10-14T18:18:56.000+0300",
+    "updated_date": "2019-10-14T18:18:56.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-162534",
+    "summary": "When crouching, player, skeleton, zombie and other heads will clip through player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-02T18:54:58.000+0300",
+    "resolution_date": "2019-10-14T18:18:55.000+0300",
+    "updated_date": "2019-10-15T18:37:28.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-162532",
+    "summary": "When invisible, players wearing heads will bug out",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-02T18:49:21.000+0300",
+    "resolution_date": "2019-10-17T10:45:32.000+0300",
+    "updated_date": "2019-10-17T10:45:32.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-162529",
+    "summary": "Water doesn't have any mipmaps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-02T18:43:12.000+0300",
+    "resolution_date": "2019-10-14T18:18:54.000+0300",
+    "updated_date": "2019-10-14T18:18:54.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-162402",
+    "summary": "Some items are not adjusted properly in third-person mode if the player holding them is sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-01T02:37:26.000+0300",
+    "resolution_date": "2019-10-14T18:18:54.000+0300",
+    "updated_date": "2019-10-16T12:19:03.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-162391",
+    "summary": "Armor stand arm rotation is neglected when affected by invisibility",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-10-01T01:04:40.000+0300",
+    "resolution_date": "2019-10-17T10:46:47.000+0300",
+    "updated_date": "2019-10-17T10:46:47.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-162374",
+    "summary": "Trident position is not adjusted properly if the player is sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-30T21:59:34.000+0300",
+    "resolution_date": "2019-10-14T18:18:52.000+0300",
+    "updated_date": "2019-10-14T18:18:52.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-162261",
+    "summary": "Placed rails are not immediately updated when connecting to other rails",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-29T21:27:59.000+0300",
+    "resolution_date": "2019-10-14T14:13:19.000+0300",
+    "updated_date": "2021-08-18T16:39:52.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-162245",
+    "summary": "Item frames aren't lit properly (too bright)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-29T20:05:48.000+0300",
+    "resolution_date": "2019-10-14T18:19:03.000+0300",
+    "updated_date": "2019-10-14T18:19:03.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-162226",
+    "summary": "Large chests are z-fighting with themselves when the two chest blocks have different light levels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-29T17:08:00.000+0300",
+    "resolution_date": "2019-10-15T18:34:12.000+0300",
+    "updated_date": "2019-10-15T18:34:12.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-162214",
+    "summary": "Player hitbox sinks into the ground when sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-29T15:23:28.000+0300",
+    "resolution_date": "2019-10-20T14:55:18.000+0300",
+    "updated_date": "2019-10-20T14:55:18.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-162184",
+    "summary": "Shadow under the player disappears when sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-29T11:23:35.000+0300",
+    "resolution_date": "2019-10-20T14:56:01.000+0300",
+    "updated_date": "2019-10-20T14:56:01.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-162024",
+    "summary": "Item frame hitbox is rendered offset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-28T09:12:45.000+0300",
+    "resolution_date": "2019-10-16T20:04:49.000+0300",
+    "updated_date": "2019-12-02T09:54:07.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-161982",
+    "summary": "Glowing effect outline no longer applies to banners carried by entities with the glowing effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-28T03:09:11.000+0300",
+    "resolution_date": "2019-10-14T18:18:57.000+0300",
+    "updated_date": "2020-03-13T21:40:14.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-161939",
+    "summary": "Leads are always rendered bright",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T23:49:47.000+0300",
+    "resolution_date": "2019-10-14T18:18:59.000+0300",
+    "updated_date": "2019-10-14T18:18:59.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-161924",
+    "summary": "Default texture minecraft:entity/conduit/open_eye causing mipmap to drop from 4 to 3",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T22:55:23.000+0300",
+    "resolution_date": "2019-10-15T18:34:12.000+0300",
+    "updated_date": "2019-11-22T19:13:48.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-161920",
+    "summary": "Incorrect crossbow animation for invisible players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T22:36:39.000+0300",
+    "resolution_date": "2019-10-17T10:43:15.000+0300",
+    "updated_date": "2019-10-17T10:43:15.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-161886",
+    "summary": "Dropped trident items rotate around an external axis / Bed items rotate around a non-centered axis",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T20:31:15.000+0300",
+    "resolution_date": "2019-10-14T18:19:00.000+0300",
+    "updated_date": "2019-12-02T20:56:48.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-161876",
+    "summary": "Armor models aren't enchanted inside",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T20:04:31.000+0300",
+    "resolution_date": "2019-10-14T18:18:52.000+0300",
+    "updated_date": "2020-03-07T02:11:27.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-161872",
+    "summary": "Trident item is very small and renders as a 3D model when dropped or in an item frame",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T19:56:00.000+0300",
+    "resolution_date": "2019-10-14T18:19:00.000+0300",
+    "updated_date": "2019-10-14T18:19:00.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-161854",
+    "summary": "Animation of teleporting through a nether portal and nausea effect are broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T18:39:01.000+0300",
+    "resolution_date": "2019-10-14T18:19:02.000+0300",
+    "updated_date": "2019-10-14T18:48:02.000+0300",
+    "watches": 11,
+    "votes": 23
+  },
+  {
+    "id": "MC-161832",
+    "summary": "Transparent and translucent blocks in the inventory render their bottom face",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-27T17:57:07.000+0300",
+    "resolution_date": "2019-10-14T18:19:01.000+0300",
+    "updated_date": "2019-10-14T18:19:01.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-161487",
+    "summary": "Entity lighting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-20T13:55:06.000+0300",
+    "resolution_date": "2019-10-20T16:30:50.000+0300",
+    "updated_date": "2019-10-20T16:30:50.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-161424",
+    "summary": "Chest hatch floats when the chest is open; affects all types of chests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-19T17:57:17.000+0300",
+    "resolution_date": "2019-10-15T18:34:11.000+0300",
+    "updated_date": "2022-02-04T05:54:58.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-161262",
+    "summary": "Feeding pandas does not play hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-18T09:12:29.000+0300",
+    "resolution_date": "2019-10-16T20:05:25.000+0300",
+    "updated_date": "2019-11-24T19:56:34.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-161261",
+    "summary": "Treating zombie villagers does not display a hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-18T08:41:25.000+0300",
+    "resolution_date": "2019-10-16T20:06:06.000+0300",
+    "updated_date": "2019-11-24T19:56:33.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-161220",
+    "summary": "Right-clicking on a button while it's pressed inwards still plays a hand animation",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-17T12:45:53.000+0300",
+    "resolution_date": "2019-10-16T18:01:24.000+0300",
+    "updated_date": "2021-03-06T05:56:15.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-161154",
+    "summary": "When the ender eye is unavailable, the hand animation is still playing",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a",
+      "19w46a"
+    ],
+    "creation_date": "2019-09-15T17:19:22.000+0300",
+    "resolution_date": "2019-11-12T12:19:58.000+0200",
+    "updated_date": "2020-06-06T16:02:39.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-161151",
+    "summary": "Right clicking on redstone ore, which causes it to light up, plays no hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-15T16:24:21.000+0300",
+    "resolution_date": "2019-10-16T18:01:22.000+0300",
+    "updated_date": "2021-04-15T23:41:38.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-160993",
+    "summary": "Empty flower pots cause arm animation to play even when holding incompatible items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-13T01:23:38.000+0300",
+    "resolution_date": "2019-10-16T18:01:25.000+0300",
+    "updated_date": "2021-02-23T18:00:10.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-160992",
+    "summary": "Certain blocks cause bare hand to animate when clicked on, despite no action taking place, but do not cause held items to animate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-13T01:17:37.000+0300",
+    "resolution_date": "2019-10-16T19:22:13.000+0300",
+    "updated_date": "2019-10-16T21:16:27.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-160901",
+    "summary": "Using an item while looking at an entity is no longer possible",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-11T20:12:46.000+0300",
+    "resolution_date": "2019-10-16T18:01:13.000+0300",
+    "updated_date": "2021-11-03T23:16:45.000+0200",
+    "watches": 14,
+    "votes": 24
+  },
+  {
+    "id": "MC-160897",
+    "summary": "Dropping an item using the drop key displays the hand animation but dropping items from within the inventory does not",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w42a",
+      "20w06a"
+    ],
+    "creation_date": "2019-09-11T19:59:01.000+0300",
+    "resolution_date": "2020-01-22T09:47:42.000+0200",
+    "updated_date": "2020-10-01T05:28:39.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-160896",
+    "summary": "Shearing sheep and mooshrooms does not display a hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-11T19:55:37.000+0300",
+    "resolution_date": "2019-10-16T18:01:16.000+0300",
+    "updated_date": "2019-11-24T19:56:33.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-160895",
+    "summary": "Breeding animals does not display a hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-11T19:53:39.000+0300",
+    "resolution_date": "2019-10-16T18:01:15.000+0300",
+    "updated_date": "2021-04-05T23:33:42.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-160894",
+    "summary": "Shovel swings when right-clicking on any block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-11T19:53:01.000+0300",
+    "resolution_date": "2019-10-16T18:01:20.000+0300",
+    "updated_date": "2019-10-16T18:01:20.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-160524",
+    "summary": "Wet sponges placed in the nether make no sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-05T06:07:12.000+0300",
+    "resolution_date": "2019-10-14T14:12:42.000+0300",
+    "updated_date": "2020-03-13T21:42:21.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-160477",
+    "summary": "Dispenser with empty bottles plays successful sound when attempting to remove honey from non-full bee house/empty space",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-09-04T20:08:53.000+0300",
+    "resolution_date": "2019-10-15T18:54:28.000+0300",
+    "updated_date": "2021-02-23T18:01:15.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-159947",
+    "summary": "Fire charge from dispenser does not light campfire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-08-28T12:19:36.000+0300",
+    "resolution_date": "2019-10-14T14:14:49.000+0300",
+    "updated_date": "2019-10-14T14:14:49.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-159347",
+    "summary": "\"Bee nest\" is not capitalized correctly",
+    "labels": [
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-08-22T16:42:13.000+0300",
+    "resolution_date": "2019-10-14T14:13:03.000+0300",
+    "updated_date": "2021-08-18T16:39:50.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-158585",
+    "summary": "Villagers spawned from dispensers have default textures no matter what biome they are in",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-08-07T22:33:18.000+0300",
+    "resolution_date": "2019-10-14T14:14:34.000+0300",
+    "updated_date": "2019-10-14T14:14:34.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-156078",
+    "summary": "Name Tag not working on Endermite",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-07-05T21:21:52.000+0300",
+    "resolution_date": "2019-10-19T03:20:42.000+0300",
+    "updated_date": "2019-10-19T03:20:42.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-147997",
+    "summary": "Villagers jump while going through doors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-04-12T16:52:32.000+0300",
+    "resolution_date": "2020-02-13T02:01:37.000+0200",
+    "updated_date": "2020-02-13T02:01:37.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-147549",
+    "summary": "Clicking on the bell from unringable angles/clicking non bell parts of the bell plays the hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2019-04-06T12:57:21.000+0300",
+    "resolution_date": "2019-10-16T19:35:38.000+0300",
+    "updated_date": "2020-01-24T23:30:53.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-134495",
+    "summary": "Click and hover events still work when F1 is toggled",
+    "labels": [
+      "F1",
+      "chat",
+      "clickEvent",
+      "hoverEvent",
+      "text-component"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2018-07-21T22:39:14.000+0300",
+    "resolution_date": "2019-10-15T18:15:47.000+0300",
+    "updated_date": "2019-10-15T18:15:47.000+0300",
+    "watches": 10,
+    "votes": 8
+  },
+  {
+    "id": "MC-132787",
+    "summary": "Lily pads generate much less frequently / do not generate in certain areas",
+    "labels": [
+      "lily_pad",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2018-07-05T16:00:31.000+0300",
+    "resolution_date": "2019-10-16T21:25:41.000+0300",
+    "updated_date": "2019-10-16T21:25:41.000+0300",
+    "watches": 15,
+    "votes": 28
+  },
+  {
+    "id": "MC-132445",
+    "summary": "Spawn eggs used on water do not display a hand animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a",
+      "19w42a"
+    ],
+    "creation_date": "2018-07-01T00:54:53.000+0300",
+    "resolution_date": "2019-10-16T18:01:17.000+0300",
+    "updated_date": "2019-11-24T19:56:33.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-131061",
+    "summary": "Armor stands cannot be placed by dispensers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2018-06-08T01:27:56.000+0300",
+    "resolution_date": "2019-10-14T14:14:21.000+0300",
+    "updated_date": "2019-10-14T14:20:19.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-127573",
+    "summary": "Hover text is displayed for multiplayer chat while in bed even if chat is hidden",
+    "labels": [
+      "bed",
+      "chat",
+      "tooltip"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2018-03-23T16:08:27.000+0200",
+    "resolution_date": "2019-10-15T18:15:45.000+0300",
+    "updated_date": "2019-10-15T19:42:12.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-125204",
+    "summary": "Trident appears floating when charging it while sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2018-02-14T20:39:30.000+0200",
+    "resolution_date": "2019-10-16T20:29:38.000+0300",
+    "updated_date": "2019-10-16T20:29:38.000+0300",
+    "watches": 10,
+    "votes": 18
+  },
+  {
+    "id": "MC-119621",
+    "summary": "Left arm swings in third person while interacting with fence with item in main hand",
+    "labels": [
+      "fence",
+      "hand",
+      "swinging"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2017-07-22T16:11:33.000+0300",
+    "resolution_date": "2019-10-16T20:21:55.000+0300",
+    "updated_date": "2020-01-24T23:30:53.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-114106",
+    "summary": "Dispenser plays failed sound when equipping a single pumpkin or skull",
+    "labels": [
+      "count",
+      "dispenser",
+      "equipping",
+      "item",
+      "pumpkin",
+      "skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2017-02-22T19:39:45.000+0200",
+    "resolution_date": "2019-10-14T14:14:00.000+0300",
+    "updated_date": "2019-10-17T02:48:13.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-112994",
+    "summary": "Interacting with shears on a snow golem always uses item in off-hand as well",
+    "labels": [
+      "interact",
+      "item",
+      "off-hand",
+      "shears",
+      "snow_golem"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2017-01-30T00:40:28.000+0200",
+    "resolution_date": "2019-11-23T23:22:47.000+0200",
+    "updated_date": "2019-11-23T23:22:47.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-111444",
+    "summary": "Elytras can't open if the server is lagging or when moving upwards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2016-12-16T00:04:20.000+0200",
+    "resolution_date": "2019-10-14T14:15:06.000+0300",
+    "updated_date": "2020-05-25T17:59:12.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-106826",
+    "summary": "Can interact with (eat) cake in creative mode/hunger bar is full",
+    "labels": [
+      "cake",
+      "eat",
+      "hunger",
+      "interaction",
+      "survival"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 16w40a",
+      "19w42a"
+    ],
+    "creation_date": "2016-09-05T17:04:52.000+0300",
+    "resolution_date": "2019-10-16T19:31:39.000+0300",
+    "updated_date": "2019-10-20T04:09:34.000+0300",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-102130",
+    "summary": "Glowing slimes/drowned outline becomes black when taking damage",
+    "labels": [
+      "arrow",
+      "black",
+      "damage",
+      "glow",
+      "glowing",
+      "outline",
+      "slime",
+      "spectral"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2016-05-18T22:27:36.000+0300",
+    "resolution_date": "2019-10-19T22:20:35.000+0300",
+    "updated_date": "2019-10-19T22:20:56.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-84611",
+    "summary": "Right clicking water while duel wielding spawn eggs creates two of the mobs",
+    "labels": [
+      "placement"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2015-08-01T11:20:14.000+0300",
+    "resolution_date": "2019-10-16T19:07:05.000+0300",
+    "updated_date": "2019-10-16T19:07:05.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-83998",
+    "summary": "Unable to place blocks on fences from off-hand",
+    "labels": [
+      "fence",
+      "off-hand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 16w39c",
+      "19w42a"
+    ],
+    "creation_date": "2015-07-30T21:04:41.000+0300",
+    "resolution_date": "2019-10-16T20:27:28.000+0300",
+    "updated_date": "2019-10-17T00:33:13.000+0300",
+    "watches": 11,
+    "votes": 33
+  },
+  {
+    "id": "MC-82943",
+    "summary": "Witch held item uses player held item position",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w42a"
+    ],
+    "creation_date": "2015-07-29T17:29:42.000+0300",
+    "resolution_date": "2019-10-14T18:18:57.000+0300",
+    "updated_date": "2019-10-14T18:18:57.000+0300",
+    "watches": 16,
+    "votes": 29
+  }
+]

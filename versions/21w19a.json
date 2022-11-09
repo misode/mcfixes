@@ -1,0 +1,863 @@
+[
+  {
+    "id": "MC-225815",
+    "summary": "A spawner has been replaced from a block of Stone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-05-19T11:55:15.000+0300",
+    "resolution_date": "2021-05-19T16:48:34.000+0300",
+    "updated_date": "2021-05-19T16:48:34.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-225025",
+    "summary": "Server side performance drop with dragon's breath area effect clouds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-05-06T19:37:19.000+0300",
+    "resolution_date": "2021-05-12T10:52:38.000+0300",
+    "updated_date": "2021-05-12T10:52:38.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-224972",
+    "summary": "Infested blocks have no effective tool",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-05-06T01:11:27.000+0300",
+    "resolution_date": "2021-05-06T13:46:15.000+0300",
+    "updated_date": "2021-05-08T05:22:01.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-224927",
+    "summary": "Infested blocks take twice as long instead of half the time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-05-05T19:38:07.000+0300",
+    "resolution_date": "2021-05-06T13:46:16.000+0300",
+    "updated_date": "2021-05-07T11:16:51.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-224389",
+    "summary": "Copper Ingots are no longer grouped in the crafting table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-28T17:45:16.000+0300",
+    "resolution_date": "2021-05-11T18:30:21.000+0300",
+    "updated_date": "2021-05-11T20:34:23.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-224388",
+    "summary": "Ores and raw materials in smelting preview are off center",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-28T17:40:10.000+0300",
+    "resolution_date": "2021-05-06T19:12:28.000+0300",
+    "updated_date": "2021-08-18T16:39:45.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-224325",
+    "summary": "minecraft.used:minecraft.COMPOSTABLE_ITEM doesn't increase when placing an item into a composter",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-27T20:08:32.000+0300",
+    "resolution_date": "2021-05-07T10:52:57.000+0300",
+    "updated_date": "2021-07-23T22:34:24.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-223907",
+    "summary": "Moss block appears in the #lush_ground_replaceable.json twice",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-22T16:44:17.000+0300",
+    "resolution_date": "2021-05-07T10:52:58.000+0300",
+    "updated_date": "2021-05-07T11:17:15.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-223820",
+    "summary": "Azalea & Flowering Azalea aren't part of the block or item tags for #saplings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-21T20:57:07.000+0300",
+    "resolution_date": "2021-05-11T17:25:28.000+0300",
+    "updated_date": "2021-05-11T17:25:28.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-223446",
+    "summary": "Shulkers appear in the wrong place when riding an entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-17T16:31:23.000+0300",
+    "resolution_date": "2021-05-11T11:07:25.000+0300",
+    "updated_date": "2021-05-11T11:07:25.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-223227",
+    "summary": "Floating water caves in caves under the ocean",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w19a",
+      "1.17 Pre-release 3"
+    ],
+    "creation_date": "2021-04-15T00:44:53.000+0300",
+    "resolution_date": "2021-06-01T17:42:42.000+0300",
+    "updated_date": "2021-06-10T04:04:58.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-223171",
+    "summary": "Budding Amethyst and Copper variants are far away in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-14T19:36:28.000+0300",
+    "resolution_date": "2021-05-07T11:52:11.000+0300",
+    "updated_date": "2021-05-07T18:44:24.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-223132",
+    "summary": "Powder snow doesn't produce a breaking sound or subtitle, when destroyed through extinguishing a burning player, mob, or flame arrow",
+    "labels": [
+      "powder_snow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-14T16:37:55.000+0300",
+    "resolution_date": "2021-05-11T11:07:28.000+0300",
+    "updated_date": "2021-05-11T11:07:28.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-222882",
+    "summary": "Spyglass in Search tab of creative inventory is mixed with block types instead of tools where it belongs",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-10T18:42:22.000+0300",
+    "resolution_date": "2021-05-06T14:56:53.000+0300",
+    "updated_date": "2021-05-06T14:56:53.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-222738",
+    "summary": "Leads don't work with Glow Squids",
+    "labels": [
+      "glow_squid",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-09T09:05:16.000+0300",
+    "resolution_date": "2021-05-11T17:07:23.000+0300",
+    "updated_date": "2021-05-11T17:18:46.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-221957",
+    "summary": "Pick Block used on a level 15 light block returns a different item from the default light block",
+    "labels": [
+      "light_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-02T14:35:14.000+0300",
+    "resolution_date": "2021-05-07T10:52:59.000+0300",
+    "updated_date": "2021-05-07T10:52:59.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-221844",
+    "summary": "Powder snow doesn\u2019t produce particles when broken by burning mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-01T18:57:11.000+0300",
+    "resolution_date": "2021-05-11T11:07:33.000+0300",
+    "updated_date": "2021-05-11T11:07:34.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-221756",
+    "summary": "Snow particles do not render at all when the block light level is 7 or more",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-04-01T09:54:31.000+0300",
+    "resolution_date": "2021-05-12T12:00:22.000+0300",
+    "updated_date": "2021-05-12T12:00:22.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-220215",
+    "summary": "Opening a shulker box while an entity is standing on top of it pushes it too high for a short amount of time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-03-19T22:18:29.000+0200",
+    "resolution_date": "2021-05-11T11:07:27.000+0300",
+    "updated_date": "2021-05-11T11:07:27.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-220106",
+    "summary": "Lightning hitting an entity on copper slabs on top another copper block fully cleans the bottom block first",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-03-19T03:26:24.000+0200",
+    "resolution_date": "2021-05-11T11:07:34.000+0300",
+    "updated_date": "2021-05-11T11:07:34.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-219873",
+    "summary": "Lightning Bolt detecting lightning rod incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-03-17T21:19:49.000+0200",
+    "resolution_date": "2021-05-11T11:07:34.000+0300",
+    "updated_date": "2021-05-11T11:07:34.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-219445",
+    "summary": "Bonemealing big dripleaf in flowing water doesn't update the water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-03-14T00:20:50.000+0200",
+    "resolution_date": "2021-05-11T11:07:28.000+0300",
+    "updated_date": "2021-05-11T11:07:28.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-217626",
+    "summary": "Spore blossom is positioned rather strangely among flowers in Creative",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-03-03T18:56:22.000+0200",
+    "resolution_date": "2021-05-07T10:53:01.000+0300",
+    "updated_date": "2021-05-07T10:53:01.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-214283",
+    "summary": "Hanging roots break sound event uses break3 twice, excluding break4",
+    "labels": [
+      "sounds.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-02-06T05:28:23.000+0200",
+    "resolution_date": "2021-05-10T13:55:39.000+0300",
+    "updated_date": "2021-05-12T16:59:12.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-214127",
+    "summary": "Despite being a type of berry plant, bees don't pollinate cave vines",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-02-05T00:58:56.000+0200",
+    "resolution_date": "2021-05-11T18:13:47.000+0300",
+    "updated_date": "2021-05-11T18:13:47.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-213943",
+    "summary": "Flying slightly above a big dripleaf can cause it to tilt without touching it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-02-04T03:39:29.000+0200",
+    "resolution_date": "2021-05-11T11:07:36.000+0300",
+    "updated_date": "2021-05-11T11:07:36.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-213922",
+    "summary": "Shulkers are not spawned in the correct place",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-02-04T02:05:45.000+0200",
+    "resolution_date": "2021-05-11T11:07:24.000+0300",
+    "updated_date": "2021-05-11T11:07:24.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-213774",
+    "summary": "Hanging roots float in your hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-02-03T20:22:47.000+0200",
+    "resolution_date": "2021-05-12T11:46:34.000+0300",
+    "updated_date": "2021-05-12T11:46:34.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-212206",
+    "summary": "Shulkers generating outside the world border bug out when trying to spawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2021-01-20T21:29:20.000+0200",
+    "resolution_date": "2021-05-11T11:07:29.000+0300",
+    "updated_date": "2021-05-11T11:07:29.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-209533",
+    "summary": "Amethyst shard is not grouped with other gemstones in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-12-26T01:50:04.000+0200",
+    "resolution_date": "2021-05-12T10:41:40.000+0300",
+    "updated_date": "2021-05-12T10:41:41.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-208740",
+    "summary": "Withers attack axolotls that are playing dead",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-12-17T05:22:32.000+0200",
+    "resolution_date": "2021-05-11T20:08:00.000+0300",
+    "updated_date": "2021-05-11T20:08:00.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-208663",
+    "summary": "Pufferfish don't defend themselves from axolotls",
+    "labels": [
+      "axolotl",
+      "mob-infighting",
+      "pufferfish"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-12-16T21:27:53.000+0200",
+    "resolution_date": "2021-05-11T16:58:29.000+0300",
+    "updated_date": "2021-08-28T04:27:47.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-205626",
+    "summary": "The command syntax order of /item is inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-11-14T18:37:13.000+0200",
+    "resolution_date": "2021-05-11T20:01:11.000+0300",
+    "updated_date": "2021-05-11T20:01:11.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-205268",
+    "summary": "Sideways lightning rods don't power redstone dust",
+    "labels": [
+      "lightning_rod"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-11-12T04:13:24.000+0200",
+    "resolution_date": "2021-06-15T23:01:13.000+0300",
+    "updated_date": "2021-06-20T02:55:18.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-204244",
+    "summary": "Sheep are rendered like white sheared sheep through tinted glass blocks",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-11-05T23:15:09.000+0200",
+    "resolution_date": "2021-05-06T19:12:28.000+0300",
+    "updated_date": "2021-05-06T19:12:28.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-203757",
+    "summary": "Anvil character limit is too low for items with long names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "Items",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-11-05T00:18:50.000+0200",
+    "resolution_date": "2021-05-11T18:55:13.000+0300",
+    "updated_date": "2021-05-12T17:28:54.000+0300",
+    "watches": 10,
+    "votes": 25
+  },
+  {
+    "id": "MC-203718",
+    "summary": "Lightning rod stays activated when struck by lighting at the same time as being moved by a piston",
+    "labels": [
+      "lightning_rod"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-11-04T23:13:17.000+0200",
+    "resolution_date": "2021-05-12T10:52:39.000+0300",
+    "updated_date": "2021-05-12T10:52:39.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-203606",
+    "summary": "\"X Candle Cake\" should be \"Cake with X Candle\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-11-04T21:29:15.000+0200",
+    "resolution_date": "2021-05-11T11:07:23.000+0300",
+    "updated_date": "2021-05-25T11:26:04.000+0300",
+    "watches": 9,
+    "votes": 13
+  },
+  {
+    "id": "MC-200009",
+    "summary": "Crash when using a non-mushroom block in a huge mushroom feature's cap",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2020-09-11T08:07:56.000+0300",
+    "resolution_date": "2021-05-12T12:09:19.000+0300",
+    "updated_date": "2022-07-30T16:33:42.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-165924",
+    "summary": "Snow particles render darker / almost transparent if the block light level is 7 or more",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2019-11-20T22:27:53.000+0200",
+    "resolution_date": "2021-05-12T17:42:58.000+0300",
+    "updated_date": "2021-05-12T17:42:58.000+0300",
+    "watches": 7,
+    "votes": 22
+  },
+  {
+    "id": "MC-136647",
+    "summary": "Leads don't work with Squids",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2018-09-02T02:13:52.000+0300",
+    "resolution_date": "2021-05-11T17:07:23.000+0300",
+    "updated_date": "2021-05-11T17:08:44.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-105080",
+    "summary": "Ender Dragon is respawned if all Exit End Portal blocks are removed / legacy scanning is done for worlds with new dragon fight",
+    "labels": [
+      "ender_dragon",
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2016-07-06T19:54:59.000+0300",
+    "resolution_date": "2021-05-12T10:52:39.000+0300",
+    "updated_date": "2021-06-03T13:08:53.000+0300",
+    "watches": 19,
+    "votes": 25
+  },
+  {
+    "id": "MC-101244",
+    "summary": "Can't scan for LAN worlds on macOS",
+    "labels": [
+      "LAN",
+      "macOS",
+      "network"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w19a"
+    ],
+    "creation_date": "2016-04-24T03:06:03.000+0300",
+    "resolution_date": "2021-11-20T15:27:20.000+0200",
+    "updated_date": "2021-11-20T15:28:25.000+0200",
+    "watches": 20,
+    "votes": 17
+  }
+]

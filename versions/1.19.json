@@ -1,0 +1,45 @@
+[
+  {
+    "id": "MC-252520",
+    "summary": "Can't join a multiplayer server on Linux",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19"
+    ],
+    "creation_date": "2022-06-07T19:41:13.000+0300",
+    "resolution_date": "2022-06-08T18:36:15.000+0300",
+    "updated_date": "2022-06-08T23:50:13.000+0300",
+    "watches": 9,
+    "votes": 5
+  },
+  {
+    "id": "MC-248790",
+    "summary": "Custom structures using jigsaw blocks will not generate new pieces under Y-0",
+    "labels": [
+      "custom-worldgen",
+      "jigsaw_block",
+      "structures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19"
+    ],
+    "creation_date": "2022-02-24T04:16:33.000+0200",
+    "resolution_date": "2022-06-12T19:53:30.000+0300",
+    "updated_date": "2022-06-12T19:53:30.000+0300",
+    "watches": 7,
+    "votes": 6
+  }
+]

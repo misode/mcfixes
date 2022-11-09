@@ -1,0 +1,968 @@
+[
+  {
+    "id": "MC-174326",
+    "summary": "Mobs do not spawn on soul sand, causing weird mob spawning in soul sand valleys",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-09T21:39:57.000+0200",
+    "resolution_date": "2020-03-17T14:07:45.000+0200",
+    "updated_date": "2020-03-17T19:43:17.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-173858",
+    "summary": "Unable to set \"LeftHanded\" to \"1b\" for piglins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-05T10:42:59.000+0200",
+    "resolution_date": "2020-03-09T17:53:08.000+0200",
+    "updated_date": "2020-03-09T17:53:08.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-173829",
+    "summary": "Lava and fire randomly make extinguishing sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Block states",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-05T04:32:44.000+0200",
+    "resolution_date": "2020-03-17T00:13:11.000+0200",
+    "updated_date": "2020-03-17T00:13:11.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-173805",
+    "summary": "Dried Kelp Blocks don't have an assigned tool",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-05T01:45:43.000+0200",
+    "resolution_date": "2020-07-01T13:12:39.000+0300",
+    "updated_date": "2020-07-01T13:12:39.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-173792",
+    "summary": "End gateways don't work using enderpearls",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-05T00:56:41.000+0200",
+    "resolution_date": "2020-03-11T14:52:29.000+0200",
+    "updated_date": "2020-08-17T08:25:54.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-173776",
+    "summary": "Hoes do not mine targets faster",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-04T23:24:08.000+0200",
+    "resolution_date": "2020-03-11T10:18:26.000+0200",
+    "updated_date": "2020-03-11T10:18:26.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-173766",
+    "summary": "Thrown tridents disappear after hitting and damaging a mob or entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-04T22:37:59.000+0200",
+    "resolution_date": "2020-03-11T14:52:29.000+0200",
+    "updated_date": "2020-04-20T20:17:24.000+0300",
+    "watches": 13,
+    "votes": 18
+  },
+  {
+    "id": "MC-173739",
+    "summary": "Missing sound for event: minecraft:block.smithing_table.use",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-04T19:36:40.000+0200",
+    "resolution_date": "2020-03-11T10:08:03.000+0200",
+    "updated_date": "2020-03-11T10:08:03.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-173732",
+    "summary": "Fire and soul fire do not have loot tables",
+    "labels": [
+      "missing-loot-table"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-04T19:13:18.000+0200",
+    "resolution_date": "2020-03-11T09:47:21.000+0200",
+    "updated_date": "2021-09-01T22:10:23.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-173731",
+    "summary": "Fire and soul fire play a sound and produce particles when extinguished",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-04T19:12:58.000+0200",
+    "resolution_date": "2020-03-09T17:18:10.000+0200",
+    "updated_date": "2020-03-13T21:35:29.000+0200",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-173725",
+    "summary": "Anvil name field doesn't automatically receive focus anymore and is unclickable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-04T18:58:12.000+0200",
+    "resolution_date": "2020-03-11T15:06:42.000+0200",
+    "updated_date": "2020-03-16T14:47:46.000+0200",
+    "watches": 23,
+    "votes": 43
+  },
+  {
+    "id": "MC-173706",
+    "summary": "NullPointerException in server tick loop when trying to load a flatland world with Nether biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-04T11:57:07.000+0200",
+    "resolution_date": "2020-03-11T17:14:46.000+0200",
+    "updated_date": "2020-03-11T18:28:14.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-173485",
+    "summary": "Death message from falling off scaffolding does not mention it by name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-01T02:39:10.000+0200",
+    "resolution_date": "2020-03-11T17:32:22.000+0200",
+    "updated_date": "2021-02-23T17:47:58.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-173484",
+    "summary": "Death message from falling off a trapdoor does not mention it by name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-03-01T02:37:53.000+0200",
+    "resolution_date": "2020-03-11T17:56:22.000+0200",
+    "updated_date": "2021-08-18T16:39:56.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-173467",
+    "summary": "Piglins admiring bartering gold ingot drop nothing when converting to Zombified Piglin",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-29T22:52:28.000+0200",
+    "resolution_date": "2020-03-11T16:37:05.000+0200",
+    "updated_date": "2020-03-11T16:37:05.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-173462",
+    "summary": "Baby piglins can hold soul fire torches",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-29T21:50:46.000+0200",
+    "resolution_date": "2020-03-09T17:53:15.000+0200",
+    "updated_date": "2020-03-09T17:53:15.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-173433",
+    "summary": "Killing a baby Hoglin doesn't yield experience",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-29T14:47:49.000+0200",
+    "resolution_date": "2020-03-11T17:32:21.000+0200",
+    "updated_date": "2020-03-12T00:16:37.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-173384",
+    "summary": "Crying obsidian can be destroyed by the Ender Dragon",
+    "labels": [
+      "block-missing-from-block-tag"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-28T18:54:19.000+0200",
+    "resolution_date": "2020-03-09T17:34:44.000+0200",
+    "updated_date": "2021-10-26T15:08:22.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-173302",
+    "summary": "Crying Obsidian can be harvested with any pickaxe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-27T17:02:04.000+0200",
+    "resolution_date": "2020-03-09T17:34:44.000+0200",
+    "updated_date": "2020-03-09T17:34:44.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-173283",
+    "summary": "Piglin admiring held gold ingot doesn't drop it when killed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-27T11:19:23.000+0200",
+    "resolution_date": "2020-03-11T17:32:21.000+0200",
+    "updated_date": "2020-03-22T11:57:31.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-173243",
+    "summary": "Crying obsidian is movable by pistons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-27T01:07:24.000+0200",
+    "resolution_date": "2020-03-09T17:34:44.000+0200",
+    "updated_date": "2020-03-09T17:34:44.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-173219",
+    "summary": "No sound when climbing weeping vines",
+    "labels": [
+      "missing-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-26T22:22:26.000+0200",
+    "resolution_date": "2020-03-09T17:48:49.000+0200",
+    "updated_date": "2021-10-16T05:22:03.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-173180",
+    "summary": "Hoglins are not scared of Warped Fungus in flower pots",
+    "labels": [
+      "ai",
+      "flower-pot",
+      "hoglin",
+      "warped_fungi",
+      "warped_fungus"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-26T20:35:42.000+0200",
+    "resolution_date": "2020-03-11T17:32:21.000+0200",
+    "updated_date": "2020-06-15T17:25:30.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-173167",
+    "summary": "Netherite sword/tools not sorted with other swords/tools",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-26T20:09:57.000+0200",
+    "resolution_date": "2020-03-09T17:41:32.000+0200",
+    "updated_date": "2021-03-21T22:11:04.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-173160",
+    "summary": "Weeping vines plants can be replaced by weeping vines \"sapling\" (small block) by just right-clicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-26T19:39:43.000+0200",
+    "resolution_date": "2020-03-11T23:18:21.000+0200",
+    "updated_date": "2020-03-11T23:18:21.000+0200",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-173156",
+    "summary": "Z-fighting at bottom of potted bamboo; bottom texture of bamboo is exposed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-26T19:29:53.000+0200",
+    "resolution_date": "2020-03-11T13:50:57.000+0200",
+    "updated_date": "2021-02-24T15:21:44.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-173050",
+    "summary": "Hoglins can't hit some mobs with large hitboxes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-24T13:25:26.000+0200",
+    "resolution_date": "2020-03-12T02:48:09.000+0200",
+    "updated_date": "2020-03-16T04:37:33.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-172903",
+    "summary": "Piglins which convert into zombified piglins delete armor if equipped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-22T17:36:18.000+0200",
+    "resolution_date": "2020-03-11T16:40:35.000+0200",
+    "updated_date": "2020-08-16T11:13:04.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-172530",
+    "summary": "Piglins indefinitely stand around dropped golden items if mobGriefing is disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-16T22:20:40.000+0200",
+    "resolution_date": "2020-03-09T17:53:15.000+0200",
+    "updated_date": "2020-07-12T01:34:51.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-172470",
+    "summary": "When the piglin holds the bow, it will try to attack and follow the enemy eventually  stood there not moving",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-16T10:28:21.000+0200",
+    "resolution_date": "2020-03-09T17:53:15.000+0200",
+    "updated_date": "2020-03-09T17:53:15.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-172428",
+    "summary": "Piglins and hoglins don't look at their target",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-16T01:35:20.000+0200",
+    "resolution_date": "2020-03-09T17:53:16.000+0200",
+    "updated_date": "2020-03-09T17:53:16.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-172374",
+    "summary": "Can teleport to invalid y coordinates and crash the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-15T18:06:49.000+0200",
+    "resolution_date": "2020-03-11T13:50:57.000+0200",
+    "updated_date": "2020-04-09T22:23:11.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-172323",
+    "summary": "Game crashes when summoning a hoglin with the attack damage attribute set to 0 or giving a hoglin weakness with a very high level (255)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-15T12:02:28.000+0200",
+    "resolution_date": "2020-03-11T17:32:23.000+0200",
+    "updated_date": "2020-03-11T23:06:17.000+0200",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-172266",
+    "summary": "Crossbow wielding piglins do not properly walk backwards to target the player when very close",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-15T02:58:30.000+0200",
+    "resolution_date": "2020-03-09T17:53:10.000+0200",
+    "updated_date": "2020-03-09T17:53:10.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-171860",
+    "summary": "Nether fossils have code implying an unimplemented /locate function",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-11T06:41:15.000+0200",
+    "resolution_date": "2020-03-09T15:58:34.000+0200",
+    "updated_date": "2020-03-18T19:04:47.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-171756",
+    "summary": "Weird fire bug",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-10T01:33:58.000+0200",
+    "resolution_date": "2020-03-15T11:42:56.000+0200",
+    "updated_date": "2020-03-15T11:42:56.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-171589",
+    "summary": "Fire makes block burned noise before the block disappears",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-08T21:19:26.000+0200",
+    "resolution_date": "2020-03-15T11:28:10.000+0200",
+    "updated_date": "2020-03-15T11:28:10.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-171213",
+    "summary": " Blocks that are affected by gravity don't destroy Nether sprouts when dropped from above ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-06T22:50:43.000+0200",
+    "resolution_date": "2020-03-15T11:17:51.000+0200",
+    "updated_date": "2021-12-31T05:54:36.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-171079",
+    "summary": "Comparators no longer work as expected reading containers through powered blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-06T05:34:16.000+0200",
+    "resolution_date": "2020-03-11T17:24:37.000+0200",
+    "updated_date": "2020-03-23T18:00:19.000+0200",
+    "watches": 112,
+    "votes": 603
+  },
+  {
+    "id": "MC-170836",
+    "summary": "Cannot set the top of soul sand on fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2020-02-05T19:42:36.000+0200",
+    "resolution_date": "2020-03-11T20:00:52.000+0200",
+    "updated_date": "2020-03-18T20:02:08.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-159502",
+    "summary": "Bees don't avoid water; killing themselves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w11a",
+      "1.16 Pre-release 3"
+    ],
+    "creation_date": "2019-08-23T08:01:40.000+0300",
+    "resolution_date": "2020-06-09T17:33:58.000+0300",
+    "updated_date": "2021-03-12T04:05:20.000+0200",
+    "watches": 13,
+    "votes": 26
+  },
+  {
+    "id": "MC-148935",
+    "summary": "Zombies with no AI still convert into drowned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2019-04-21T03:23:45.000+0300",
+    "resolution_date": "2020-03-11T13:50:57.000+0200",
+    "updated_date": "2020-03-11T13:50:57.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-146928",
+    "summary": "Can't place doors, rails, buttons, pressure plate, redstone, etc. on soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2019-03-28T19:16:49.000+0200",
+    "resolution_date": "2020-03-09T16:47:04.000+0200",
+    "updated_date": "2020-03-16T16:08:46.000+0200",
+    "watches": 13,
+    "votes": 24
+  },
+  {
+    "id": "MC-145140",
+    "summary": "Fireballs cannot be interacted with when summoned",
+    "labels": [
+      "disappear",
+      "flash",
+      "flicker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2019-02-28T18:57:49.000+0200",
+    "resolution_date": "2020-03-11T14:52:30.000+0200",
+    "updated_date": "2020-04-23T19:02:18.000+0300",
+    "watches": 15,
+    "votes": 22
+  },
+  {
+    "id": "MC-134900",
+    "summary": "server.properties generator-settings for level-type FLAT not implemented; property is stored in ignored flat_world_options NBT",
+    "labels": [
+      "generator-settings",
+      "level-type",
+      "server.properties"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2018-07-26T07:16:24.000+0300",
+    "resolution_date": "2020-03-11T17:15:22.000+0200",
+    "updated_date": "2020-05-04T21:38:58.000+0300",
+    "watches": 15,
+    "votes": 17
+  },
+  {
+    "id": "MC-128247",
+    "summary": "Dolphins can jump way too far causing them to hit on land",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2018-04-11T19:17:45.000+0300",
+    "resolution_date": "2020-03-13T12:29:58.000+0200",
+    "updated_date": "2020-03-13T12:29:58.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-104949",
+    "summary": "Mobs can't jump shorter than half of the blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2016-07-03T05:43:13.000+0300",
+    "resolution_date": "2020-03-16T12:49:40.000+0200",
+    "updated_date": "2020-03-16T12:57:11.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-104900",
+    "summary": "Skeletons, illusioners and piglins with crossbows have broken agility reaction when hit or walking on certain blocks when provoked",
+    "labels": [
+      "illusion_illager",
+      "piglin",
+      "skeleton",
+      "speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2016-07-02T01:55:13.000+0300",
+    "resolution_date": "2020-03-11T20:57:15.000+0200",
+    "updated_date": "2021-01-13T04:44:51.000+0200",
+    "watches": 27,
+    "votes": 54
+  },
+  {
+    "id": "MC-81659",
+    "summary": "Fireball and witherskull hitboxes are frequently invisible for some seconds",
+    "labels": [
+      "fireball",
+      "hitbox",
+      "wither_skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w11a"
+    ],
+    "creation_date": "2015-06-21T17:50:04.000+0300",
+    "resolution_date": "2020-03-11T14:52:30.000+0200",
+    "updated_date": "2020-03-11T14:52:30.000+0200",
+    "watches": 3,
+    "votes": 2
+  }
+]

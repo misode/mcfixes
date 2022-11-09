@@ -1,0 +1,59 @@
+[
+  {
+    "id": "MC-167530",
+    "summary": "Anvils causing java.lang.StackOverflowError",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.1 Pre-release 1"
+    ],
+    "creation_date": "2019-12-11T04:23:05.000+0200",
+    "resolution_date": "2019-12-11T14:13:45.000+0200",
+    "updated_date": "2020-03-25T13:18:51.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-167482",
+    "summary": "Corrupt chunk causes force upgrading a world to fail",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.1 Pre-release 1"
+    ],
+    "creation_date": "2019-12-10T22:29:49.000+0200",
+    "resolution_date": "2019-12-11T14:13:45.000+0200",
+    "updated_date": "2019-12-11T14:13:45.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-135050",
+    "summary": "NullPointerException while tesselating block model",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15.1 Pre-release 1"
+    ],
+    "creation_date": "2018-07-27T16:30:42.000+0300",
+    "resolution_date": "2019-12-14T15:45:32.000+0200",
+    "updated_date": "2019-12-14T15:45:32.000+0200",
+    "watches": 4,
+    "votes": 12
+  }
+]

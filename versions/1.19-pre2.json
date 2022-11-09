@@ -1,0 +1,1297 @@
+[
+  {
+    "id": "MC-252103",
+    "summary": "Gear equips sound plays when giving any item to an armor stand with arms",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-23T17:37:06.000+0300",
+    "resolution_date": "2022-05-24T08:22:16.000+0300",
+    "updated_date": "2022-05-30T13:33:11.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-252056",
+    "summary": "The minecraft:item.armor.equip_generic sound is produced when giving piglins gold ingots",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-22T16:42:35.000+0300",
+    "resolution_date": "2022-05-23T19:41:40.000+0300",
+    "updated_date": "2022-05-23T19:41:40.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-252041",
+    "summary": "Gear equip sound plays when mobs spawn in with weapons or armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-22T04:18:04.000+0300",
+    "resolution_date": "2022-05-24T08:22:10.000+0300",
+    "updated_date": "2022-05-24T08:22:10.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-252005",
+    "summary": "Skeleton spawn eggs make an armor equipment sound when used",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-21T12:01:53.000+0300",
+    "resolution_date": "2022-05-23T20:28:51.000+0300",
+    "updated_date": "2022-05-23T20:28:51.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-251977",
+    "summary": "The minecraft:item.armor.equip_generic sound is produced when filling and emptying buckets with substances",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-20T18:04:22.000+0300",
+    "resolution_date": "2022-05-23T19:38:37.000+0300",
+    "updated_date": "2022-05-23T19:38:37.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-251929",
+    "summary": "Gear equips sound plays when filling a single bottle with water from a water source",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T18:28:31.000+0300",
+    "resolution_date": "2022-05-23T15:17:50.000+0300",
+    "updated_date": "2022-05-23T15:17:50.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-251928",
+    "summary": "Gear equips sound plays when filling a single bottle with honey",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T18:27:16.000+0300",
+    "resolution_date": "2022-05-23T15:18:14.000+0300",
+    "updated_date": "2022-05-23T15:18:14.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-251927",
+    "summary": "Gear equipping sounds and subtitles are played when CanPickUpLoot mobs pick up items",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T18:23:52.000+0300",
+    "resolution_date": "2022-05-23T15:17:55.000+0300",
+    "updated_date": "2022-05-23T15:17:55.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-251925",
+    "summary": "Gear equipping sounds and subtitles are played when dolphins throw around items",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T18:19:48.000+0300",
+    "resolution_date": "2022-05-23T15:18:02.000+0300",
+    "updated_date": "2022-05-23T15:18:02.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-251924",
+    "summary": "Gear equipping sounds and subtitles are played when foxes pick up any item",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T18:15:14.000+0300",
+    "resolution_date": "2022-05-23T15:18:08.000+0300",
+    "updated_date": "2022-05-23T19:36:04.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-251922",
+    "summary": "\"Gear equips\" sound plays when equipping or removing a saddle from a horse wearing horse armor",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T17:59:47.000+0300",
+    "resolution_date": "2022-05-23T15:18:27.000+0300",
+    "updated_date": "2022-05-23T15:18:27.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-251921",
+    "summary": "Equipping horse armor onto a horse plays the \"Gear equips\" sound",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T17:54:52.000+0300",
+    "resolution_date": "2022-05-23T15:18:39.000+0300",
+    "updated_date": "2022-05-23T15:18:39.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-251920",
+    "summary": "Taking a plant from a pot plays the gear equipping sound and subtitle",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T17:36:47.000+0300",
+    "resolution_date": "2022-05-23T15:18:34.000+0300",
+    "updated_date": "2022-05-23T15:18:34.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-251919",
+    "summary": "Equipping a player head, skull or carved pumpkin displays the generic \"Gear equips\" subtitle",
+    "labels": [
+      "reused-sound-event",
+      "subtitles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T17:28:40.000+0300",
+    "resolution_date": "2022-05-23T15:18:21.000+0300",
+    "updated_date": "2022-05-23T15:18:21.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-251916",
+    "summary": "Eating food items that return empty containers plays gear equipping sound",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T17:09:18.000+0300",
+    "resolution_date": "2022-05-23T15:18:46.000+0300",
+    "updated_date": "2022-05-23T15:18:46.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-251915",
+    "summary": "Milking cows, mooshrooms and goats plays gear equipping sound",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T17:06:57.000+0300",
+    "resolution_date": "2022-05-23T15:18:58.000+0300",
+    "updated_date": "2022-05-23T15:18:58.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-251890",
+    "summary": "run_command click events send value as command instead of chat message",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T06:40:52.000+0300",
+    "resolution_date": "2022-05-19T17:14:35.000+0300",
+    "updated_date": "2022-06-05T17:49:03.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-251889",
+    "summary": "io.netty.handler.codec.EncoderException when evaluating too many entity selectors in chat preview",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-19T06:11:34.000+0300",
+    "resolution_date": "2022-05-19T18:56:58.000+0300",
+    "updated_date": "2022-05-19T18:56:58.000+0300",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-251876",
+    "summary": "Villagers produce armor equipping sound when previewing armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-18T23:54:37.000+0300",
+    "resolution_date": "2022-05-19T14:37:28.000+0300",
+    "updated_date": "2022-05-31T02:11:53.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-251873",
+    "summary": "Using /item replace command can trigger Sculk Sensor unexpectedly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-18T22:30:11.000+0300",
+    "resolution_date": "2022-05-26T08:28:55.000+0300",
+    "updated_date": "2022-05-26T08:28:55.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-251871",
+    "summary": "The minecraft:item.armor.equip_generic sound is produced and can only be heard by other players when switching items between hands",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-18T20:52:16.000+0300",
+    "resolution_date": "2022-05-19T11:47:36.000+0300",
+    "updated_date": "2022-05-19T20:47:55.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-251864",
+    "summary": "The minecraft:item.armor.equip_generic sound is produced when filling water buckets with fish, axolotls, or tadpoles",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-18T19:52:30.000+0300",
+    "resolution_date": "2022-05-19T11:47:25.000+0300",
+    "updated_date": "2022-05-31T02:11:24.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-251862",
+    "summary": "Shift clicking the destroy item button in the creative inventory creates a vibration when there is nothing in your equipment slots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-18T19:20:19.000+0300",
+    "resolution_date": "2022-05-19T14:37:27.000+0300",
+    "updated_date": "2022-05-21T13:09:46.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-251860",
+    "summary": "The minecraft:item.armor.equip_generic sound is produced when giving items to allays",
+    "labels": [
+      "gear-equips"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-18T19:16:33.000+0300",
+    "resolution_date": "2022-05-19T11:47:43.000+0300",
+    "updated_date": "2022-05-31T02:11:24.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-251859",
+    "summary": "Gear equipping sound plays every time armor/elytra durability changes while equipped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2",
+      "1.19 Pre-release 4"
+    ],
+    "creation_date": "2022-05-18T19:14:18.000+0300",
+    "resolution_date": "2022-05-30T12:13:04.000+0300",
+    "updated_date": "2022-06-05T00:21:27.000+0300",
+    "watches": 13,
+    "votes": 22
+  },
+  {
+    "id": "MC-251854",
+    "summary": "\"It Spreads\" advancement can be granted when killing a mob that does not give experience",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-18T14:06:41.000+0300",
+    "resolution_date": "2022-05-19T14:14:04.000+0300",
+    "updated_date": "2022-05-19T14:14:04.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-251824",
+    "summary": "Wardens aren't angered by being hit with damageless projectiles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-17T09:59:15.000+0300",
+    "resolution_date": "2022-05-19T19:06:17.000+0300",
+    "updated_date": "2022-05-20T10:36:14.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-251736",
+    "summary": "Reflected ghast fireball cannot hit the ghast",
+    "labels": [
+      "fireball",
+      "ghast"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-15T12:57:43.000+0300",
+    "resolution_date": "2022-05-19T14:49:14.000+0300",
+    "updated_date": "2022-05-22T08:40:27.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-251675",
+    "summary": "Mesa Mineshafts no longer generate with /place command outside of badlands biomes despite saying the structure has been generated successfully",
+    "labels": [
+      "/place",
+      "command",
+      "mineshaft"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-13T20:45:01.000+0300",
+    "resolution_date": "2022-05-19T18:13:46.000+0300",
+    "updated_date": "2022-05-19T18:13:46.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-251670",
+    "summary": "Villager sometimes won't refill their stock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-13T18:02:05.000+0300",
+    "resolution_date": "2022-05-23T16:50:48.000+0300",
+    "updated_date": "2022-07-17T20:59:41.000+0300",
+    "watches": 24,
+    "votes": 31
+  },
+  {
+    "id": "MC-251646",
+    "summary": "\"death.attack.sonic_boom.item\" displays raw translation string (is untranslated)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-12T22:04:57.000+0300",
+    "resolution_date": "2022-05-23T15:15:47.000+0300",
+    "updated_date": "2022-05-23T15:15:47.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-251639",
+    "summary": "Warden emerging particles don't match up with block they emerge on the entire way",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-12T20:36:42.000+0300",
+    "resolution_date": "2022-05-23T14:59:23.000+0300",
+    "updated_date": "2022-05-23T14:59:23.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-251601",
+    "summary": "Darkness rendering incorrectly when reloading the game",
+    "labels": [
+      "darkness"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-11T09:15:05.000+0300",
+    "resolution_date": "2022-05-23T16:49:43.000+0300",
+    "updated_date": "2022-05-23T16:49:43.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-251500",
+    "summary": "Wardens ignore PersistenceRequired and dig away",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-08T11:38:01.000+0300",
+    "resolution_date": "2022-05-23T16:28:14.000+0300",
+    "updated_date": "2022-05-23T16:28:14.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-251412",
+    "summary": "Warden afflicting Darkness to players in the same team",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-06T07:41:35.000+0300",
+    "resolution_date": "2022-05-23T16:40:59.000+0300",
+    "updated_date": "2022-05-23T16:40:59.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-251336",
+    "summary": "Darkness fog flashes at high duration values",
+    "labels": [
+      "darkness"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-05T03:18:54.000+0300",
+    "resolution_date": "2022-05-23T16:49:43.000+0300",
+    "updated_date": "2022-05-23T16:49:43.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-251314",
+    "summary": "Goats loaded from older worlds lose their horns",
+    "labels": [
+      "data-fixer",
+      "goat",
+      "goat-horn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-05-04T20:21:01.000+0300",
+    "resolution_date": "2022-05-19T18:39:07.000+0300",
+    "updated_date": "2022-06-05T00:11:24.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-251052",
+    "summary": "Wardens will not chase targets from a height",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-04-28T17:50:42.000+0300",
+    "resolution_date": "2022-05-25T09:59:36.000+0300",
+    "updated_date": "2022-05-25T09:59:36.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-250956",
+    "summary": "Baby goats with horns lose their horns when fed",
+    "labels": [
+      "goat",
+      "goat-horn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-04-27T20:45:19.000+0300",
+    "resolution_date": "2022-05-19T18:39:07.000+0300",
+    "updated_date": "2022-05-19T18:39:07.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-250941",
+    "summary": "Goats' horns don't snap on copper ore",
+    "labels": [
+      "goat",
+      "goat-horn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-04-27T19:58:42.000+0300",
+    "resolution_date": "2022-05-19T18:39:06.000+0300",
+    "updated_date": "2022-05-19T18:39:06.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-250641",
+    "summary": "Warden cannot despawn when stuck in lava or water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-04-24T20:39:41.000+0300",
+    "resolution_date": "2022-05-26T15:42:47.000+0300",
+    "updated_date": "2022-05-26T15:42:48.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-250259",
+    "summary": "Warden AI doesn't function properly when it rides on entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-04-17T13:25:24.000+0300",
+    "resolution_date": "2022-05-19T16:31:51.000+0300",
+    "updated_date": "2022-05-27T16:47:45.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-249748",
+    "summary": "The minecraft:item.armor.equip_TYPE sound is played when giving wearable items to allays",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-03-31T21:12:11.000+0300",
+    "resolution_date": "2022-05-26T08:28:43.000+0300",
+    "updated_date": "2022-05-26T08:28:43.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-249696",
+    "summary": "Certain void worlds fail to spawn the player on the stone platform",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2022-03-30T21:04:33.000+0300",
+    "resolution_date": "2022-05-19T13:04:49.000+0300",
+    "updated_date": "2022-05-19T13:04:49.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-246227",
+    "summary": "The minecraft:item.armor.equip_TYPE sound can be heard only by other players when switching wearable items between hands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-12-24T16:20:15.000+0200",
+    "resolution_date": "2022-09-04T06:36:58.000+0300",
+    "updated_date": "2022-09-04T06:36:59.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-238716",
+    "summary": "The minecraft:item.armor.equip_TYPE sound can be heard only by other players when taking armor off armor stands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-10-10T16:13:35.000+0300",
+    "resolution_date": "2022-09-04T06:37:53.000+0300",
+    "updated_date": "2022-09-04T06:37:54.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-220087",
+    "summary": "Sculk sensors do not detect using a honeycomb to wax copper",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-03-18T23:24:13.000+0200",
+    "resolution_date": "2022-05-19T18:30:50.000+0300",
+    "updated_date": "2022-05-19T18:30:50.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-220086",
+    "summary": "Sculk sensors do not detect using an axe to clear the wax/weathering of a copper block",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-03-18T23:23:51.000+0200",
+    "resolution_date": "2022-05-19T18:30:50.000+0300",
+    "updated_date": "2022-05-19T18:30:50.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-213387",
+    "summary": "Sculk sensors don't detect endermen/shulkers teleporting from a place to another",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-01-30T16:46:46.000+0200",
+    "resolution_date": "2022-05-19T18:30:52.000+0300",
+    "updated_date": "2022-05-19T18:30:52.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-212430",
+    "summary": "Sculk sensors are not activated upon rain or snow filling partially filled cauldrons",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-01-22T18:28:08.000+0200",
+    "resolution_date": "2022-05-19T18:30:52.000+0300",
+    "updated_date": "2022-05-19T18:30:52.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-212428",
+    "summary": "Sculk sensors are not activated upon cleaning items in water cauldrons",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-01-22T18:17:30.000+0200",
+    "resolution_date": "2022-07-05T13:56:27.000+0300",
+    "updated_date": "2022-07-05T13:56:27.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-210801",
+    "summary": "Wool incorrectly occludes the vibration of item frames being placed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-01-07T18:21:54.000+0200",
+    "resolution_date": "2022-05-23T14:18:37.000+0300",
+    "updated_date": "2022-05-23T14:18:37.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-210496",
+    "summary": "Sculk sensors are not activated upon harvesting sweet berry bushes",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-01-04T13:10:30.000+0200",
+    "resolution_date": "2022-05-19T18:30:51.000+0300",
+    "updated_date": "2022-05-19T18:30:51.000+0300",
+    "watches": 3,
+    "votes": 12
+  },
+  {
+    "id": "MC-210489",
+    "summary": "Sculk sensors are not activated upon pointed dripstone filling partially filled cauldrons",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-01-04T13:07:16.000+0200",
+    "resolution_date": "2022-05-19T18:30:52.000+0300",
+    "updated_date": "2022-05-19T18:30:52.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-210330",
+    "summary": "Sculk sensors are not activated upon throwing eyes of ender",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2021-01-02T22:43:23.000+0200",
+    "resolution_date": "2022-05-23T16:20:30.000+0300",
+    "updated_date": "2022-05-23T16:20:30.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-209900",
+    "summary": "Sculk sensors are not activated upon inserting or retrieving music discs from jukeboxes",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-12-29T15:14:09.000+0200",
+    "resolution_date": "2022-05-23T15:40:59.000+0300",
+    "updated_date": "2022-05-23T15:40:59.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-209701",
+    "summary": "Sculk sensors are not activated upon placing food onto campfires",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-12-27T14:44:23.000+0200",
+    "resolution_date": "2022-05-23T16:04:23.000+0300",
+    "updated_date": "2022-05-23T16:04:23.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-208761",
+    "summary": "Sculk Sensor's 'block destroyed' doesn't trigger when blocks are destroyed by pistons",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-12-17T09:39:07.000+0200",
+    "resolution_date": "2022-05-19T18:30:51.000+0300",
+    "updated_date": "2022-05-19T18:30:51.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-208760",
+    "summary": "Sculk Sensor's 'block placed' doesn't trigger when snow golems place snow layers",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-12-17T09:36:48.000+0200",
+    "resolution_date": "2022-05-19T18:30:50.000+0300",
+    "updated_date": "2022-05-19T18:30:50.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-208759",
+    "summary": "Sculk Sensor's 'block placed' doesn't trigger with villagers placing crops",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-12-17T09:35:30.000+0200",
+    "resolution_date": "2022-05-19T18:30:49.000+0300",
+    "updated_date": "2022-05-19T18:30:49.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-207268",
+    "summary": "Sculk sensors don't detect stripping logs, tilling dirt, or pathing grass",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-12-02T20:14:09.000+0200",
+    "resolution_date": "2022-05-19T18:30:50.000+0300",
+    "updated_date": "2022-05-19T18:30:50.000+0300",
+    "watches": 4,
+    "votes": 13
+  },
+  {
+    "id": "MC-186851",
+    "summary": "\"death.attack.sting.item\" displays raw translation string (is untranslated)",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-06-01T11:13:45.000+0300",
+    "resolution_date": "2022-05-23T15:15:47.000+0300",
+    "updated_date": "2022-05-23T15:15:47.000+0300",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-186148",
+    "summary": "\"death.attack.witherSkull.item\" displays raw translation string (is untranslated)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 2"
+    ],
+    "creation_date": "2020-05-29T18:23:00.000+0300",
+    "resolution_date": "2022-05-23T15:15:47.000+0300",
+    "updated_date": "2022-07-08T23:28:13.000+0300",
+    "watches": 6,
+    "votes": 16
+  }
+]

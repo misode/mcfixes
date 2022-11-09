@@ -1,0 +1,557 @@
+[
+  {
+    "id": "MC-190199",
+    "summary": "Server icon image is shrunk on the multiplayer screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-17T18:30:16.000+0300",
+    "resolution_date": "2020-06-21T02:12:49.000+0300",
+    "updated_date": "2021-08-02T04:26:49.000+0300",
+    "watches": 4,
+    "votes": 0
+  },
+  {
+    "id": "MC-190166",
+    "summary": "Game crashes when burning a tree in a custom dimension: java.lang.NullPointerException: Exception while ticking",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-17T12:05:26.000+0300",
+    "resolution_date": "2020-06-17T13:53:55.000+0300",
+    "updated_date": "2020-06-17T13:53:55.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-190124",
+    "summary": "Grass decays too quickly when covered in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-17T02:43:29.000+0300",
+    "resolution_date": "2020-06-17T15:29:29.000+0300",
+    "updated_date": "2021-01-09T12:05:42.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-190036",
+    "summary": "Passive mobs do not spawn in floating island world type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-16T18:18:09.000+0300",
+    "resolution_date": "2020-06-17T11:55:37.000+0300",
+    "updated_date": "2020-06-17T11:55:37.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-190005",
+    "summary": "Piglins can spawn with gear with too many enchantments, including multiple enchantments of the same type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-16T14:20:00.000+0300",
+    "resolution_date": "2020-06-17T13:36:13.000+0300",
+    "updated_date": "2022-04-08T23:52:12.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-189970",
+    "summary": "Selected worlds using keyboard nav does not enable world-specific options such as Play, Edit, Delete, and Re-Create",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-16T07:37:15.000+0300",
+    "resolution_date": "2020-06-17T15:16:36.000+0300",
+    "updated_date": "2020-06-20T16:08:44.000+0300",
+    "watches": 1,
+    "votes": 20
+  },
+  {
+    "id": "MC-189937",
+    "summary": "Saddled pigs accumulate speed when ridden in water",
+    "labels": [
+      "pig-riding",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-16T02:37:45.000+0300",
+    "resolution_date": "2020-06-17T13:41:30.000+0300",
+    "updated_date": "2020-06-17T18:53:55.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-189858",
+    "summary": "Leads can disappear when transporting a mob through a nether portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-15T20:47:46.000+0300",
+    "resolution_date": "2020-06-17T15:26:21.000+0300",
+    "updated_date": "2022-04-24T07:42:07.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-189782",
+    "summary": "Large ferns only drop one small fern when harvested",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-15T08:16:00.000+0300",
+    "resolution_date": "2020-06-17T13:13:45.000+0300",
+    "updated_date": "2020-06-17T13:13:45.000+0300",
+    "watches": 2,
+    "votes": 10
+  },
+  {
+    "id": "MC-189007",
+    "summary": "When entering or leaving swimming mode both arms now move parallel instead of symmetrical",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-12T19:03:16.000+0300",
+    "resolution_date": "2020-06-17T13:46:15.000+0300",
+    "updated_date": "2020-06-17T13:46:15.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-188859",
+    "summary": "Incorrect throwing animation for tridents",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-12T08:07:13.000+0300",
+    "resolution_date": "2020-06-17T13:46:12.000+0300",
+    "updated_date": "2020-12-03T19:53:45.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-188746",
+    "summary": "Not selecting a biome for \"Floating Islands\" world type spawns an empty world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-12T00:07:10.000+0300",
+    "resolution_date": "2020-06-17T11:49:32.000+0300",
+    "updated_date": "2020-06-17T12:47:11.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-188444",
+    "summary": "Placing turtle eggs on red sand or sand doesn't display particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-10T19:08:49.000+0300",
+    "resolution_date": "2020-06-17T19:15:04.000+0300",
+    "updated_date": "2020-06-17T19:15:04.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-187953",
+    "summary": "Adding items to #minecraft:small_flowers item tag and feeding them to brown mooshrooms crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-06-07T06:21:06.000+0300",
+    "resolution_date": "2020-06-17T16:01:40.000+0300",
+    "updated_date": "2020-06-17T16:01:40.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-185282",
+    "summary": "Debug worlds start generating normal Overworld terrain after reentering world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-05-23T11:29:26.000+0300",
+    "resolution_date": "2020-06-17T20:55:55.000+0300",
+    "updated_date": "2020-06-17T20:55:55.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-179309",
+    "summary": "Trident animates backwards while eating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-04-18T13:39:25.000+0300",
+    "resolution_date": "2020-06-17T13:46:12.000+0300",
+    "updated_date": "2020-06-17T13:46:12.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-178572",
+    "summary": "Using a shield triggers model for other poses if respective item is held in the other hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-04-14T01:36:53.000+0300",
+    "resolution_date": "2020-06-17T21:30:33.000+0300",
+    "updated_date": "2020-06-17T21:30:33.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-177873",
+    "summary": "Trident and shield holding model is activated as you use an item with a right click function in another hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2020-04-08T21:39:48.000+0300",
+    "resolution_date": "2020-06-17T21:30:18.000+0300",
+    "updated_date": "2020-06-17T21:30:19.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-159820",
+    "summary": "3rd person reverse trident bug",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2019-08-26T07:14:31.000+0300",
+    "resolution_date": "2020-06-17T13:46:12.000+0300",
+    "updated_date": "2020-06-17T13:46:12.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-153483",
+    "summary": "When swapping tridents between hands, the trident being held doesn't swap visually, it just flips backwards",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2019-05-31T10:38:05.000+0300",
+    "resolution_date": "2020-06-17T13:46:13.000+0300",
+    "updated_date": "2020-06-17T17:51:48.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-149799",
+    "summary": "When a crossbow is loaded and in the offhand, you do not see it anymore if you carry an item in the main hand",
+    "labels": [
+      "crossbow",
+      "hand",
+      "item",
+      "off-hand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8",
+      "20w51a"
+    ],
+    "creation_date": "2019-04-26T15:11:19.000+0300",
+    "resolution_date": "2020-12-16T14:40:23.000+0200",
+    "updated_date": "2021-06-01T20:27:18.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-147625",
+    "summary": "Ender Dragon tries to regenerate from destroyed ender crystals",
+    "labels": [
+      "destroyed",
+      "ender-crystal",
+      "ender-dragon",
+      "regeneration"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2019-04-07T12:32:56.000+0300",
+    "resolution_date": "2020-06-17T20:14:36.000+0300",
+    "updated_date": "2020-12-18T03:37:31.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-127971",
+    "summary": "Trying to throw a trident while having a shield or bow equipped will make the trident appear backwards in your hand",
+    "labels": [
+      "bow",
+      "hand",
+      "model",
+      "rendering",
+      "riptide",
+      "shield",
+      "throw",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2018-04-05T04:44:31.000+0300",
+    "resolution_date": "2020-06-17T13:46:13.000+0300",
+    "updated_date": "2020-06-18T07:53:38.000+0300",
+    "watches": 10,
+    "votes": 23
+  },
+  {
+    "id": "MC-114030",
+    "summary": "Structure blocks take and apply NBT data of entities and tile entities directly instead of a copy when loading and saving structures",
+    "labels": [
+      "NBT",
+      "block-entity",
+      "entity",
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2017-02-20T05:19:39.000+0200",
+    "resolution_date": "2020-06-17T13:36:13.000+0300",
+    "updated_date": "2020-06-17T13:36:13.000+0300",
+    "watches": 5,
+    "votes": 0
+  },
+  {
+    "id": "MC-82995",
+    "summary": "Blocking with two shields in 3rd person mode",
+    "labels": [
+      "block",
+      "shield",
+      "third-person"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2015-07-29T17:46:14.000+0300",
+    "resolution_date": "2020-06-18T11:25:19.000+0300",
+    "updated_date": "2020-08-02T17:30:49.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-77820",
+    "summary": "Ender dragon deathlight glitch/bug",
+    "labels": [
+      "death",
+      "ender_dragon",
+      "light"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2015-02-20T14:45:27.000+0200",
+    "resolution_date": "2020-06-18T14:45:37.000+0300",
+    "updated_date": "2020-06-23T08:11:07.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-77176",
+    "summary": "When retracted by sticky piston, activated detector rails do not update their orientation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8"
+    ],
+    "creation_date": "2015-02-02T06:44:30.000+0200",
+    "resolution_date": "2020-06-18T11:26:43.000+0300",
+    "updated_date": "2020-06-18T11:26:43.000+0300",
+    "watches": 4,
+    "votes": 3
+  }
+]

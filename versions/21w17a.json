@@ -1,0 +1,414 @@
+[
+  {
+    "id": "MC-223792",
+    "summary": "Shrinking world border with center past x/z 29999983 crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-04-21T12:00:00.000+0300",
+    "resolution_date": "2021-04-23T13:21:47.000+0300",
+    "updated_date": "2021-04-23T13:21:47.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-223055",
+    "summary": "Amethyst buds and cluster have an unused blockstate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-04-12T21:10:14.000+0300",
+    "resolution_date": "2021-04-28T11:59:47.000+0300",
+    "updated_date": "2021-04-28T12:44:16.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-222520",
+    "summary": "Raw and Ore smelting previews aren't grouped together",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-04-07T18:03:13.000+0300",
+    "resolution_date": "2021-04-28T15:49:18.000+0300",
+    "updated_date": "2021-04-28T15:49:18.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-222107",
+    "summary": "sounds/mob/goat/pre_ram3.ogg missing from entity.goat.prepare_ram sound event",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-04-03T19:42:20.000+0300",
+    "resolution_date": "2021-05-05T15:44:50.000+0300",
+    "updated_date": "2021-05-05T15:44:50.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-222008",
+    "summary": "Empty/missing template pool error grammar mistake",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-04-02T21:10:47.000+0300",
+    "resolution_date": "2021-04-27T19:04:55.000+0300",
+    "updated_date": "2021-08-18T16:39:34.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-221560",
+    "summary": "Copper/Coal Ore in Deepslate Patches aren't Deepslate Ores ",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-03-31T20:29:02.000+0300",
+    "resolution_date": "2021-04-22T17:39:50.000+0300",
+    "updated_date": "2021-05-06T20:49:49.000+0300",
+    "watches": 9,
+    "votes": 24
+  },
+  {
+    "id": "MC-220033",
+    "summary": "(Parity issue) Hanging Roots can't be waterlogged",
+    "labels": [
+      "parity",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-03-18T18:27:47.000+0200",
+    "resolution_date": "2021-04-28T13:38:52.000+0300",
+    "updated_date": "2021-06-12T20:18:35.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-219842",
+    "summary": "Recipes for mossy cobblestone and mossy stone bricks aren't grouped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-03-17T18:12:17.000+0200",
+    "resolution_date": "2021-04-28T15:49:18.000+0300",
+    "updated_date": "2021-04-28T15:49:18.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-219840",
+    "summary": "You cannot unlock the recipe for Mossy Stone Bricks",
+    "labels": [
+      "crafting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-03-17T18:07:18.000+0200",
+    "resolution_date": "2021-04-28T15:49:19.000+0300",
+    "updated_date": "2021-04-28T15:49:19.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-219155",
+    "summary": "Fishing line only starts on half distance between the fishing rod and bobber (Apple M1 only)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w11a",
+      "21w17a"
+    ],
+    "creation_date": "2021-03-12T05:02:51.000+0200",
+    "resolution_date": "2021-04-28T15:35:13.000+0300",
+    "updated_date": "2021-04-28T15:35:13.000+0300",
+    "watches": 10,
+    "votes": 4
+  },
+  {
+    "id": "MC-214865",
+    "summary": "Floating islands world type generates extreme terrain",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w15a",
+      "21w17a"
+    ],
+    "creation_date": "2021-02-10T21:39:04.000+0200",
+    "resolution_date": "2021-04-27T19:04:56.000+0300",
+    "updated_date": "2021-04-27T19:04:56.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-214838",
+    "summary": "Big dripleaf stem remains after breaking a stem or leaf above it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-02-10T21:06:20.000+0200",
+    "resolution_date": "2021-04-28T11:44:56.000+0300",
+    "updated_date": "2021-04-28T19:07:48.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-214735",
+    "summary": "Horse disappears when dying while riding it and reloading the world while it's unloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-02-10T09:19:59.000+0200",
+    "resolution_date": "2021-04-22T16:22:47.000+0300",
+    "updated_date": "2021-04-29T21:38:02.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-214187",
+    "summary": "Void platform generates multiple times",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2021-02-05T13:05:35.000+0200",
+    "resolution_date": "2021-04-27T19:04:57.000+0300",
+    "updated_date": "2021-04-27T19:04:57.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-204031",
+    "summary": "Waxed Cut Copper (any level of weathered) have two separate recipes in the recipe book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2020-11-05T13:03:56.000+0200",
+    "resolution_date": "2021-04-28T15:49:17.000+0300",
+    "updated_date": "2021-04-28T15:49:17.000+0300",
+    "watches": 4,
+    "votes": 16
+  },
+  {
+    "id": "MC-203745",
+    "summary": "Repeated teleport between dimensions causes the entity to duplicate on the client",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2020-11-05T00:05:41.000+0200",
+    "resolution_date": "2021-04-28T13:07:40.000+0300",
+    "updated_date": "2021-05-20T20:06:49.000+0300",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-203570",
+    "summary": "Candles aren't grouped in the recipe book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2020-11-04T21:01:41.000+0200",
+    "resolution_date": "2021-04-28T15:49:19.000+0300",
+    "updated_date": "2021-04-28T15:49:19.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-201269",
+    "summary": "Constantly teleporting player to a phantom crashes the game/kicks the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2020-09-30T06:28:22.000+0300",
+    "resolution_date": "2021-04-28T16:16:51.000+0300",
+    "updated_date": "2021-04-28T16:16:51.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-197805",
+    "summary": "Minecraft crashes every time I try to craft something (caused by BungeeCord or Paper)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2020-08-12T11:19:24.000+0300",
+    "resolution_date": "2021-05-18T17:53:47.000+0300",
+    "updated_date": "2021-06-05T20:30:14.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-187664",
+    "summary": "World border uses float to determine its size, making some border sizes inaccessible, and cannot be set to 30 million or beyond",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2020-06-05T19:43:44.000+0300",
+    "resolution_date": "2021-04-23T13:21:46.000+0300",
+    "updated_date": "2021-05-02T02:59:45.000+0300",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-170443",
+    "summary": "Banner copying recipe ignores existence of other items in crafting grid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2020-01-26T21:19:31.000+0200",
+    "resolution_date": "2021-04-28T15:49:19.000+0300",
+    "updated_date": "2021-04-28T15:49:19.000+0300",
+    "watches": 6,
+    "votes": 6
+  }
+]

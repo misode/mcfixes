@@ -1,0 +1,559 @@
+[
+  {
+    "id": "MC-257060",
+    "summary": "Bee nest is absent from Functional Blocks",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-31T00:19:54.000+0200",
+    "resolution_date": "2022-11-02T14:39:09.000+0200",
+    "updated_date": "2022-11-02T14:39:09.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-257059",
+    "summary": "Mushroom stem comes after nether fungus stems in Creative inventory, but mushroom blocks come before wart blocks",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-31T00:16:08.000+0200",
+    "resolution_date": "2022-11-02T14:39:06.000+0200",
+    "updated_date": "2022-11-02T14:39:06.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-257058",
+    "summary": "Cactus is not grouped with sugar cane in Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-31T00:13:29.000+0200",
+    "resolution_date": "2022-11-02T14:39:06.000+0200",
+    "updated_date": "2022-11-02T14:39:06.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-256934",
+    "summary": "You aren't prompted to save your chat reports as drafts while only having report categories inputted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-27T14:01:15.000+0300",
+    "resolution_date": "2022-11-02T14:50:33.000+0200",
+    "updated_date": "2022-11-02T14:50:33.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-256887",
+    "summary": "Tinted glass is not considered a 'Functional Block'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-26T19:08:19.000+0300",
+    "resolution_date": "2022-11-02T14:39:10.000+0200",
+    "updated_date": "2022-11-02T14:39:10.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-256881",
+    "summary": "The game crashes when pressing the ESC key while having draft chat reports saved",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Social Interactions"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-26T16:46:03.000+0300",
+    "resolution_date": "2022-11-02T14:50:32.000+0200",
+    "updated_date": "2022-11-02T14:50:32.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-256768",
+    "summary": "Entities no longer have random rotations upon being summoned from spawn eggs",
+    "labels": [
+      "spawn_egg"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-22T12:59:54.000+0300",
+    "resolution_date": "2022-11-02T14:19:13.000+0200",
+    "updated_date": "2022-11-02T14:19:13.000+0200",
+    "watches": 9,
+    "votes": 5
+  },
+  {
+    "id": "MC-256708",
+    "summary": "Bamboo mosaic recipes are inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-20T22:54:11.000+0300",
+    "resolution_date": "2022-11-03T00:35:38.000+0200",
+    "updated_date": "2022-11-03T00:35:38.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-256647",
+    "summary": "Mobs face south even with a given rotation value",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-20T02:55:02.000+0300",
+    "resolution_date": "2022-11-02T14:19:32.000+0200",
+    "updated_date": "2022-11-02T14:19:32.000+0200",
+    "watches": 10,
+    "votes": 6
+  },
+  {
+    "id": "MC-256637",
+    "summary": "Some bamboo blocks can't be used as furnace fuel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-20T01:32:54.000+0300",
+    "resolution_date": "2022-11-01T16:42:53.000+0200",
+    "updated_date": "2022-11-01T16:42:53.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256623",
+    "summary": "Bamboo mosaic slabs aren't flammable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-20T00:41:49.000+0300",
+    "resolution_date": "2022-11-01T16:42:52.000+0200",
+    "updated_date": "2022-11-01T16:42:52.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-256606",
+    "summary": "Camel walking animation is slowed down when applied with slow falling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-19T22:45:09.000+0300",
+    "resolution_date": "2022-11-02T13:59:10.000+0200",
+    "updated_date": "2022-11-02T13:59:10.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-256526",
+    "summary": "Bamboo Fence Gate has missing textures / culling issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-19T18:02:47.000+0300",
+    "resolution_date": "2022-11-02T12:49:59.000+0200",
+    "updated_date": "2022-11-02T12:49:59.000+0200",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-256480",
+    "summary": "Non Flammable Wood Item tag contains 1.20 content even when disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-19T16:43:41.000+0300",
+    "resolution_date": "2022-11-01T16:42:53.000+0200",
+    "updated_date": "2022-11-01T16:42:53.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-256463",
+    "summary": "Camels will not pathfind over 1.5 high blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-19T16:12:50.000+0300",
+    "resolution_date": "2022-11-02T10:15:02.000+0200",
+    "updated_date": "2022-11-02T10:15:02.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-255115",
+    "summary": "Lily pads do not produce sounds when walking on them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-08-10T11:15:52.000+0300",
+    "resolution_date": "2022-11-02T09:48:59.000+0200",
+    "updated_date": "2022-11-02T09:48:59.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-254435",
+    "summary": "The secure chat warning toast is not presented to the player when joining a server using the --server argument",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-07-21T22:15:05.000+0300",
+    "resolution_date": "2022-11-02T14:50:32.000+0200",
+    "updated_date": "2022-11-07T18:55:10.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-253387",
+    "summary": "Frog walking animation is slowed down when applied with slow falling",
+    "labels": [
+      "animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-06-21T01:00:12.000+0300",
+    "resolution_date": "2022-11-02T13:59:10.000+0200",
+    "updated_date": "2022-11-02T13:59:10.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-244721",
+    "summary": "\"Erase cached data\" is not capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2021-12-05T14:44:06.000+0200",
+    "resolution_date": "2022-10-28T15:48:20.000+0300",
+    "updated_date": "2022-10-28T15:48:21.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-242097",
+    "summary": "Ghast and Polar Bear Spawn Eggs are nearly indistinguishable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2021-11-20T11:26:06.000+0200",
+    "resolution_date": "2022-11-02T23:24:45.000+0200",
+    "updated_date": "2022-11-04T11:05:38.000+0200",
+    "watches": 8,
+    "votes": 19
+  },
+  {
+    "id": "MC-195780",
+    "summary": "\"Data mode\" and \"Load mode\" aren't capitalized while \"Save Mode\" and \"Corner Mode\" are",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2020-07-22T19:25:26.000+0300",
+    "resolution_date": "2022-10-28T15:48:04.000+0300",
+    "updated_date": "2022-10-28T15:48:04.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-191790",
+    "summary": "Re-creating a world doesn't allow a blank seed and uses recreated world's seed instead of random",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2020-06-25T12:07:54.000+0300",
+    "resolution_date": "2022-10-31T17:16:57.000+0200",
+    "updated_date": "2022-10-31T17:16:57.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-189872",
+    "summary": "Certain mobs don't have spawn eggs",
+    "labels": [
+      "spawn-egg"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2020-06-15T21:22:11.000+0300",
+    "resolution_date": "2022-11-02T17:00:53.000+0200",
+    "updated_date": "2022-11-02T18:38:46.000+0200",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-171621",
+    "summary": "Crimson and Warped roots don't make a sound when walked on, unlike nether sprouts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2020-02-09T02:10:59.000+0200",
+    "resolution_date": "2022-11-02T18:04:29.000+0200",
+    "updated_date": "2022-11-02T18:09:33.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-137306",
+    "summary": "Turtles don't have breeding delay",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2018-10-16T21:42:48.000+0300",
+    "resolution_date": "2022-11-01T16:57:04.000+0200",
+    "updated_date": "2022-11-01T16:57:04.000+0200",
+    "watches": 10,
+    "votes": 16
+  },
+  {
+    "id": "MC-137136",
+    "summary": "Lily Pads use incorrect sound",
+    "labels": [
+      "incorrect-block-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2018-10-02T02:27:26.000+0300",
+    "resolution_date": "2022-11-02T09:48:59.000+0200",
+    "updated_date": "2022-11-02T09:48:59.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-136152",
+    "summary": "Placing mob spawner renders a pig for up to a second",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2018-08-17T10:06:00.000+0300",
+    "resolution_date": "2022-11-05T16:11:36.000+0200",
+    "updated_date": "2022-11-05T16:11:36.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-50605",
+    "summary": "The pick block function doesn't work with mob spawners",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2014-03-08T17:54:46.000+0200",
+    "resolution_date": "2022-11-02T16:56:13.000+0200",
+    "updated_date": "2022-11-02T16:56:13.000+0200",
+    "watches": 31,
+    "votes": 32
+  }
+]

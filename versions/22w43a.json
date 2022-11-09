@@ -1,0 +1,941 @@
+[
+  {
+    "id": "MC-256848",
+    "summary": "String isn't in the Redstone Blocks Tab in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-24T19:23:39.000+0300",
+    "resolution_date": "2022-10-26T11:12:42.000+0300",
+    "updated_date": "2022-10-26T11:12:42.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-256847",
+    "summary": "Bone Meal isn't in the Tools & Utilities Tab in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-24T19:18:55.000+0300",
+    "resolution_date": "2022-10-26T12:03:47.000+0300",
+    "updated_date": "2022-10-26T12:03:47.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-256846",
+    "summary": "Chiseled Bookshelf isn't in the Redstone Blocks Tab in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-24T19:13:35.000+0300",
+    "resolution_date": "2022-10-26T12:03:47.000+0300",
+    "updated_date": "2022-10-26T12:03:47.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-256845",
+    "summary": "Nether Wart isn't in the Nature Blocks tab in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-24T19:10:43.000+0300",
+    "resolution_date": "2022-10-26T11:12:24.000+0300",
+    "updated_date": "2022-10-26T11:12:24.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-256843",
+    "summary": "Milk Bucket isn't in the Consumable Tab in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-24T18:53:49.000+0300",
+    "resolution_date": "2022-10-26T11:12:01.000+0300",
+    "updated_date": "2022-10-26T11:12:01.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-256734",
+    "summary": "Entities will often spin while pathfinding on top of wall hanging signs",
+    "labels": [
+      "hanging_sign",
+      "wall_hanging_sign"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-21T16:38:20.000+0300",
+    "resolution_date": "2022-10-26T12:57:14.000+0300",
+    "updated_date": "2022-10-26T12:57:14.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-256705",
+    "summary": "Discrepancy exists between identifier-allowed characters and path segment-allowed characters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-20T22:02:24.000+0300",
+    "resolution_date": "2022-10-24T12:43:21.000+0300",
+    "updated_date": "2022-10-24T12:43:21.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256661",
+    "summary": "Line spacing on Hanging Signs is too small, causing certain characters to overlap",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-20T08:57:22.000+0300",
+    "resolution_date": "2022-10-26T12:57:14.000+0300",
+    "updated_date": "2022-10-26T12:57:14.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-256639",
+    "summary": "Allays, Piglins, and Villagers lose inventory if unloaded and reloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-20T01:35:51.000+0300",
+    "resolution_date": "2022-10-21T13:54:31.000+0300",
+    "updated_date": "2022-10-21T13:54:31.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-256612",
+    "summary": "Waxed Exposed Copper blocks are out of order in Building Blocks creative tab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T23:12:10.000+0300",
+    "resolution_date": "2022-10-24T18:29:21.000+0300",
+    "updated_date": "2022-10-24T18:29:21.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256582",
+    "summary": "Lectern isn't in Functional Blocks tab in creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T20:27:07.000+0300",
+    "resolution_date": "2022-10-24T18:29:22.000+0300",
+    "updated_date": "2022-10-24T18:29:22.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256581",
+    "summary": "Lightning Rod isn't in Functional Blocks tab in creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T20:26:13.000+0300",
+    "resolution_date": "2022-10-24T18:29:22.000+0300",
+    "updated_date": "2022-10-24T18:29:22.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256575",
+    "summary": "Some of the translation keys were merged, resulting in some language translation errors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T19:49:32.000+0300",
+    "resolution_date": "2022-10-20T11:45:58.000+0300",
+    "updated_date": "2022-10-20T11:45:58.000+0300",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-256573",
+    "summary": "Water bottles, awkward/mundane/thick potions and tipped arrows don't appear in the Creative Inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T19:43:05.000+0300",
+    "resolution_date": "2022-10-24T18:29:20.000+0300",
+    "updated_date": "2022-10-25T17:16:20.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-256534",
+    "summary": "Saved hotbars can import disabled items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T18:11:47.000+0300",
+    "resolution_date": "2022-10-26T11:01:23.000+0300",
+    "updated_date": "2022-10-26T11:01:23.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-256522",
+    "summary": "Coral Blocks are sorted different than Corals and Coral Fans",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T17:59:46.000+0300",
+    "resolution_date": "2022-10-24T18:29:23.000+0300",
+    "updated_date": "2022-10-25T15:14:47.000+0300",
+    "watches": 7,
+    "votes": 3
+  },
+  {
+    "id": "MC-256515",
+    "summary": "Hanging signs connect weirdly on the bottom of a fence gate.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T17:50:15.000+0300",
+    "resolution_date": "2022-10-26T12:43:56.000+0300",
+    "updated_date": "2022-10-26T16:41:56.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-256502",
+    "summary": "Crash when pressing certain buttons while on spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T17:21:53.000+0300",
+    "resolution_date": "2022-10-20T11:40:31.000+0300",
+    "updated_date": "2022-10-23T21:33:26.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-256495",
+    "summary": "Z-fighting occurs when the legs of camels intersect one another",
+    "labels": [
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T17:10:42.000+0300",
+    "resolution_date": "2022-10-21T11:27:57.000+0300",
+    "updated_date": "2022-10-21T11:27:57.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-256494",
+    "summary": "Birch hanging signs cannot be crafted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T17:10:37.000+0300",
+    "resolution_date": "2022-10-21T11:15:54.000+0300",
+    "updated_date": "2022-10-25T00:17:01.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-256483",
+    "summary": "Acacia hanging signs cannot be crafted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T16:49:13.000+0300",
+    "resolution_date": "2022-10-21T11:15:54.000+0300",
+    "updated_date": "2022-10-25T00:17:15.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-256476",
+    "summary": "Panorama Scroll Speed isn't saved",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T16:35:43.000+0300",
+    "resolution_date": "2022-10-21T14:08:26.000+0300",
+    "updated_date": "2022-10-21T14:08:26.000+0300",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-256462",
+    "summary": "If camel is sitting while exiting and reloading the world, it will play the sitting animation again",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-10-19T16:11:27.000+0300",
+    "resolution_date": "2022-10-25T17:11:20.000+0300",
+    "updated_date": "2022-10-25T17:11:20.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-254634",
+    "summary": "POIs are not created properly when upgrading worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-07-27T20:43:42.000+0300",
+    "resolution_date": "2022-10-24T12:43:20.000+0300",
+    "updated_date": "2022-10-24T12:43:20.000+0300",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-254597",
+    "summary": "Mobs hurt by water don't take water damage when they are on a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-07-26T16:59:53.000+0300",
+    "resolution_date": "2022-10-25T17:39:54.000+0300",
+    "updated_date": "2022-10-25T17:39:54.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-253901",
+    "summary": "\"Failed to add PDH Counter\" issues (caused by outdated OSHI)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug",
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-07-04T22:54:12.000+0300",
+    "resolution_date": "2022-11-02T11:14:18.000+0200",
+    "updated_date": "2022-11-02T11:14:18.000+0200",
+    "watches": 8,
+    "votes": 6
+  },
+  {
+    "id": "MC-253542",
+    "summary": "Spawner blocks with SpawnPotential and no SpawnData will crash during worldgen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-06-25T04:18:10.000+0300",
+    "resolution_date": "2022-10-25T09:36:53.000+0300",
+    "updated_date": "2022-10-25T09:36:53.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-252214",
+    "summary": "Going into water does not extinguish the fire on you if you're in a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-05-26T02:59:38.000+0300",
+    "resolution_date": "2022-10-25T17:39:54.000+0300",
+    "updated_date": "2022-10-25T17:39:54.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-252107",
+    "summary": "Demo Mode introduction popup displays twice when re-joining after death",
+    "labels": [
+      "death-screen",
+      "demo-mode"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-05-23T20:20:47.000+0300",
+    "resolution_date": "2022-10-28T16:32:37.000+0300",
+    "updated_date": "2022-10-28T16:32:37.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-249691",
+    "summary": "Nylium is not grouped with netherrack in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-03-30T19:34:44.000+0300",
+    "resolution_date": "2022-10-24T18:29:23.000+0300",
+    "updated_date": "2022-10-29T14:21:08.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-244694",
+    "summary": "The sounds of goats stomping and ramming aren't controlled by the \"Friendly Creatures\" sound slider",
+    "labels": [
+      "goat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2021-12-04T22:01:01.000+0200",
+    "resolution_date": "2022-10-26T13:09:52.000+0300",
+    "updated_date": "2022-10-26T13:09:52.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-222407",
+    "summary": "Endermen holding big dripleaf stems don't drop big dripleaves upon being killed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2021-04-06T15:27:34.000+0300",
+    "resolution_date": "2022-10-25T16:34:00.000+0300",
+    "updated_date": "2022-10-25T16:34:00.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-202513",
+    "summary": "Weeping vines and twisting vines are not grouped with regular vines in creative inventory",
+    "labels": [
+      "creative-inventory-contents",
+      "twisting_vines",
+      "vines",
+      "weeping_vines"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-10-21T17:32:59.000+0300",
+    "resolution_date": "2022-10-24T18:29:21.000+0300",
+    "updated_date": "2022-10-24T18:29:21.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-200006",
+    "summary": "Explosions from beds and respawn anchors can't be blocked by shields",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-09-11T06:40:49.000+0300",
+    "resolution_date": "2022-10-21T10:40:16.000+0300",
+    "updated_date": "2022-10-21T10:40:16.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-198493",
+    "summary": "Villagers lose their discounts when relogging while it is a zombie villager",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-08-20T18:49:43.000+0300",
+    "resolution_date": "2022-10-21T13:54:31.000+0300",
+    "updated_date": "2022-11-04T13:41:54.000+0200",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-193297",
+    "summary": "Ghast(s) fireball explosion does not credit the \"Owner\" of the fireball if the one who was damaged was not directly hit.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-07-02T22:16:21.000+0300",
+    "resolution_date": "2022-10-28T00:57:07.000+0300",
+    "updated_date": "2022-10-28T00:57:07.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-191948",
+    "summary": "Ghast fireballs explosions still inflict damage when blocked by a shield",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-06-25T23:50:18.000+0300",
+    "resolution_date": "2022-10-21T10:40:15.000+0300",
+    "updated_date": "2022-10-21T10:40:15.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-189911",
+    "summary": "Splash water bottles don't extinguish mobs and player",
+    "labels": [
+      "burning",
+      "extinguish",
+      "fire",
+      "mobs",
+      "player",
+      "splash-water-bottle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-06-16T00:03:37.000+0300",
+    "resolution_date": "2022-10-26T14:02:51.000+0300",
+    "updated_date": "2022-10-26T16:44:42.000+0300",
+    "watches": 11,
+    "votes": 13
+  },
+  {
+    "id": "MC-188506",
+    "summary": "AngryAt cannot be manually applied to endermen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-06-10T22:32:03.000+0300",
+    "resolution_date": "2022-10-25T15:06:36.000+0300",
+    "updated_date": "2022-10-25T17:57:12.000+0300",
+    "watches": 13,
+    "votes": 18
+  },
+  {
+    "id": "MC-188247",
+    "summary": "Explosions from end crystals can't be blocked by shields",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2020-06-09T04:10:17.000+0300",
+    "resolution_date": "2022-10-21T10:40:14.000+0300",
+    "updated_date": "2022-10-21T10:40:14.000+0300",
+    "watches": 4,
+    "votes": 15
+  },
+  {
+    "id": "MC-149395",
+    "summary": "Burning zombies are not extinguished by splash / lingering water bottles",
+    "labels": [
+      "mob",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2019-04-24T12:40:40.000+0300",
+    "resolution_date": "2022-10-26T16:39:17.000+0300",
+    "updated_date": "2022-10-26T16:39:17.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-132820",
+    "summary": "Spawner isn't in the creative inventory",
+    "labels": [
+      "creative-inventory-contents",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2018-07-05T21:43:19.000+0300",
+    "resolution_date": "2022-10-26T16:31:26.000+0300",
+    "updated_date": "2022-10-26T16:31:26.000+0300",
+    "watches": 19,
+    "votes": 40
+  },
+  {
+    "id": "MC-128003",
+    "summary": "When destroying one block of tall seagrass, the other block becomes air when destroyed, rather than water",
+    "labels": [
+      "tall_seagrass"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2018-04-05T19:27:56.000+0300",
+    "resolution_date": "2022-10-25T13:03:16.000+0300",
+    "updated_date": "2022-10-25T13:03:16.000+0300",
+    "watches": 20,
+    "votes": 36
+  },
+  {
+    "id": "MC-92017",
+    "summary": "Shield damage direction is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2015-11-02T23:33:52.000+0200",
+    "resolution_date": "2022-10-21T10:40:12.000+0300",
+    "updated_date": "2022-10-21T10:40:12.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-84873",
+    "summary": "DeathTime values 20+ cause corrupted mobs",
+    "labels": [
+      "animation",
+      "corruption",
+      "dataTag",
+      "death",
+      "deathtime"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2015-08-03T05:09:29.000+0300",
+    "resolution_date": "2022-10-21T14:26:22.000+0300",
+    "updated_date": "2022-10-21T14:26:22.000+0300",
+    "watches": 13,
+    "votes": 14
+  },
+  {
+    "id": "MC-55718",
+    "summary": "Dragon egg doesn't appear in Creative inventory",
+    "labels": [
+      "creative-inventory-contents",
+      "dragon_egg",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2014-05-23T21:44:50.000+0300",
+    "resolution_date": "2022-10-26T16:31:36.000+0300",
+    "updated_date": "2022-10-26T16:31:36.000+0300",
+    "watches": 16,
+    "votes": 39
+  }
+]

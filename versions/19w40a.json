@@ -1,0 +1,860 @@
+[
+  {
+    "id": "MC-162054",
+    "summary": "Glowing effect also applies to the blocks below the affected mob",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-28T13:15:41.000+0300",
+    "resolution_date": "2019-10-01T14:37:12.000+0300",
+    "updated_date": "2019-10-01T14:37:12.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-161995",
+    "summary": "Baby panda model is completely broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-28T04:27:36.000+0300",
+    "resolution_date": "2019-10-02T15:50:15.000+0300",
+    "updated_date": "2019-10-02T15:50:15.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-161946",
+    "summary": "Baby polar bear model is broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-28T00:16:45.000+0300",
+    "resolution_date": "2019-10-02T15:50:16.000+0300",
+    "updated_date": "2019-10-02T15:50:16.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-161934",
+    "summary": "Spawn eggs are incorrectly colored when held in the hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T23:35:36.000+0300",
+    "resolution_date": "2019-10-02T18:41:11.000+0300",
+    "updated_date": "2019-10-09T23:00:30.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-161931",
+    "summary": "Lower player model not showing while in a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T23:28:21.000+0300",
+    "resolution_date": "2019-10-01T14:34:13.000+0300",
+    "updated_date": "2020-11-12T02:52:33.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-161916",
+    "summary": "If the player is inside of a block, that block is no longer rendered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T22:23:36.000+0300",
+    "resolution_date": "2019-10-01T14:34:14.000+0300",
+    "updated_date": "2019-10-01T14:34:14.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-161909",
+    "summary": "Programmer art banner pattern textures have not been updated to the new resource pack format",
+    "labels": [
+      "programmer_art"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T22:02:56.000+0300",
+    "resolution_date": "2019-10-02T15:40:18.000+0300",
+    "updated_date": "2019-11-13T01:11:47.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-161908",
+    "summary": "Programmer art chest textures have not been updated to the new resource pack format",
+    "labels": [
+      "programmer_art"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T21:55:40.000+0300",
+    "resolution_date": "2019-10-02T15:40:29.000+0300",
+    "updated_date": "2019-10-02T15:40:29.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-161905",
+    "summary": "Sign text glows in the dark",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T21:38:44.000+0300",
+    "resolution_date": "2019-10-01T14:37:12.000+0300",
+    "updated_date": "2019-10-01T14:37:12.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-161902",
+    "summary": "Game crashes when a turtle ridden by an illager enters water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T21:29:10.000+0300",
+    "resolution_date": "2019-10-01T15:17:55.000+0300",
+    "updated_date": "2019-10-01T15:17:55.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-161894",
+    "summary": "Hitboxes render behind portals, water and shulker boxes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T20:55:53.000+0300",
+    "resolution_date": "2019-10-01T14:41:07.000+0300",
+    "updated_date": "2019-11-28T22:06:29.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-161887",
+    "summary": "Glowing effect doesn't respect texture transparency",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T20:36:45.000+0300",
+    "resolution_date": "2019-10-01T14:34:12.000+0300",
+    "updated_date": "2019-10-01T14:34:12.000+0300",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-161882",
+    "summary": "Game crashes when player model is rendered after the player is stung by a bee",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T20:26:26.000+0300",
+    "resolution_date": "2019-10-01T14:34:15.000+0300",
+    "updated_date": "2019-10-01T18:35:09.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-161879",
+    "summary": "Hitbox of transparent blocks, such as slime blocks, stained glass or ice, appears behind the block texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T20:13:07.000+0300",
+    "resolution_date": "2019-10-02T16:14:57.000+0300",
+    "updated_date": "2019-10-02T16:17:43.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-161877",
+    "summary": "Mipmap levels are not handled correcty / flickering leaves and other blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T20:09:44.000+0300",
+    "resolution_date": "2019-10-01T14:34:13.000+0300",
+    "updated_date": "2019-10-02T01:01:13.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-161871",
+    "summary": "Programmer art enchantment glint has not been updated to the new resource pack format",
+    "labels": [
+      "programmer_art"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T19:55:03.000+0300",
+    "resolution_date": "2019-10-02T15:40:24.000+0300",
+    "updated_date": "2019-10-02T17:54:11.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-161858",
+    "summary": "Turtles don't look right; legs are completely detached from the body",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T18:58:03.000+0300",
+    "resolution_date": "2019-10-02T15:50:17.000+0300",
+    "updated_date": "2019-10-10T12:29:18.000+0300",
+    "watches": 11,
+    "votes": 26
+  },
+  {
+    "id": "MC-161853",
+    "summary": "Breaking animation is rotated and positioned incorrectly and will follow the player's mouse cursor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T18:32:27.000+0300",
+    "resolution_date": "2019-10-02T15:50:15.000+0300",
+    "updated_date": "2019-10-09T20:19:18.000+0300",
+    "watches": 13,
+    "votes": 25
+  },
+  {
+    "id": "MC-161852",
+    "summary": "End portal and end gateway texture is rendered offset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T18:27:47.000+0300",
+    "resolution_date": "2019-10-01T14:43:50.000+0300",
+    "updated_date": "2019-10-01T23:02:03.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-161851",
+    "summary": "Block animations are way too fast",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T18:26:01.000+0300",
+    "resolution_date": "2019-10-01T14:34:12.000+0300",
+    "updated_date": "2019-10-01T22:04:10.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-161843",
+    "summary": "Flat inventory items render too dark in GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T18:05:54.000+0300",
+    "resolution_date": "2019-10-02T18:06:22.000+0300",
+    "updated_date": "2019-10-02T18:06:22.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-161836",
+    "summary": "Map texture transparency is not handled correctly when looking at it in first person mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T17:59:37.000+0300",
+    "resolution_date": "2019-10-02T18:04:44.000+0300",
+    "updated_date": "2019-10-02T18:04:44.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-161831",
+    "summary": "Some blocks/entities are rendered transparent when looking at them from certain angles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-27T17:55:50.000+0300",
+    "resolution_date": "2019-10-01T14:34:14.000+0300",
+    "updated_date": "2019-10-02T15:00:02.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-161719",
+    "summary": "Pigs (and probably other entities) have a wierd shading issue when in 3rd person toggle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-24T07:15:46.000+0300",
+    "resolution_date": "2019-10-03T13:10:36.000+0300",
+    "updated_date": "2019-10-03T13:10:36.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-161646",
+    "summary": "Holding certain items, such as a banner, makes the elytra/cape get darker",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-22T18:59:50.000+0300",
+    "resolution_date": "2019-10-03T12:54:53.000+0300",
+    "updated_date": "2022-08-20T17:15:14.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-161388",
+    "summary": "Drowned are brighter when holding fishing rod and nautilus shell",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-19T07:22:02.000+0300",
+    "resolution_date": "2019-10-03T12:34:00.000+0300",
+    "updated_date": "2019-10-03T12:34:00.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-160887",
+    "summary": "Right-clicking an adult mule with spawn egg does not spawn baby mule",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-11T18:45:46.000+0300",
+    "resolution_date": "2019-10-02T16:02:44.000+0300",
+    "updated_date": "2019-10-02T16:02:44.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-160590",
+    "summary": "Bees don't leave the nest or hive, when the nest or hive is destroyed by flames",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-06T02:22:49.000+0300",
+    "resolution_date": "2019-10-02T16:02:41.000+0300",
+    "updated_date": "2019-10-02T16:02:41.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-160589",
+    "summary": "Bees will not escape from the burning nest or hive",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-06T02:09:18.000+0300",
+    "resolution_date": "2019-10-02T16:02:43.000+0300",
+    "updated_date": "2019-10-02T16:02:43.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-160586",
+    "summary": "Bees enter the burning nest or hive",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-06T01:57:03.000+0300",
+    "resolution_date": "2019-10-02T16:02:42.000+0300",
+    "updated_date": "2019-10-02T16:02:42.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-160499",
+    "summary": "Baby bees suffocate when against a solid block ceiling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-09-04T23:41:12.000+0300",
+    "resolution_date": "2019-10-02T16:02:45.000+0300",
+    "updated_date": "2021-01-23T03:49:25.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-159843",
+    "summary": "Exploded Bee Nests/Beehives don't releases Bees and don't keep them inside the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-08-26T19:20:34.000+0300",
+    "resolution_date": "2019-10-02T16:02:41.000+0300",
+    "updated_date": "2022-02-14T00:23:43.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-158843",
+    "summary": "Mobs can no longer spawn on jack'o'lanterns and redstone lamps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-08-12T12:55:40.000+0300",
+    "resolution_date": "2019-10-02T16:02:45.000+0300",
+    "updated_date": "2019-10-02T16:02:45.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-153298",
+    "summary": "Wandering Traders spawn inside small spaces, such as farms",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-05-29T02:25:36.000+0300",
+    "resolution_date": "2019-10-02T16:02:44.000+0300",
+    "updated_date": "2019-10-02T16:02:44.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-148107",
+    "summary": "Ominous banners render differently in advancement ui and toast",
+    "labels": [
+      "UI",
+      "advancement",
+      "ominous-banner",
+      "toast"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2019-04-13T17:18:15.000+0300",
+    "resolution_date": "2019-10-06T12:27:35.000+0300",
+    "updated_date": "2019-10-06T12:27:35.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-134865",
+    "summary": "Normal text between obfuscated text can flicker as well",
+    "labels": [
+      "ascii",
+      "characters",
+      "formatting",
+      "formatting-codes",
+      "graphics",
+      "motd",
+      "obfuscated",
+      "rendering",
+      "server-list",
+      "text",
+      "unicode"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2018-07-26T00:26:18.000+0300",
+    "resolution_date": "2019-10-03T21:37:29.000+0300",
+    "updated_date": "2020-08-12T23:01:58.000+0300",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-108893",
+    "summary": "Standing in a chunk with an End Crystal with a Beam Target causes entity shading to render incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2016-10-19T08:14:51.000+0300",
+    "resolution_date": "2019-10-02T20:17:16.000+0300",
+    "updated_date": "2019-10-02T20:17:28.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-89996",
+    "summary": "hoverEvent changes lighting for displayed block of minecart and end crystal",
+    "labels": [
+      "hoverEvent",
+      "hovering",
+      "item-description",
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2015-10-07T23:56:11.000+0300",
+    "resolution_date": "2019-10-02T19:59:12.000+0300",
+    "updated_date": "2019-10-02T19:59:13.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-79867",
+    "summary": "Guardian beam brightens nearby entities",
+    "labels": [
+      "beam",
+      "brighter",
+      "guardian",
+      "riding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 15w49b",
+      "19w40a"
+    ],
+    "creation_date": "2015-04-24T18:02:13.000+0300",
+    "resolution_date": "2019-10-02T20:07:31.000+0300",
+    "updated_date": "2019-10-02T20:07:32.000+0300",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-69302",
+    "summary": "Non-trivial blocks on the Achievements screen/Advancement tabs are rendered in the wrong order",
+    "labels": [
+      "advancement"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2014-08-25T00:17:24.000+0300",
+    "resolution_date": "2019-10-02T21:18:23.000+0300",
+    "updated_date": "2019-10-02T21:18:23.000+0300",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-49203",
+    "summary": "Rendering depth of beacon and ender chest in superflat preview is wrong",
+    "labels": [
+      "beacon",
+      "depth",
+      "ender_chest",
+      "rendering",
+      "superflat-customization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2014-02-20T03:34:21.000+0200",
+    "resolution_date": "2019-10-02T21:06:10.000+0300",
+    "updated_date": "2019-10-02T21:06:10.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-36716",
+    "summary": "Square enchantment glint is shown on advancements screen and toast popups",
+    "labels": [
+      "advancement",
+      "enchantment",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w40a"
+    ],
+    "creation_date": "2013-10-23T09:17:37.000+0300",
+    "resolution_date": "2019-11-05T01:05:04.000+0200",
+    "updated_date": "2019-11-05T01:05:04.000+0200",
+    "watches": 12,
+    "votes": 31
+  }
+]

@@ -1,0 +1,981 @@
+[
+  {
+    "id": "MC-250921",
+    "summary": "Spawners do not drop experience when blown up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-27T17:22:02.000+0300",
+    "resolution_date": "2022-04-27T20:27:42.000+0300",
+    "updated_date": "2022-10-12T13:47:13.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-250460",
+    "summary": "The rendering of players is delayed for others",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-21T21:03:57.000+0300",
+    "resolution_date": "2022-04-22T10:10:18.000+0300",
+    "updated_date": "2022-04-25T19:13:01.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-250429",
+    "summary": "Narrator improperly narrates chat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-21T17:55:45.000+0300",
+    "resolution_date": "2022-04-26T12:06:20.000+0300",
+    "updated_date": "2022-04-26T12:06:20.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-250411",
+    "summary": "Sculk can spread in ancient city structures and replace soul sand with fire on top, extinguishing fires",
+    "labels": [
+      "ancient-city"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-21T11:30:40.000+0300",
+    "resolution_date": "2022-04-22T11:19:50.000+0300",
+    "updated_date": "2022-04-22T11:19:50.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-250400",
+    "summary": "Blocks and items can cause the world to render invisibly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-21T05:46:26.000+0300",
+    "resolution_date": "2022-04-26T16:27:35.000+0300",
+    "updated_date": "2022-04-26T16:27:35.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-250396",
+    "summary": "/locatebiome command displays Y-axis of -64 in certain cave biomes, causing the player to die when teleported",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-21T04:34:56.000+0300",
+    "resolution_date": "2022-04-28T21:56:35.000+0300",
+    "updated_date": "2022-08-09T20:36:41.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-250379",
+    "summary": "Teleporting armor stands results in visual desync and abnormal behavior",
+    "labels": [
+      "commands"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-21T01:17:38.000+0300",
+    "resolution_date": "2022-04-22T09:28:14.000+0300",
+    "updated_date": "2022-04-22T09:28:14.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-250339",
+    "summary": "Paintings are off-centered in multiplayer servers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-20T20:54:28.000+0300",
+    "resolution_date": "2022-04-21T15:21:49.000+0300",
+    "updated_date": "2022-04-21T15:21:49.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-250331",
+    "summary": "Chunk rendering is glitchy / incorrect when redrawing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-20T20:31:53.000+0300",
+    "resolution_date": "2022-04-26T16:26:59.000+0300",
+    "updated_date": "2022-04-26T16:26:59.000+0300",
+    "watches": 15,
+    "votes": 31
+  },
+  {
+    "id": "MC-250321",
+    "summary": "Flying and aquatic mobs pathfinding in certain blocks cause crash || The game crashed whilst ticking entity Error: java.lang.NullPointerException: Cannot invoke \"dnm.a()\" because \"$$1\" is null",
+    "labels": [
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-20T19:32:21.000+0300",
+    "resolution_date": "2022-04-27T11:11:13.000+0300",
+    "updated_date": "2022-09-23T19:10:23.000+0300",
+    "watches": 65,
+    "votes": 117
+  },
+  {
+    "id": "MC-250288",
+    "summary": "Some blocks in Ancient City structures can only be covered by sculk veins and can't be converted into a sculk block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-19T05:03:01.000+0300",
+    "resolution_date": "2022-04-22T11:19:50.000+0300",
+    "updated_date": "2022-05-24T12:27:23.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-250243",
+    "summary": "Warden sonic boom attacks can hit endermen, shulkers or players who have finished eating chorus fruit and players who have used ender pearls within range, even if they have teleported",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-16T15:06:00.000+0300",
+    "resolution_date": "2022-05-02T12:41:23.000+0300",
+    "updated_date": "2022-05-02T12:45:39.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-250240",
+    "summary": "Z-fighting can be seen around the backs of frogs when they open their mouths",
+    "labels": [
+      "frog",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-16T13:40:16.000+0300",
+    "resolution_date": "2022-04-26T12:48:57.000+0300",
+    "updated_date": "2022-04-26T12:48:57.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-250171",
+    "summary": "Warden Sonic Boom attack can be completely mitigated by shields",
+    "labels": [
+      "warden",
+      "warden-sonic-boom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-14T00:41:48.000+0300",
+    "resolution_date": "2022-04-27T20:34:41.000+0300",
+    "updated_date": "2022-04-27T20:34:41.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-250165",
+    "summary": "Doing /locate stronghold in some single biomes causes an unexpected error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-13T22:44:58.000+0300",
+    "resolution_date": "2022-04-26T12:06:20.000+0300",
+    "updated_date": "2022-08-10T14:17:49.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-250076",
+    "summary": "Shading is disabled for the two inner planes in mangrove roots, even though it isn't for all the other planes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-09T22:34:58.000+0300",
+    "resolution_date": "2022-04-25T10:29:38.000+0300",
+    "updated_date": "2022-04-25T10:29:38.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-250075",
+    "summary": "The inner two planes in mangrove roots are smaller than they should be",
+    "labels": [
+      "incorrect-model-element-sizes",
+      "incorrect-pixel-sizes"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-09T22:15:56.000+0300",
+    "resolution_date": "2022-04-25T10:29:38.000+0300",
+    "updated_date": "2022-04-25T10:29:38.000+0300",
+    "watches": 0,
+    "votes": 5
+  },
+  {
+    "id": "MC-250027",
+    "summary": "Allays ignore the dimension when checking for liked note blocks",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-08T15:06:18.000+0300",
+    "resolution_date": "2022-04-26T13:42:09.000+0300",
+    "updated_date": "2022-04-26T13:42:09.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-250000",
+    "summary": "Allays and villagers create ghost items when they take items from a stack and cannot fit the whole stack in their inventory",
+    "labels": [
+      "allay",
+      "ghost-item",
+      "item",
+      "item-stack",
+      "pickup"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-07T14:55:22.000+0300",
+    "resolution_date": "2022-04-27T12:51:53.000+0300",
+    "updated_date": "2022-04-27T12:51:53.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-249962",
+    "summary": "Exploding an End Crystal doesn't produce explosion vibration",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-07T01:38:17.000+0300",
+    "resolution_date": "2022-04-28T05:11:19.000+0300",
+    "updated_date": "2022-04-28T05:11:19.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-249919",
+    "summary": "Pillar in Ancient City can generate with waterlogged stairs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-04-06T19:16:16.000+0300",
+    "resolution_date": "2022-04-27T14:55:39.000+0300",
+    "updated_date": "2022-04-27T14:55:39.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-249780",
+    "summary": "Blocks that require support can generate floating in ancient cities",
+    "labels": [
+      "ancient-city"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w14a",
+      "22w17a",
+      "22w19a"
+    ],
+    "creation_date": "2022-04-01T00:51:33.000+0300",
+    "resolution_date": "2022-06-07T14:41:43.000+0300",
+    "updated_date": "2022-06-07T14:41:45.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-249745",
+    "summary": "If allay is holding an item, it can be equipped with ar\u200cmor using a dispenser",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-31T21:06:53.000+0300",
+    "resolution_date": "2022-04-26T13:42:09.000+0300",
+    "updated_date": "2022-04-26T13:42:09.000+0300",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-249669",
+    "summary": "tadpole.png has unused frog egg texture",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-29T05:38:46.000+0300",
+    "resolution_date": "2022-04-21T17:00:18.000+0300",
+    "updated_date": "2022-04-21T17:00:18.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-249601",
+    "summary": "Z-fighting occurs on a Warden's tendrils when clicking",
+    "labels": [
+      "warden",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-26T23:35:13.000+0200",
+    "resolution_date": "2022-05-04T14:29:39.000+0300",
+    "updated_date": "2022-05-04T14:29:39.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-249262",
+    "summary": "Sculk cannot replace soul sand or mud when mobs die on top of them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-19T15:16:04.000+0200",
+    "resolution_date": "2022-04-22T11:19:52.000+0300",
+    "updated_date": "2022-11-04T00:19:15.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-249192",
+    "summary": "Mangrove propagules break lily pads and frogspawn directly above them when attempting to grow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-17T16:11:37.000+0200",
+    "resolution_date": "2022-05-03T15:37:49.000+0300",
+    "updated_date": "2022-05-03T15:37:49.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-249190",
+    "summary": "Sculk blocks don't drop experience orbs when blown up",
+    "labels": [
+      "block",
+      "destroy",
+      "explosion",
+      "tnt",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-17T15:22:09.000+0200",
+    "resolution_date": "2022-04-27T16:54:57.000+0300",
+    "updated_date": "2022-04-27T16:54:57.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-249039",
+    "summary": "\"Half\" armor bar icon texture is incorrect",
+    "labels": [
+      "hud-status-icons",
+      "mismatching-textures",
+      "outdated-textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-14T14:33:28.000+0200",
+    "resolution_date": "2022-04-21T17:00:19.000+0300",
+    "updated_date": "2022-05-04T15:29:07.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-249032",
+    "summary": "Fence item model's bars inconsistent with placed block",
+    "labels": [
+      "misleading-item-model"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-03-14T13:16:39.000+0200",
+    "resolution_date": "2022-04-21T17:00:19.000+0300",
+    "updated_date": "2022-04-21T17:00:19.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-248562",
+    "summary": "Iron golem has unused pixels in the texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-02-11T14:38:02.000+0200",
+    "resolution_date": "2022-04-21T17:00:20.000+0300",
+    "updated_date": "2022-04-21T17:00:20.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-248561",
+    "summary": "Vindicator's crossed arms element has miscolored pixels on the faces touching the other arm elements",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-02-11T14:22:34.000+0200",
+    "resolution_date": "2022-04-21T17:00:21.000+0300",
+    "updated_date": "2022-04-21T17:00:21.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-248557",
+    "summary": "Savanna villager body defines pixels identical to base villager texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-02-11T13:37:06.000+0200",
+    "resolution_date": "2022-04-21T17:00:21.000+0300",
+    "updated_date": "2022-04-21T17:00:21.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-248556",
+    "summary": "Savanna Zombie Villager missing a body texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-02-11T13:33:24.000+0200",
+    "resolution_date": "2022-04-21T17:00:22.000+0300",
+    "updated_date": "2022-04-21T17:00:22.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-248555",
+    "summary": "Mismatches within (zombie) villager textures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-02-11T13:30:53.000+0200",
+    "resolution_date": "2022-04-21T17:00:22.000+0300",
+    "updated_date": "2022-05-09T11:20:30.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-248292",
+    "summary": "Llama uses pre-1.14 chest texture",
+    "labels": [
+      "mob-texture",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-01-27T22:41:34.000+0200",
+    "resolution_date": "2022-04-21T17:00:23.000+0300",
+    "updated_date": "2022-04-21T17:00:23.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-248161",
+    "summary": "Weaponsmith zombie villager texture has leftover pixels from the regular weaponsmith texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2022-01-17T18:39:18.000+0200",
+    "resolution_date": "2022-04-21T17:00:23.000+0300",
+    "updated_date": "2022-04-21T18:19:02.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-226761",
+    "summary": "Parity issue: Goats don't drop horns",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2021-05-29T22:32:41.000+0300",
+    "resolution_date": "2022-04-27T20:32:24.000+0300",
+    "updated_date": "2022-04-27T20:32:24.000+0300",
+    "watches": 12,
+    "votes": 26
+  },
+  {
+    "id": "MC-210901",
+    "summary": "Sculk sensors are not activated upon entities sliding on ice",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2021-01-08T19:24:23.000+0200",
+    "resolution_date": "2022-04-26T18:49:19.000+0300",
+    "updated_date": "2022-04-26T18:49:19.000+0300",
+    "watches": 2,
+    "votes": 10
+  },
+  {
+    "id": "MC-210712",
+    "summary": "Sculk sensors are not activated upon backwards movement in a boat",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2021-01-06T17:47:12.000+0200",
+    "resolution_date": "2022-04-26T18:49:19.000+0300",
+    "updated_date": "2022-04-26T18:49:19.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-208771",
+    "summary": "Projectiles landing on wool trigger sculk sensors",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2020-12-17T11:10:42.000+0200",
+    "resolution_date": "2022-04-26T15:49:18.000+0300",
+    "updated_date": "2022-04-26T15:49:18.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-208597",
+    "summary": "Boats ridden over wool are detected by sculk sensor",
+    "labels": [
+      "boat",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2020-12-16T19:28:54.000+0200",
+    "resolution_date": "2022-04-26T18:49:20.000+0300",
+    "updated_date": "2022-04-26T18:49:20.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-166686",
+    "summary": "Villagers with taiga outfits show Z-fighting around their neck",
+    "labels": [
+      "entity-model",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2019-11-28T08:48:16.000+0200",
+    "resolution_date": "2022-04-27T20:27:29.000+0300",
+    "updated_date": "2022-04-27T20:27:30.000+0300",
+    "watches": 4,
+    "votes": 20
+  },
+  {
+    "id": "MC-141064",
+    "summary": "Cleric collar z-fighting",
+    "labels": [
+      "cleric",
+      "texture",
+      "villager",
+      "villagers",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2018-12-14T15:36:47.000+0200",
+    "resolution_date": "2022-04-21T17:00:25.000+0300",
+    "updated_date": "2022-04-21T17:00:25.000+0300",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-106627",
+    "summary": "Leather cap texture overlay doesn't align correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2016-08-29T23:50:46.000+0300",
+    "resolution_date": "2022-04-21T17:00:25.000+0300",
+    "updated_date": "2022-04-21T17:00:25.000+0300",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-53312",
+    "summary": "Illager/(zombie) villager/witch robes don't render the last two rows of pixels",
+    "labels": [
+      "entity-model",
+      "villager",
+      "zombie_villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2014-04-23T02:55:05.000+0300",
+    "resolution_date": "2022-04-21T17:00:24.000+0300",
+    "updated_date": "2022-05-10T15:57:59.000+0300",
+    "watches": 17,
+    "votes": 40
+  },
+  {
+    "id": "MC-13103",
+    "summary": "Texture Z-Fighting at Wolf/Dog/Cat snout",
+    "labels": [
+      "cat",
+      "dog",
+      "entity-model",
+      "wolf",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2013-04-01T13:43:36.000+0300",
+    "resolution_date": "2022-04-21T17:00:24.000+0300",
+    "updated_date": "2022-04-21T20:13:08.000+0300",
+    "watches": 16,
+    "votes": 27
+  }
+]

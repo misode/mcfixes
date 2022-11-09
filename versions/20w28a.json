@@ -1,0 +1,830 @@
+[
+  {
+    "id": "MC-193659",
+    "summary": "Parrots don't imitate piglin brutes",
+    "labels": [
+      "mob",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-07-05T06:36:48.000+0300",
+    "resolution_date": "2020-07-11T20:31:30.000+0300",
+    "updated_date": "2020-07-11T20:31:30.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-193125",
+    "summary": "Cannot use \"Inventory\" key to write in recipe book, it closes GUI instead (Default: \"E\")",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input",
+      "Inventory",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-07-01T22:32:01.000+0300",
+    "resolution_date": "2020-07-06T17:59:23.000+0300",
+    "updated_date": "2020-07-07T20:54:05.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-193089",
+    "summary": "Mobs do not get damaged anymore if they're in lava and water at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-07-01T20:57:21.000+0300",
+    "resolution_date": "2020-07-06T17:59:24.000+0300",
+    "updated_date": "2021-10-31T01:13:28.000+0300",
+    "watches": 12,
+    "votes": 21
+  },
+  {
+    "id": "MC-193073",
+    "summary": "Game crashes when Piglins or Piglin Brutes convert to Zombified Piglins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-07-01T19:26:05.000+0300",
+    "resolution_date": "2020-07-02T11:31:21.000+0300",
+    "updated_date": "2020-11-02T22:26:07.000+0200",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-192306",
+    "summary": "Crimson and warped slabs use incorrect colors on maps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-27T15:13:02.000+0300",
+    "resolution_date": "2020-07-03T19:31:23.000+0300",
+    "updated_date": "2020-08-10T17:48:33.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-191947",
+    "summary": "Entities that tick in nether portal for one gametick don't get sent to the nether",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-25T23:47:45.000+0300",
+    "resolution_date": "2020-08-03T14:14:00.000+0300",
+    "updated_date": "2020-09-23T10:08:14.000+0300",
+    "watches": 16,
+    "votes": 31
+  },
+  {
+    "id": "MC-191656",
+    "summary": "Right-to-left languages don't perform as expected in creative search menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-24T22:27:58.000+0300",
+    "resolution_date": "2020-07-08T10:59:39.000+0300",
+    "updated_date": "2020-07-08T10:59:39.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-191579",
+    "summary": "Book signing GUI has broken formatting for right-to-left languages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-24T17:52:02.000+0300",
+    "resolution_date": "2020-07-08T12:23:39.000+0300",
+    "updated_date": "2020-07-08T12:23:39.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-191571",
+    "summary": "Switched square brackets for right-to-left languages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-24T17:32:04.000+0300",
+    "resolution_date": "2020-07-08T10:59:40.000+0300",
+    "updated_date": "2020-07-08T10:59:40.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-191501",
+    "summary": "Opening a world from earlier 1.14 releases in 1.16 causes villagers to vanish",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-24T13:28:27.000+0300",
+    "resolution_date": "2020-07-08T10:59:42.000+0300",
+    "updated_date": "2020-08-22T22:06:27.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-190892",
+    "summary": "Brackets in potion effects are reversed in right-to-left languages",
+    "labels": [
+      "UI",
+      "language",
+      "right-to-left"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Text",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-21T23:36:20.000+0300",
+    "resolution_date": "2020-07-08T10:59:40.000+0300",
+    "updated_date": "2020-07-08T10:59:40.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-190891",
+    "summary": "Certain redstone circuits causing lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-21T23:34:13.000+0300",
+    "resolution_date": "2020-07-07T15:30:03.000+0300",
+    "updated_date": "2020-07-10T16:29:50.000+0300",
+    "watches": 11,
+    "votes": 16
+  },
+  {
+    "id": "MC-190860",
+    "summary": "'/' (slash) in chat and command block shows legacy formatting symbol for right-to-left languages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-21T20:34:10.000+0300",
+    "resolution_date": "2020-07-08T10:59:39.000+0300",
+    "updated_date": "2020-07-08T10:59:39.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-190856",
+    "summary": "'/list uuids' shows parentheses incorrectly for right-to-left languages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-21T20:20:48.000+0300",
+    "resolution_date": "2020-07-08T10:59:40.000+0300",
+    "updated_date": "2020-07-08T10:59:40.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-190852",
+    "summary": "Advancement announcement message has switched brackets for right-to-left languages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-21T19:51:55.000+0300",
+    "resolution_date": "2020-07-08T10:59:41.000+0300",
+    "updated_date": "2020-07-08T10:59:41.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-190098",
+    "summary": "Structure size and offset still limited to 32 for dedicated servers",
+    "labels": [
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-17T00:07:09.000+0300",
+    "resolution_date": "2020-07-02T18:06:14.000+0300",
+    "updated_date": "2020-08-04T00:00:56.000+0300",
+    "watches": 10,
+    "votes": 13
+  },
+  {
+    "id": "MC-189769",
+    "summary": "Fungi can grow through fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-15T06:13:53.000+0300",
+    "resolution_date": "2020-07-03T19:31:24.000+0300",
+    "updated_date": "2021-01-28T03:21:01.000+0200",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-188534",
+    "summary": "Potted cactus missing bottom face",
+    "labels": [
+      "incorrect-uv"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-11T00:52:53.000+0300",
+    "resolution_date": "2020-07-02T13:36:20.000+0300",
+    "updated_date": "2022-02-21T15:26:49.000+0200",
+    "watches": 4,
+    "votes": 14
+  },
+  {
+    "id": "MC-188459",
+    "summary": "Potted cactus still missing cullface argument for top",
+    "labels": [
+      "cullface-missing-from-model"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-10T19:41:05.000+0300",
+    "resolution_date": "2020-07-02T13:36:20.000+0300",
+    "updated_date": "2021-10-16T05:20:40.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-187598",
+    "summary": "Block hitboxes still cause semi-transparent blocks not to render behind them in lower than \"Fabulous\" gfx settings",
+    "labels": [
+      "block",
+      "fabulous",
+      "gfx",
+      "hitbox",
+      "rendering",
+      "semi-transparent"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-05T13:51:06.000+0300",
+    "resolution_date": "2020-07-08T20:38:07.000+0300",
+    "updated_date": "2021-01-07T20:14:38.000+0200",
+    "watches": 11,
+    "votes": 32
+  },
+  {
+    "id": "MC-187129",
+    "summary": "Jigsaw blocks do not generate the correct structure until \"Done\" is pressed and the UI is reopened",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-03T05:36:12.000+0300",
+    "resolution_date": "2020-07-07T14:43:09.000+0300",
+    "updated_date": "2020-07-07T14:43:09.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-187126",
+    "summary": "Jigsaw block UI is not closed when pressing \"Generate\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-03T04:58:24.000+0300",
+    "resolution_date": "2020-07-07T14:43:09.000+0300",
+    "updated_date": "2020-07-07T14:43:09.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-187112",
+    "summary": "Extra space in \"Keep Jigsaws\" button in jigsaw block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-06-03T02:59:31.000+0300",
+    "resolution_date": "2020-07-07T14:43:11.000+0300",
+    "updated_date": "2021-08-18T16:39:43.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-186627",
+    "summary": "Undead mobs do not burn in daylight in custom dimensions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-05-31T03:45:45.000+0300",
+    "resolution_date": "2020-07-12T01:41:24.000+0300",
+    "updated_date": "2020-07-12T01:41:24.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-185925",
+    "summary": "Casting issue: Mineral vein generation uses 32-bit floats, leading to precision loss and potential crashes",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-05-28T11:01:02.000+0300",
+    "resolution_date": "2020-07-02T13:36:20.000+0300",
+    "updated_date": "2021-02-23T17:39:30.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-185684",
+    "summary": "Enderman can teleport when hit in cases where they previously would not teleport",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-05-26T05:26:05.000+0300",
+    "resolution_date": "2020-07-03T17:50:38.000+0300",
+    "updated_date": "2020-08-10T02:00:13.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-182868",
+    "summary": "Rail updates are 4-5x times laggier since 1.14 if the rail is on top of a non-full cube",
+    "labels": [
+      "lag",
+      "performance",
+      "rail",
+      "slab",
+      "tps",
+      "transparent-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-05-07T05:22:17.000+0300",
+    "resolution_date": "2020-07-08T13:48:14.000+0300",
+    "updated_date": "2020-07-09T00:02:25.000+0300",
+    "watches": 17,
+    "votes": 81
+  },
+  {
+    "id": "MC-182430",
+    "summary": "Piglins continuously try and fail to pick up gold ingots if they can't reach them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-05-04T22:42:06.000+0300",
+    "resolution_date": "2020-07-02T16:00:27.000+0300",
+    "updated_date": "2020-07-10T16:43:26.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-181233",
+    "summary": "Mobs cannot spawn on wooden trapdoors, but can on iron and nether fungus trapdoors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-04-28T14:51:13.000+0300",
+    "resolution_date": "2020-07-03T19:31:23.000+0300",
+    "updated_date": "2020-07-13T16:28:54.000+0300",
+    "watches": 2,
+    "votes": 10
+  },
+  {
+    "id": "MC-181204",
+    "summary": "doDaylightCycle button slightly incorrectly labeled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-04-28T08:14:26.000+0300",
+    "resolution_date": "2020-07-07T14:43:13.000+0300",
+    "updated_date": "2020-07-07T14:43:13.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-179369",
+    "summary": "Wandering Traders are always invisible in the Nether and the End",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-04-19T00:10:12.000+0300",
+    "resolution_date": "2020-07-07T14:43:08.000+0300",
+    "updated_date": "2020-07-07T14:43:08.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-176753",
+    "summary": "Piglins stand around dropped golden items if their \"CanPickUpLoot\" tag is set to \"0b\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-03-30T10:36:11.000+0300",
+    "resolution_date": "2020-07-02T16:00:28.000+0300",
+    "updated_date": "2020-07-12T21:05:19.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-174520",
+    "summary": "Soul particle texture is incorrect for the first frame",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-03-11T22:15:37.000+0200",
+    "resolution_date": "2020-07-02T13:36:19.000+0300",
+    "updated_date": "2020-07-02T13:36:19.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-174479",
+    "summary": "Cannot place sea pickles on soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-03-11T19:46:27.000+0200",
+    "resolution_date": "2020-07-02T13:36:19.000+0300",
+    "updated_date": "2021-02-23T17:47:06.000+0200",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-173526",
+    "summary": "All Minecarts can survive in lava",
+    "labels": [
+      "lava",
+      "minecart",
+      "minecart-with-chest",
+      "minecart-with-hopper",
+      "minecart-with-tnt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-03-01T17:06:39.000+0200",
+    "resolution_date": "2020-07-06T17:59:22.000+0300",
+    "updated_date": "2020-08-21T19:36:40.000+0300",
+    "watches": 11,
+    "votes": 33
+  },
+  {
+    "id": "MC-172221",
+    "summary": "Hoglins, zoglins, ravagers, iron golems, and polar bears won't walk down a block if they are partially walking on air",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-02-15T00:07:38.000+0200",
+    "resolution_date": "2020-07-08T11:02:11.000+0300",
+    "updated_date": "2020-07-08T11:02:11.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-171363",
+    "summary": "Nether forest biomes: Large fungi and small plants only generate on the topmost layer of nylium, leaving all lower layers devoid of flora",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2020-02-07T21:18:53.000+0200",
+    "resolution_date": "2020-07-07T18:05:11.000+0300",
+    "updated_date": "2020-07-12T18:31:11.000+0300",
+    "watches": 53,
+    "votes": 236
+  },
+  {
+    "id": "MC-121098",
+    "summary": "Entering a tall portal that takes you to a short portal from the top causes you to take suffocation damage",
+    "labels": [
+      "portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2017-10-12T07:52:26.000+0300",
+    "resolution_date": "2020-10-23T22:47:34.000+0300",
+    "updated_date": "2020-10-23T22:47:35.000+0300",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-80032",
+    "summary": "Horses can suffocate when going through nether portals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w28a",
+      "22w45a"
+    ],
+    "creation_date": "2015-05-02T16:59:37.000+0300",
+    "resolution_date": "2022-11-07T10:15:31.000+0200",
+    "updated_date": "2022-11-07T10:15:31.000+0200",
+    "watches": 41,
+    "votes": 71
+  },
+  {
+    "id": "MC-65953",
+    "summary": "Tags IsBaby and IsVillager can't be changed from true to false with /entitydata",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2014-08-07T20:48:50.000+0300",
+    "resolution_date": "2020-07-07T14:43:02.000+0300",
+    "updated_date": "2020-07-16T18:29:48.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-34661",
+    "summary": "Thorns enchantment causes double armor decay",
+    "labels": [
+      "enchanted-items"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w28a"
+    ],
+    "creation_date": "2013-10-10T18:32:41.000+0300",
+    "resolution_date": "2020-07-07T14:43:07.000+0300",
+    "updated_date": "2022-01-27T11:40:03.000+0200",
+    "watches": 6,
+    "votes": 2
+  }
+]

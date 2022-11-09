@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "MC-181296",
+    "summary": "Panorama has wrong overlay when using Programmer Art",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-28T21:09:32.000+0300",
+    "resolution_date": "2020-04-29T13:47:34.000+0300",
+    "updated_date": "2021-08-18T16:40:01.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-180410",
+    "summary": "Enderman spawn rate seems very low on upgraded worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-24T13:56:27.000+0300",
+    "resolution_date": "2020-04-30T10:01:30.000+0300",
+    "updated_date": "2020-07-05T22:37:52.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-180353",
+    "summary": "Chat background renders in front of the Debug Menu but chat text renders behind it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-24T04:15:15.000+0300",
+    "resolution_date": "2020-04-29T15:10:57.000+0300",
+    "updated_date": "2021-07-03T01:55:25.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-180299",
+    "summary": "\"Elytra\" in \"Disable Elytra movement check\" is inconsistently capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-24T00:01:54.000+0300",
+    "resolution_date": "2020-04-28T09:27:20.000+0300",
+    "updated_date": "2020-04-28T09:27:20.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-180248",
+    "summary": "The \"g\" in \"Upgrade gear\" is not capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T20:28:58.000+0300",
+    "resolution_date": "2020-04-28T09:27:21.000+0300",
+    "updated_date": "2021-08-18T16:39:55.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-180246",
+    "summary": "The \"r\" in \"Game rules\" is not capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T20:24:24.000+0300",
+    "resolution_date": "2020-04-28T09:27:21.000+0300",
+    "updated_date": "2021-08-18T16:39:46.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-180138",
+    "summary": "Long messages in chat no longer have hanging indention",
+    "labels": [
+      "chat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T13:17:45.000+0300",
+    "resolution_date": "2020-04-29T15:10:58.000+0300",
+    "updated_date": "2021-01-18T01:46:35.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-180135",
+    "summary": "Empty chat messages are not displayed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T13:10:05.000+0300",
+    "resolution_date": "2020-04-29T15:10:58.000+0300",
+    "updated_date": "2020-04-29T15:10:59.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-180125",
+    "summary": "Incorrect font spacing on non-BMP characters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T12:38:51.000+0300",
+    "resolution_date": "2020-04-23T14:00:50.000+0300",
+    "updated_date": "2020-04-24T23:05:10.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-180110",
+    "summary": "Underline and strikethrough in JSON text don't always render correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T10:41:52.000+0300",
+    "resolution_date": "2020-04-29T15:10:58.000+0300",
+    "updated_date": "2020-04-29T15:34:18.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-180100",
+    "summary": "Rain particles appear black under certain conditions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T10:04:15.000+0300",
+    "resolution_date": "2020-04-28T10:09:36.000+0300",
+    "updated_date": "2020-08-17T17:48:33.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-180030",
+    "summary": "Adult hoglins zombified into an adult zoglin deals the same damage as a baby",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-23T02:46:07.000+0300",
+    "resolution_date": "2020-04-29T13:32:42.000+0300",
+    "updated_date": "2020-04-29T13:32:42.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-179954",
+    "summary": "Keybindings are not correctly inserted into the demo info box text",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T22:26:51.000+0300",
+    "resolution_date": "2020-04-23T13:45:40.000+0300",
+    "updated_date": "2020-04-29T12:29:01.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-179952",
+    "summary": "Height map data doesn't get converted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T22:20:09.000+0300",
+    "resolution_date": "2020-04-23T12:42:51.000+0300",
+    "updated_date": "2020-05-11T03:56:42.000+0300",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-179945",
+    "summary": "An increased max health attribute causes ghost hearts to appear after death",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T21:57:59.000+0300",
+    "resolution_date": "2021-02-15T21:52:57.000+0200",
+    "updated_date": "2021-02-15T21:52:57.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-179905",
+    "summary": "Caption of game rule screen is missing ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T20:39:51.000+0300",
+    "resolution_date": "2020-04-29T15:10:59.000+0300",
+    "updated_date": "2020-04-29T15:10:59.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-179886",
+    "summary": "Play button overlay doesn't appear in worldsave selection GUI",
+    "labels": [
+      "gui",
+      "singleplayer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T20:07:14.000+0300",
+    "resolution_date": "2020-04-23T13:45:40.000+0300",
+    "updated_date": "2020-04-27T03:31:41.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-179883",
+    "summary": "Raw JSON text duplicates components in \"extra\" in entity names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T19:59:47.000+0300",
+    "resolution_date": "2020-04-23T13:45:39.000+0300",
+    "updated_date": "2020-04-28T02:02:03.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-179868",
+    "summary": "Crash when going to a previous page of writable books",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T19:10:54.000+0300",
+    "resolution_date": "2020-04-23T18:03:04.000+0300",
+    "updated_date": "2020-04-30T23:39:02.000+0300",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-179866",
+    "summary": "In some spots, it is raining even if it should be snowing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T19:03:16.000+0300",
+    "resolution_date": "2020-04-24T11:08:49.000+0300",
+    "updated_date": "2020-08-19T23:28:04.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-179863",
+    "summary": "Setting attribute minecraft:generic.max_health value to 0 or lower causes an infinite death loop after dying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T18:58:50.000+0300",
+    "resolution_date": "2020-04-29T15:10:59.000+0300",
+    "updated_date": "2021-02-15T17:42:10.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-179858",
+    "summary": "Maps show stone-like pattern despite it not being there",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T18:47:50.000+0300",
+    "resolution_date": "2020-04-23T12:42:51.000+0300",
+    "updated_date": "2021-01-20T23:20:39.000+0200",
+    "watches": 21,
+    "votes": 14
+  },
+  {
+    "id": "MC-179850",
+    "summary": "There is no difference between Entity Distance 100% and 500%",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T18:24:23.000+0300",
+    "resolution_date": "2020-04-29T11:43:53.000+0300",
+    "updated_date": "2020-04-29T12:18:18.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-179847",
+    "summary": "Hoglins and Piglins spin around",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T18:14:05.000+0300",
+    "resolution_date": "2020-04-29T13:39:00.000+0300",
+    "updated_date": "2020-04-29T13:39:00.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-179845",
+    "summary": "Rain falls through any blocks in some spots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T18:12:23.000+0300",
+    "resolution_date": "2020-04-23T12:42:50.000+0300",
+    "updated_date": "2022-02-24T16:27:18.000+0200",
+    "watches": 29,
+    "votes": 19
+  },
+  {
+    "id": "MC-179841",
+    "summary": "Game crashes when you optimize your world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T18:05:17.000+0300",
+    "resolution_date": "2020-04-23T15:47:08.000+0300",
+    "updated_date": "2020-05-14T19:46:38.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-179839",
+    "summary": "Chat text renders behind the armor bar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-22T18:02:28.000+0300",
+    "resolution_date": "2020-04-29T15:10:57.000+0300",
+    "updated_date": "2020-09-29T16:59:35.000+0300",
+    "watches": 9,
+    "votes": 22
+  },
+  {
+    "id": "MC-179146",
+    "summary": "weeping_vines_plant changes to weeping_vines during /fill command",
+    "labels": [
+      "FillCommand",
+      "weeping_vines"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-17T12:54:27.000+0300",
+    "resolution_date": "2020-05-01T16:22:46.000+0300",
+    "updated_date": "2020-05-01T16:22:46.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-178949",
+    "summary": "Bastion Remnants cannot be generated in in superflat worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-16T06:19:12.000+0300",
+    "resolution_date": "2020-04-27T11:20:58.000+0300",
+    "updated_date": "2020-04-29T22:01:35.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-178943",
+    "summary": "Piglins/hoglins spawned in bastion remnants can outrun players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-16T05:50:45.000+0300",
+    "resolution_date": "2020-04-27T11:20:58.000+0300",
+    "updated_date": "2020-04-27T12:42:53.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-178817",
+    "summary": "\"Chain Blocks\" don't have a \"waterlogged\" state",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-15T20:03:55.000+0300",
+    "resolution_date": "2020-04-28T09:34:33.000+0300",
+    "updated_date": "2020-04-28T09:34:33.000+0300",
+    "watches": 13,
+    "votes": 22
+  },
+  {
+    "id": "MC-178336",
+    "summary": "The message \"You have no home bed or respawn anchor, or it was obstructed\" doesn't make it clear that your respawn anchor might have been depleted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-12T03:02:19.000+0300",
+    "resolution_date": "2020-04-28T09:27:18.000+0300",
+    "updated_date": "2020-06-25T00:01:08.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-178129",
+    "summary": "Entity conversion subtitles use inconsistent tenses",
+    "labels": [
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-10T14:18:39.000+0300",
+    "resolution_date": "2020-04-28T09:34:33.000+0300",
+    "updated_date": "2021-03-22T01:15:33.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-178013",
+    "summary": "Zombified Piglins riding striders can despawn, leaving saddled striders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-09T20:17:06.000+0300",
+    "resolution_date": "2020-04-29T09:43:43.000+0300",
+    "updated_date": "2020-05-01T03:08:15.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-177976",
+    "summary": "Baby piglins can pick up soul campfires",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-09T06:15:30.000+0300",
+    "resolution_date": "2020-04-27T11:20:59.000+0300",
+    "updated_date": "2020-04-27T11:20:59.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-177951",
+    "summary": "Game crashes when fire starters are used on a non-campfire in the #campfires tag",
+    "labels": [
+      "Crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-09T03:58:13.000+0300",
+    "resolution_date": "2020-04-27T16:03:20.000+0300",
+    "updated_date": "2020-04-27T16:03:20.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-177911",
+    "summary": "Cave generator doesn't cut through blackstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-09T00:00:34.000+0300",
+    "resolution_date": "2020-04-27T11:20:59.000+0300",
+    "updated_date": "2020-05-02T16:24:05.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-177816",
+    "summary": "Failed to access/delete level should be \"world\"",
+    "labels": [
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-08T18:29:20.000+0300",
+    "resolution_date": "2020-04-28T09:27:18.000+0300",
+    "updated_date": "2020-04-28T09:27:18.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-177794",
+    "summary": "Globe Banner Pattern is not required to add the globe to a banner",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-08T17:15:02.000+0300",
+    "resolution_date": "2020-04-27T11:20:59.000+0300",
+    "updated_date": "2020-04-29T13:03:37.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-177790",
+    "summary": "Piglin Banners are named block.minecraft.banner.piglin.[<colour>]",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-08T17:08:40.000+0300",
+    "resolution_date": "2020-04-27T11:20:59.000+0300",
+    "updated_date": "2020-05-03T12:52:59.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-177771",
+    "summary": "\"death.attack.fireworks.item\" displays raw translation string (is untranslated)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-08T11:52:47.000+0300",
+    "resolution_date": "2020-04-28T09:27:18.000+0300",
+    "updated_date": "2022-05-13T16:38:21.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-177561",
+    "summary": "Compasses used on the top of lodestone at y=255 do not break when the lodestone is destroyed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-06T04:14:08.000+0300",
+    "resolution_date": "2020-04-28T11:30:29.000+0300",
+    "updated_date": "2020-04-28T11:30:29.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-177557",
+    "summary": "Using compass on the top of a lodestone at y=255 sets compass but does not play sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-06T03:14:38.000+0300",
+    "resolution_date": "2020-04-30T00:16:15.000+0300",
+    "updated_date": "2020-04-30T00:16:15.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-177173",
+    "summary": "Baby Zoglin age status value is not stored in the NBT tag.",
+    "labels": [
+      "Zoglin",
+      "nbt-tags"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-03T00:00:17.000+0300",
+    "resolution_date": "2020-04-29T13:32:41.000+0300",
+    "updated_date": "2020-04-30T03:30:38.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-177127",
+    "summary": "Unnecessary exclamation point in subtitle \"End Portal opens!\"",
+    "labels": [
+      "en_us",
+      "en_us.json",
+      "incorrect-subtitle",
+      "translation",
+      "translation-string"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-02T21:02:55.000+0300",
+    "resolution_date": "2020-04-28T09:34:33.000+0300",
+    "updated_date": "2021-03-22T01:14:20.000+0200",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-177105",
+    "summary": "Piglins, hoglins, zoglins and villagers look at their target's feet instead of its head",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-04-02T20:03:50.000+0300",
+    "resolution_date": "2020-04-29T15:27:51.000+0300",
+    "updated_date": "2020-05-01T16:18:15.000+0300",
+    "watches": 26,
+    "votes": 44
+  },
+  {
+    "id": "MC-176468",
+    "summary": "Adult striders can spawn with saddles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-27T16:22:48.000+0200",
+    "resolution_date": "2020-04-29T09:43:44.000+0300",
+    "updated_date": "2022-07-17T04:36:51.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-176459",
+    "summary": "Baby striders can spawn with saddles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-27T15:03:26.000+0200",
+    "resolution_date": "2020-04-29T09:43:44.000+0300",
+    "updated_date": "2020-04-29T12:18:59.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-176221",
+    "summary": "Striders spin when trying to pathfind towards players with warped fungi/warped fungi on sticks while being leashed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-26T05:05:44.000+0200",
+    "resolution_date": "2020-04-30T06:32:15.000+0300",
+    "updated_date": "2020-04-30T06:32:15.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-176203",
+    "summary": "Striders with Levitation walking on Lava don't levitate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-26T03:15:31.000+0200",
+    "resolution_date": "2020-04-29T09:43:44.000+0300",
+    "updated_date": "2022-02-09T01:41:58.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-176144",
+    "summary": "Striders are moving too fast when swimming up a lava stream",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-25T23:32:55.000+0200",
+    "resolution_date": "2020-05-06T13:13:57.000+0300",
+    "updated_date": "2022-03-25T14:23:22.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-176135",
+    "summary": "Striders riding other entities are not cold",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-25T23:07:47.000+0200",
+    "resolution_date": "2020-04-29T09:43:43.000+0300",
+    "updated_date": "2020-06-15T15:46:25.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-176054",
+    "summary": "Baby strider passengers float / passenger offset is too high",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-25T20:56:18.000+0200",
+    "resolution_date": "2020-04-29T16:43:34.000+0300",
+    "updated_date": "2020-05-20T19:55:25.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-176032",
+    "summary": "Striders can float",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-25T20:27:12.000+0200",
+    "resolution_date": "2020-04-29T09:43:43.000+0300",
+    "updated_date": "2020-06-30T10:54:24.000+0300",
+    "watches": 38,
+    "votes": 72
+  },
+  {
+    "id": "MC-176028",
+    "summary": "Striders can spawn in stacks of three or more",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-25T20:24:49.000+0200",
+    "resolution_date": "2020-04-29T09:43:45.000+0300",
+    "updated_date": "2020-05-01T22:25:11.000+0300",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-175741",
+    "summary": "Game crashes when a cat attempts to sleep in a non-bed in the #beds tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-23T05:51:10.000+0200",
+    "resolution_date": "2020-04-27T16:03:20.000+0300",
+    "updated_date": "2020-04-27T16:03:20.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-175740",
+    "summary": "Game crashes when dispenser is used on non-beehive block in #beehives tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-23T05:40:59.000+0200",
+    "resolution_date": "2020-04-27T16:03:20.000+0300",
+    "updated_date": "2021-12-26T17:24:52.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-175107",
+    "summary": "It's possible to get Bad Omen VI in Survival mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-17T23:58:58.000+0200",
+    "resolution_date": "2020-04-29T13:32:41.000+0300",
+    "updated_date": "2020-04-29T13:32:41.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-174811",
+    "summary": "Zombified piglins are able to spawn on top of nether wart blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-14T16:49:34.000+0200",
+    "resolution_date": "2020-04-28T09:34:34.000+0300",
+    "updated_date": "2020-06-20T18:59:17.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-174593",
+    "summary": "Inconsistent pluralisation in \"fell off a scaffolding\"",
+    "labels": [
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-12T08:50:50.000+0200",
+    "resolution_date": "2020-04-28T09:27:19.000+0300",
+    "updated_date": "2020-05-01T22:50:54.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-174573",
+    "summary": "Nether vines can drop multiple copies with fortune (free duplication)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-12T03:44:40.000+0200",
+    "resolution_date": "2020-04-28T09:34:35.000+0300",
+    "updated_date": "2020-04-28T09:34:35.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-173747",
+    "summary": "Armor enchantment glint doesn't render",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-03-04T20:20:56.000+0200",
+    "resolution_date": "2020-04-29T16:29:36.000+0300",
+    "updated_date": "2020-05-22T15:47:41.000+0300",
+    "watches": 46,
+    "votes": 100
+  },
+  {
+    "id": "MC-173385",
+    "summary": "New Nether lighting system doesn't affect fluids, entity-like blocks (chests, etc.) and entities",
+    "labels": [
+      "entites",
+      "lighting",
+      "nether",
+      "shading"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-28T19:19:38.000+0200",
+    "resolution_date": "2020-04-29T16:29:36.000+0300",
+    "updated_date": "2021-01-26T03:22:08.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-173198",
+    "summary": "Target blocks are transparent and do not transfer redstone signals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-26T21:32:35.000+0200",
+    "resolution_date": "2020-04-29T15:18:44.000+0300",
+    "updated_date": "2020-04-29T15:18:44.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-173067",
+    "summary": "NullPointerException when a structure containing a campfire is placed during world generation",
+    "labels": [
+      "campfire",
+      "structure",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-24T22:36:17.000+0200",
+    "resolution_date": "2020-04-27T11:20:58.000+0300",
+    "updated_date": "2020-08-14T21:18:48.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-172643",
+    "summary": "Piglin's snout glows when wearing enchanted armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-18T00:29:06.000+0200",
+    "resolution_date": "2020-04-29T21:04:43.000+0300",
+    "updated_date": "2020-04-29T21:04:43.000+0300",
+    "watches": 4,
+    "votes": 16
+  },
+  {
+    "id": "MC-172253",
+    "summary": "Equip sound doesn't play when Piglins equip items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-15T02:11:56.000+0200",
+    "resolution_date": "2020-04-28T09:34:35.000+0300",
+    "updated_date": "2020-04-29T12:20:24.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-172172",
+    "summary": "Adult piglins spin around while following the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-14T21:04:10.000+0200",
+    "resolution_date": "2020-04-29T13:38:39.000+0300",
+    "updated_date": "2020-05-06T14:25:53.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-171523",
+    "summary": "Inconsistent strings for warped and crimson wall signs",
+    "labels": [
+      "en_us.json",
+      "translation",
+      "translation-string"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-06T18:21:02.000+0200",
+    "resolution_date": "2020-04-28T09:27:20.000+0300",
+    "updated_date": "2021-08-18T16:39:56.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-170944",
+    "summary": "/locatebiome messages do not fit for all biome names",
+    "labels": [
+      "/locatebiome"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a",
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-02-05T22:54:22.000+0200",
+    "resolution_date": "2020-06-02T17:00:25.000+0300",
+    "updated_date": "2020-06-02T17:00:25.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-170840",
+    "summary": "Broken spawn rates in soul sand valleys and warped forests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2020-02-05T19:49:20.000+0200",
+    "resolution_date": "2020-04-29T13:31:25.000+0300",
+    "updated_date": "2020-08-27T04:22:44.000+0300",
+    "watches": 27,
+    "votes": 54
+  },
+  {
+    "id": "MC-167477",
+    "summary": "Chestplate enchantment glint is applied to shield handle as well",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-12-10T22:03:42.000+0200",
+    "resolution_date": "2020-07-02T23:10:35.000+0300",
+    "updated_date": "2020-07-02T23:11:25.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-166895",
+    "summary": "Underlines in Written Book Text Disappear with Subtitles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Text",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-11-30T20:13:24.000+0200",
+    "resolution_date": "2020-05-01T22:43:48.000+0300",
+    "updated_date": "2020-05-01T22:43:48.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-166296",
+    "summary": "Mobs picking up and equipping items does not play the equipping sound",
+    "labels": [
+      "missing-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-11-24T17:13:42.000+0200",
+    "resolution_date": "2020-04-28T09:34:35.000+0300",
+    "updated_date": "2021-09-30T18:37:24.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-166269",
+    "summary": "Wet wolves become black for an instant after shaking off water",
+    "labels": [
+      "dog",
+      "rendering",
+      "wolf",
+      "wolves"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-11-24T11:25:37.000+0200",
+    "resolution_date": "2020-04-29T16:29:36.000+0300",
+    "updated_date": "2020-04-29T16:29:36.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-162385",
+    "summary": "The background of the title text does not fade with the text",
+    "labels": [
+      "UI",
+      "UI-render",
+      "accessibility-option",
+      "background",
+      "opacity",
+      "title"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-09-30T23:52:32.000+0300",
+    "resolution_date": "2020-04-29T16:29:36.000+0300",
+    "updated_date": "2020-04-29T16:29:36.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-155742",
+    "summary": "Iron golems tend to congregate on the north side of villages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-07-01T10:31:37.000+0300",
+    "resolution_date": "2020-05-06T08:29:51.000+0300",
+    "updated_date": "2020-05-06T08:29:51.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-153508",
+    "summary": "Redstone dust travelling up the side of a block cannot be targeted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-05-31T21:05:16.000+0300",
+    "resolution_date": "2020-04-29T19:21:13.000+0300",
+    "updated_date": "2020-04-29T19:21:13.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-147255",
+    "summary": "Beds in the overworld will explode if in a nether wastes biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-04-03T16:07:08.000+0300",
+    "resolution_date": "2020-04-28T09:34:33.000+0300",
+    "updated_date": "2020-04-29T12:21:43.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-143904",
+    "summary": "Adding a non-rail block to the \"rails\" block tag will crash the game when placing a minecart on it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2019-02-09T17:34:53.000+0200",
+    "resolution_date": "2020-04-27T16:03:20.000+0300",
+    "updated_date": "2020-04-29T23:04:34.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-137336",
+    "summary": "Redstone dust's hitbox is inconsistent with other blocks when branching",
+    "labels": [
+      "incorrect-block-hitbox"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2018-10-18T17:58:25.000+0300",
+    "resolution_date": "2020-04-29T19:21:32.000+0300",
+    "updated_date": "2022-02-21T15:38:04.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-127149",
+    "summary": "Land mobs cannot properly walk on the waterlogged blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2018-03-11T08:43:30.000+0200",
+    "resolution_date": "2020-05-06T13:33:40.000+0300",
+    "updated_date": "2020-12-18T15:39:53.000+0200",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-117806",
+    "summary": "Dispenser with filled bucket at y = 255 facing upwards replaces filled with empty bucket despite no fluid being placed",
+    "labels": [
+      "bucket",
+      "dispenser",
+      "height-limit",
+      "lava_bucket",
+      "water_bucket",
+      "y-coordinate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2017-05-21T19:45:39.000+0300",
+    "resolution_date": "2020-04-29T19:50:40.000+0300",
+    "updated_date": "2020-10-06T15:51:17.000+0300",
+    "watches": 3,
+    "votes": 15
+  },
+  {
+    "id": "MC-111381",
+    "summary": "Rendering rotations for shulkers are set in onInitialSpawn method",
+    "labels": [
+      "animation",
+      "mob-spawner",
+      "rendering",
+      "shulker",
+      "spawner",
+      "stutter"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2016-12-14T01:53:12.000+0200",
+    "resolution_date": "2020-04-29T16:29:37.000+0300",
+    "updated_date": "2020-04-29T16:29:37.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-105132",
+    "summary": "Horse, spider and llama spin around when walking next to the fence or wall",
+    "labels": [
+      "AI",
+      "fence",
+      "horse",
+      "llama",
+      "pathfinding",
+      "spider",
+      "walking",
+      "wall"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2016-07-08T10:24:57.000+0300",
+    "resolution_date": "2020-05-06T13:58:38.000+0300",
+    "updated_date": "2022-04-10T09:58:19.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-13727",
+    "summary": "Arrows shot from bow bounce on horse when moving or not and damage if fire arrows",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.11.2",
+      "20w18a"
+    ],
+    "creation_date": "2013-04-18T23:32:49.000+0300",
+    "resolution_date": "2020-05-02T18:53:29.000+0300",
+    "updated_date": "2020-05-02T18:53:29.000+0300",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-11211",
+    "summary": "Unable to perform many right click actions when targeting the top face of blocks placed at y=255",
+    "labels": [
+      "bed",
+      "buildlimit",
+      "hight",
+      "limit",
+      "message"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2013-03-07T14:40:15.000+0200",
+    "resolution_date": "2020-04-28T11:30:03.000+0300",
+    "updated_date": "2021-03-04T07:10:06.000+0200",
+    "watches": 37,
+    "votes": 91
+  },
+  {
+    "id": "MC-9405",
+    "summary": "Top piece of staircase redstone dust doesn't power blocks on the same height in the direction it is powered from unless only connected to something on the other side",
+    "labels": [
+      "piston",
+      "redstone",
+      "redstone-wire"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w18a"
+    ],
+    "creation_date": "2013-02-08T16:01:46.000+0200",
+    "resolution_date": "2020-05-05T13:17:31.000+0300",
+    "updated_date": "2020-05-05T13:17:31.000+0300",
+    "watches": 11,
+    "votes": 6
+  },
+  {
+    "id": "MC-8645",
+    "summary": "Redstone wire receiving level 1 power from a block, pointing at another block with wire on it will not power that block",
+    "labels": [
+      "redstone",
+      "redstone-comparator",
+      "redstone-dust",
+      "signal-decay",
+      "signal-strength"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.8",
+      "20w18a"
+    ],
+    "creation_date": "2013-01-29T05:08:58.000+0200",
+    "resolution_date": "2020-04-29T20:31:47.000+0300",
+    "updated_date": "2020-04-30T02:00:29.000+0300",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-2255",
+    "summary": "Redstone wire uses different criteria for connecting visually and logically",
+    "labels": [
+      "glowstone",
+      "redstone_wire",
+      "slabs",
+      "stairs"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 15w46a",
+      "20w18a"
+    ],
+    "creation_date": "2012-11-04T21:10:35.000+0200",
+    "resolution_date": "2020-04-29T19:13:07.000+0300",
+    "updated_date": "2020-05-01T15:06:24.000+0300",
+    "watches": 39,
+    "votes": 60
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-155043",
+    "summary": "Game output/log gets spammed with 'Fetching packet for removed entity ...' warnings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17"
+    ],
+    "creation_date": "2019-06-23T16:24:09.000+0300",
+    "resolution_date": "2021-08-01T06:03:20.000+0300",
+    "updated_date": "2021-08-01T06:03:20.000+0300",
+    "watches": 15,
+    "votes": 28
+  }
+]

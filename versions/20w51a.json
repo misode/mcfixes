@@ -1,0 +1,336 @@
+[
+  {
+    "id": "MC-208082",
+    "summary": "Game stalls when any message is displayed in chat while playing with an expired session",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-12-10T14:45:42.000+0200",
+    "resolution_date": "2020-12-16T17:58:31.000+0200",
+    "updated_date": "2020-12-17T21:14:27.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-207405",
+    "summary": "Nether stars can be blown up while being inside of a bundle/shulker box",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-12-03T09:54:07.000+0200",
+    "resolution_date": "2020-12-16T11:56:42.000+0200",
+    "updated_date": "2021-02-15T15:05:21.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-207404",
+    "summary": "Walking on wool triggers sculk sensors",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-12-03T09:53:58.000+0200",
+    "resolution_date": "2020-12-16T19:37:24.000+0200",
+    "updated_date": "2020-12-16T19:37:24.000+0200",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-207323",
+    "summary": "Dripstones that extend to y level 0 don't fall",
+    "labels": [
+      "pointed-dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-12-02T23:11:43.000+0200",
+    "resolution_date": "2020-12-18T16:13:58.000+0200",
+    "updated_date": "2020-12-18T16:13:58.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-207316",
+    "summary": "Wool item entities trigger sculk sensors.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-12-02T22:33:45.000+0200",
+    "resolution_date": "2020-12-16T19:30:39.000+0200",
+    "updated_date": "2022-05-30T08:12:53.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-207125",
+    "summary": "Loaded crossbow in offhand does not show breaking block hand animation",
+    "labels": [
+      "breaking-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-12-01T14:08:43.000+0200",
+    "resolution_date": "2020-12-17T11:07:10.000+0200",
+    "updated_date": "2020-12-17T11:07:10.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-206839",
+    "summary": "Pointed dripstones cause extreme durability damage to helmets",
+    "labels": [
+      "mojang_internal_1",
+      "pointed_dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w51a",
+      "21w20a"
+    ],
+    "creation_date": "2020-11-27T19:24:18.000+0200",
+    "resolution_date": "2021-05-19T17:42:38.000+0300",
+    "updated_date": "2021-05-19T17:42:38.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-206721",
+    "summary": "The empty slot in the bundle tooltip should always be at the top left position",
+    "labels": [
+      "bundle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-11-26T15:42:10.000+0200",
+    "resolution_date": "2020-12-17T02:09:08.000+0200",
+    "updated_date": "2022-11-02T15:34:17.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-205212",
+    "summary": "Desync when putting a candle on a cake in Survival mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-11-11T23:07:28.000+0200",
+    "resolution_date": "2020-12-16T11:50:32.000+0200",
+    "updated_date": "2021-05-27T23:08:18.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-205057",
+    "summary": "Bundle inventory preview is off-center inside of the tooltip box",
+    "labels": [
+      "bundle",
+      "item",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-11-11T18:53:10.000+0200",
+    "resolution_date": "2020-12-15T18:33:17.000+0200",
+    "updated_date": "2022-11-02T15:35:44.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-204146",
+    "summary": "Netherite can burn whilst inside of a bundle",
+    "labels": [
+      "bundle",
+      "netherite"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-11-05T18:22:56.000+0200",
+    "resolution_date": "2020-12-14T11:54:56.000+0200",
+    "updated_date": "2022-11-02T15:34:11.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-204058",
+    "summary": "Placing a candle on a cake causes hunger display desync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-11-05T14:47:24.000+0200",
+    "resolution_date": "2020-12-16T11:50:32.000+0200",
+    "updated_date": "2020-12-16T11:50:32.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-203568",
+    "summary": "Trying to put a candle onto a candle cake duplicates the candle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-11-04T21:00:47.000+0200",
+    "resolution_date": "2020-12-16T11:50:32.000+0200",
+    "updated_date": "2021-02-10T20:53:47.000+0200",
+    "watches": 22,
+    "votes": 64
+  },
+  {
+    "id": "MC-203563",
+    "summary": "Cake appears eaten for a split second when putting a candle on it",
+    "labels": [
+      "visual-bug"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Networking",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-11-04T20:58:06.000+0200",
+    "resolution_date": "2020-12-16T11:50:32.000+0200",
+    "updated_date": "2020-12-16T11:50:32.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-176615",
+    "summary": "It is possible to destroy netherite items with lava by putting them inside a container",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w51a"
+    ],
+    "creation_date": "2020-03-28T22:24:50.000+0200",
+    "resolution_date": "2020-12-14T11:54:56.000+0200",
+    "updated_date": "2022-11-02T15:36:13.000+0200",
+    "watches": 18,
+    "votes": 46
+  },
+  {
+    "id": "MC-149799",
+    "summary": "When a crossbow is loaded and in the offhand, you do not see it anymore if you carry an item in the main hand",
+    "labels": [
+      "crossbow",
+      "hand",
+      "item",
+      "off-hand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 8",
+      "20w51a"
+    ],
+    "creation_date": "2019-04-26T15:11:19.000+0300",
+    "resolution_date": "2020-12-16T14:40:23.000+0200",
+    "updated_date": "2021-06-01T20:27:18.000+0300",
+    "watches": 8,
+    "votes": 10
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "MC-147715",
+    "summary": "Entities clip through blocks after travelling through an end gateway",
+    "labels": [
+      "end_gateway"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.2 Pre-Release 4"
+    ],
+    "creation_date": "2019-04-09T18:50:54.000+0300",
+    "resolution_date": "2019-05-24T18:39:03.000+0300",
+    "updated_date": "2021-02-21T18:51:59.000+0200",
+    "watches": 11,
+    "votes": 19
+  }
+]

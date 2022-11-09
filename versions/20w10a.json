@@ -1,0 +1,914 @@
+[
+  {
+    "id": "MC-173327",
+    "summary": "Target is not flammable but hay bales are",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-27T22:03:15.000+0200",
+    "resolution_date": "2020-03-04T20:01:06.000+0200",
+    "updated_date": "2020-03-04T20:01:06.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-173272",
+    "summary": "Shooting a firework rocket into a target won't set off a redstone signal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-27T06:37:43.000+0200",
+    "resolution_date": "2020-03-06T08:05:43.000+0200",
+    "updated_date": "2020-03-16T18:37:22.000+0200",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-173244",
+    "summary": "Target block moved by pistons permanently keep their signal strength",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-27T01:13:02.000+0200",
+    "resolution_date": "2020-03-04T16:20:25.000+0200",
+    "updated_date": "2021-02-25T00:54:31.000+0200",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-173210",
+    "summary": "Target block doesn't work with ender pearls and bottles o' enchanting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-26T21:59:32.000+0200",
+    "resolution_date": "2020-03-04T21:22:11.000+0200",
+    "updated_date": "2020-03-04T21:22:11.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-173209",
+    "summary": "All hoes have the same mining speed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-26T21:58:31.000+0200",
+    "resolution_date": "2020-03-05T23:49:37.000+0200",
+    "updated_date": "2020-03-05T23:49:38.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-173185",
+    "summary": "Can't put efficienty enchantement on a hoe in survival mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-26T20:47:41.000+0200",
+    "resolution_date": "2020-03-05T01:18:09.000+0200",
+    "updated_date": "2020-03-05T01:18:09.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-173176",
+    "summary": "Serialization error affecting operators list and whitelist",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-26T20:27:49.000+0200",
+    "resolution_date": "2020-02-27T12:48:29.000+0200",
+    "updated_date": "2020-03-07T02:05:55.000+0200",
+    "watches": 11,
+    "votes": 7
+  },
+  {
+    "id": "MC-173168",
+    "summary": "The word \"backup\" appears instead of the phrase \"back up.\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-26T20:11:59.000+0200",
+    "resolution_date": "2020-02-27T14:31:47.000+0200",
+    "updated_date": "2021-08-18T16:39:55.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-173165",
+    "summary": "Piglin Bartering Loot Table contains an extra \"set_count\" function",
+    "labels": [
+      "bartering",
+      "function",
+      "loot_table",
+      "piglin",
+      "set_count"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-26T19:57:13.000+0200",
+    "resolution_date": "2020-02-27T12:48:29.000+0200",
+    "updated_date": "2020-02-27T15:29:33.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-173090",
+    "summary": "Attacking baby piglins don't anger any adult piglins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-25T12:14:42.000+0200",
+    "resolution_date": "2020-03-04T09:16:04.000+0200",
+    "updated_date": "2020-03-04T09:16:04.000+0200",
+    "watches": 0,
+    "votes": 7
+  },
+  {
+    "id": "MC-173021",
+    "summary": "Unuseful warning is logged when server receives incorrect vehicle movement packets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-24T00:39:58.000+0200",
+    "resolution_date": "2020-02-28T11:32:11.000+0200",
+    "updated_date": "2021-08-18T16:39:42.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-172567",
+    "summary": "Wither skeletons don't automaticly attack piglins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-17T03:24:02.000+0200",
+    "resolution_date": "2020-03-04T09:16:03.000+0200",
+    "updated_date": "2020-05-01T16:45:46.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-172353",
+    "summary": "Piglin wearing netherite helmet and enchanted helmets has z-fighting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-15T16:31:18.000+0200",
+    "resolution_date": "2020-03-04T20:11:28.000+0200",
+    "updated_date": "2020-03-04T20:54:09.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-172242",
+    "summary": "Left handed piglins don't look at gold ingots in their right hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-15T01:30:32.000+0200",
+    "resolution_date": "2020-03-04T09:16:04.000+0200",
+    "updated_date": "2020-03-05T10:46:42.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-172082",
+    "summary": "Piglins do not serialize their conversion time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-14T17:05:10.000+0200",
+    "resolution_date": "2020-03-04T16:38:10.000+0200",
+    "updated_date": "2020-03-04T16:38:10.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-172077",
+    "summary": "Piglins with NoAI shake in the overworld",
+    "labels": [
+      "NoAI",
+      "mob",
+      "piglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-14T16:52:37.000+0200",
+    "resolution_date": "2020-03-04T11:19:59.000+0200",
+    "updated_date": "2020-03-26T13:18:20.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-171447",
+    "summary": "Crimson root item form has inconsistent texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-08T04:12:41.000+0200",
+    "resolution_date": "2020-02-28T11:24:21.000+0200",
+    "updated_date": "2020-02-28T11:24:21.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-171367",
+    "summary": "Warped Fungi item does not match block texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-07T21:29:48.000+0200",
+    "resolution_date": "2020-02-28T11:24:21.000+0200",
+    "updated_date": "2021-02-04T22:01:58.000+0200",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-170829",
+    "summary": "When dropping netherite tools and armor into lava, it sounds as if they are burning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-05T19:33:18.000+0200",
+    "resolution_date": "2020-03-03T10:29:31.000+0200",
+    "updated_date": "2020-03-04T16:01:39.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-170819",
+    "summary": "Netherite sword and boots textures have transparent pixels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-02-05T19:18:18.000+0200",
+    "resolution_date": "2020-02-28T11:24:21.000+0200",
+    "updated_date": "2020-03-04T09:19:14.000+0200",
+    "watches": 12,
+    "votes": 33
+  },
+  {
+    "id": "MC-170470",
+    "summary": "At snowy_library_1, the snow block is placed next to the window, which causes ugly visual effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-01-27T16:31:14.000+0200",
+    "resolution_date": "2020-02-28T17:35:53.000+0200",
+    "updated_date": "2020-03-07T20:11:32.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-170242",
+    "summary": "Asymmetrical walls in taiga_medium_house_4",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-01-22T17:32:51.000+0200",
+    "resolution_date": "2020-02-28T17:35:53.000+0200",
+    "updated_date": "2021-08-18T16:39:52.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-169869",
+    "summary": "Mooshroom using incorrect texture in Programmer Art",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-01-15T06:21:59.000+0200",
+    "resolution_date": "2020-03-04T15:26:43.000+0200",
+    "updated_date": "2020-03-04T16:44:35.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-169715",
+    "summary": "Misrotated block in snowy_small_house_3",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-01-11T18:02:37.000+0200",
+    "resolution_date": "2020-02-28T17:35:53.000+0200",
+    "updated_date": "2022-03-02T00:17:22.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-169533",
+    "summary": "Asymmetrical walls in snowy_cartographer_house_1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2020-01-06T20:36:04.000+0200",
+    "resolution_date": "2020-02-28T17:35:53.000+0200",
+    "updated_date": "2022-03-02T00:14:30.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-168748",
+    "summary": "Rapid cod spawning and despawning causing performance issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-12-24T16:04:42.000+0200",
+    "resolution_date": "2020-03-05T21:31:57.000+0200",
+    "updated_date": "2020-10-01T10:34:38.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-168319",
+    "summary": "Fireworks sometimes don't explode when launched at the edge or under a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-12-18T19:28:00.000+0200",
+    "resolution_date": "2020-03-08T18:14:22.000+0200",
+    "updated_date": "2020-03-08T18:14:22.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-165518",
+    "summary": "Village houses desert_temple_1 and plains_temple_4 have no floor at entrance",
+    "labels": [
+      "village"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-11-13T17:53:09.000+0200",
+    "resolution_date": "2020-02-28T17:35:55.000+0200",
+    "updated_date": "2020-11-09T01:25:26.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-163655",
+    "summary": "Fire cannot be targeted like other blocks",
+    "labels": [
+      "incorrect-block-hitbox"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-10-14T01:10:29.000+0300",
+    "resolution_date": "2020-03-04T19:09:29.000+0200",
+    "updated_date": "2022-02-21T15:37:13.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-157208",
+    "summary": "Enchanting tables can display a blank enchantment option for hoes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-07-20T07:03:45.000+0300",
+    "resolution_date": "2020-06-21T01:50:09.000+0300",
+    "updated_date": "2020-06-21T01:50:09.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-152441",
+    "summary": "Corner quartz stairs (not corner smooth quartz stairs) do not have the border on the back/bottom that a normal quartz stair would have",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-05-20T07:04:37.000+0300",
+    "resolution_date": "2020-03-03T10:39:52.000+0200",
+    "updated_date": "2020-05-31T21:42:07.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-148836",
+    "summary": "World search and world name text boxes aren't focused when entering menu anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-04-20T02:56:46.000+0300",
+    "resolution_date": "2020-04-25T02:22:55.000+0300",
+    "updated_date": "2020-04-25T02:22:55.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-147708",
+    "summary": "Putting out fires is not considered mining a block, leading to strange effects",
+    "labels": [
+      "creative",
+      "fire",
+      "loot_table",
+      "statistics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-04-09T17:05:19.000+0300",
+    "resolution_date": "2020-03-04T19:46:23.000+0200",
+    "updated_date": "2020-11-24T06:20:12.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-147496",
+    "summary": "Dolphin tries to catch the boat of the non-player ride",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-04-05T10:00:03.000+0300",
+    "resolution_date": "2020-03-04T15:11:36.000+0200",
+    "updated_date": "2020-03-04T15:11:36.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-146824",
+    "summary": "Inconsistency: Ladders and tripwire hooks cannot be placed on the sides of redstone blocks, observers and target blocks",
+    "labels": [
+      "block-side",
+      "inconsistency",
+      "ladders",
+      "observer",
+      "placement",
+      "redstone-block",
+      "tripwire-hook"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2019-03-27T23:06:21.000+0200",
+    "resolution_date": "2020-03-04T16:20:32.000+0200",
+    "updated_date": "2020-03-04T16:37:01.000+0200",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-131046",
+    "summary": "Angry dolphins give players dolphin's grace",
+    "labels": [
+      "dolphin",
+      "dolphins_grace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2018-06-07T19:55:52.000+0300",
+    "resolution_date": "2020-03-04T15:11:36.000+0200",
+    "updated_date": "2020-03-04T15:11:36.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-130906",
+    "summary": "Dolphins are moving very fast when near a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2018-06-05T22:03:05.000+0300",
+    "resolution_date": "2020-03-04T15:11:35.000+0200",
+    "updated_date": "2020-03-17T18:16:14.000+0200",
+    "watches": 7,
+    "votes": 19
+  },
+  {
+    "id": "MC-111502",
+    "summary": "Fireworks damage don't make passive mobs flee in panic",
+    "labels": [
+      "damage",
+      "fireworks_rocket",
+      "hurt",
+      "panic",
+      "passive-mobs"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2016-12-17T13:05:04.000+0200",
+    "resolution_date": "2020-03-04T23:35:55.000+0200",
+    "updated_date": "2022-04-27T17:26:13.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-111498",
+    "summary": "Fireworks and water bottles damage don't make neutral mobs angry or hostile",
+    "labels": [
+      "anger",
+      "damage",
+      "fireworks_rocket",
+      "hurt",
+      "mob",
+      "neutral",
+      "water_bottle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2016-12-17T09:53:14.000+0200",
+    "resolution_date": "2020-03-04T23:41:41.000+0200",
+    "updated_date": "2020-03-04T23:41:41.000+0200",
+    "watches": 12,
+    "votes": 14
+  },
+  {
+    "id": "MC-111475",
+    "summary": "Fireworks cannot hurt invulnerable mobs when player in creative mode",
+    "labels": [
+      "fireworks_rocket",
+      "hurt",
+      "invulnerable",
+      "mob",
+      "player"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2016-12-16T16:59:08.000+0200",
+    "resolution_date": "2020-03-04T23:45:16.000+0200",
+    "updated_date": "2020-07-28T17:32:26.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-111473",
+    "summary": "Player activated fireworks do not count as a player kill",
+    "labels": [
+      "crossbow",
+      "damage",
+      "drop",
+      "experience",
+      "fireworks_rocket",
+      "killed",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2016-12-16T16:52:33.000+0200",
+    "resolution_date": "2020-03-04T23:50:26.000+0200",
+    "updated_date": "2021-04-25T15:03:31.000+0300",
+    "watches": 22,
+    "votes": 40
+  },
+  {
+    "id": "MC-101364",
+    "summary": "Mobs and players sometimes dismount vehicles in a dangerous place",
+    "labels": [
+      "dismounting",
+      "mob",
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2016-04-27T20:51:26.000+0300",
+    "resolution_date": "2020-03-05T00:47:36.000+0200",
+    "updated_date": "2020-08-08T00:04:33.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-91522",
+    "summary": "Shulker rendering position desync and generates ghost shulker when destroying shulker-ridden boat or minecart",
+    "labels": [
+      "boat",
+      "desync",
+      "minecart",
+      "position",
+      "rendering",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w39a",
+      "20w10a",
+      "21w03a"
+    ],
+    "creation_date": "2015-10-28T17:45:15.000+0200",
+    "resolution_date": "2021-01-18T14:39:13.000+0200",
+    "updated_date": "2021-01-18T14:39:14.000+0200",
+    "watches": 10,
+    "votes": 11
+  },
+  {
+    "id": "MC-64334",
+    "summary": "Fire can be destroyed if given an item with CanDestroy tag for unbreakable block below (notably bedrock)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w10a"
+    ],
+    "creation_date": "2014-07-30T01:01:58.000+0300",
+    "resolution_date": "2020-03-11T14:33:14.000+0200",
+    "updated_date": "2020-03-11T14:33:14.000+0200",
+    "watches": 4,
+    "votes": 6
+  }
+]

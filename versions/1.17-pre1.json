@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "MC-226192",
+    "summary": "Crash upon attempting to create a new scoreboard objective: java.lang.NullPointerException: Cannot invoke \"String.toLowerCase(java.util.Locale)\" because \"\u00e2\u02dc\u0192\" is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-24T01:37:08.000+0300",
+    "resolution_date": "2021-05-26T16:40:36.000+0300",
+    "updated_date": "2021-05-26T16:40:36.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-225978",
+    "summary": "Non-waxed weathered copper blocks appear twice in needs_stone_tool.json",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-20T23:54:44.000+0300",
+    "resolution_date": "2021-05-26T16:16:00.000+0300",
+    "updated_date": "2021-08-18T16:39:35.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-225929",
+    "summary": "Item statistic sorting not functioning",
+    "labels": [
+      "item",
+      "statistics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-20T14:18:00.000+0300",
+    "resolution_date": "2021-05-26T18:26:30.000+0300",
+    "updated_date": "2021-06-12T05:19:00.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-225919",
+    "summary": "Coal Ore from fossils can generate through bedrock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-20T09:46:34.000+0300",
+    "resolution_date": "2021-05-26T16:32:41.000+0300",
+    "updated_date": "2021-05-26T16:32:41.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-225916",
+    "summary": "Non-waxed oxidized copper blocks don't require at least stone tier to be mined",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-20T08:46:46.000+0300",
+    "resolution_date": "2021-05-26T16:15:54.000+0300",
+    "updated_date": "2021-05-26T16:15:54.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-225895",
+    "summary": "Floating grass can still generate above lava lakes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-20T02:04:01.000+0300",
+    "resolution_date": "2021-05-26T16:32:56.000+0300",
+    "updated_date": "2022-07-11T10:32:16.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-225853",
+    "summary": "Minecraft sometimes crashes when trying to start 21w20a for the first time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-19T20:28:33.000+0300",
+    "resolution_date": "2021-05-20T12:56:46.000+0300",
+    "updated_date": "2021-05-20T16:26:46.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-225850",
+    "summary": "Grass, tall grass, flower, double flower, fern, large fern and tree can generate on sand or gravel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-19T20:22:25.000+0300",
+    "resolution_date": "2021-05-26T16:32:41.000+0300",
+    "updated_date": "2021-05-26T16:32:41.000+0300",
+    "watches": 13,
+    "votes": 14
+  },
+  {
+    "id": "MC-225843",
+    "summary": "Snow layers can still generate floating over lakes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-19T20:08:21.000+0300",
+    "resolution_date": "2021-05-26T16:32:40.000+0300",
+    "updated_date": "2021-05-26T16:32:40.000+0300",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-225773",
+    "summary": "Axolotls can make ambient noises when they're playing dead",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-18T19:26:20.000+0300",
+    "resolution_date": "2021-05-25T15:57:31.000+0300",
+    "updated_date": "2021-05-25T15:57:31.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-225722",
+    "summary": "java.lang.IllegalArgumentException: bound must be positive",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-17T20:03:39.000+0300",
+    "resolution_date": "2021-05-25T15:18:27.000+0300",
+    "updated_date": "2021-05-25T15:18:27.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-225404",
+    "summary": "The axe is still an appropriate tool for moss carpets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-12T23:24:15.000+0300",
+    "resolution_date": "2021-05-24T10:54:59.000+0300",
+    "updated_date": "2021-05-24T10:54:59.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-225315",
+    "summary": "Selected text on signs blinks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-12T04:08:52.000+0300",
+    "resolution_date": "2021-05-21T10:56:15.000+0300",
+    "updated_date": "2021-05-21T10:56:15.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-225193",
+    "summary": "Goats will attempt to ram entities that are outside of the world border",
+    "labels": [
+      "goat",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-10T11:41:28.000+0300",
+    "resolution_date": "2021-05-20T18:03:08.000+0300",
+    "updated_date": "2021-05-27T00:50:30.000+0300",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-225129",
+    "summary": "Players do not despawn until they respawn",
+    "labels": [
+      "death",
+      "death-screen",
+      "despawn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-07T23:27:53.000+0300",
+    "resolution_date": "2021-05-21T10:56:15.000+0300",
+    "updated_date": "2021-05-21T10:56:15.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-225010",
+    "summary": "Closing the inventory in creative mode while having an item on the cursor turns it into a ghost item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-06T16:28:17.000+0300",
+    "resolution_date": "2021-05-27T12:10:29.000+0300",
+    "updated_date": "2022-04-25T18:51:09.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-224862",
+    "summary": "Azalea and Flowering Azaleas can take bone meal despite being on clay",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-04T16:25:00.000+0300",
+    "resolution_date": "2021-05-24T18:56:08.000+0300",
+    "updated_date": "2021-05-24T18:56:08.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-224861",
+    "summary": "Falling blocks disappear for a moment when landing",
+    "labels": [
+      "falling-block-entity",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-04T15:47:04.000+0300",
+    "resolution_date": "2021-05-25T20:01:45.000+0300",
+    "updated_date": "2021-09-19T09:05:59.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-224778",
+    "summary": "Game crashes when there is a block with no facing block state in #wall_corals and a warm ocean tries to generate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-05-03T23:56:38.000+0300",
+    "resolution_date": "2021-05-26T10:57:57.000+0300",
+    "updated_date": "2021-05-26T10:57:57.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-224445",
+    "summary": "Reloading resource packs with fabulous graphics causes screen to become black, after a few times causes crash for AMD drivers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-04-29T01:44:52.000+0300",
+    "resolution_date": "2021-05-26T17:03:49.000+0300",
+    "updated_date": "2021-05-26T17:03:49.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-224349",
+    "summary": "Attempting to save multiple debug profiles during the same second fails to properly save all but the first profile",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-04-28T01:50:11.000+0300",
+    "resolution_date": "2021-05-30T04:01:43.000+0300",
+    "updated_date": "2021-05-30T04:01:43.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-224159",
+    "summary": "Absorbtion hearts don't have the wither heart effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-04-25T21:39:43.000+0300",
+    "resolution_date": "2021-05-26T16:53:29.000+0300",
+    "updated_date": "2021-05-31T12:45:56.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-223843",
+    "summary": "Mycelium inside enderman_holdable.json twice",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-04-21T22:50:09.000+0300",
+    "resolution_date": "2021-05-27T12:10:26.000+0300",
+    "updated_date": "2021-08-18T16:39:33.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-223021",
+    "summary": "glShaderSource fails on some AMD drivers resulting in a crash on 1.17",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-04-12T12:31:40.000+0300",
+    "resolution_date": "2021-05-26T17:03:48.000+0300",
+    "updated_date": "2021-05-26T17:03:48.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-221820",
+    "summary": "Inconsistency: Enderman is able to pick up flowering azalea, while unable to hold normal azalea bush.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-04-01T15:25:07.000+0300",
+    "resolution_date": "2021-05-26T14:55:09.000+0300",
+    "updated_date": "2022-08-10T15:17:38.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-221819",
+    "summary": "Inconsistency: Enderman is able to pick up flowering azalea leaves, while unable to hold other types of leaves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-04-01T15:24:04.000+0300",
+    "resolution_date": "2021-05-30T03:46:12.000+0300",
+    "updated_date": "2021-05-30T03:46:12.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-221554",
+    "summary": "When searching, the goat spawn egg appears in the middle of the different boat types",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-03-31T20:22:24.000+0300",
+    "resolution_date": "2021-05-27T12:10:27.000+0300",
+    "updated_date": "2021-05-27T12:10:27.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-219762",
+    "summary": "More performant noise blending algorithm in BlendedNoise",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-03-16T20:25:51.000+0200",
+    "resolution_date": "2021-05-25T17:39:56.000+0300",
+    "updated_date": "2021-05-25T17:39:56.000+0300",
+    "watches": 11,
+    "votes": 16
+  },
+  {
+    "id": "MC-218972",
+    "summary": "The glowing effect outline omits parts of entities if the entity is invisible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-03-11T09:07:39.000+0200",
+    "resolution_date": "2021-05-26T18:08:56.000+0300",
+    "updated_date": "2021-05-26T18:08:56.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-218831",
+    "summary": "Lots of missing shaders in the game assets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-03-10T23:25:48.000+0200",
+    "resolution_date": "2021-05-20T17:51:50.000+0300",
+    "updated_date": "2021-05-20T17:51:50.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-218112",
+    "summary": "SynchedEntityData is using locks incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-03-08T21:22:48.000+0200",
+    "resolution_date": "2021-05-25T15:18:29.000+0300",
+    "updated_date": "2021-05-25T15:18:29.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-216276",
+    "summary": "Lava pools break bedrock with custom world generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-02-20T01:51:31.000+0200",
+    "resolution_date": "2021-05-27T15:38:20.000+0300",
+    "updated_date": "2021-05-27T15:38:20.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-214684",
+    "summary": "Azaleas cannot be placed in flower pots",
+    "labels": [
+      "non-pottable-plants"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-02-09T22:28:59.000+0200",
+    "resolution_date": "2021-05-26T10:53:59.000+0300",
+    "updated_date": "2021-05-28T21:16:52.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-214636",
+    "summary": "Small dripleaf leafs can overlap each other and cause z-fighting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-02-09T16:52:13.000+0200",
+    "resolution_date": "2021-05-26T13:42:39.000+0300",
+    "updated_date": "2021-05-26T13:42:39.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-214057",
+    "summary": "Entities no longer showing flame animation when in water/lava at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-02-04T17:31:50.000+0200",
+    "resolution_date": "2021-05-25T15:30:47.000+0300",
+    "updated_date": "2021-05-27T10:53:24.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-213799",
+    "summary": "Dripleaf isn't properly held in the player's hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-02-03T20:50:10.000+0200",
+    "resolution_date": "2021-05-24T18:16:14.000+0300",
+    "updated_date": "2021-05-24T18:16:14.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-213062",
+    "summary": "A ruined portal generated in an end portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-01-27T10:30:13.000+0200",
+    "resolution_date": "2021-05-27T15:38:29.000+0300",
+    "updated_date": "2021-05-27T15:38:29.000+0300",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-212207",
+    "summary": "Geodes generating inside icebergs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-01-20T21:29:23.000+0200",
+    "resolution_date": "2021-05-27T15:39:00.000+0300",
+    "updated_date": "2021-05-27T18:28:53.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-212146",
+    "summary": "Glow lichen can generate floating inside underground structures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-01-20T18:41:08.000+0200",
+    "resolution_date": "2021-05-26T16:32:41.000+0300",
+    "updated_date": "2021-07-05T16:01:53.000+0300",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-212142",
+    "summary": "Applying glow ink on signs doesn't render the text bright without also having applied a custom color",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-01-20T18:27:17.000+0200",
+    "resolution_date": "2021-05-26T17:16:12.000+0300",
+    "updated_date": "2021-05-26T17:16:12.000+0300",
+    "watches": 11,
+    "votes": 13
+  },
+  {
+    "id": "MC-211601",
+    "summary": "Entities are loaded after scheduled ticks are processed causing detector rails, pressure plates, etc. to turn off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2021-01-16T15:27:34.000+0200",
+    "resolution_date": "2021-05-24T18:33:32.000+0300",
+    "updated_date": "2021-06-15T06:40:11.000+0300",
+    "watches": 18,
+    "votes": 40
+  },
+  {
+    "id": "MC-209819",
+    "summary": "Server crash when pathfinding to player that is teleporting away",
+    "labels": [
+      "aggro",
+      "crash",
+      "pathfind",
+      "pathfinding",
+      "teleport",
+      "zombified_piglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-12-28T19:10:20.000+0200",
+    "resolution_date": "2021-05-25T15:18:27.000+0300",
+    "updated_date": "2021-05-25T15:18:27.000+0300",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-208604",
+    "summary": "While the mainhand is empty and there's a loaded crossbow in the offhand, the mainhand will appear invisible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-12-16T19:33:38.000+0200",
+    "resolution_date": "2021-05-27T12:10:27.000+0300",
+    "updated_date": "2021-05-27T12:10:27.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-205035",
+    "summary": "Powder Snow Bucket is not grouped with Snowball or buckets in creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-11-11T18:36:32.000+0200",
+    "resolution_date": "2021-05-27T12:10:28.000+0300",
+    "updated_date": "2021-05-27T12:10:29.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-204649",
+    "summary": "Amethyst blocks don't make chime sounds when walked on by certain mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-11-08T00:47:57.000+0200",
+    "resolution_date": "2021-05-25T15:30:47.000+0300",
+    "updated_date": "2021-05-31T09:02:42.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-203704",
+    "summary": "Candles don't show flame animations when particles are set to \"Minimal\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-11-04T22:49:37.000+0200",
+    "resolution_date": "2021-05-25T12:57:49.000+0300",
+    "updated_date": "2021-06-13T00:48:21.000+0300",
+    "watches": 11,
+    "votes": 9
+  },
+  {
+    "id": "MC-203661",
+    "summary": "Flowing liquids look very dark through tinted glass",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-11-04T22:08:31.000+0200",
+    "resolution_date": "2021-05-24T12:53:11.000+0300",
+    "updated_date": "2021-05-24T12:53:11.000+0300",
+    "watches": 11,
+    "votes": 18
+  },
+  {
+    "id": "MC-203558",
+    "summary": "Lighting a candle is sometimes delayed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-11-04T20:52:36.000+0200",
+    "resolution_date": "2021-05-25T12:57:57.000+0300",
+    "updated_date": "2021-05-28T22:51:18.000+0300",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-203131",
+    "summary": "Setting the weight in Template Pool to high values will lag world and can cause out of memory error.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-10-29T23:46:25.000+0200",
+    "resolution_date": "2021-05-26T10:57:56.000+0300",
+    "updated_date": "2021-06-21T17:29:13.000+0300",
+    "watches": 12,
+    "votes": 13
+  },
+  {
+    "id": "MC-202249",
+    "summary": "Angering passive mobs in new nether chunks very far away from previously generated chunks, then entering a nether portal causes server to completely freeze",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-10-17T04:56:49.000+0300",
+    "resolution_date": "2021-05-25T15:18:29.000+0300",
+    "updated_date": "2021-05-25T15:18:29.000+0300",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-198957",
+    "summary": "End Portal Frames change to Stone near Lava Pool",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-08-26T07:55:52.000+0300",
+    "resolution_date": "2021-05-27T15:38:07.000+0300",
+    "updated_date": "2021-10-28T12:20:34.000+0300",
+    "watches": 9,
+    "votes": 21
+  },
+  {
+    "id": "MC-197942",
+    "summary": "Leaves change to stone near Lava Pool (Recurrence of MC-48340) ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-08-14T01:54:09.000+0300",
+    "resolution_date": "2021-05-27T15:38:13.000+0300",
+    "updated_date": "2022-04-22T22:05:50.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-192889",
+    "summary": "When placing certain heads or putting them in entities' head slot the game stutters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Performance",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-06-30T17:56:48.000+0300",
+    "resolution_date": "2021-05-25T15:18:29.000+0300",
+    "updated_date": "2021-05-25T15:18:29.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-190952",
+    "summary": "Apostrophe in \"Developers of Mo' Creatures\" heading is inconsistent with other apostrophes in credits",
+    "labels": [
+      "credits.txt",
+      "inconsistent",
+      "symbol"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-06-22T08:58:17.000+0300",
+    "resolution_date": "2021-06-02T18:52:10.000+0300",
+    "updated_date": "2021-10-28T11:03:40.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-189336",
+    "summary": "Shifting around servers in the server list crashes the game (ArrayIndexOutOfBoundsException)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2020-06-13T13:16:16.000+0300",
+    "resolution_date": "2021-05-26T17:39:23.000+0300",
+    "updated_date": "2021-05-26T17:39:23.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-163945",
+    "summary": "Intersecting structures can create corrupted block entities (spawner / chest)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2019-10-17T09:56:30.000+0300",
+    "resolution_date": "2021-05-27T15:38:46.000+0300",
+    "updated_date": "2021-09-11T04:35:44.000+0300",
+    "watches": 16,
+    "votes": 12
+  },
+  {
+    "id": "MC-148809",
+    "summary": "Structure block data length limited to 12",
+    "labels": [
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2019-04-19T23:33:52.000+0300",
+    "resolution_date": "2021-05-26T10:57:56.000+0300",
+    "updated_date": "2021-05-26T10:57:56.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-130523",
+    "summary": "Void World spawns you at y=0 even if you entered 64 air blocks in customization",
+    "labels": [
+      "customization",
+      "customized-world",
+      "customized-world-settings",
+      "void"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2018-05-31T07:26:30.000+0300",
+    "resolution_date": "2021-05-31T04:39:45.000+0300",
+    "updated_date": "2021-05-31T04:39:45.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-118757",
+    "summary": "Increasing Game State Rain Level values make the game increasingly laggier and distorts UI",
+    "labels": [
+      "crash",
+      "multiplayer",
+      "packets"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2017-06-17T09:22:46.000+0300",
+    "resolution_date": "2021-05-25T15:18:30.000+0300",
+    "updated_date": "2021-05-25T15:18:30.000+0300",
+    "watches": 10,
+    "votes": 2
+  },
+  {
+    "id": "MC-104897",
+    "summary": "End crystals placed on exit portals generated before 1.9 do not respawn the ender dragon",
+    "labels": [
+      "ender-dragon-respawn",
+      "ender_crystal",
+      "ender_dragon",
+      "return-end-portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2016-07-02T00:49:02.000+0300",
+    "resolution_date": "2021-05-26T18:26:31.000+0300",
+    "updated_date": "2021-05-26T18:26:31.000+0300",
+    "watches": 19,
+    "votes": 19
+  },
+  {
+    "id": "MC-99680",
+    "summary": "Heart jittering effect doesn't take absorption into account",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2016-03-18T05:15:23.000+0200",
+    "resolution_date": "2021-06-30T17:56:00.000+0300",
+    "updated_date": "2021-06-30T17:56:00.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-65587",
+    "summary": "Lag spike while loading player head textures/player skins",
+    "labels": [
+      "freeze",
+      "give",
+      "giving",
+      "head",
+      "mojang_internal_1",
+      "player",
+      "skull",
+      "skullowner",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2014-08-06T19:49:23.000+0300",
+    "resolution_date": "2021-05-25T15:18:29.000+0300",
+    "updated_date": "2021-06-16T00:40:36.000+0300",
+    "watches": 19,
+    "votes": 36
+  },
+  {
+    "id": "MC-19690",
+    "summary": "Reducing maxHealth / max_health can cause fake death",
+    "labels": [
+      "animation",
+      "attribute",
+      "death-screen",
+      "interface",
+      "max_health"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17 Pre-release 1"
+    ],
+    "creation_date": "2013-06-29T05:37:43.000+0300",
+    "resolution_date": "2021-05-26T16:53:28.000+0300",
+    "updated_date": "2022-08-09T15:46:39.000+0300",
+    "watches": 45,
+    "votes": 106
+  }
+]

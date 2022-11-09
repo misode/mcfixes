@@ -1,0 +1,850 @@
+[
+  {
+    "id": "MC-250294",
+    "summary": "Parity Issue: Allays item detection range is significantly smaller than in Bedrock",
+    "labels": [
+      "allay",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-19T07:36:41.000+0300",
+    "resolution_date": "2022-04-20T15:42:23.000+0300",
+    "updated_date": "2022-05-09T00:47:57.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-250293",
+    "summary": "The \"allay_dust\" particle is unused",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-19T07:12:34.000+0300",
+    "resolution_date": "2022-04-20T15:07:46.000+0300",
+    "updated_date": "2022-04-22T18:39:35.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-250095",
+    "summary": "Wardens can spawn in very narrow places, causing them to suffocate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-11T01:03:25.000+0300",
+    "resolution_date": "2022-04-19T15:43:54.000+0300",
+    "updated_date": "2022-05-14T09:33:36.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-250094",
+    "summary": "Wardens ignore /kill execution whilst they're emerging or digging",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-11T00:40:35.000+0300",
+    "resolution_date": "2022-04-19T15:46:56.000+0300",
+    "updated_date": "2022-04-19T15:46:56.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-250044",
+    "summary": "Observers don't detect mangrove roots when tree grows",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-08T22:59:26.000+0300",
+    "resolution_date": "2022-04-20T10:36:14.000+0300",
+    "updated_date": "2022-05-24T07:19:30.000+0300",
+    "watches": 4,
+    "votes": 13
+  },
+  {
+    "id": "MC-250041",
+    "summary": "Wardens can spawn outside of world border",
+    "labels": [
+      "warden",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-08T21:42:39.000+0300",
+    "resolution_date": "2022-04-19T15:43:55.000+0300",
+    "updated_date": "2022-04-19T15:43:55.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-250040",
+    "summary": "Wardens can hear mobs beyond the world border",
+    "labels": [
+      "warden",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-08T21:33:44.000+0300",
+    "resolution_date": "2022-04-19T15:43:56.000+0300",
+    "updated_date": "2022-04-19T15:43:56.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-250039",
+    "summary": "Wardens can get angry at mobs outside world border",
+    "labels": [
+      "warden",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-08T21:30:51.000+0300",
+    "resolution_date": "2022-04-19T15:43:55.000+0300",
+    "updated_date": "2022-04-19T15:43:55.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-249928",
+    "summary": "Mangrove tree roots do not update blocks around them when generating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-06T19:42:12.000+0300",
+    "resolution_date": "2022-04-20T10:36:14.000+0300",
+    "updated_date": "2022-05-24T07:19:30.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-249912",
+    "summary": "minecraft:ancient_city/city_center_3 is one block shorter compared than the other ancient city centers",
+    "labels": [
+      "ancient-city"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-06T11:58:54.000+0300",
+    "resolution_date": "2022-04-20T11:48:42.000+0300",
+    "updated_date": "2022-04-20T11:48:42.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-249855",
+    "summary": "Parity Issue: Allays don't have a flying animation in Java",
+    "labels": [
+      "allay",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-03T06:24:35.000+0300",
+    "resolution_date": "2022-04-20T12:02:13.000+0300",
+    "updated_date": "2022-04-20T12:02:13.000+0300",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-249838",
+    "summary": "Allays lose their idle animation once they start moving",
+    "labels": [
+      "allay",
+      "animation",
+      "mob",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-02T10:36:51.000+0300",
+    "resolution_date": "2022-04-20T12:02:13.000+0300",
+    "updated_date": "2022-04-20T12:02:13.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-249790",
+    "summary": "Allay follows and drops items for players in spectator mode",
+    "labels": [
+      "allay",
+      "spectator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-04-01T07:20:12.000+0300",
+    "resolution_date": "2022-04-20T16:00:22.000+0300",
+    "updated_date": "2022-04-20T16:00:22.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-249766",
+    "summary": "Allays can despawn after being given an item if they haven't picked up any items yet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-31T22:43:42.000+0300",
+    "resolution_date": "2022-04-20T16:00:21.000+0300",
+    "updated_date": "2022-04-20T16:00:21.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-249754",
+    "summary": "The minecraft:entity.allay.flap sound event is unused",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-31T21:24:30.000+0300",
+    "resolution_date": "2022-04-22T00:15:23.000+0300",
+    "updated_date": "2022-04-22T00:15:24.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-249734",
+    "summary": "The minecraft:entity.allay.flap sound event doesn't have a translation key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-31T20:33:24.000+0300",
+    "resolution_date": "2022-04-22T00:15:37.000+0300",
+    "updated_date": "2022-04-22T00:15:37.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-249715",
+    "summary": "Allays don't drop their held items upon death",
+    "labels": [
+      "allay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-31T20:00:08.000+0300",
+    "resolution_date": "2022-04-20T16:00:21.000+0300",
+    "updated_date": "2022-07-01T19:58:26.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-249679",
+    "summary": "Incorrect activation of warden's sniffing animations and behavior",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-30T03:01:06.000+0300",
+    "resolution_date": "2022-04-19T15:43:57.000+0300",
+    "updated_date": "2022-04-22T19:55:06.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249663",
+    "summary": "The subtitles of some parrot imitation sounds are inconsistent with the original sounds' subtitles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-28T22:26:58.000+0300",
+    "resolution_date": "2022-04-19T15:43:57.000+0300",
+    "updated_date": "2022-04-19T15:43:57.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249653",
+    "summary": "Parity Issue: Oak Boat texture in Java does not match Bedrock Edition",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-28T07:41:44.000+0300",
+    "resolution_date": "2022-04-21T19:14:25.000+0300",
+    "updated_date": "2022-04-21T19:14:25.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-249459",
+    "summary": "Cactus is not destroyed by froglights",
+    "labels": [
+      "froglight"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-25T02:23:41.000+0200",
+    "resolution_date": "2022-04-20T12:53:49.000+0300",
+    "updated_date": "2022-04-20T12:53:49.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249265",
+    "summary": "Some blocks cannot be placed on froglights",
+    "labels": [
+      "froglight",
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-19T16:20:55.000+0200",
+    "resolution_date": "2022-04-20T12:53:49.000+0300",
+    "updated_date": "2022-04-20T12:53:49.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-249246",
+    "summary": "Strider can't pathfind through open doors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-19T05:48:09.000+0200",
+    "resolution_date": "2022-04-20T12:43:14.000+0300",
+    "updated_date": "2022-04-20T12:43:14.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-249217",
+    "summary": "Fluid level next to froglights is too low",
+    "labels": [
+      "fluid-geometry",
+      "froglight"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-18T04:43:14.000+0200",
+    "resolution_date": "2022-04-20T12:53:49.000+0300",
+    "updated_date": "2022-04-20T12:53:49.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-249193",
+    "summary": "Frog can't pathfind through open doors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-17T16:20:18.000+0200",
+    "resolution_date": "2022-04-20T12:43:13.000+0300",
+    "updated_date": "2022-04-28T18:19:23.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-249176",
+    "summary": "Froglights are not visible on maps",
+    "labels": [
+      "froglight"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-17T03:18:22.000+0200",
+    "resolution_date": "2022-04-20T12:53:49.000+0300",
+    "updated_date": "2022-04-20T12:53:49.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-249169",
+    "summary": "Paintings do not have their packet coordinates set on spawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-17T01:57:53.000+0200",
+    "resolution_date": "2022-04-20T22:42:43.000+0300",
+    "updated_date": "2022-04-20T22:42:43.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-249120",
+    "summary": "Some sound events introduced in 22w11a are missing from the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-16T20:29:52.000+0200",
+    "resolution_date": "2022-05-18T16:48:45.000+0300",
+    "updated_date": "2022-05-18T17:15:52.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-249092",
+    "summary": "Mangrove Stripped Log, Stripped Wood and Wood are in the incorrect order in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-16T19:26:17.000+0200",
+    "resolution_date": "2022-04-19T17:59:11.000+0300",
+    "updated_date": "2022-04-19T17:59:11.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249084",
+    "summary": "No sound is present for placing a Bucket of Tadpole",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2022-03-16T19:11:44.000+0200",
+    "resolution_date": "2022-04-20T14:09:06.000+0300",
+    "updated_date": "2022-04-21T13:48:05.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-245001",
+    "summary": "\"Manage with Microsoft account\" button in Social Interactions menu is not centered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2021-12-07T17:57:27.000+0200",
+    "resolution_date": "2022-04-19T17:59:11.000+0300",
+    "updated_date": "2022-04-19T17:59:11.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-244957",
+    "summary": "\"Search\" Option in Social Interactions Screen is not labeled in the right order when using Tab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2021-12-06T20:03:53.000+0200",
+    "resolution_date": "2022-04-19T17:59:11.000+0300",
+    "updated_date": "2022-04-19T17:59:11.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-228049",
+    "summary": "Axolotl can't pathfind through open doors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2021-06-09T06:26:38.000+0300",
+    "resolution_date": "2022-04-20T12:43:13.000+0300",
+    "updated_date": "2022-04-20T12:43:13.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-227041",
+    "summary": "Axolotls will spin constantly on honey blocks that are placed above water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2021-06-01T17:15:47.000+0300",
+    "resolution_date": "2022-05-08T16:56:19.000+0300",
+    "updated_date": "2022-05-08T16:56:20.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-226184",
+    "summary": "Axolotls pathfinding to water can sometimes fall in wide holes",
+    "labels": [
+      "axolotl",
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w37a",
+      "22w16a",
+      "22w42a"
+    ],
+    "creation_date": "2021-05-23T22:56:32.000+0300",
+    "resolution_date": "2022-10-10T11:17:44.000+0300",
+    "updated_date": "2022-10-30T19:04:06.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-189897",
+    "summary": "Game hangs while loading world saves when entering the singleplayer world selection menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2020-06-15T23:07:54.000+0300",
+    "resolution_date": "2022-06-19T02:20:05.000+0300",
+    "updated_date": "2022-06-19T02:20:05.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-187188",
+    "summary": "Painting NBT and registry contain a typo: \"Motive\" instead of \"Motif\"",
+    "labels": [
+      "nbt",
+      "painting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2020-06-03T19:39:37.000+0300",
+    "resolution_date": "2022-04-20T15:47:31.000+0300",
+    "updated_date": "2022-04-20T15:47:31.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-122421",
+    "summary": "On Linux, simultaneously pressing two keys introduces a delay for one of the keys pressed",
+    "labels": [
+      "glfw",
+      "lwjgl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2017-11-24T18:05:55.000+0200",
+    "resolution_date": "2022-04-22T00:20:10.000+0300",
+    "updated_date": "2022-06-02T13:48:58.000+0300",
+    "watches": 47,
+    "votes": 67
+  },
+  {
+    "id": "MC-121376",
+    "summary": "Cannot bind \"caps\" key in control settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.3 Pre-Release 2",
+      "22w16a"
+    ],
+    "creation_date": "2017-10-26T19:18:06.000+0300",
+    "resolution_date": "2022-04-20T20:00:19.000+0300",
+    "updated_date": "2022-04-20T20:00:19.000+0300",
+    "watches": 17,
+    "votes": 46
+  },
+  {
+    "id": "MC-111809",
+    "summary": "Paintings unrender when entity data is updated rapidly",
+    "labels": [
+      "/data",
+      "invisible",
+      "painting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2016-12-23T06:17:11.000+0200",
+    "resolution_date": "2022-04-20T15:47:30.000+0300",
+    "updated_date": "2022-04-20T15:47:30.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-81870",
+    "summary": "Editing entitydata of Painting does not reflect ingame until chunk reload",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2015-06-29T15:44:17.000+0300",
+    "resolution_date": "2022-04-20T15:54:38.000+0300",
+    "updated_date": "2022-04-21T12:14:59.000+0300",
+    "watches": 15,
+    "votes": 18
+  }
+]

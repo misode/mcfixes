@@ -1,0 +1,287 @@
+[
+  {
+    "id": "MC-237505",
+    "summary": "Certain Biome Builder debug values do not change",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2021-09-24T00:15:17.000+0300",
+    "resolution_date": "2021-09-28T10:24:59.000+0300",
+    "updated_date": "2021-09-28T10:24:59.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-237464",
+    "summary": "Packet sent event is recorded as packet received event",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Debug",
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2021-09-23T20:07:27.000+0300",
+    "resolution_date": "2021-10-03T11:34:59.000+0300",
+    "updated_date": "2021-10-03T11:34:59.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-236903",
+    "summary": "Naturally generated cave vines have an age between 17-25",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2021-09-17T08:25:29.000+0300",
+    "resolution_date": "2021-09-28T13:11:07.000+0300",
+    "updated_date": "2021-09-28T13:11:07.000+0300",
+    "watches": 10,
+    "votes": 13
+  },
+  {
+    "id": "MC-236755",
+    "summary": "\"Feature Placement\" Crash /  java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2021-09-16T06:21:37.000+0300",
+    "resolution_date": "2021-09-28T12:26:26.000+0300",
+    "updated_date": "2021-11-06T17:18:28.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-218167",
+    "summary": "Chatting causes lag to occur",
+    "labels": [
+      "chat",
+      "lag-spike",
+      "singleplayer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2021-03-09T09:58:19.000+0200",
+    "resolution_date": "2021-09-24T17:41:58.000+0300",
+    "updated_date": "2022-01-07T03:47:57.000+0200",
+    "watches": 19,
+    "votes": 22
+  },
+  {
+    "id": "MC-214959",
+    "summary": "Sugar cane generated in cave",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2021-02-11T01:57:35.000+0200",
+    "resolution_date": "2021-09-28T13:13:34.000+0300",
+    "updated_date": "2021-09-28T13:13:34.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-214894",
+    "summary": "Bamboo generates in caves under jungles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2021-02-10T22:47:28.000+0200",
+    "resolution_date": "2021-09-28T13:13:40.000+0300",
+    "updated_date": "2021-09-28T13:13:40.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-196723",
+    "summary": "Potion effects obtained in creative mode while in inventory do not show up until reopening inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2020-08-01T17:08:09.000+0300",
+    "resolution_date": "2021-09-29T14:39:35.000+0300",
+    "updated_date": "2021-10-30T16:26:15.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-193891",
+    "summary": "Baby Foxes drown just below the surface of water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2020-07-06T22:42:30.000+0300",
+    "resolution_date": "2022-05-11T16:51:02.000+0300",
+    "updated_date": "2022-05-11T16:51:21.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-193348",
+    "summary": "Status effect bars shift the player's inventory in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2020-07-03T03:28:22.000+0300",
+    "resolution_date": "2021-09-29T14:39:35.000+0300",
+    "updated_date": "2021-09-29T14:39:35.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-149822",
+    "summary": "Bottom border on status effect displays in the inventory is missing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2019-04-26T17:54:35.000+0300",
+    "resolution_date": "2021-09-29T14:39:34.000+0300",
+    "updated_date": "2021-09-29T14:39:34.000+0300",
+    "watches": 12,
+    "votes": 14
+  },
+  {
+    "id": "MC-145376",
+    "summary": "Bamboo could generate underground when generating in non-bamboo jungles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2019-03-05T07:30:10.000+0200",
+    "resolution_date": "2021-09-30T12:21:43.000+0300",
+    "updated_date": "2021-09-30T12:21:43.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-129485",
+    "summary": "Certain biome specific plant distribution is completely based on chunks, causing patchy biome generation",
+    "labels": [
+      "bamboo",
+      "biome",
+      "chunk-boundary",
+      "kelp",
+      "nest",
+      "tree-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2018-05-12T00:30:18.000+0300",
+    "resolution_date": "2021-11-10T09:35:27.000+0200",
+    "updated_date": "2021-11-10T09:35:27.000+0200",
+    "watches": 24,
+    "votes": 67
+  },
+  {
+    "id": "MC-116359",
+    "summary": "Status effects aren't displayed in inventory when recipe book is open",
+    "labels": [
+      "effect",
+      "gui",
+      "inventory",
+      "potion",
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w39a"
+    ],
+    "creation_date": "2017-04-20T17:53:54.000+0300",
+    "resolution_date": "2021-09-29T14:39:34.000+0300",
+    "updated_date": "2021-09-29T20:52:42.000+0300",
+    "watches": 10,
+    "votes": 16
+  }
+]

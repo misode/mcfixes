@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "MC-183966",
+    "summary": "Bonus chests generate on servers",
+    "labels": [
+      "bonus-chest",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-05-14T18:50:39.000+0300",
+    "resolution_date": "2020-05-21T19:20:59.000+0300",
+    "updated_date": "2020-05-21T19:20:59.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-183786",
+    "summary": "Named seeds that are not numbers are not being recognized",
+    "labels": [
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-05-13T19:56:41.000+0300",
+    "resolution_date": "2020-05-20T10:34:38.000+0300",
+    "updated_date": "2020-12-20T07:26:44.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-183249",
+    "summary": "Carving Mask BitSets created for lower chunk statuses",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-05-09T19:10:05.000+0300",
+    "resolution_date": "2020-05-20T11:24:47.000+0300",
+    "updated_date": "2020-05-20T11:24:47.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-182912",
+    "summary": "Piglins still do not change their current crossbow for a new enchanted one",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-05-07T12:36:03.000+0300",
+    "resolution_date": "2020-05-20T11:43:49.000+0300",
+    "updated_date": "2020-05-20T11:43:49.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-182743",
+    "summary": "Wither skeletons don't spawn inside of wither roses",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-05-06T20:23:31.000+0300",
+    "resolution_date": "2020-05-21T02:49:35.000+0300",
+    "updated_date": "2020-05-21T02:50:12.000+0300",
+    "watches": 37,
+    "votes": 57
+  },
+  {
+    "id": "MC-182514",
+    "summary": "15 Block States per SubChunk Limit during World Upgrade ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-05-05T12:25:23.000+0300",
+    "resolution_date": "2020-05-20T11:24:48.000+0300",
+    "updated_date": "2020-05-20T11:24:48.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-181611",
+    "summary": "Vindicators stop attacking you when they are standing really close to you",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-30T02:56:53.000+0300",
+    "resolution_date": "2020-05-20T12:33:48.000+0300",
+    "updated_date": "2021-09-10T04:24:02.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-181535",
+    "summary": "Placing water with a dispenser facing a water source drops the bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-29T23:10:24.000+0300",
+    "resolution_date": "2020-05-20T19:45:23.000+0300",
+    "updated_date": "2020-05-20T19:45:23.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-181522",
+    "summary": "Chunks that haven't been explored since 1.13 are resetting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-29T22:44:06.000+0300",
+    "resolution_date": "2020-05-20T11:24:48.000+0300",
+    "updated_date": "2020-05-21T02:27:53.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-181511",
+    "summary": "Chunks with redstone are removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-29T22:12:28.000+0300",
+    "resolution_date": "2020-05-20T11:24:48.000+0300",
+    "updated_date": "2020-05-20T11:24:48.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-181499",
+    "summary": "Buckets cannot be emptied into a source block, but still produce a sound when trying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-29T21:45:12.000+0300",
+    "resolution_date": "2020-05-20T12:10:17.000+0300",
+    "updated_date": "2020-05-20T12:10:17.000+0300",
+    "watches": 19,
+    "votes": 47
+  },
+  {
+    "id": "MC-181463",
+    "summary": "The buttons are not selected in the right order using Tab in the new world creation menus",
+    "labels": [
+      "accessibility",
+      "buttons",
+      "menu",
+      "tab"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-29T20:33:55.000+0300",
+    "resolution_date": "2020-05-20T11:50:25.000+0300",
+    "updated_date": "2020-05-23T11:24:27.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-181439",
+    "summary": "Player or dispenser using a bucket at world height limit will play bucket sound despite failing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-29T19:52:56.000+0300",
+    "resolution_date": "2020-05-21T03:20:40.000+0300",
+    "updated_date": "2021-08-18T16:39:32.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-181298",
+    "summary": "Game crashes when trying to generate a nether biome superflat world with ruined portals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-28T21:43:26.000+0300",
+    "resolution_date": "2020-05-20T12:10:18.000+0300",
+    "updated_date": "2020-05-20T12:10:18.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-181270",
+    "summary": "Trying to open old worlds (in Region format?) without version information in snapshots does not show warning screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-28T18:44:48.000+0300",
+    "resolution_date": "2020-05-20T11:50:18.000+0300",
+    "updated_date": "2020-05-22T12:56:09.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-180852",
+    "summary": "There is no space on the beacon's secondary power effects in the UI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-26T05:16:33.000+0300",
+    "resolution_date": "2020-05-20T13:34:22.000+0300",
+    "updated_date": "2020-05-20T20:05:02.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-180257",
+    "summary": "Crash when setting LodestonePos of compass to something other than NBT compound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-23T21:28:45.000+0300",
+    "resolution_date": "2020-05-20T12:10:17.000+0300",
+    "updated_date": "2020-05-21T17:27:48.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-178437",
+    "summary": "Piglins/zombified piglins don't mirror their arms, legs and ears",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-13T02:30:10.000+0300",
+    "resolution_date": "2022-07-26T18:32:54.000+0300",
+    "updated_date": "2022-07-26T19:52:52.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-178298",
+    "summary": "Ancient debris and nether gold ore can't generate in Basalt Deltas",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-11T20:30:12.000+0300",
+    "resolution_date": "2020-05-20T12:43:43.000+0300",
+    "updated_date": "2020-05-20T12:43:43.000+0300",
+    "watches": 4,
+    "votes": 13
+  },
+  {
+    "id": "MC-178212",
+    "summary": "Nether planks, their variants, and hyphae are harder than stems",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-11T00:42:59.000+0300",
+    "resolution_date": "2020-05-20T09:50:35.000+0300",
+    "updated_date": "2020-06-08T16:05:32.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-178130",
+    "summary": "Zombie Villagers are called \"Zombie\" in some subtitles",
+    "labels": [
+      "en_us.json",
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-10T14:20:39.000+0300",
+    "resolution_date": "2020-05-20T13:34:23.000+0300",
+    "updated_date": "2021-03-22T01:15:42.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-177830",
+    "summary": "Blackstone and basalt prevent Ancient Debris and other Nether ores from generating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-08T19:16:19.000+0300",
+    "resolution_date": "2020-05-20T12:43:42.000+0300",
+    "updated_date": "2020-05-20T12:43:42.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-177438",
+    "summary": "Turtle egg's name inconsistently capitalized across different subtitles",
+    "labels": [
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-05T01:00:52.000+0300",
+    "resolution_date": "2020-05-20T13:34:24.000+0300",
+    "updated_date": "2021-03-22T00:36:49.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-177088",
+    "summary": "Polar bear step sound does not have subtitles",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-02T19:32:35.000+0300",
+    "resolution_date": "2020-05-20T13:34:08.000+0300",
+    "updated_date": "2021-03-22T00:36:06.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-177080",
+    "summary": "Sounds for travelling through a portal have no subtitle",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-04-02T19:22:14.000+0300",
+    "resolution_date": "2020-05-21T05:32:54.000+0300",
+    "updated_date": "2021-03-22T00:35:39.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-177075",
+    "summary": "Taking product out of stonecutter produces no subtitle",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a",
+      "20w22a"
+    ],
+    "creation_date": "2020-04-02T19:13:08.000+0300",
+    "resolution_date": "2020-05-29T19:06:36.000+0300",
+    "updated_date": "2021-10-12T05:34:42.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-175989",
+    "summary": "Strider sounds are not translated through in-game subtitles",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-03-25T19:45:57.000+0200",
+    "resolution_date": "2020-05-21T20:13:09.000+0300",
+    "updated_date": "2021-03-22T01:25:59.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-175656",
+    "summary": "Piglins will keep gold ingots in their inventories if attacked while admiring them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-03-22T05:23:28.000+0200",
+    "resolution_date": "2020-05-20T19:17:17.000+0300",
+    "updated_date": "2020-05-20T19:17:17.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-172255",
+    "summary": "Piglins immediately dismount any entity that they are riding",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-02-15T02:16:44.000+0200",
+    "resolution_date": "2020-05-20T11:43:48.000+0300",
+    "updated_date": "2020-05-20T19:52:29.000+0300",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-172207",
+    "summary": "Parrots don't imitate hoglins, zoglins and piglins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-02-14T22:36:27.000+0200",
+    "resolution_date": "2020-05-20T13:34:22.000+0300",
+    "updated_date": "2020-07-05T07:15:20.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-172090",
+    "summary": "Piglins would rather hold a golden item instead of a crossbow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a",
+      "20w21a"
+    ],
+    "creation_date": "2020-02-14T17:24:36.000+0200",
+    "resolution_date": "2020-05-20T11:43:49.000+0300",
+    "updated_date": "2020-05-21T05:09:12.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-170930",
+    "summary": "Nether Sprouts item not visible when held in the hand in first person",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-02-05T22:25:53.000+0200",
+    "resolution_date": "2020-05-20T10:00:58.000+0300",
+    "updated_date": "2021-11-30T15:36:08.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-169764",
+    "summary": "Fish flopping sound shows both 'Footsteps' and 'Fish flops' subtitles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2020-01-12T20:05:56.000+0200",
+    "resolution_date": "2020-05-20T13:34:23.000+0300",
+    "updated_date": "2020-05-20T14:41:26.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-167076",
+    "summary": "Seagrass, tall seagrass, and sea pickles don't obscure direct sunlight when waterlogged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2019-12-04T02:27:46.000+0200",
+    "resolution_date": "2020-05-21T05:34:31.000+0300",
+    "updated_date": "2020-05-21T05:34:31.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-166292",
+    "summary": "Subtitle from foxes eating chorus fruit: \"Player teleports\"",
+    "labels": [
+      "reused-sound-event"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2019-11-24T16:58:17.000+0200",
+    "resolution_date": "2020-05-20T13:34:26.000+0300",
+    "updated_date": "2021-03-22T01:16:19.000+0200",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-159299",
+    "summary": "Baby Zombies stop attacking once in a while, and when the player is still",
+    "labels": [
+      "AI",
+      "attacking",
+      "baby-zombie",
+      "freezing",
+      "hitting",
+      "targeting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2019-08-21T14:57:12.000+0300",
+    "resolution_date": "2020-07-01T00:41:17.000+0300",
+    "updated_date": "2020-12-14T23:24:48.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-153319",
+    "summary": "Result of UUID selector is nondeterministic",
+    "labels": [
+      "UUID"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2019-05-29T05:21:01.000+0300",
+    "resolution_date": "2020-05-21T19:58:29.000+0300",
+    "updated_date": "2020-05-21T19:58:29.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-147691",
+    "summary": "Enderman doesn't hit / damage you, if you keep standing still",
+    "labels": [
+      "AI",
+      "enderman",
+      "endermen",
+      "mob-behavior",
+      "mob_Al",
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2019-04-08T21:20:19.000+0300",
+    "resolution_date": "2020-05-20T17:21:13.000+0300",
+    "updated_date": "2020-05-20T17:21:13.000+0300",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-147516",
+    "summary": "Hostile mobs will sometimes stop attacking/following their target when directly next to it",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2019-04-05T16:51:05.000+0300",
+    "resolution_date": "2020-05-25T15:40:01.000+0300",
+    "updated_date": "2021-09-10T04:24:02.000+0300",
+    "watches": 15,
+    "votes": 29
+  },
+  {
+    "id": "MC-128658",
+    "summary": "Nether and end biomes don't use correct blocks in buffet world type",
+    "labels": [
+      "biome",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2018-04-19T18:49:26.000+0300",
+    "resolution_date": "2020-05-20T19:45:55.000+0300",
+    "updated_date": "2020-10-28T15:29:00.000+0200",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-123155",
+    "summary": "When any non-player entity enters an End portal the obsidian platform is not regenerated and the entity can fall into the void",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2017-12-12T00:33:50.000+0200",
+    "resolution_date": "2020-05-20T12:10:18.000+0300",
+    "updated_date": "2020-05-20T12:10:18.000+0300",
+    "watches": 23,
+    "votes": 78
+  },
+  {
+    "id": "MC-113068",
+    "summary": "Zombie banging on door subtitle is called \"Block broken\"",
+    "labels": [
+      "break",
+      "subtitles",
+      "wooden-door",
+      "zombie"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2017-02-01T08:13:49.000+0200",
+    "resolution_date": "2020-05-20T13:34:25.000+0300",
+    "updated_date": "2020-05-20T13:34:25.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-107103",
+    "summary": "Trying to interact with entity 3 or more blocks away without seeing its eyes only interacts client-side",
+    "labels": [
+      "client-side",
+      "interaction",
+      "player"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2016-09-18T04:13:42.000+0300",
+    "resolution_date": "2020-05-20T11:35:14.000+0300",
+    "updated_date": "2020-05-20T11:35:14.000+0300",
+    "watches": 14,
+    "votes": 29
+  },
+  {
+    "id": "MC-97507",
+    "summary": "Using item which modifies the held item shows \"Gear equips\" subtitle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.9 Pre-Release 3",
+      "20w21a",
+      "20w27a"
+    ],
+    "creation_date": "2016-02-18T23:25:15.000+0200",
+    "resolution_date": "2020-05-20T13:34:21.000+0300",
+    "updated_date": "2020-08-07T20:58:00.000+0300",
+    "watches": 21,
+    "votes": 44
+  },
+  {
+    "id": "MC-97247",
+    "summary": "Map making sound uses equipment sound subtitle",
+    "labels": [
+      "map",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2016-02-16T08:25:17.000+0200",
+    "resolution_date": "2020-05-20T13:34:23.000+0300",
+    "updated_date": "2020-05-20T13:34:23.000+0300",
+    "watches": 5,
+    "votes": 17
+  },
+  {
+    "id": "MC-91368",
+    "summary": "Ender dragon taking damage from thorns in creative mode",
+    "labels": [
+      "enchantment",
+      "ender_dragon",
+      "thorns"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2015-10-25T13:24:21.000+0200",
+    "resolution_date": "2020-05-21T20:17:45.000+0300",
+    "updated_date": "2020-05-21T20:17:45.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-89361",
+    "summary": "Player selectors fail finding player/Player is not correctly moved from the End to the Nether",
+    "labels": [
+      "end_portal",
+      "nether_portal",
+      "player",
+      "selector",
+      "the_end",
+      "the_nether"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2015-09-23T23:40:02.000+0300",
+    "resolution_date": "2020-05-22T19:31:24.000+0300",
+    "updated_date": "2020-08-26T13:53:49.000+0300",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-51126",
+    "summary": "Arrows disappear until you relog when you shoot them at low angles from a boat",
+    "labels": [
+      "angle",
+      "arrow",
+      "boat",
+      "bow",
+      "shoot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w21a"
+    ],
+    "creation_date": "2014-03-13T21:17:59.000+0200",
+    "resolution_date": "2020-05-22T19:32:05.000+0300",
+    "updated_date": "2020-05-22T19:32:05.000+0300",
+    "watches": 11,
+    "votes": 28
+  }
+]

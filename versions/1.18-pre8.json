@@ -1,0 +1,141 @@
+[
+  {
+    "id": "MC-242647",
+    "summary": "Crash for blocks finding block states // Missing Palette entry for index 6",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 8"
+    ],
+    "creation_date": "2021-11-23T22:08:08.000+0200",
+    "resolution_date": "2021-11-24T17:14:22.000+0200",
+    "updated_date": "2022-06-09T18:41:26.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-242646",
+    "summary": "Falling in the void and trying to respawn crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 8"
+    ],
+    "creation_date": "2021-11-23T22:05:42.000+0200",
+    "resolution_date": "2021-11-29T12:04:25.000+0200",
+    "updated_date": "2021-11-30T02:41:44.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-242375",
+    "summary": "Cats no longer scare phantoms away",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18 Pre-release 8"
+    ],
+    "creation_date": "2021-11-21T01:48:34.000+0200",
+    "resolution_date": "2021-11-24T13:40:30.000+0200",
+    "updated_date": "2021-11-24T13:40:30.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-241991",
+    "summary": "Game freezes without crash logs when upgrading from 1.12.2 to 1.18 pre-5",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 8"
+    ],
+    "creation_date": "2021-11-19T20:10:06.000+0200",
+    "resolution_date": "2021-11-24T15:46:01.000+0200",
+    "updated_date": "2021-11-24T15:46:01.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-236783",
+    "summary": "Parity Issue: Ravagers still attack baby villagers in Java Edition",
+    "labels": [
+      "ravager",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 8"
+    ],
+    "creation_date": "2021-09-16T11:12:53.000+0300",
+    "resolution_date": "2021-11-24T16:11:49.000+0200",
+    "updated_date": "2021-11-24T16:11:49.000+0200",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-230866",
+    "summary": "Eating whilst traveling through a Nether portal prints error in game log",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18 Pre-release 8"
+    ],
+    "creation_date": "2021-07-01T18:38:39.000+0300",
+    "resolution_date": "2021-11-24T14:45:50.000+0200",
+    "updated_date": "2021-11-24T14:45:50.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-227537",
+    "summary": "Crash: java.lang.NullPointerException: Cannot invoke \"it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)\" because \"$$4\" is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18 Pre-release 8"
+    ],
+    "creation_date": "2021-06-06T02:31:00.000+0300",
+    "resolution_date": "2021-11-24T17:01:31.000+0200",
+    "updated_date": "2021-11-25T13:32:21.000+0200",
+    "watches": 13,
+    "votes": 18
+  }
+]

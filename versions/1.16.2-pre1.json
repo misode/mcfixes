@@ -1,0 +1,626 @@
+[
+  {
+    "id": "MC-196737",
+    "summary": "Shift does not work on lanterns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-08-01T21:01:58.000+0300",
+    "resolution_date": "2020-08-03T13:51:41.000+0300",
+    "updated_date": "2020-08-03T14:11:31.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-195544",
+    "summary": "Game crashes after killing a mob that is being ridden by a guardian which is being ridden by a wither skeleton",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-20T13:22:14.000+0300",
+    "resolution_date": "2020-07-29T13:56:34.000+0300",
+    "updated_date": "2020-07-30T05:35:35.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-195062",
+    "summary": "Raids often will not end in defeat when all villagers are dead if there are job sites in the village",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-15T20:42:22.000+0300",
+    "resolution_date": "2020-07-29T10:38:01.000+0300",
+    "updated_date": "2020-07-29T10:38:01.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-194845",
+    "summary": "Subspace Bubble advancement cannot be completed with 7 km distance",
+    "labels": [
+      "advancement"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-13T21:08:35.000+0300",
+    "resolution_date": "2020-07-28T17:56:40.000+0300",
+    "updated_date": "2020-07-28T17:56:40.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-194299",
+    "summary": "Template pools fail to load via datapack",
+    "labels": [
+      "data-pack",
+      "structure",
+      "template"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-09T11:40:28.000+0300",
+    "resolution_date": "2020-07-29T10:57:08.000+0300",
+    "updated_date": "2021-03-22T15:21:51.000+0200",
+    "watches": 11,
+    "votes": 12
+  },
+  {
+    "id": "MC-194263",
+    "summary": "Large End Cities do not generate correctly / get cut off",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-09T05:49:12.000+0300",
+    "resolution_date": "2020-07-29T11:13:15.000+0300",
+    "updated_date": "2020-11-06T12:53:17.000+0200",
+    "watches": 10,
+    "votes": 29
+  },
+  {
+    "id": "MC-193213",
+    "summary": "Leads are positioned incorrectly on players and Wandering Traders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-02T11:33:52.000+0300",
+    "resolution_date": "2020-07-28T09:28:06.000+0300",
+    "updated_date": "2020-07-29T16:06:38.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-192032",
+    "summary": "Villagers don't always try to claim the closest workstation and are sometimes focussed on a non-existent one or one out of their reach",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-26T07:56:32.000+0300",
+    "resolution_date": "2020-07-28T17:29:57.000+0300",
+    "updated_date": "2020-08-09T23:48:40.000+0300",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-191168",
+    "summary": "Piglins that convert into Zombified Piglins while sitting on a minecart sometimes sink into blocks",
+    "labels": [
+      "minecart",
+      "piglin",
+      "zombified_piglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-23T18:11:12.000+0300",
+    "resolution_date": "2020-07-28T17:56:42.000+0300",
+    "updated_date": "2020-07-28T17:56:42.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-189797",
+    "summary": "Hoglins, Zoglins, melee Piglins, and Piglin Brutes do not properly attack invisible entities within normal range",
+    "labels": [
+      "attack",
+      "hoglin",
+      "invisible",
+      "mob-behavior",
+      "zoglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-15T11:37:12.000+0300",
+    "resolution_date": "2020-07-28T18:02:34.000+0300",
+    "updated_date": "2020-07-30T18:44:15.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-189414",
+    "summary": "Smithing table doesn't calculate amount of output items correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Data Packs",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-13T19:28:50.000+0300",
+    "resolution_date": "2020-07-28T10:36:34.000+0300",
+    "updated_date": "2020-07-28T10:36:34.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-187904",
+    "summary": "Data packs cannot replace settings of vanilla dimensions during world creation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-06T23:48:14.000+0300",
+    "resolution_date": "2020-07-29T15:39:26.000+0300",
+    "updated_date": "2020-08-04T21:16:24.000+0300",
+    "watches": 24,
+    "votes": 58
+  },
+  {
+    "id": "MC-187398",
+    "summary": "Smithing table and stonecutter recipes are not unlocked when used",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-04T23:49:00.000+0300",
+    "resolution_date": "2020-07-28T10:36:34.000+0300",
+    "updated_date": "2021-08-18T16:39:40.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-185490",
+    "summary": "Separated trader llamas on leads cause server performance (tps) issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-05-24T19:54:56.000+0300",
+    "resolution_date": "2020-07-28T17:34:49.000+0300",
+    "updated_date": "2020-07-30T02:38:27.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-182330",
+    "summary": "Crossbow-wielding piglins behave weirdly when they try to pursue invisible players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-05-04T05:20:20.000+0300",
+    "resolution_date": "2020-07-28T18:02:36.000+0300",
+    "updated_date": "2020-07-28T18:02:36.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-178061",
+    "summary": "Chat Delay option doesn't exist in Chat settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-04-10T02:51:17.000+0300",
+    "resolution_date": "2020-07-29T13:32:04.000+0300",
+    "updated_date": "2020-07-29T19:54:54.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-177651",
+    "summary": "Despite being cold outside of lava, striders don't care about staying in lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-04-07T04:32:01.000+0300",
+    "resolution_date": "2020-07-29T15:30:18.000+0300",
+    "updated_date": "2020-07-29T15:30:18.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-176034",
+    "summary": "You can walk on striders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-03-25T20:30:06.000+0200",
+    "resolution_date": "2020-07-28T12:13:31.000+0300",
+    "updated_date": "2020-07-30T01:37:32.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-176015",
+    "summary": "Strider suffocates when player is saddled on and looking up with Warped Fungus on a Stick",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-03-25T20:15:35.000+0200",
+    "resolution_date": "2020-07-28T12:13:31.000+0300",
+    "updated_date": "2020-07-28T12:13:31.000+0300",
+    "watches": 7,
+    "votes": 23
+  },
+  {
+    "id": "MC-175334",
+    "summary": "Villagers take longer to get a job the more workstations are nearby",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-03-19T16:48:26.000+0200",
+    "resolution_date": "2020-07-29T22:56:02.000+0300",
+    "updated_date": "2022-07-09T15:34:30.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-174574",
+    "summary": "Soul speed doesn't work when slabs and blocks of similar height are placed above the soul sand block",
+    "labels": [
+      "slab",
+      "soul_sand",
+      "soul_speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-03-12T03:59:44.000+0200",
+    "resolution_date": "2020-07-28T17:56:41.000+0300",
+    "updated_date": "2021-02-14T19:49:19.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-174469",
+    "summary": "Soul Speed does not work when jumping",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2020-03-11T19:28:05.000+0200",
+    "resolution_date": "2020-07-29T19:12:12.000+0300",
+    "updated_date": "2020-12-05T19:06:50.000+0200",
+    "watches": 11,
+    "votes": 19
+  },
+  {
+    "id": "MC-167045",
+    "summary": "Banners are rendered too dark in the inventory",
+    "labels": [
+      "banners",
+      "dark",
+      "inventory",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2019-12-03T20:10:06.000+0200",
+    "resolution_date": "2020-07-29T11:16:01.000+0300",
+    "updated_date": "2020-08-02T13:00:26.000+0300",
+    "watches": 7,
+    "votes": 19
+  },
+  {
+    "id": "MC-163767",
+    "summary": "Villagers get ejected from a minecart when converted to a zombie villager",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2019-10-15T19:37:19.000+0300",
+    "resolution_date": "2020-07-28T17:56:42.000+0300",
+    "updated_date": "2021-06-20T14:06:54.000+0300",
+    "watches": 14,
+    "votes": 19
+  },
+  {
+    "id": "MC-158987",
+    "summary": "Raid still continues after a villager turns into a witch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2019-08-15T11:14:45.000+0300",
+    "resolution_date": "2020-07-29T10:38:01.000+0300",
+    "updated_date": "2020-07-29T19:40:30.000+0300",
+    "watches": 2,
+    "votes": 11
+  },
+  {
+    "id": "MC-125758",
+    "summary": "Bubble column does not affect egg, snowball, ender pearl, splash potion, lingering potion, fireball and shulker bullet",
+    "labels": [
+      "bubble_column",
+      "projectiles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Collision",
+      "Parity",
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2018-02-17T13:30:34.000+0200",
+    "resolution_date": "2020-07-28T17:44:19.000+0300",
+    "updated_date": "2022-08-05T18:17:22.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-102967",
+    "summary": "Shulker bullets can't teleport through a nether or end portal",
+    "labels": [
+      "end_portal",
+      "nether_portal",
+      "shulker_bullet",
+      "teleport"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2016-06-03T16:19:07.000+0300",
+    "resolution_date": "2020-07-30T13:54:49.000+0300",
+    "updated_date": "2020-07-30T13:54:49.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-96007",
+    "summary": "Arrows, trident, projectiles, splash and lingering potions can't be teleported from directly above the end portal, end gateway and nether portal",
+    "labels": [
+      "arrow",
+      "bow",
+      "end_gateway",
+      "end_portal",
+      "lingering_potion",
+      "nether_portal",
+      "projectile",
+      "spectral_arrow",
+      "splash_potion",
+      "teleport",
+      "tipped_arrow",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision",
+      "Entities",
+      "Hitboxes",
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2016-01-23T09:54:25.000+0200",
+    "resolution_date": "2020-07-30T14:17:14.000+0300",
+    "updated_date": "2020-07-30T14:25:26.000+0300",
+    "watches": 15,
+    "votes": 20
+  },
+  {
+    "id": "MC-73884",
+    "summary": "Throwable projectiles get destroyed at contact with non solid blocks",
+    "labels": [
+      "contact",
+      "explosion",
+      "fireball",
+      "non-solid",
+      "non-solid-blocks",
+      "projectile"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 15w49a",
+      "1.16.2 Pre-release 1"
+    ],
+    "creation_date": "2014-10-31T20:52:55.000+0200",
+    "resolution_date": "2020-07-28T17:44:19.000+0300",
+    "updated_date": "2022-08-05T18:17:53.000+0300",
+    "watches": 16,
+    "votes": 30
+  }
+]

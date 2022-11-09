@@ -1,0 +1,235 @@
+[
+  {
+    "id": "MC-167080",
+    "summary": "Resource pack move up missing",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-12-04T03:37:09.000+0200",
+    "resolution_date": "2019-12-05T14:56:40.000+0200",
+    "updated_date": "2019-12-05T14:56:40.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-167074",
+    "summary": "Enchantment Table book in UI is dark",
+    "labels": [
+      "EnchantmentTable",
+      "UI",
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-12-04T02:08:25.000+0200",
+    "resolution_date": "2019-12-05T10:44:27.000+0200",
+    "updated_date": "2019-12-05T10:44:27.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-166865",
+    "summary": "The game crashed whilst initializing gameError: java.lang.IllegalArgumentException: MALFORMED",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-11-30T13:56:01.000+0200",
+    "resolution_date": "2019-12-05T14:56:59.000+0200",
+    "updated_date": "2020-06-14T21:02:03.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-164691",
+    "summary": "Debug pie graph is rendered incorrectly",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-10-30T18:36:55.000+0200",
+    "resolution_date": "2019-12-05T12:25:51.000+0200",
+    "updated_date": "2019-12-05T12:25:51.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-158870",
+    "summary": "Debug diagram does not allow stepping into profiler segments",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-08-13T02:42:23.000+0300",
+    "resolution_date": "2019-12-05T12:25:52.000+0200",
+    "updated_date": "2019-12-05T12:25:52.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-153698",
+    "summary": "Jumping on a boat in water for a while causes you to accumulate fall damage",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-06-03T14:05:12.000+0300",
+    "resolution_date": "2019-12-05T15:02:26.000+0200",
+    "updated_date": "2020-02-16T12:36:28.000+0200",
+    "watches": 17,
+    "votes": 41
+  },
+  {
+    "id": "MC-151173",
+    "summary": "Stream used to read options.txt file never closed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-05-08T12:21:49.000+0300",
+    "resolution_date": "2019-12-05T13:57:23.000+0200",
+    "updated_date": "2019-12-05T13:57:23.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-148704",
+    "summary": "The \"Server Light\" section disappears then reappears",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-04-19T01:22:59.000+0300",
+    "resolution_date": "2019-12-06T01:34:55.000+0200",
+    "updated_date": "2021-02-06T18:05:23.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-147750",
+    "summary": "If a resourcepack tries to use a .ttf that doesn't exist, the game crashes",
+    "labels": [
+      "crash",
+      "font",
+      "resource-pack",
+      "ttf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2019-04-10T17:17:53.000+0300",
+    "resolution_date": "2020-05-19T04:54:53.000+0300",
+    "updated_date": "2020-05-19T04:54:53.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-117449",
+    "summary": "options.txt is read with default OS encoding",
+    "labels": [
+      "encoding",
+      "options",
+      "resource-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2017-05-14T00:41:38.000+0300",
+    "resolution_date": "2019-12-05T13:57:22.000+0200",
+    "updated_date": "2019-12-06T06:52:02.000+0200",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-104818",
+    "summary": "No value for argument in options.txt not correctly parsed (Skipping bad option: lastServer:)",
+    "labels": [
+      "argument",
+      "direct-connect",
+      "options"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 5"
+    ],
+    "creation_date": "2016-06-30T02:07:42.000+0300",
+    "resolution_date": "2019-12-05T13:57:22.000+0200",
+    "updated_date": "2019-12-05T13:57:22.000+0200",
+    "watches": 10,
+    "votes": 13
+  }
+]

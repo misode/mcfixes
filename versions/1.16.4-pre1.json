@@ -1,0 +1,43 @@
+[
+  {
+    "id": "MC-199487",
+    "summary": "WorldGen Deadlock",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.4 Pre-release 1"
+    ],
+    "creation_date": "2020-09-02T17:25:12.000+0300",
+    "resolution_date": "2020-10-07T12:15:28.000+0300",
+    "updated_date": "2020-10-14T00:35:59.000+0300",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-192434",
+    "summary": "Netherite Leggings are textured weirdly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.4 Pre-release 1"
+    ],
+    "creation_date": "2020-06-28T05:32:04.000+0300",
+    "resolution_date": "2020-10-13T12:05:05.000+0300",
+    "updated_date": "2020-10-16T13:04:22.000+0300",
+    "watches": 3,
+    "votes": 0
+  }
+]

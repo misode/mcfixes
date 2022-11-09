@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "MC-174785",
+    "summary": "Mining speed of crimson and warped wall signs is not affected by an axe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-14T12:14:44.000+0200",
+    "resolution_date": "2020-03-18T14:46:02.000+0200",
+    "updated_date": "2020-03-18T14:46:03.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-174690",
+    "summary": "Soul speed enchantment books can be found in chests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-13T07:20:15.000+0200",
+    "resolution_date": "2020-03-17T16:38:09.000+0200",
+    "updated_date": "2020-06-08T04:12:40.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-174522",
+    "summary": "Soul Speed doesn't break boots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T22:23:43.000+0200",
+    "resolution_date": "2020-03-17T16:38:09.000+0200",
+    "updated_date": "2020-08-10T13:04:30.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-174518",
+    "summary": "Game freezes when walking using soul speed in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T22:01:41.000+0200",
+    "resolution_date": "2020-03-19T01:13:41.000+0200",
+    "updated_date": "2020-03-19T01:13:42.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-174513",
+    "summary": "Soul Speed Enchanted Books from bartering with piglins do not work in an anvil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T21:29:16.000+0200",
+    "resolution_date": "2020-03-17T16:38:09.000+0200",
+    "updated_date": "2020-03-17T16:38:09.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-174502",
+    "summary": "Soul Speed 3 on Soul Soil in water keeps and increases player momentum",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T20:51:59.000+0200",
+    "resolution_date": "2020-03-18T17:02:38.000+0200",
+    "updated_date": "2020-04-02T01:18:28.000+0300",
+    "watches": 11,
+    "votes": 14
+  },
+  {
+    "id": "MC-174498",
+    "summary": "Game crashes when an adult hoglin with generic.attackDamage < 1 tries to attack something",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T20:29:24.000+0200",
+    "resolution_date": "2020-03-19T12:23:47.000+0200",
+    "updated_date": "2020-05-02T19:19:06.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-174489",
+    "summary": "Shroomlight preferred tool is now both Axe and Hoe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T19:59:06.000+0200",
+    "resolution_date": "2020-03-17T15:47:26.000+0200",
+    "updated_date": "2020-03-17T15:47:26.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-174480",
+    "summary": "Piglins are not attracted to Nether gold ore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T19:47:14.000+0200",
+    "resolution_date": "2020-03-18T18:00:47.000+0200",
+    "updated_date": "2020-03-18T18:00:47.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-174476",
+    "summary": "Soul fire torch is in the piglin_repellents item tag twice",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T19:44:12.000+0200",
+    "resolution_date": "2020-03-18T12:43:13.000+0200",
+    "updated_date": "2021-08-18T16:39:44.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-174467",
+    "summary": "Placing fire on soul sand does not place soul fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T19:27:42.000+0200",
+    "resolution_date": "2020-03-13T14:13:34.000+0200",
+    "updated_date": "2020-04-17T19:21:12.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-174466",
+    "summary": "Soul speed particles are generated in spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T19:27:27.000+0200",
+    "resolution_date": "2020-03-17T16:38:10.000+0200",
+    "updated_date": "2020-03-17T16:38:10.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-174464",
+    "summary": "Soul speed decreases durability on boots in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T19:10:46.000+0200",
+    "resolution_date": "2020-03-17T16:38:09.000+0200",
+    "updated_date": "2020-03-17T16:38:09.000+0200",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-174429",
+    "summary": "Chorus flowers remove arrow and trident velocity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-11T02:06:37.000+0200",
+    "resolution_date": "2020-03-18T15:52:56.000+0200",
+    "updated_date": "2020-03-18T15:52:56.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-174391",
+    "summary": "Several misrotated blocks at snowy_medium_house_2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-10T17:34:11.000+0200",
+    "resolution_date": "2020-03-13T14:00:28.000+0200",
+    "updated_date": "2020-03-25T21:28:23.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-174258",
+    "summary": "Fixed item frames do not take void damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-08T22:52:01.000+0200",
+    "resolution_date": "2020-03-13T11:57:20.000+0200",
+    "updated_date": "2020-03-19T01:42:26.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-174234",
+    "summary": "Village structure snowy_masons_house_1 has two misrotated blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-08T19:32:45.000+0200",
+    "resolution_date": "2020-03-13T14:00:25.000+0200",
+    "updated_date": "2020-03-13T14:00:25.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174174",
+    "summary": "Arrow animation stuck on loop when a flame bow is used to detonate TNT",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-08T05:14:53.000+0200",
+    "resolution_date": "2020-03-16T15:58:19.000+0200",
+    "updated_date": "2020-12-19T07:36:55.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-174083",
+    "summary": "Three misrotated blocks in snowy_butchers_shop_1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T13:33:24.000+0200",
+    "resolution_date": "2020-03-13T14:00:25.000+0200",
+    "updated_date": "2020-03-13T14:00:25.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174082",
+    "summary": "Three misrotated blocks in snowy_small_house_2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T13:32:39.000+0200",
+    "resolution_date": "2020-03-13T14:00:25.000+0200",
+    "updated_date": "2020-03-13T14:00:25.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174079",
+    "summary": "Misrotated block at snowy_weapon_smith_1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T13:25:24.000+0200",
+    "resolution_date": "2020-03-13T14:00:27.000+0200",
+    "updated_date": "2020-03-13T14:00:27.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174078",
+    "summary": "Three misrotated blocks in snowy_armorer_house_2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T13:23:40.000+0200",
+    "resolution_date": "2020-03-13T14:00:25.000+0200",
+    "updated_date": "2020-03-13T14:00:25.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174077",
+    "summary": "Structure snowy_library_1 no longer has snow under the roof",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T13:22:55.000+0200",
+    "resolution_date": "2020-03-13T14:00:27.000+0200",
+    "updated_date": "2020-03-13T14:00:27.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174076",
+    "summary": "Inconsistent rotation of logs under windows in savanna_small_house_4",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T12:43:10.000+0200",
+    "resolution_date": "2020-03-13T14:00:27.000+0200",
+    "updated_date": "2020-03-13T14:00:27.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174075",
+    "summary": "Misrotated block in savanna_butchers_shop_1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T12:38:46.000+0200",
+    "resolution_date": "2020-03-13T14:00:28.000+0200",
+    "updated_date": "2020-03-13T14:00:28.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174073",
+    "summary": "Two misrotated blocks in savanna_small_house_5",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T12:33:54.000+0200",
+    "resolution_date": "2020-03-13T14:00:28.000+0200",
+    "updated_date": "2020-03-13T14:00:28.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174072",
+    "summary": "Structure savanna_temple_2 contains one misrotated block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T12:26:36.000+0200",
+    "resolution_date": "2020-03-13T14:00:28.000+0200",
+    "updated_date": "2020-03-13T14:00:28.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174071",
+    "summary": "Roof of savanna_mason_1 is cut off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T12:23:38.000+0200",
+    "resolution_date": "2020-03-13T14:00:29.000+0200",
+    "updated_date": "2020-03-13T14:00:29.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-174049",
+    "summary": "Fireworks shot from a crossbow do not explode instantly when hitting a solid block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-07T07:13:57.000+0200",
+    "resolution_date": "2020-03-16T15:58:19.000+0200",
+    "updated_date": "2020-03-16T16:02:35.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-173837",
+    "summary": "Removing fire and soul fire with shears will reduce the shears' durability",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-05T05:57:13.000+0200",
+    "resolution_date": "2020-03-18T18:17:50.000+0200",
+    "updated_date": "2020-03-18T18:19:34.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-173832",
+    "summary": "Crimson and Warped Hyphae and Stripped Hyphae are switched in Creative inventory",
+    "labels": [
+      "creative-inventory-contents",
+      "crimson_hyphae",
+      "stripped_crimson_hyphae",
+      "stripped_warped_hyphae",
+      "warped_hyphae"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-05T05:05:07.000+0200",
+    "resolution_date": "2020-03-18T18:17:49.000+0200",
+    "updated_date": "2021-08-18T16:39:55.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-173828",
+    "summary": "Village church entrance does not generate correctly",
+    "labels": [
+      "structure",
+      "village",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-05T04:31:50.000+0200",
+    "resolution_date": "2020-03-13T14:00:27.000+0200",
+    "updated_date": "2020-11-09T01:25:40.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-173783",
+    "summary": "Weeping and twisting vines can replaced by any block ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-05T00:04:01.000+0200",
+    "resolution_date": "2020-03-18T23:01:36.000+0200",
+    "updated_date": "2020-03-18T23:01:51.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-173552",
+    "summary": "Nether Fossil support islands are sometimes cut off at chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a",
+      "20w22a"
+    ],
+    "creation_date": "2020-03-01T23:00:22.000+0200",
+    "resolution_date": "2020-05-27T18:28:51.000+0300",
+    "updated_date": "2020-05-29T13:25:16.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-173487",
+    "summary": "Falling out of water death message still does not seem to appear",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-03-01T02:53:31.000+0200",
+    "resolution_date": "2020-03-18T15:02:08.000+0200",
+    "updated_date": "2021-08-18T16:39:52.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-173420",
+    "summary": "Sign crafting recipes of various wood types are not grouped",
+    "labels": [
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-29T05:22:26.000+0200",
+    "resolution_date": "2020-03-17T16:50:35.000+0200",
+    "updated_date": "2020-03-17T16:50:35.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-173220",
+    "summary": "Dismounting passenger moves to a nearby block when ridden entity dies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-26T22:37:27.000+0200",
+    "resolution_date": "2020-03-18T13:40:31.000+0200",
+    "updated_date": "2020-04-14T23:21:29.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-173199",
+    "summary": "Fossils in the nether cause caves / floating islands to generate and can break through the nether roof",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-26T21:33:34.000+0200",
+    "resolution_date": "2020-03-18T17:32:22.000+0200",
+    "updated_date": "2021-05-30T04:07:42.000+0300",
+    "watches": 9,
+    "votes": 18
+  },
+  {
+    "id": "MC-172820",
+    "summary": "Piglins can turn into adult chicken jockeys in the overworld",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-21T10:13:42.000+0200",
+    "resolution_date": "2020-03-17T18:11:29.000+0200",
+    "updated_date": "2020-05-02T17:34:25.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-172690",
+    "summary": "Smelting netherite scraps doesn't provide the right amount of experience",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-19T00:20:02.000+0200",
+    "resolution_date": "2020-03-18T18:17:49.000+0200",
+    "updated_date": "2020-03-18T18:17:49.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-172233",
+    "summary": "Bone meal does not spawn nether plants on nylium",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-15T00:54:33.000+0200",
+    "resolution_date": "2020-03-25T00:42:37.000+0200",
+    "updated_date": "2020-03-25T00:42:37.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-172188",
+    "summary": "Hoglins are not required by 'Two by Two' advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-14T21:54:00.000+0200",
+    "resolution_date": "2020-03-17T17:42:40.000+0200",
+    "updated_date": "2020-03-25T21:14:43.000+0200",
+    "watches": 0,
+    "votes": 5
+  },
+  {
+    "id": "MC-171133",
+    "summary": "Camera can be positioned inside of soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-06T15:14:31.000+0200",
+    "resolution_date": "2020-03-16T12:24:00.000+0200",
+    "updated_date": "2020-03-18T15:14:34.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-170940",
+    "summary": "Netherite ingot recipes are not grouped",
+    "labels": [
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-05T22:41:20.000+0200",
+    "resolution_date": "2020-03-17T16:50:35.000+0200",
+    "updated_date": "2020-03-17T16:50:35.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-170937",
+    "summary": "Bone meal spreading nylium generates the particles inside the block",
+    "labels": [
+      "incorrect-particle-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-05T22:35:41.000+0200",
+    "resolution_date": "2020-03-19T22:53:32.000+0200",
+    "updated_date": "2021-10-17T02:29:39.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-170773",
+    "summary": "Recipe book and filtering craftable do not stay open for blast furnace and smoker when (re)loading the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-02-04T16:35:28.000+0200",
+    "resolution_date": "2020-03-17T16:50:36.000+0200",
+    "updated_date": "2020-03-17T16:50:36.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-170591",
+    "summary": "Misrotated floor blocks in desert_tool_smith_1 basement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-01-30T22:50:07.000+0200",
+    "resolution_date": "2020-03-13T14:00:29.000+0200",
+    "updated_date": "2020-03-13T14:00:29.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-170584",
+    "summary": "Structure taiga_meeting_point_2 from zombie villages has 1 misrotated log",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-01-30T19:31:16.000+0200",
+    "resolution_date": "2020-03-13T14:00:29.000+0200",
+    "updated_date": "2020-03-18T20:52:55.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-169965",
+    "summary": "Potion effect timers for higher levels can remain at 0:00 after the higher level has run out if multiple levels of the same effect were applied in descending order",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2020-01-17T04:09:25.000+0200",
+    "resolution_date": "2020-03-13T11:57:21.000+0200",
+    "updated_date": "2020-06-20T18:42:44.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-168384",
+    "summary": "NBT-Tag \"Silent:1b\" doesn't work for bees.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-12-19T19:01:50.000+0200",
+    "resolution_date": "2020-03-18T11:40:52.000+0200",
+    "updated_date": "2020-03-18T11:40:52.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-166980",
+    "summary": "Bees become stuck wandering to the north-west after completing a task, or randomly in large numbers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-12-02T08:09:39.000+0200",
+    "resolution_date": "2020-03-13T13:16:23.000+0200",
+    "updated_date": "2021-08-04T01:09:26.000+0300",
+    "watches": 31,
+    "votes": 30
+  },
+  {
+    "id": "MC-163918",
+    "summary": "Bees not animating their pollen gathering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-10-17T03:24:42.000+0300",
+    "resolution_date": "2020-03-17T16:59:47.000+0200",
+    "updated_date": "2020-03-18T15:17:23.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-160959",
+    "summary": "Clicking onto a bed in daytime doesn't grant the advancement \"Sweet Dreams\"",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-09-12T18:00:53.000+0300",
+    "resolution_date": "2020-03-18T15:02:08.000+0200",
+    "updated_date": "2021-08-18T16:39:47.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-149375",
+    "summary": "Camera can be positioned inside of snow layers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-04-24T09:54:38.000+0300",
+    "resolution_date": "2020-03-16T12:24:58.000+0200",
+    "updated_date": "2020-06-16T16:46:57.000+0300",
+    "watches": 10,
+    "votes": 23
+  },
+  {
+    "id": "MC-149081",
+    "summary": "Entering a bed from a mount causes the player to bounce up and down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-04-23T06:08:48.000+0300",
+    "resolution_date": "2020-03-18T22:50:21.000+0200",
+    "updated_date": "2020-03-23T13:53:23.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-148936",
+    "summary": "Parrot summoned with negative Age has smaller hitbox",
+    "labels": [
+      "hitbox",
+      "parrot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-04-21T03:34:13.000+0300",
+    "resolution_date": "2020-03-17T17:51:09.000+0200",
+    "updated_date": "2020-03-17T17:51:09.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-148360",
+    "summary": "Cave ambience sounds play no matter where you are",
+    "labels": [
+      "ambience-issue"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-04-15T13:03:40.000+0300",
+    "resolution_date": "2020-03-21T17:26:46.000+0200",
+    "updated_date": "2020-12-21T04:55:01.000+0200",
+    "watches": 7,
+    "votes": 28
+  },
+  {
+    "id": "MC-147368",
+    "summary": "Pillager outpost can generate in water",
+    "labels": [
+      "pillager-outpost",
+      "structure",
+      "water",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2019-04-04T03:02:20.000+0300",
+    "resolution_date": "2020-03-18T20:19:37.000+0200",
+    "updated_date": "2020-08-14T21:18:46.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-140545",
+    "summary": "Pathfinding prefers North (negative Z) direction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2018-12-04T00:44:16.000+0200",
+    "resolution_date": "2020-03-16T15:22:49.000+0200",
+    "updated_date": "2020-11-23T13:43:43.000+0200",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-135849",
+    "summary": "Grass and mycelium don't decay under waterlogged blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2018-08-10T12:11:59.000+0300",
+    "resolution_date": "2020-03-18T21:43:04.000+0200",
+    "updated_date": "2020-12-31T20:34:14.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-130137",
+    "summary": "Grass and mycelium don't decay underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2018-05-23T22:41:10.000+0300",
+    "resolution_date": "2020-03-16T16:44:27.000+0200",
+    "updated_date": "2021-02-15T21:06:56.000+0200",
+    "watches": 39,
+    "votes": 74
+  },
+  {
+    "id": "MC-129137",
+    "summary": "Parrots imitating hostile mobs in peaceful is not that peaceful",
+    "labels": [
+      "imitation",
+      "parrot",
+      "peaceful"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2018-05-04T18:32:24.000+0300",
+    "resolution_date": "2020-03-17T17:51:09.000+0200",
+    "updated_date": "2020-03-17T17:51:09.000+0200",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-122128",
+    "summary": "Recipe book resets itself to closed state after death",
+    "labels": [
+      "death",
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2017-11-21T17:49:53.000+0200",
+    "resolution_date": "2020-03-17T16:50:35.000+0200",
+    "updated_date": "2020-03-17T16:50:35.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-118327",
+    "summary": "Parrots cannot teleport onto non-full cube / transparent blocks",
+    "labels": [
+      "ai",
+      "block",
+      "mob",
+      "parrot",
+      "teleport",
+      "teleportation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2017-06-06T20:53:55.000+0300",
+    "resolution_date": "2020-03-19T01:52:53.000+0200",
+    "updated_date": "2020-03-19T01:52:53.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-118096",
+    "summary": "Incorrect position of particles when using bone meal on grass block",
+    "labels": [
+      "bone_meal",
+      "bonemeal",
+      "grass",
+      "grass-block",
+      "particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2017-05-31T05:50:01.000+0300",
+    "resolution_date": "2020-03-21T22:03:20.000+0200",
+    "updated_date": "2020-11-06T15:54:20.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-114000",
+    "summary": "Mouse click in cat hissing sounds",
+    "labels": [
+      "cat",
+      "mouse",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2017-02-19T14:31:34.000+0200",
+    "resolution_date": "2020-03-18T16:09:02.000+0200",
+    "updated_date": "2022-08-27T17:44:47.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-113809",
+    "summary": "Chorus Flower plant, Bamboo, Sugarcane, Cactus and other plants grow instantly when supporting block is replaced with same block type",
+    "labels": [
+      "bamboo",
+      "beetroot",
+      "block-update",
+      "cactus",
+      "carrots",
+      "chorus_flower",
+      "duping",
+      "exploit",
+      "potato",
+      "sugarcane",
+      "tick",
+      "twisting_vines",
+      "update",
+      "weeping_vines",
+      "wheat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 18w06a",
+      "20w12a"
+    ],
+    "creation_date": "2017-02-13T20:38:26.000+0200",
+    "resolution_date": "2020-03-13T14:44:46.000+0200",
+    "updated_date": "2020-07-29T05:55:50.000+0300",
+    "watches": 26,
+    "votes": 37
+  },
+  {
+    "id": "MC-100342",
+    "summary": "Several Non-Ticking blocks are marked as ticking forcing the growth-algorithm to check chunks needlessly",
+    "labels": [
+      "block",
+      "block-update",
+      "randomTickSpeed",
+      "tick"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2016-03-31T05:03:22.000+0300",
+    "resolution_date": "2020-03-13T14:44:46.000+0200",
+    "updated_date": "2020-03-13T14:44:46.000+0200",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-76810",
+    "summary": "Casting issue: Bone meal particles break at high coordinates (floating point precision)",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2015-01-22T15:40:09.000+0200",
+    "resolution_date": "2020-03-19T00:00:55.000+0200",
+    "updated_date": "2021-10-17T02:36:14.000+0300",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-64242",
+    "summary": "Silent tag is not working for some entities",
+    "labels": [
+      "entity",
+      "mob",
+      "silent",
+      "tag"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2014-07-29T14:37:19.000+0300",
+    "resolution_date": "2020-03-18T11:40:53.000+0200",
+    "updated_date": "2021-01-02T05:59:23.000+0200",
+    "watches": 16,
+    "votes": 36
+  },
+  {
+    "id": "MC-3328",
+    "summary": "Dismounting an entity places riding entity / player half block too high",
+    "labels": [
+      "dismount",
+      "minecart",
+      "passengers",
+      "riding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w12a"
+    ],
+    "creation_date": "2012-11-17T23:31:24.000+0200",
+    "resolution_date": "2020-03-18T13:40:30.000+0200",
+    "updated_date": "2020-05-29T12:56:03.000+0300",
+    "watches": 16,
+    "votes": 18
+  }
+]

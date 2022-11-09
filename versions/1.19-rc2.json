@@ -1,0 +1,40 @@
+[
+  {
+    "id": "MC-249558",
+    "summary": "All versions crash on M1 Mac with JVM crash when attempting to launch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19 Release Candidate 2"
+    ],
+    "creation_date": "2022-03-26T19:04:47.000+0200",
+    "resolution_date": "2022-06-07T14:31:00.000+0300",
+    "updated_date": "2022-06-07T14:31:00.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-228944",
+    "summary": "Minecraft 1.17 crashes upon opening new world on Apple M1, even with Rosetta.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19 Release Candidate 2"
+    ],
+    "creation_date": "2021-06-14T02:03:36.000+0300",
+    "resolution_date": "2022-06-07T14:31:28.000+0300",
+    "updated_date": "2022-06-07T14:31:28.000+0300",
+    "watches": 5,
+    "votes": 3
+  }
+]

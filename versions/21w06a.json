@@ -1,0 +1,124 @@
+[
+  {
+    "id": "MC-214346",
+    "summary": "Big dripleaf can be broken with arrows in spawn protection",
+    "labels": [
+      "big-dripleaf",
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w06a"
+    ],
+    "creation_date": "2021-02-06T19:55:06.000+0200",
+    "resolution_date": "2021-02-10T18:21:05.000+0200",
+    "updated_date": "2021-03-06T21:59:43.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-214118",
+    "summary": "When mobGriefing is disabled, big dripleaves can still be destroyed by projectiles shot by mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w06a"
+    ],
+    "creation_date": "2021-02-05T00:05:24.000+0200",
+    "resolution_date": "2021-02-16T10:30:00.000+0200",
+    "updated_date": "2021-02-22T03:43:11.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-213941",
+    "summary": "Big dripleaf inconsistently play sounds when in the unstable state",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w06a"
+    ],
+    "creation_date": "2021-02-04T03:22:59.000+0200",
+    "resolution_date": "2021-02-16T10:29:19.000+0200",
+    "updated_date": "2021-02-16T10:29:19.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-213813",
+    "summary": "Small dripleaf can destroy any block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w06a"
+    ],
+    "creation_date": "2021-02-03T21:03:23.000+0200",
+    "resolution_date": "2021-02-10T18:24:08.000+0200",
+    "updated_date": "2021-02-10T22:21:23.000+0200",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-205227",
+    "summary": "Wither Skeletons don't die in powdered snow unless fully submerged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w06a"
+    ],
+    "creation_date": "2020-11-12T01:05:42.000+0200",
+    "resolution_date": "2021-02-12T18:12:14.000+0200",
+    "updated_date": "2021-02-12T18:12:14.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-105035",
+    "summary": "Floating mineshafts generating incorrectly in shade",
+    "labels": [
+      "structure",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w06a"
+    ],
+    "creation_date": "2016-07-05T20:00:35.000+0300",
+    "resolution_date": "2021-02-13T00:44:52.000+0200",
+    "updated_date": "2021-05-11T00:39:30.000+0300",
+    "watches": 18,
+    "votes": 21
+  }
+]

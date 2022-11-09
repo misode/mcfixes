@@ -1,0 +1,1219 @@
+[
+  {
+    "id": "MC-165181",
+    "summary": "Boats are filled with water",
+    "labels": [
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-08T09:42:08.000+0200",
+    "resolution_date": "2019-11-13T17:14:17.000+0200",
+    "updated_date": "2019-11-13T17:14:17.000+0200",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-165174",
+    "summary": "Breaking particles of semi-transparent blocks are not transparent",
+    "labels": [
+      "breaking-particles",
+      "honey-block",
+      "ice",
+      "particles",
+      "rendering",
+      "slime-block",
+      "stained-glass",
+      "transparency"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-08T06:05:21.000+0200",
+    "resolution_date": "2019-11-13T17:14:30.000+0200",
+    "updated_date": "2019-11-13T17:14:30.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-165161",
+    "summary": "Arrow projectiles z-fight with themselves",
+    "labels": [
+      "item",
+      "rendering",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-08T00:46:20.000+0200",
+    "resolution_date": "2019-11-14T10:43:51.000+0200",
+    "updated_date": "2019-11-14T10:43:51.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-165061",
+    "summary": "Command blocks ignore trailing spaces when checking syntax",
+    "labels": [
+      "command_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-06T01:04:26.000+0200",
+    "resolution_date": "2019-11-13T17:53:43.000+0200",
+    "updated_date": "2019-11-13T17:53:43.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-165034",
+    "summary": "Falling blocks convert to blocks when falling on top of a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-05T13:22:40.000+0200",
+    "resolution_date": "2019-11-11T18:05:52.000+0200",
+    "updated_date": "2019-11-17T04:25:15.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-165023",
+    "summary": "Sand dropped on boats can force update cacti, sugar cane, and bamboo causing them to grow very quickly",
+    "labels": [
+      "boat",
+      "cactus",
+      "falling_block",
+      "sugar_cane"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-05T08:08:57.000+0200",
+    "resolution_date": "2019-11-11T18:05:53.000+0200",
+    "updated_date": "2019-12-08T13:26:55.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-164992",
+    "summary": "Empty bee hives and bee nests drop as an item when being broken in Creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-04T17:52:42.000+0200",
+    "resolution_date": "2019-11-11T16:21:15.000+0200",
+    "updated_date": "2020-12-26T19:57:15.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-164909",
+    "summary": "Silk Touch continues working after tool breaks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-11-02T22:31:34.000+0200",
+    "resolution_date": "2019-11-13T17:43:26.000+0200",
+    "updated_date": "2019-11-13T17:43:26.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-164747",
+    "summary": "Inconsistent Capitalization of 'By' in 'Damage Blocked By Shield'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-31T04:39:21.000+0200",
+    "resolution_date": "2019-11-11T18:05:54.000+0200",
+    "updated_date": "2021-08-18T16:39:32.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-164745",
+    "summary": "Rendering Issue In Statistic Menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-31T04:25:08.000+0200",
+    "resolution_date": "2019-11-13T17:14:20.000+0200",
+    "updated_date": "2019-11-13T17:14:20.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-164536",
+    "summary": "Anvil item naming text field contents are rendered above item tooltips",
+    "labels": [
+      "anvil",
+      "renaming"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-27T02:34:30.000+0300",
+    "resolution_date": "2019-11-13T17:14:29.000+0200",
+    "updated_date": "2020-08-23T21:15:21.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-164535",
+    "summary": "/playsound uses wrong feedback message for multiple targets",
+    "labels": [
+      "/playsound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a",
+      "1.15 Pre-release 1"
+    ],
+    "creation_date": "2019-10-27T02:21:49.000+0300",
+    "resolution_date": "2019-11-20T18:48:18.000+0200",
+    "updated_date": "2019-11-20T18:48:18.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-164499",
+    "summary": "Game crashes when creating customized superflat world with unparsable biome",
+    "labels": [
+      "crash",
+      "crash-report",
+      "superflat-customization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-26T16:21:40.000+0300",
+    "resolution_date": "2019-11-11T18:05:54.000+0200",
+    "updated_date": "2019-11-11T18:05:54.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-164486",
+    "summary": "Bees still mad even though there are campfires underneath beehives when there is a carpet in between",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-26T08:36:34.000+0300",
+    "resolution_date": "2019-11-13T17:05:16.000+0200",
+    "updated_date": "2019-11-13T17:05:16.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-164362",
+    "summary": "Block breaking animation wrong color/lightness on certain sides",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-24T02:55:43.000+0300",
+    "resolution_date": "2019-11-14T10:45:15.000+0200",
+    "updated_date": "2019-11-14T10:45:15.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-164336",
+    "summary": "Campfire under bees don't calm bees if open trapdoor is between the campfire and bee nest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-23T06:59:03.000+0300",
+    "resolution_date": "2019-11-13T17:05:16.000+0200",
+    "updated_date": "2020-05-21T22:35:50.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-164152",
+    "summary": "Experience orbs are rotated incorrectly when using the third person camera from the front",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-20T01:11:06.000+0300",
+    "resolution_date": "2019-11-13T17:14:24.000+0200",
+    "updated_date": "2019-11-13T19:42:52.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-164143",
+    "summary": "Saplings try to grow on the highest block above them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-19T23:00:17.000+0300",
+    "resolution_date": "2019-11-11T17:39:15.000+0200",
+    "updated_date": "2020-05-04T20:45:27.000+0300",
+    "watches": 10,
+    "votes": 24
+  },
+  {
+    "id": "MC-164049",
+    "summary": "Pretty name of int array tag is wrong",
+    "labels": [
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-18T13:46:30.000+0300",
+    "resolution_date": "2019-11-11T18:05:57.000+0200",
+    "updated_date": "2019-11-11T18:05:57.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-163936",
+    "summary": "Arm swings when attempting to put a saddle on a baby pig",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-17T08:01:05.000+0300",
+    "resolution_date": "2019-11-12T12:19:58.000+0200",
+    "updated_date": "2019-11-12T12:19:58.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-163871",
+    "summary": "Placing a chest next to a closing chest cuts the animation in half",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-16T20:51:26.000+0300",
+    "resolution_date": "2019-11-13T17:14:22.000+0200",
+    "updated_date": "2019-11-13T17:14:22.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-163869",
+    "summary": "Fishing line isn't curved anymore",
+    "labels": [
+      "curve",
+      "fishing_rod",
+      "line"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-16T20:49:03.000+0300",
+    "resolution_date": "2019-11-13T17:14:27.000+0200",
+    "updated_date": "2019-11-13T17:14:27.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-163863",
+    "summary": "Lit redstone ore no longer produces a burst of particles when right clicked / Right clicking lit redstone ore plays redundant hand animation",
+    "labels": [
+      "hand",
+      "hand-animation",
+      "missing-particle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Player",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-16T20:19:01.000+0300",
+    "resolution_date": "2019-11-12T12:19:59.000+0200",
+    "updated_date": "2021-10-17T02:26:44.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-163475",
+    "summary": "Savanna biomes have a lot more grass than before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-12T04:35:00.000+0300",
+    "resolution_date": "2019-11-11T17:39:16.000+0200",
+    "updated_date": "2019-11-11T17:39:16.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-163472",
+    "summary": "Items out of your inventory push you in death screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-12T02:34:10.000+0300",
+    "resolution_date": "2019-11-11T18:05:56.000+0200",
+    "updated_date": "2019-11-11T18:05:56.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-163448",
+    "summary": "Redundant hand animation when clicking on a fully-healed iron golem with an iron ingot",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-11T22:03:27.000+0300",
+    "resolution_date": "2019-11-12T12:20:02.000+0200",
+    "updated_date": "2021-02-23T17:56:21.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-163381",
+    "summary": "Exception loading structure piece with id minecraft:nvi",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-11T07:34:47.000+0300",
+    "resolution_date": "2019-11-11T17:48:08.000+0200",
+    "updated_date": "2021-09-04T22:36:02.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-163375",
+    "summary": "Minecart with a Furnace can take anything as fuel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-11T05:24:08.000+0300",
+    "resolution_date": "2019-11-11T18:05:58.000+0200",
+    "updated_date": "2019-11-21T20:49:06.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-163293",
+    "summary": "Leaves of acacia trees generate differently than before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-10T16:44:01.000+0300",
+    "resolution_date": "2019-11-11T17:39:15.000+0200",
+    "updated_date": "2019-11-11T17:39:15.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-163133",
+    "summary": "Giant spruce trees occasionally generate very short",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-09T23:57:48.000+0300",
+    "resolution_date": "2019-11-11T17:39:16.000+0200",
+    "updated_date": "2019-11-11T17:39:16.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-163034",
+    "summary": "Experience orbs are no longer translucent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-09T19:54:14.000+0300",
+    "resolution_date": "2019-11-13T17:14:23.000+0200",
+    "updated_date": "2020-11-10T07:33:55.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-163027",
+    "summary": "Mob and player particles are offset",
+    "labels": [
+      "particle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-09T19:48:16.000+0300",
+    "resolution_date": "2019-11-12T12:45:18.000+0200",
+    "updated_date": "2019-11-12T12:45:18.000+0200",
+    "watches": 11,
+    "votes": 16
+  },
+  {
+    "id": "MC-162927",
+    "summary": "Breaking animation on grass block is miss-coloured",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-07T16:13:19.000+0300",
+    "resolution_date": "2019-11-13T17:14:26.000+0200",
+    "updated_date": "2019-11-13T17:14:26.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-162724",
+    "summary": "Bees don't leave their nest/hive in the nether",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-04T19:03:12.000+0300",
+    "resolution_date": "2019-11-12T11:59:09.000+0200",
+    "updated_date": "2020-08-04T00:37:59.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-162560",
+    "summary": "Falling block switches quickly between entity and block when it fell on the shulker",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-02T22:13:42.000+0300",
+    "resolution_date": "2019-11-13T19:48:48.000+0200",
+    "updated_date": "2019-11-20T17:50:17.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-162522",
+    "summary": "Setting render distance to values >8 chunks freezes the game for >1 second (minutes for higher values)",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-10-02T18:12:06.000+0300",
+    "resolution_date": "2019-11-13T17:14:19.000+0200",
+    "updated_date": "2021-10-27T07:40:35.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-161435",
+    "summary": "Arm swing animation is played when eating or drinking an item",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-09-19T20:15:21.000+0300",
+    "resolution_date": "2019-11-12T12:19:57.000+0200",
+    "updated_date": "2020-06-06T16:02:40.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-161154",
+    "summary": "When the ender eye is unavailable, the hand animation is still playing",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w42a",
+      "19w46a"
+    ],
+    "creation_date": "2019-09-15T17:19:22.000+0300",
+    "resolution_date": "2019-11-12T12:19:58.000+0200",
+    "updated_date": "2020-06-06T16:02:39.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-161074",
+    "summary": "Experience disappears after dying with gamerule doImmediateRespawn true",
+    "labels": [
+      "death",
+      "doImmediateRespawn",
+      "experience",
+      "gamerule"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-09-14T12:47:08.000+0300",
+    "resolution_date": "2019-11-11T18:05:55.000+0200",
+    "updated_date": "2019-11-11T18:05:55.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-161059",
+    "summary": "Bees don't sleep during rain",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-09-14T06:50:01.000+0300",
+    "resolution_date": "2019-11-12T10:16:36.000+0200",
+    "updated_date": "2019-11-12T10:16:36.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-160981",
+    "summary": "Making tamed parrots sit/stand plays no hand animation",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-09-12T22:13:13.000+0300",
+    "resolution_date": "2019-11-12T12:20:00.000+0200",
+    "updated_date": "2021-02-23T18:00:28.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-160900",
+    "summary": "Arm swings when right-clicking armor stand/item frame",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-09-11T20:08:47.000+0300",
+    "resolution_date": "2019-11-12T12:19:56.000+0200",
+    "updated_date": "2019-11-12T12:19:56.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-160547",
+    "summary": "Portals don't refresh the countdown to unload chunks when something goes through",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-09-05T13:17:17.000+0300",
+    "resolution_date": "2019-11-14T16:28:18.000+0200",
+    "updated_date": "2019-11-14T16:28:18.000+0200",
+    "watches": 4,
+    "votes": 14
+  },
+  {
+    "id": "MC-159614",
+    "summary": "Baby hostile bees don't have an attacking animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-08-24T04:53:01.000+0300",
+    "resolution_date": "2019-11-11T16:21:15.000+0200",
+    "updated_date": "2019-11-11T16:21:15.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-159353",
+    "summary": "Bees can take damage after leaving a bee nest or a bee hive",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-08-22T17:02:55.000+0300",
+    "resolution_date": "2019-11-11T16:24:17.000+0200",
+    "updated_date": "2019-11-11T16:24:17.000+0200",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-156766",
+    "summary": "Items stopped spreading far on death",
+    "labels": [
+      "item-dropping"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-07-14T23:00:07.000+0300",
+    "resolution_date": "2019-11-14T04:38:20.000+0200",
+    "updated_date": "2021-07-19T14:13:31.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-156746",
+    "summary": "Can't change Attribute generic.maxHealth for tamed wolves/dogs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-07-14T18:18:40.000+0300",
+    "resolution_date": "2019-11-12T12:45:18.000+0200",
+    "updated_date": "2021-06-22T18:34:41.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-150079",
+    "summary": "Some commands in a command block will not run if the last character is a space.",
+    "labels": [
+      "command_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-04-28T00:40:48.000+0300",
+    "resolution_date": "2019-11-13T17:53:43.000+0200",
+    "updated_date": "2019-11-13T17:53:43.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-147843",
+    "summary": "Minecraft 1.14 can display the Aquatic background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-04-11T04:33:35.000+0300",
+    "resolution_date": "2019-11-14T09:07:53.000+0200",
+    "updated_date": "2019-11-14T09:07:53.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-146623",
+    "summary": "Bonus chest can spawn in the air or over grass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-03-24T20:22:20.000+0200",
+    "resolution_date": "2019-11-11T17:56:14.000+0200",
+    "updated_date": "2019-11-22T18:27:47.000+0200",
+    "watches": 8,
+    "votes": 19
+  },
+  {
+    "id": "MC-146305",
+    "summary": "Wandering traders sometimes run extremely fast for no reason",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-03-21T03:12:35.000+0200",
+    "resolution_date": "2019-11-12T12:45:19.000+0200",
+    "updated_date": "2020-12-22T22:13:18.000+0200",
+    "watches": 18,
+    "votes": 43
+  },
+  {
+    "id": "MC-145821",
+    "summary": "Stained glass, ice, slime block and other transparent block particles are not transparent anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-03-14T04:10:25.000+0200",
+    "resolution_date": "2019-11-13T17:15:44.000+0200",
+    "updated_date": "2019-11-16T19:49:57.000+0200",
+    "watches": 5,
+    "votes": 15
+  },
+  {
+    "id": "MC-144263",
+    "summary": "Anvils glitch out and make noise when dropped on shulker",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2019-02-16T11:54:20.000+0200",
+    "resolution_date": "2019-11-11T18:05:53.000+0200",
+    "updated_date": "2019-11-11T18:05:53.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-141354",
+    "summary": "Dragon fireball texture inconsistent with new fire charge texture",
+    "labels": [
+      "dragon_fireball",
+      "fire_charge",
+      "inconsistent",
+      "outdated-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2018-12-21T23:15:02.000+0200",
+    "resolution_date": "2019-11-13T09:13:22.000+0200",
+    "updated_date": "2020-08-23T19:09:57.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-129273",
+    "summary": "Attempting to place a painting in a spot where it cannot exist may play the hand animation anyway",
+    "labels": [
+      "hand-animation",
+      "painting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2018-05-08T21:42:23.000+0300",
+    "resolution_date": "2019-11-12T12:20:01.000+0200",
+    "updated_date": "2020-06-06T16:02:39.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-128361",
+    "summary": "Cannot eat a chorus fruit, golden apple, or enchanted golden apple in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2018-04-12T18:47:24.000+0300",
+    "resolution_date": "2019-11-13T23:54:02.000+0200",
+    "updated_date": "2019-11-13T23:54:02.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-112990",
+    "summary": "Powered data parameter of furnace minecart is set by client as well",
+    "labels": [
+      "client-side",
+      "furnace-minecart",
+      "powered"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2017-01-29T23:45:16.000+0200",
+    "resolution_date": "2019-11-11T18:05:58.000+0200",
+    "updated_date": "2019-11-11T18:05:58.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-84771",
+    "summary": "Items and blocks can't be put in an item frame with the off-hand",
+    "labels": [
+      "item",
+      "item-frame",
+      "off-hand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2015-08-02T09:18:20.000+0300",
+    "resolution_date": "2020-04-27T00:25:58.000+0300",
+    "updated_date": "2021-04-15T23:52:18.000+0300",
+    "watches": 9,
+    "votes": 15
+  },
+  {
+    "id": "MC-2871",
+    "summary": "Baby zombies are not spawned when right-clicking onto an adult zombie with a zombie spawn egg",
+    "labels": [
+      "baby",
+      "spawn",
+      "spawn-egg",
+      "zombie"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w46a"
+    ],
+    "creation_date": "2012-11-12T23:03:11.000+0200",
+    "resolution_date": "2019-11-11T18:05:51.000+0200",
+    "updated_date": "2019-11-13T23:56:54.000+0200",
+    "watches": 9,
+    "votes": 7
+  }
+]

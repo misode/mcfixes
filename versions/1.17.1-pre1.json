@@ -1,0 +1,554 @@
+[
+  {
+    "id": "MC-229299",
+    "summary": "Blue axolotls can spawn naturally",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-16T23:33:25.000+0300",
+    "resolution_date": "2021-06-17T10:42:05.000+0300",
+    "updated_date": "2022-08-10T15:17:09.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-228828",
+    "summary": "Specifying the --server parameter when starting the game, causes the game to crash",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-13T10:58:07.000+0300",
+    "resolution_date": "2021-06-17T16:57:35.000+0300",
+    "updated_date": "2021-06-17T16:57:35.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-228430",
+    "summary": "Very long loading pause while booting the game (\"Failed to add PDH Counter\", caused by oshi)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-10T21:51:38.000+0300",
+    "resolution_date": "2021-06-14T15:28:52.000+0300",
+    "updated_date": "2022-07-10T17:45:55.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-228343",
+    "summary": "java.lang.NullPointerException when random_selector default feature isn't found",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-10T13:36:07.000+0300",
+    "resolution_date": "2021-06-11T10:56:43.000+0300",
+    "updated_date": "2021-06-11T11:05:18.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-228219",
+    "summary": "Thrown ender pearls disappear upon entering the exit end portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-09T22:24:21.000+0300",
+    "resolution_date": "2021-06-15T10:44:45.000+0300",
+    "updated_date": "2021-06-15T10:44:45.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-227891",
+    "summary": "Ender pearls despawn when player logs out of a server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-08T21:55:21.000+0300",
+    "resolution_date": "2021-06-14T15:53:49.000+0300",
+    "updated_date": "2022-08-10T15:16:52.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-227821",
+    "summary": "Client crash when trying to create/edit realm immediately after deleting previous one",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-08T19:32:48.000+0300",
+    "resolution_date": "2021-06-09T15:06:59.000+0300",
+    "updated_date": "2021-07-25T03:31:26.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-227651",
+    "summary": "Group for lapis lazuli ore smelting and blasting recipes is misspelled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-07T07:23:19.000+0300",
+    "resolution_date": "2021-06-09T17:42:46.000+0300",
+    "updated_date": "2021-08-18T16:39:38.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-227618",
+    "summary": "Small dripleaf is consumed without being placed when used on tall seagrass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-06T21:14:06.000+0300",
+    "resolution_date": "2021-06-10T14:49:55.000+0300",
+    "updated_date": "2021-06-15T06:13:36.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-227557",
+    "summary": "End portal texture appears stretched after world conversion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-06T10:47:18.000+0300",
+    "resolution_date": "2021-06-09T15:59:49.000+0300",
+    "updated_date": "2021-07-05T16:09:16.000+0300",
+    "watches": 9,
+    "votes": 6
+  },
+  {
+    "id": "MC-227520",
+    "summary": "Overworld Fossils always generate at bedrock level",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-05T23:03:32.000+0300",
+    "resolution_date": "2021-06-09T14:04:35.000+0300",
+    "updated_date": "2022-08-16T19:24:54.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-227483",
+    "summary": "root_system feature config's codec uses a wrong field",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-05T14:54:28.000+0300",
+    "resolution_date": "2021-06-14T11:53:27.000+0300",
+    "updated_date": "2021-06-14T11:53:27.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-227435",
+    "summary": "Lag when placing heads of non-existent players when on servers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-05T01:50:42.000+0300",
+    "resolution_date": "2021-06-18T10:59:51.000+0300",
+    "updated_date": "2021-06-18T10:59:51.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-227387",
+    "summary": "World gen datapacks will likely crash or softlock the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-04T18:35:38.000+0300",
+    "resolution_date": "2021-06-09T15:32:14.000+0300",
+    "updated_date": "2021-06-09T15:32:15.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-226948",
+    "summary": "Withers are now affected by potion effects",
+    "labels": [
+      "affect",
+      "glowing",
+      "potion_effect",
+      "wither"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-05-31T20:56:02.000+0300",
+    "resolution_date": "2021-06-10T13:45:51.000+0300",
+    "updated_date": "2021-06-10T13:45:51.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-226512",
+    "summary": "Goats do not use the damage of held items when ramming entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-05-27T21:22:16.000+0300",
+    "resolution_date": "2021-06-25T16:41:44.000+0300",
+    "updated_date": "2021-06-25T16:41:44.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-226505",
+    "summary": "Goat's long jump is not affected by the jump boost effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-05-27T21:01:59.000+0300",
+    "resolution_date": "2021-06-25T16:42:05.000+0300",
+    "updated_date": "2021-06-25T16:42:05.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-226461",
+    "summary": "Logs can be replaced with stone near lava pools",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-05-27T18:06:35.000+0300",
+    "resolution_date": "2021-06-11T13:55:04.000+0300",
+    "updated_date": "2022-04-22T22:05:50.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-225816",
+    "summary": "Hanging Roots appear large when an item entity ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-05-19T12:26:16.000+0300",
+    "resolution_date": "2021-06-09T17:32:22.000+0300",
+    "updated_date": "2021-06-22T16:02:45.000+0300",
+    "watches": 16,
+    "votes": 42
+  },
+  {
+    "id": "MC-223368",
+    "summary": "Strength and weakness potions / custom attack damage attributes does not change damage from goats",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-04-16T16:25:07.000+0300",
+    "resolution_date": "2021-06-26T19:32:45.000+0300",
+    "updated_date": "2021-06-26T19:32:45.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-223350",
+    "summary": "Loaded chunks sometimes don't render until the player moves their head slightly",
+    "labels": [
+      "chunks",
+      "culling",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-04-16T10:21:36.000+0300",
+    "resolution_date": "2021-06-17T11:30:35.000+0300",
+    "updated_date": "2021-08-06T10:11:46.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-219018",
+    "summary": "Ghost items can be created using /item (server doesn't update client inventory correctly)",
+    "labels": [
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-03-11T13:36:21.000+0200",
+    "resolution_date": "2021-06-09T17:53:57.000+0300",
+    "updated_date": "2021-12-12T20:39:52.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-213986",
+    "summary": "Pistons and dispensers can be used to create ghost blocks using powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-02-04T10:38:22.000+0200",
+    "resolution_date": "2021-06-10T14:28:45.000+0300",
+    "updated_date": "2021-06-10T14:28:45.000+0300",
+    "watches": 8,
+    "votes": 3
+  },
+  {
+    "id": "MC-196999",
+    "summary": "U+1FEC is wrong in Minecraft's font",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2020-08-04T16:05:55.000+0300",
+    "resolution_date": "2021-06-18T15:00:30.000+0300",
+    "updated_date": "2021-06-18T15:00:30.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-194736",
+    "summary": "Duplicate text mapping for U+00B7",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2020-07-12T23:02:31.000+0300",
+    "resolution_date": "2021-06-18T15:00:30.000+0300",
+    "updated_date": "2021-06-18T15:00:30.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-156155",
+    "summary": "Turkish lira sign (\u20ba) appears as \u25a1 in the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2019-07-06T21:39:38.000+0300",
+    "resolution_date": "2021-06-18T15:00:30.000+0300",
+    "updated_date": "2021-06-18T15:00:30.000+0300",
+    "watches": 9,
+    "votes": 13
+  },
+  {
+    "id": "MC-131290",
+    "summary": "Enchantments are saved as shorts, but are loaded as and function with integer values",
+    "labels": [
+      "enchantment-level",
+      "enchantments",
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2018-06-13T17:25:10.000+0300",
+    "resolution_date": "2021-06-14T11:53:33.000+0300",
+    "updated_date": "2022-05-31T07:43:35.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-123654",
+    "summary": "Sun, moon, and/or clouds are not showing if render distance is below 4",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2017-12-29T03:19:44.000+0200",
+    "resolution_date": "2021-06-10T13:15:53.000+0300",
+    "updated_date": "2021-09-19T09:46:05.000+0300",
+    "watches": 7,
+    "votes": 8
+  }
+]

@@ -1,0 +1,305 @@
+[
+  {
+    "id": "MC-178368",
+    "summary": "Lodestone compass does not point to its lodestone block when rotated in an item frame",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-12T12:07:40.000+0300",
+    "resolution_date": "2020-04-15T16:09:01.000+0300",
+    "updated_date": "2020-04-15T18:41:33.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-177957",
+    "summary": "Texture is not correct on the white quartz brick or on the polished quartz brick",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-09T04:28:03.000+0300",
+    "resolution_date": "2020-04-16T10:36:19.000+0300",
+    "updated_date": "2020-04-16T17:59:52.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-177942",
+    "summary": "Fortresses don't spawn in basalt deltas",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-09T03:17:36.000+0300",
+    "resolution_date": "2020-04-15T21:12:31.000+0300",
+    "updated_date": "2020-04-27T12:41:16.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-177462",
+    "summary": "Respawn Anchor Explodes Client Side",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-05T05:05:07.000+0300",
+    "resolution_date": "2020-04-22T12:04:02.000+0300",
+    "updated_date": "2020-04-22T12:04:02.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-177316",
+    "summary": "Lodestone compass in item frame does not update after turning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-03T21:07:22.000+0300",
+    "resolution_date": "2020-04-15T13:01:02.000+0300",
+    "updated_date": "2020-06-15T17:26:41.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-177253",
+    "summary": "Running a set_attributes function throws java.lang.NullPointerException if it contains an undefined attribute",
+    "labels": [
+      "set_attributes"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-03T10:52:01.000+0300",
+    "resolution_date": "2020-04-15T14:12:56.000+0300",
+    "updated_date": "2020-04-15T14:12:56.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-177238",
+    "summary": "Windows symbolic link in saves/ is no longer followed as of 20w14a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-03T08:57:26.000+0300",
+    "resolution_date": "2020-04-15T14:13:00.000+0300",
+    "updated_date": "2020-07-17T19:12:54.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-177136",
+    "summary": "All compasses and lodestone compasses point to the same target, regardless of what type of compass it is",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-04-02T22:00:29.000+0300",
+    "resolution_date": "2020-04-15T13:01:01.000+0300",
+    "updated_date": "2020-04-20T22:24:37.000+0300",
+    "watches": 3,
+    "votes": 13
+  },
+  {
+    "id": "MC-175919",
+    "summary": "Villagers sometimes stop farming",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-03-25T01:13:40.000+0200",
+    "resolution_date": "2020-04-15T11:38:06.000+0300",
+    "updated_date": "2020-04-15T11:38:06.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-175288",
+    "summary": "Creating a warped forest superflat world with decorations freezes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2020-03-19T01:46:57.000+0200",
+    "resolution_date": "2020-04-16T10:03:53.000+0300",
+    "updated_date": "2020-04-16T10:03:53.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-171020",
+    "summary": "New nether biomes don't work properly in buffet worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w14a",
+      "20w16a"
+    ],
+    "creation_date": "2020-02-06T01:48:40.000+0200",
+    "resolution_date": "2020-04-15T14:12:59.000+0300",
+    "updated_date": "2020-05-19T13:23:24.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-154617",
+    "summary": "Server hangs on stop due to rcon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2019-06-15T22:20:26.000+0300",
+    "resolution_date": "2020-04-15T14:12:55.000+0300",
+    "updated_date": "2020-06-10T12:21:40.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-99727",
+    "summary": "Ghasts can be located using subtitles",
+    "labels": [
+      "accessibility",
+      "ghast",
+      "subtitles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2016-03-19T07:19:34.000+0200",
+    "resolution_date": "2020-04-20T16:28:48.000+0300",
+    "updated_date": "2020-04-20T16:28:49.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-91163",
+    "summary": "Certain subtitles show up when the player is too far away to hear the sound",
+    "labels": [
+      "distance",
+      "range"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w16a"
+    ],
+    "creation_date": "2015-10-22T18:06:05.000+0300",
+    "resolution_date": "2020-04-15T12:48:54.000+0300",
+    "updated_date": "2020-05-20T18:36:35.000+0300",
+    "watches": 26,
+    "votes": 39
+  },
+  {
+    "id": "MC-37557",
+    "summary": "Sometimes a minecart sound plays/subtitle shown when loading a world",
+    "labels": [
+      "minecart",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.8",
+      "Minecraft 1.13-pre7",
+      "20w16a"
+    ],
+    "creation_date": "2013-10-26T15:43:03.000+0300",
+    "resolution_date": "2020-04-15T12:49:07.000+0300",
+    "updated_date": "2022-03-25T14:28:03.000+0200",
+    "watches": 18,
+    "votes": 40
+  }
+]

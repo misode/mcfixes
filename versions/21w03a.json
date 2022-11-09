@@ -1,0 +1,996 @@
+[
+  {
+    "id": "MC-210791",
+    "summary": "Dropping an item on a shulker launches the item off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2021-01-07T16:22:48.000+0200",
+    "resolution_date": "2021-01-22T18:11:36.000+0200",
+    "updated_date": "2021-02-24T18:10:45.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-208666",
+    "summary": "Shulker boxes and bundles drop their items twice when thrown into a lava cauldron",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-16T21:33:06.000+0200",
+    "resolution_date": "2021-01-11T17:17:00.000+0200",
+    "updated_date": "2022-11-02T15:35:13.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-208639",
+    "summary": "Chiseled Blackstone Recipe unlocks when you get polished blackstone, not polished blackstone slab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-16T20:38:34.000+0200",
+    "resolution_date": "2021-02-20T13:07:04.000+0200",
+    "updated_date": "2021-02-20T13:07:12.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-208611",
+    "summary": " Shulkerboxes/bundles duplicate items when destroyed by two fire blocks simultaneously ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-16T19:45:42.000+0200",
+    "resolution_date": "2021-01-11T17:17:00.000+0200",
+    "updated_date": "2022-11-02T15:34:23.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-208336",
+    "summary": "'player' sub-predicate of 'entity_properties' predicate only passes if game mode is specified",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-13T14:12:20.000+0200",
+    "resolution_date": "2021-01-12T19:13:54.000+0200",
+    "updated_date": "2021-01-12T19:13:54.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-207900",
+    "summary": "Summoning \"dust\" or \"dust_color_transition\" particles kicks nearby players when on a server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-08T02:08:45.000+0200",
+    "resolution_date": "2021-01-20T16:28:55.000+0200",
+    "updated_date": "2021-01-21T08:34:21.000+0200",
+    "watches": 9,
+    "votes": 18
+  },
+  {
+    "id": "MC-207388",
+    "summary": "Issues with chunk rendering when height limit is large",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-03T05:49:44.000+0200",
+    "resolution_date": "2021-01-11T14:34:11.000+0200",
+    "updated_date": "2021-01-21T18:02:55.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-207335",
+    "summary": "Mobs cannot spawn in Dripstone Caves",
+    "labels": [
+      "dripstone-caves"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-03T00:02:49.000+0200",
+    "resolution_date": "2021-01-11T09:43:34.000+0200",
+    "updated_date": "2021-03-23T13:07:33.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-207293",
+    "summary": "Dripstone generated in dripstone caves can replace lava sources which looks weird",
+    "labels": [
+      "pointed-dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-02T20:55:19.000+0200",
+    "resolution_date": "2021-01-11T09:43:35.000+0200",
+    "updated_date": "2021-11-21T21:29:42.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-207254",
+    "summary": "Dripstone caves generate merging dripstones in impossible ways",
+    "labels": [
+      "pointed-dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-02T19:54:37.000+0200",
+    "resolution_date": "2021-01-11T09:40:33.000+0200",
+    "updated_date": "2021-01-11T09:40:33.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-207250",
+    "summary": "Dripstone caves biome name is not properly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-12-02T19:47:45.000+0200",
+    "resolution_date": "2021-01-11T09:40:34.000+0200",
+    "updated_date": "2021-08-18T16:39:39.000+0300",
+    "watches": 9,
+    "votes": 24
+  },
+  {
+    "id": "MC-206923",
+    "summary": "Dripstone subtitles are not capitalized properly",
+    "labels": [
+      "incorrect-subtitle",
+      "pointed-dripstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-28T21:39:06.000+0200",
+    "resolution_date": "2021-01-11T09:40:34.000+0200",
+    "updated_date": "2021-08-18T16:40:01.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-206550",
+    "summary": "block.pointed_dripstone.drip_[liquid/cauldron] has no subtitles",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-25T18:29:58.000+0200",
+    "resolution_date": "2021-01-11T10:32:37.000+0200",
+    "updated_date": "2021-03-22T01:27:29.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-206510",
+    "summary": "Game crashes when trying to shift-click a chest into the inventory of a donkey whose chest is being removed",
+    "labels": [
+      "Chest",
+      "Crash",
+      "Donkey",
+      "Inventory",
+      "command",
+      "command-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-24T21:05:52.000+0200",
+    "resolution_date": "2021-01-12T18:34:09.000+0200",
+    "updated_date": "2022-07-30T17:34:05.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-206118",
+    "summary": "\"type\" in loot table number providers is not optional anymore",
+    "labels": [
+      "data-pack",
+      "loot-table"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-20T00:46:47.000+0200",
+    "resolution_date": "2021-01-12T19:13:51.000+0200",
+    "updated_date": "2021-03-22T15:19:16.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-205076",
+    "summary": "Game mode selection is ordered differently",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-11T19:06:29.000+0200",
+    "resolution_date": "2021-01-12T19:13:49.000+0200",
+    "updated_date": "2021-03-10T11:52:48.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-204337",
+    "summary": "Bundle use stat never increases",
+    "labels": [
+      "bundle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-06T11:04:59.000+0200",
+    "resolution_date": "2021-01-11T17:17:03.000+0200",
+    "updated_date": "2022-11-02T15:33:41.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-203571",
+    "summary": "Right-clicking an empty bundle sometimes plays hand animation",
+    "labels": [
+      "bundle",
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-04T21:01:46.000+0200",
+    "resolution_date": "2021-01-11T17:17:04.000+0200",
+    "updated_date": "2022-11-02T15:33:18.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-203397",
+    "summary": "Ceiling vines rotate when other vines are placed in the same block space",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-03T02:34:07.000+0200",
+    "resolution_date": "2021-01-21T16:29:22.000+0200",
+    "updated_date": "2021-01-21T16:29:22.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-203373",
+    "summary": "Shulker bullet subtitles are not capitalized correctly",
+    "labels": [
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-11-02T21:29:06.000+0200",
+    "resolution_date": "2021-01-18T14:38:59.000+0200",
+    "updated_date": "2021-03-22T00:38:39.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-202202",
+    "summary": "Server is unable to prevent a player from dismounting a vehicle, causing a desync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-10-16T12:32:55.000+0300",
+    "resolution_date": "2021-01-20T15:01:53.000+0200",
+    "updated_date": "2021-01-21T14:00:06.000+0200",
+    "watches": 11,
+    "votes": 22
+  },
+  {
+    "id": "MC-200195",
+    "summary": "Boats don't  try dismounting you on land",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-09-13T18:15:10.000+0300",
+    "resolution_date": "2021-01-20T15:01:53.000+0200",
+    "updated_date": "2021-01-25T13:10:50.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-194089",
+    "summary": "Shulkers at some Y positions refuse to get a Peek value",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-07-08T01:35:13.000+0300",
+    "resolution_date": "2021-01-22T18:12:10.000+0200",
+    "updated_date": "2021-01-22T18:12:10.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-193386",
+    "summary": "Shulkers spawned attached to the groud attaches themselves to a wall after another shulker is spawned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-07-03T13:06:42.000+0300",
+    "resolution_date": "2021-01-21T17:03:09.000+0200",
+    "updated_date": "2021-01-21T17:03:09.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-190677",
+    "summary": "Shulkers aren't aligned to the grid for a split second after being spawned in",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-06-20T13:42:31.000+0300",
+    "resolution_date": "2021-01-18T14:39:14.000+0200",
+    "updated_date": "2022-10-19T18:57:56.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-186172",
+    "summary": "Shulkers open into blocks when unable to teleport",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-05-29T18:59:51.000+0300",
+    "resolution_date": "2021-01-18T14:39:16.000+0200",
+    "updated_date": "2021-01-22T19:45:09.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-183884",
+    "summary": "Shulkers are afraid of being next to another shulker",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-05-14T05:59:26.000+0300",
+    "resolution_date": "2021-01-18T14:39:18.000+0200",
+    "updated_date": "2021-01-18T14:39:18.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-183067",
+    "summary": "Shulkers can push marker armour stands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-05-08T12:24:28.000+0300",
+    "resolution_date": "2021-01-21T16:29:39.000+0200",
+    "updated_date": "2021-01-21T16:29:39.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-174876",
+    "summary": "Shulker spawn egg spawns shulker inside soul sand, snow layers, farmland, grass path and honey block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-03-15T12:03:42.000+0200",
+    "resolution_date": "2021-01-21T17:09:00.000+0200",
+    "updated_date": "2021-01-21T17:09:01.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-174216",
+    "summary": "Shulkers riding a vehicle sometimes appear in the ground after reopening world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-03-08T16:41:17.000+0200",
+    "resolution_date": "2021-05-31T20:56:36.000+0300",
+    "updated_date": "2021-05-31T20:56:36.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-168900",
+    "summary": "Shulkers teleport with original dimension coordinates after passing through portals",
+    "labels": [
+      "mob",
+      "portal",
+      "shulker",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2019-12-27T05:17:30.000+0200",
+    "resolution_date": "2021-01-18T14:39:20.000+0200",
+    "updated_date": "2021-01-23T19:38:51.000+0200",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-161334",
+    "summary": "Shulker boxes cannot be opened if next to a shulker mob",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2019-09-18T21:25:23.000+0300",
+    "resolution_date": "2021-01-18T14:39:12.000+0200",
+    "updated_date": "2021-01-18T14:39:12.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-156109",
+    "summary": "Turtles do not follow players in Creative mode holding seagrass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2019-07-06T09:04:07.000+0300",
+    "resolution_date": "2021-01-20T22:01:58.000+0200",
+    "updated_date": "2021-01-20T22:01:58.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-139265",
+    "summary": "Shulkers do not teleport correctly when going through a portal",
+    "labels": [
+      "portal",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2018-11-11T23:56:47.000+0200",
+    "resolution_date": "2021-01-18T14:39:20.000+0200",
+    "updated_date": "2021-01-18T14:39:20.000+0200",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-131564",
+    "summary": "Models that have locked uv in blockstates ignore texture rotation",
+    "labels": [
+      "block-model",
+      "blockstates",
+      "resource-pack",
+      "resource-pack-support",
+      "rotation",
+      "uv",
+      "uvlock"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2018-06-17T21:10:40.000+0300",
+    "resolution_date": "2021-01-21T16:31:30.000+0200",
+    "updated_date": "2021-01-21T16:31:30.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-121897",
+    "summary": "Gaps in an animation's used frames throws ArrayIndexOutOfBoundsException",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 18w01a",
+      "21w03a"
+    ],
+    "creation_date": "2017-11-12T11:22:25.000+0200",
+    "resolution_date": "2021-01-19T17:38:03.000+0200",
+    "updated_date": "2021-01-19T17:38:03.000+0200",
+    "watches": 9,
+    "votes": 3
+  },
+  {
+    "id": "MC-119051",
+    "summary": "Random transparent line in shulker box GUI texture",
+    "labels": [
+      "gui",
+      "shulker_box",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2017-06-28T01:32:36.000+0300",
+    "resolution_date": "2021-01-18T14:38:59.000+0200",
+    "updated_date": "2021-01-18T14:38:59.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-113177",
+    "summary": "Shulkers cannot be pushed inside non-solid blocks",
+    "labels": [
+      "non-solid-blocks",
+      "piston",
+      "push",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2017-02-04T08:30:26.000+0200",
+    "resolution_date": "2021-01-18T14:39:21.000+0200",
+    "updated_date": "2021-01-18T14:39:21.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-111196",
+    "summary": "Using a monster spawner to spawn shulkers spawns white shulkers",
+    "labels": [
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2016-12-06T02:01:24.000+0200",
+    "resolution_date": "2021-01-18T14:39:06.000+0200",
+    "updated_date": "2021-01-18T14:39:06.000+0200",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-108717",
+    "summary": "Shulkers can't be pushed back",
+    "labels": [
+      "piston",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2016-10-14T11:08:24.000+0300",
+    "resolution_date": "2021-01-18T14:39:21.000+0200",
+    "updated_date": "2021-01-21T13:43:36.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-105344",
+    "summary": "Shulkers in boats and minecarts do not sit up if previousely attached to blocks sideways",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2016-07-14T22:09:43.000+0300",
+    "resolution_date": "2021-01-18T14:39:19.000+0200",
+    "updated_date": "2021-01-21T05:26:33.000+0200",
+    "watches": 7,
+    "votes": 3
+  },
+  {
+    "id": "MC-99098",
+    "summary": "Shulker open and close hitbox is not updated, when they ride boat, minecart or mobs",
+    "labels": [
+      "boat",
+      "hitbox",
+      "minecart",
+      "mob",
+      "ride",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2016-03-06T10:32:55.000+0200",
+    "resolution_date": "2021-01-25T18:36:11.000+0200",
+    "updated_date": "2021-01-25T18:36:12.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-96322",
+    "summary": "Shulkers are unable to attack from boat",
+    "labels": [
+      "AI",
+      "animation",
+      "attack",
+      "boat",
+      "minecart",
+      "mob",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.13-pre6",
+      "21w03a"
+    ],
+    "creation_date": "2016-01-30T11:02:21.000+0200",
+    "resolution_date": "2021-01-30T22:34:18.000+0200",
+    "updated_date": "2021-02-01T15:21:26.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-92867",
+    "summary": "Setting Json text value to null throws exceptions and crashes",
+    "labels": [
+      "crash",
+      "falling_block",
+      "json",
+      "null",
+      "null-pointer-exception",
+      "sign",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2015-11-17T19:46:44.000+0200",
+    "resolution_date": "2021-01-12T19:13:53.000+0200",
+    "updated_date": "2021-01-12T19:13:53.000+0200",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-92349",
+    "summary": "Players can't tempt animals with food while other players are closer to the animal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2015-11-07T23:25:17.000+0200",
+    "resolution_date": "2021-01-14T16:05:19.000+0200",
+    "updated_date": "2021-01-29T23:54:20.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-91522",
+    "summary": "Shulker rendering position desync and generates ghost shulker when destroying shulker-ridden boat or minecart",
+    "labels": [
+      "boat",
+      "desync",
+      "minecart",
+      "position",
+      "rendering",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w39a",
+      "20w10a",
+      "21w03a"
+    ],
+    "creation_date": "2015-10-28T17:45:15.000+0200",
+    "resolution_date": "2021-01-18T14:39:13.000+0200",
+    "updated_date": "2021-01-18T14:39:14.000+0200",
+    "watches": 10,
+    "votes": 11
+  },
+  {
+    "id": "MC-89880",
+    "summary": "Spawner with weight 0 crashes game",
+    "labels": [
+      "crash",
+      "mob_spawner",
+      "spawner_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "Minecraft 1.12.2",
+      "21w03a"
+    ],
+    "creation_date": "2015-10-06T09:54:33.000+0300",
+    "resolution_date": "2021-01-14T16:49:42.000+0200",
+    "updated_date": "2021-01-29T23:52:45.000+0200",
+    "watches": 10,
+    "votes": 9
+  }
+]

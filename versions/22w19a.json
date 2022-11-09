@@ -1,0 +1,598 @@
+[
+  {
+    "id": "MC-251464",
+    "summary": "When passive mobs take damage from warden's sonic boom, they won't flee in panic",
+    "labels": [
+      "warden-sonic-boom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-05-07T13:28:37.000+0300",
+    "resolution_date": "2022-05-12T13:04:14.000+0300",
+    "updated_date": "2022-05-14T22:21:50.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-251396",
+    "summary": "java.lang.IllegalArgumentException: Name and ID cannot both be blank",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w19a",
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2022-05-05T18:33:45.000+0300",
+    "resolution_date": "2022-05-19T18:44:47.000+0300",
+    "updated_date": "2022-05-19T18:44:47.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-251350",
+    "summary": "/give @s goat_horn gives an unregistered goat horn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-05-05T10:15:58.000+0300",
+    "resolution_date": "2022-05-05T15:13:44.000+0300",
+    "updated_date": "2022-05-05T18:07:40.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-251321",
+    "summary": "Warden can be pushed by explosions while emerging",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-05-04T22:11:19.000+0300",
+    "resolution_date": "2022-05-12T12:56:59.000+0300",
+    "updated_date": "2022-05-12T12:56:59.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-251316",
+    "summary": "The game crashes when loading chunks that consist of jigsaw blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-05-04T20:37:06.000+0300",
+    "resolution_date": "2022-05-05T15:10:42.000+0300",
+    "updated_date": "2022-05-15T18:41:00.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-251263",
+    "summary": "\"Invalid signature for profile public key\" when trying to open a singleplayer world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-05-03T04:06:43.000+0300",
+    "resolution_date": "2022-05-12T10:19:32.000+0300",
+    "updated_date": "2022-07-12T23:08:35.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-251029",
+    "summary": "Warden froze and stopped being hostile towards the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-28T15:32:10.000+0300",
+    "resolution_date": "2022-05-12T12:57:00.000+0300",
+    "updated_date": "2022-05-13T23:44:19.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-250966",
+    "summary": "Dying to the warden's sonic boom doesn't count as the warden's kill",
+    "labels": [
+      "warden",
+      "warden-sonic-boom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-27T21:26:06.000+0300",
+    "resolution_date": "2022-05-12T12:56:55.000+0300",
+    "updated_date": "2022-05-12T12:56:55.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-250948",
+    "summary": "Warden's ranged attack is no longer affected by the game's difficulty",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-27T20:16:53.000+0300",
+    "resolution_date": "2022-05-12T12:56:55.000+0300",
+    "updated_date": "2022-05-12T12:56:55.000+0300",
+    "watches": 10,
+    "votes": 13
+  },
+  {
+    "id": "MC-250357",
+    "summary": "Sculk sensors and Wardens detect when a player holds up a shield",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-20T22:16:17.000+0300",
+    "resolution_date": "2022-05-12T12:56:56.000+0300",
+    "updated_date": "2022-05-12T13:23:18.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-250353",
+    "summary": "Warden cannot spawn on a single snow layer like other mobs",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-20T22:06:13.000+0300",
+    "resolution_date": "2022-05-12T12:56:54.000+0300",
+    "updated_date": "2022-05-13T22:27:11.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-250319",
+    "summary": "Warden approaches sounds still plays, despite the doWardenSpawning gamerule is disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-20T19:27:50.000+0300",
+    "resolution_date": "2022-05-16T12:35:18.000+0300",
+    "updated_date": "2022-05-16T12:35:18.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-250292",
+    "summary": "Wardens can sometimes freeze when overwhelmed with enemies/attacks/sounds",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w18a",
+      "22w19a"
+    ],
+    "creation_date": "2022-04-19T06:53:21.000+0300",
+    "resolution_date": "2022-05-16T12:23:02.000+0300",
+    "updated_date": "2022-05-16T15:45:05.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-250272",
+    "summary": "Warden spawns in blocks that have no collision",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-18T07:19:57.000+0300",
+    "resolution_date": "2022-05-12T12:56:54.000+0300",
+    "updated_date": "2022-05-13T13:11:26.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-250233",
+    "summary": "A warden summoned from a spawn egg suddenly losing its AI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-16T03:43:43.000+0300",
+    "resolution_date": "2022-05-12T12:57:00.000+0300",
+    "updated_date": "2022-05-12T12:57:00.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-250172",
+    "summary": "Warden doesn't turn towards the direction it is firing the Sonic Boom attack",
+    "labels": [
+      "warden",
+      "warden-sonic-boom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-14T00:44:24.000+0300",
+    "resolution_date": "2022-05-12T12:56:54.000+0300",
+    "updated_date": "2022-05-12T12:56:54.000+0300",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-249966",
+    "summary": "Warden can stop chasing a target it just roared at",
+    "labels": [
+      "anger-value",
+      "warden",
+      "warden-suspects"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w15a",
+      "22w19a"
+    ],
+    "creation_date": "2022-04-07T02:07:56.000+0300",
+    "resolution_date": "2022-05-12T12:57:00.000+0300",
+    "updated_date": "2022-05-12T12:57:00.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-249910",
+    "summary": "Warden \"Nearby Closest\" sound is unused",
+    "labels": [
+      "unused",
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w14a",
+      "22w19a"
+    ],
+    "creation_date": "2022-04-06T05:01:11.000+0300",
+    "resolution_date": "2022-05-12T12:56:52.000+0300",
+    "updated_date": "2022-05-12T12:56:52.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-249888",
+    "summary": "Warden is not angered when hit by a blaze fireball",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-05T02:49:02.000+0300",
+    "resolution_date": "2022-05-12T12:56:57.000+0300",
+    "updated_date": "2022-05-12T13:50:39.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-249833",
+    "summary": "Right-clicking certain items in the off-hand can generate vibrations",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-04-02T08:20:42.000+0300",
+    "resolution_date": "2022-05-13T19:44:53.000+0300",
+    "updated_date": "2022-05-13T19:44:53.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-249780",
+    "summary": "Blocks that require support can generate floating in ancient cities",
+    "labels": [
+      "ancient-city"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w14a",
+      "22w17a",
+      "22w19a"
+    ],
+    "creation_date": "2022-04-01T00:51:33.000+0300",
+    "resolution_date": "2022-06-07T14:41:43.000+0300",
+    "updated_date": "2022-06-07T14:41:45.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-249664",
+    "summary": "Warden despawns when far away",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w15a",
+      "22w19a"
+    ],
+    "creation_date": "2022-03-28T22:37:01.000+0300",
+    "resolution_date": "2022-05-12T12:57:01.000+0300",
+    "updated_date": "2022-05-23T11:39:23.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-249634",
+    "summary": "Warden's sniffing behavior continues after being distracted",
+    "labels": [
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-03-27T09:48:18.000+0300",
+    "resolution_date": "2022-05-12T12:56:58.000+0300",
+    "updated_date": "2022-05-12T12:56:58.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-249434",
+    "summary": "The warden indefinitely roars when attacked by multiple entities",
+    "labels": [
+      "warden-roaring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w14a",
+      "22w19a"
+    ],
+    "creation_date": "2022-03-24T22:43:38.000+0200",
+    "resolution_date": "2022-05-17T10:09:46.000+0300",
+    "updated_date": "2022-06-09T14:05:22.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-249130",
+    "summary": "Tadpoles hatch inside of adjacent blocks, causing them to suffocate and die",
+    "labels": [
+      "frog-spawn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2022-03-16T21:05:44.000+0200",
+    "resolution_date": "2022-05-09T10:49:30.000+0300",
+    "updated_date": "2022-05-09T10:49:30.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-231600",
+    "summary": "Sculk sensor continuously receives vibrations when next to a powered big dripleaf",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2021-07-10T07:07:18.000+0300",
+    "resolution_date": "2022-05-12T15:35:15.000+0300",
+    "updated_date": "2022-05-12T15:35:15.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-210329",
+    "summary": "Sculk sensors are not activated upon armor on entities breaking",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w19a",
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-01-02T22:43:19.000+0200",
+    "resolution_date": "2022-07-05T13:55:21.000+0300",
+    "updated_date": "2022-07-05T23:04:03.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-200282",
+    "summary": "Players with knockback resistance cannot be knocked off of edges when sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2020-09-14T21:36:00.000+0300",
+    "resolution_date": "2022-05-13T16:32:48.000+0300",
+    "updated_date": "2022-05-13T16:32:48.000+0300",
+    "watches": 10,
+    "votes": 16
+  },
+  {
+    "id": "MC-197647",
+    "summary": "Players cannot jump off the edge of blocks when sneaking if they have a block above",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w19a"
+    ],
+    "creation_date": "2020-08-10T23:59:40.000+0300",
+    "resolution_date": "2022-05-12T15:35:15.000+0300",
+    "updated_date": "2022-05-12T15:35:15.000+0300",
+    "watches": 10,
+    "votes": 19
+  }
+]

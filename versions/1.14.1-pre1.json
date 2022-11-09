@@ -1,0 +1,991 @@
+[
+  {
+    "id": "MC-151014",
+    "summary": "Illagers can join raids outside of village range and unending raids",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-07T04:48:07.000+0300",
+    "resolution_date": "2019-05-07T14:20:37.000+0300",
+    "updated_date": "2019-06-06T14:35:40.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-149835",
+    "summary": "Villagers can find a job, but can't lose the job",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-26T19:48:23.000+0300",
+    "resolution_date": "2019-05-06T14:44:34.000+0300",
+    "updated_date": "2019-07-17T05:38:33.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-149576",
+    "summary": "Villagers won't sleep in their beds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-25T06:46:25.000+0300",
+    "resolution_date": "2019-05-06T14:44:34.000+0300",
+    "updated_date": "2020-01-10T22:35:56.000+0200",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-149420",
+    "summary": "Hostile mobs not despawning at 128+ blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-24T15:37:06.000+0300",
+    "resolution_date": "2019-04-30T11:36:12.000+0300",
+    "updated_date": "2019-04-30T18:11:15.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-149278",
+    "summary": "Wolf AI can cause extremely severe lag spikes when in combat with a distant mob",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-24T01:25:15.000+0300",
+    "resolution_date": "2019-04-30T11:44:33.000+0300",
+    "updated_date": "2019-04-30T11:44:33.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-149209",
+    "summary": "Cats jitter when sitting on slime blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-23T22:16:04.000+0300",
+    "resolution_date": "2019-05-06T14:11:42.000+0300",
+    "updated_date": "2019-05-06T14:11:42.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-149178",
+    "summary": "Chunk rendering is extremely slow and random in 1.14",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-23T21:05:05.000+0300",
+    "resolution_date": "2019-04-29T16:42:44.000+0300",
+    "updated_date": "2019-10-26T21:00:02.000+0300",
+    "watches": 112,
+    "votes": 232
+  },
+  {
+    "id": "MC-149040",
+    "summary": "Iron ore texture has four miscoloured pixels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-22T19:14:53.000+0300",
+    "resolution_date": "2019-04-30T11:49:22.000+0300",
+    "updated_date": "2019-05-06T17:08:05.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-148830",
+    "summary": "Game crashed while loading chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-20T02:18:13.000+0300",
+    "resolution_date": "2019-05-02T16:01:22.000+0300",
+    "updated_date": "2019-06-29T20:15:34.000+0300",
+    "watches": 35,
+    "votes": 84
+  },
+  {
+    "id": "MC-148657",
+    "summary": "Characters using the \"nonlatin_european\" file don't display properly if using the \"Programmer Art\" resource pack",
+    "labels": [
+      "programmer_art"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-18T16:17:55.000+0300",
+    "resolution_date": "2019-05-06T15:29:47.000+0300",
+    "updated_date": "2019-05-06T15:29:47.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-148624",
+    "summary": "The banner on the Pillager Outpost structure is incorrectly named",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-18T12:34:43.000+0300",
+    "resolution_date": "2019-04-30T09:46:19.000+0300",
+    "updated_date": "2019-05-07T22:17:45.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-148613",
+    "summary": "Aquatic mobs are not spawning / Fish spawned from buckets count towards the aquatic mob cap again",
+    "labels": [
+      "fish",
+      "ocean",
+      "squid",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1",
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-04-18T11:02:55.000+0300",
+    "resolution_date": "2019-07-10T14:46:17.000+0300",
+    "updated_date": "2019-08-14T15:57:05.000+0300",
+    "watches": 24,
+    "votes": 43
+  },
+  {
+    "id": "MC-148580",
+    "summary": "Server lighting still broken in 1.14 pre-4",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-18T01:25:01.000+0300",
+    "resolution_date": "2019-04-30T12:30:35.000+0300",
+    "updated_date": "2020-01-18T03:33:15.000+0200",
+    "watches": 16,
+    "votes": 26
+  },
+  {
+    "id": "MC-148567",
+    "summary": "taiga_animal_pen_1 water trough has water recessed 1 block beneath trapdoors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-18T00:22:11.000+0300",
+    "resolution_date": "2019-04-30T10:07:50.000+0300",
+    "updated_date": "2019-04-30T10:07:50.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-148529",
+    "summary": "Name of enchanted book is lost after removing its enchantments in a grindstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-17T18:04:07.000+0300",
+    "resolution_date": "2019-04-30T11:49:24.000+0300",
+    "updated_date": "2022-02-09T01:44:19.000+0200",
+    "watches": 4,
+    "votes": 38
+  },
+  {
+    "id": "MC-148476",
+    "summary": "Books still have an NBT tag (RepairCost of 0) after removal of enchantments using Grindstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-17T02:42:36.000+0300",
+    "resolution_date": "2019-04-30T11:44:33.000+0300",
+    "updated_date": "2020-04-28T01:22:37.000+0300",
+    "watches": 9,
+    "votes": 15
+  },
+  {
+    "id": "MC-148454",
+    "summary": "Villager trade GUI shows incorrect price when a discount is applied on servers",
+    "labels": [
+      "Gui",
+      "server",
+      "villager-trade"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-16T22:30:31.000+0300",
+    "resolution_date": "2019-05-06T12:10:55.000+0300",
+    "updated_date": "2020-06-17T19:15:43.000+0300",
+    "watches": 24,
+    "votes": 51
+  },
+  {
+    "id": "MC-148179",
+    "summary": "Ender dragon fly in circles after shooting projectile at her and never comes down to the portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-13T23:05:25.000+0300",
+    "resolution_date": "2019-04-30T11:44:36.000+0300",
+    "updated_date": "2021-03-31T16:28:31.000+0300",
+    "watches": 16,
+    "votes": 23
+  },
+  {
+    "id": "MC-148165",
+    "summary": "Bow with Flame Enchantment does not Activate TNT when Hit on the Top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-13T22:05:44.000+0300",
+    "resolution_date": "2019-04-30T11:49:23.000+0300",
+    "updated_date": "2019-04-30T11:49:23.000+0300",
+    "watches": 7,
+    "votes": 50
+  },
+  {
+    "id": "MC-147905",
+    "summary": "Mobs and Villagers trying to pathfind through Fences, Closed Corners",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-11T16:39:53.000+0300",
+    "resolution_date": "2019-05-10T16:58:49.000+0300",
+    "updated_date": "2021-09-04T22:35:53.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-147890",
+    "summary": "Hostile mobs are not spawning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-11T14:13:35.000+0300",
+    "resolution_date": "2019-04-30T11:25:23.000+0300",
+    "updated_date": "2019-05-13T21:12:35.000+0300",
+    "watches": 17,
+    "votes": 21
+  },
+  {
+    "id": "MC-147880",
+    "summary": "Pillager Outposts don't generate in snowy biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-11T11:26:26.000+0300",
+    "resolution_date": "2019-04-30T11:49:23.000+0300",
+    "updated_date": "2019-04-30T11:49:23.000+0300",
+    "watches": 6,
+    "votes": 62
+  },
+  {
+    "id": "MC-147819",
+    "summary": "Custom villager with large trades has scroll bar that goes outside GUI screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-11T00:00:00.000+0300",
+    "resolution_date": "2019-04-30T10:07:51.000+0300",
+    "updated_date": "2019-11-18T13:45:39.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-147676",
+    "summary": "The event.raid.horn sound effect cannot always be heard whilst in a village",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-08T14:01:01.000+0300",
+    "resolution_date": "2019-04-30T11:49:25.000+0300",
+    "updated_date": "2019-04-30T11:49:25.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-147643",
+    "summary": "Villagers don't sleep in beds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-07T20:02:59.000+0300",
+    "resolution_date": "2019-05-06T14:44:33.000+0300",
+    "updated_date": "2019-05-06T14:44:33.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-147590",
+    "summary": "Missing floor block in village/desert/houses/desert_medium_house_1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-06T23:14:34.000+0300",
+    "resolution_date": "2019-04-30T10:07:48.000+0300",
+    "updated_date": "2019-04-30T10:07:48.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-147578",
+    "summary": "Beacon NBT \"Levels\" is missing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-06T21:15:40.000+0300",
+    "resolution_date": "2019-04-30T11:44:34.000+0300",
+    "updated_date": "2019-04-30T11:44:34.000+0300",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-147479",
+    "summary": "Villagers continue to shake their head after they found a workstation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-05T04:23:28.000+0300",
+    "resolution_date": "2019-04-30T10:07:50.000+0300",
+    "updated_date": "2019-05-15T16:19:09.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-147212",
+    "summary": "Iron golems can spawn in spaces less than three blocks high and get stuck",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-02T14:41:40.000+0300",
+    "resolution_date": "2019-04-30T09:46:17.000+0300",
+    "updated_date": "2020-06-17T19:39:29.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-147022",
+    "summary": "Many village houses are inadequately lit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-29T21:18:44.000+0200",
+    "resolution_date": "2019-04-30T10:07:53.000+0300",
+    "updated_date": "2019-04-30T10:07:53.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-147013",
+    "summary": "Villagers can get hit by their own firework",
+    "labels": [
+      "Raid",
+      "Villager",
+      "firework"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-29T18:46:34.000+0200",
+    "resolution_date": "2019-04-30T11:49:26.000+0300",
+    "updated_date": "2022-02-12T14:44:04.000+0200",
+    "watches": 6,
+    "votes": 53
+  },
+  {
+    "id": "MC-146935",
+    "summary": "Crafting table uses outdated plank texture",
+    "labels": [
+      "block",
+      "crafting_table",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-28T20:28:53.000+0200",
+    "resolution_date": "2019-04-30T12:23:36.000+0300",
+    "updated_date": "2019-05-03T18:10:15.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-146811",
+    "summary": "Enderman AI causing HIGH ms tick lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 19w14b",
+      "Minecraft 1.14.1 Pre-Release 1",
+      "Minecraft 1.14.1"
+    ],
+    "creation_date": "2019-03-27T22:08:57.000+0200",
+    "resolution_date": "2019-05-13T15:52:25.000+0300",
+    "updated_date": "2021-11-24T08:01:05.000+0200",
+    "watches": 21,
+    "votes": 41
+  },
+  {
+    "id": "MC-146674",
+    "summary": "Missing Jigsaw Blocks for Beds in some Village Structures",
+    "labels": [
+      "bed",
+      "jigsaw",
+      "structure",
+      "structure-generation",
+      "village"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures",
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-25T18:55:11.000+0200",
+    "resolution_date": "2019-04-30T10:07:48.000+0300",
+    "updated_date": "2020-08-14T21:09:43.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-145862",
+    "summary": "Villagers try to sleep in occupied beds",
+    "labels": [
+      "bed",
+      "villager",
+      "villager-sleeping"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 19w14a",
+      "Minecraft 1.14.1 Pre-Release 1",
+      "20w19a"
+    ],
+    "creation_date": "2019-03-14T17:13:15.000+0200",
+    "resolution_date": "2020-05-06T17:16:39.000+0300",
+    "updated_date": "2021-04-08T03:28:51.000+0300",
+    "watches": 14,
+    "votes": 22
+  },
+  {
+    "id": "MC-145265",
+    "summary": "Night is not skipped when all but one players on a server are sleeping, and the remaining player leaves the server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-03T01:13:20.000+0200",
+    "resolution_date": "2019-04-30T09:36:43.000+0300",
+    "updated_date": "2019-05-12T12:58:18.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-145097",
+    "summary": "Leather horse armor is higher in inventory slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-02-27T23:33:32.000+0200",
+    "resolution_date": "2019-04-29T17:00:41.000+0300",
+    "updated_date": "2019-04-30T06:34:51.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-144904",
+    "summary": "Enderman can teleport to the void",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-02-24T23:15:45.000+0200",
+    "resolution_date": "2019-04-30T11:44:35.000+0300",
+    "updated_date": "2019-04-30T11:44:35.000+0300",
+    "watches": 14,
+    "votes": 22
+  },
+  {
+    "id": "MC-144562",
+    "summary": "Leather horse armour has inconsistent texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-02-21T06:36:08.000+0200",
+    "resolution_date": "2019-05-07T19:41:43.000+0300",
+    "updated_date": "2019-05-07T19:41:44.000+0300",
+    "watches": 5,
+    "votes": 15
+  },
+  {
+    "id": "MC-144316",
+    "summary": "Setblocking/filling a sign without explicitly setting all Text tags, shows 'an unexpected error occured'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-02-17T15:18:53.000+0200",
+    "resolution_date": "2019-05-07T16:24:48.000+0300",
+    "updated_date": "2019-05-07T16:24:49.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-143699",
+    "summary": "Trader llamas won't despawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14 Pre-Release 1",
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-02-04T23:53:59.000+0200",
+    "resolution_date": "2019-05-06T12:30:55.000+0300",
+    "updated_date": "2021-01-31T18:08:10.000+0200",
+    "watches": 14,
+    "votes": 22
+  },
+  {
+    "id": "MC-142817",
+    "summary": "Villagers and mobs try to pathfind through corners",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2019-01-21T11:11:35.000+0200",
+    "resolution_date": "2019-05-03T12:22:42.000+0300",
+    "updated_date": "2020-09-18T08:51:03.000+0300",
+    "watches": 22,
+    "votes": 47
+  },
+  {
+    "id": "MC-140317",
+    "summary": "Ladder in village house doesn't reach the floor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2018-11-30T03:52:51.000+0200",
+    "resolution_date": "2019-04-30T10:07:51.000+0300",
+    "updated_date": "2019-05-11T21:24:17.000+0300",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-136442",
+    "summary": "Blocks of giant mushrooms don't send block updates after growing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2018-08-25T12:46:49.000+0300",
+    "resolution_date": "2019-04-30T10:27:07.000+0300",
+    "updated_date": "2020-06-26T15:08:57.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-134847",
+    "summary": "Mobs can't path find on bottom half slabs",
+    "labels": [
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2018-07-25T22:36:06.000+0300",
+    "resolution_date": "2019-05-10T16:40:54.000+0300",
+    "updated_date": "2019-05-12T16:11:08.000+0300",
+    "watches": 21,
+    "votes": 29
+  },
+  {
+    "id": "MC-131014",
+    "summary": "Observers and block states not updated by tree growth",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2018-06-07T05:03:11.000+0300",
+    "resolution_date": "2019-04-30T12:22:43.000+0300",
+    "updated_date": "2020-05-01T03:43:51.000+0300",
+    "watches": 31,
+    "votes": 87
+  },
+  {
+    "id": "MC-128565",
+    "summary": "Function tag ordering is inconsistent across reloads and does not respect datapack ordering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2018-04-16T09:29:23.000+0300",
+    "resolution_date": "2019-05-06T12:06:17.000+0300",
+    "updated_date": "2019-05-08T22:24:12.000+0300",
+    "watches": 17,
+    "votes": 22
+  },
+  {
+    "id": "MC-128441",
+    "summary": "/tp <target> <destination> uses context dimension rather than destination entity's dimension",
+    "labels": [
+      "/teleport",
+      "/tp"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2018-04-14T06:30:36.000+0300",
+    "resolution_date": "2019-04-30T09:46:18.000+0300",
+    "updated_date": "2021-05-17T08:45:35.000+0300",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-126946",
+    "summary": "Execution order is reversed when calling a function in some cases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2018-03-08T22:40:45.000+0200",
+    "resolution_date": "2019-05-06T12:06:19.000+0300",
+    "updated_date": "2019-05-06T12:13:37.000+0300",
+    "watches": 13,
+    "votes": 16
+  },
+  {
+    "id": "MC-44793",
+    "summary": "Tamed wolf can't sit on slime blocks",
+    "labels": [
+      "dog",
+      "sitting",
+      "slime_block",
+      "tamed-wolf",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2014-01-13T00:28:46.000+0200",
+    "resolution_date": "2019-05-06T14:11:43.000+0300",
+    "updated_date": "2019-05-06T14:11:43.000+0300",
+    "watches": 8,
+    "votes": 10
+  }
+]

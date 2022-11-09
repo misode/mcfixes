@@ -1,0 +1,278 @@
+[
+  {
+    "id": "MC-248532",
+    "summary": "Elytra firework particle spawns on the wrong hand when dual wielding fireworks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2022-02-09T22:43:11.000+0200",
+    "resolution_date": "2022-02-18T16:53:13.000+0200",
+    "updated_date": "2022-02-18T16:53:13.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-245850",
+    "summary": "Buttons in the multiplayer warning menu are not selected in order when using the TAB key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2021-12-20T19:52:52.000+0200",
+    "resolution_date": "2022-02-19T21:13:33.000+0200",
+    "updated_date": "2022-02-19T21:13:33.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-244137",
+    "summary": "The option \"level-seed\" is not present in server.properties by default",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2021-12-03T14:53:33.000+0200",
+    "resolution_date": "2022-02-18T13:23:22.000+0200",
+    "updated_date": "2022-02-18T13:23:22.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-241288",
+    "summary": "Support for custom structures has been removed",
+    "labels": [
+      "custom-structures",
+      "structure-starts",
+      "structures",
+      "template_pools",
+      "worldgen"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2021-11-12T14:47:44.000+0200",
+    "resolution_date": "2022-02-18T15:50:06.000+0200",
+    "updated_date": "2022-02-19T07:46:48.000+0200",
+    "watches": 48,
+    "votes": 75
+  },
+  {
+    "id": "MC-210612",
+    "summary": "Strongholds do not generate in certain customized worlds despite /locate saying otherwise",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2021-01-05T18:25:50.000+0200",
+    "resolution_date": "2022-02-18T15:49:58.000+0200",
+    "updated_date": "2022-08-31T10:35:51.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-197128",
+    "summary": "If a custom biome uses multiple configured structure features of the same type, only one of them can generate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2020-08-05T20:24:31.000+0300",
+    "resolution_date": "2022-02-21T09:48:55.000+0200",
+    "updated_date": "2022-02-21T09:48:55.000+0200",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-195692",
+    "summary": "Structure 'End City' and configured structure in vanilla end 'End City' use inconsistent identifiers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-21T20:25:23.000+0300",
+    "resolution_date": "2022-05-27T08:42:24.000+0300",
+    "updated_date": "2022-05-27T08:42:32.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-187911",
+    "summary": "minecraft:endcity structure has no underscore while end_city_treasure does",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-07T01:10:38.000+0300",
+    "resolution_date": "2022-03-22T20:37:39.000+0200",
+    "updated_date": "2022-05-27T08:42:32.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-187549",
+    "summary": "Horizontal velocity is not reset on +/- Z axis in 1.15.2+ when colliding with a wall",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2020-06-05T09:25:27.000+0300",
+    "resolution_date": "2022-04-16T15:35:46.000+0300",
+    "updated_date": "2022-04-16T15:35:46.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-179315",
+    "summary": "Ruined portals never generate in superflat worlds by default",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2020-04-18T14:05:08.000+0300",
+    "resolution_date": "2022-02-18T15:49:50.000+0200",
+    "updated_date": "2022-08-04T18:12:32.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-165974",
+    "summary": "Game pushes east/west you when jump from the inside corner",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2019-11-21T20:34:23.000+0200",
+    "resolution_date": "2022-02-18T23:13:11.000+0200",
+    "updated_date": "2022-02-18T23:13:25.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-156309",
+    "summary": "TNT entities dont properly collide with blocks , when being fires in X direction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2019-07-09T01:12:01.000+0300",
+    "resolution_date": "2022-02-18T23:14:23.000+0200",
+    "updated_date": "2022-02-18T23:14:23.000+0200",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-146854",
+    "summary": "Player movement favors x axis when in a corner",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2019-03-28T02:00:32.000+0200",
+    "resolution_date": "2022-02-18T15:30:33.000+0200",
+    "updated_date": "2022-03-20T14:56:01.000+0200",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-3524",
+    "summary": "Structure related mobs do not spawn in flat type world generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2012-11-20T10:14:10.000+0200",
+    "resolution_date": "2022-02-18T15:40:23.000+0200",
+    "updated_date": "2022-07-18T03:11:07.000+0300",
+    "watches": 21,
+    "votes": 38
+  }
+]

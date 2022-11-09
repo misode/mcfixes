@@ -1,0 +1,565 @@
+[
+  {
+    "id": "MC-249642",
+    "summary": "Wardens can't pass over rails",
+    "labels": [
+      "rails",
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-27T18:54:17.000+0300",
+    "resolution_date": "2022-03-29T13:36:43.000+0300",
+    "updated_date": "2022-03-29T14:04:19.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-249529",
+    "summary": "Mangrove boat cannot be placed by dispenser",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-26T07:30:11.000+0200",
+    "resolution_date": "2022-04-01T22:23:39.000+0300",
+    "updated_date": "2022-04-01T22:23:39.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-249501",
+    "summary": "Boats with chest have items inside deleted when they break into planks and sticks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-25T20:14:42.000+0200",
+    "resolution_date": "2022-04-01T05:32:11.000+0300",
+    "updated_date": "2022-04-01T05:32:11.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-249493",
+    "summary": "Breaking a minecart with chest/furnace/TNT/hopper separates the minecart and the block it contains",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-25T18:09:37.000+0200",
+    "resolution_date": "2022-04-05T02:06:43.000+0300",
+    "updated_date": "2022-04-05T02:06:43.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-249474",
+    "summary": "Four-legged mobs do not sit correctly in a boat with a chest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-25T08:49:07.000+0200",
+    "resolution_date": "2022-03-31T14:57:31.000+0300",
+    "updated_date": "2022-03-31T14:57:31.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-249437",
+    "summary": "Sculk shriekers no longer appear to be capable of spawning from charges",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T23:23:41.000+0200",
+    "resolution_date": "2022-04-01T03:13:38.000+0300",
+    "updated_date": "2022-04-01T03:13:38.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249431",
+    "summary": "The server occasionally fails to save chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T22:30:17.000+0200",
+    "resolution_date": "2022-04-19T20:24:47.000+0300",
+    "updated_date": "2022-04-19T20:24:47.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249409",
+    "summary": "Furnaces, blast furnaces and smokers don't cook without fuel in the bottom slot, even if they are already fired up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T20:13:00.000+0200",
+    "resolution_date": "2022-03-30T12:59:08.000+0300",
+    "updated_date": "2022-03-31T18:22:52.000+0300",
+    "watches": 13,
+    "votes": 26
+  },
+  {
+    "id": "MC-249405",
+    "summary": "chatScale option defaults to 0.0 instead of 1.0, causing chat to disappear",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T20:02:44.000+0200",
+    "resolution_date": "2022-03-30T12:25:08.000+0300",
+    "updated_date": "2022-03-30T12:25:08.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-249404",
+    "summary": "Boats with Chest aren't grouped in the recipe book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:57:24.000+0200",
+    "resolution_date": "2022-03-31T14:57:30.000+0300",
+    "updated_date": "2022-03-31T14:57:30.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-249398",
+    "summary": "Game crash regarding warden",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:48:16.000+0200",
+    "resolution_date": "2022-03-29T13:39:45.000+0300",
+    "updated_date": "2022-03-29T13:39:45.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-249397",
+    "summary": "Bottom face of Warden's right arm missing in 'warden_bioluminescent_layer' texture",
+    "labels": [
+      "mob",
+      "texture",
+      "warden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:46:19.000+0200",
+    "resolution_date": "2022-03-29T18:27:53.000+0300",
+    "updated_date": "2022-03-29T18:27:53.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-249392",
+    "summary": "Options have missing or untranslated names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:36:38.000+0200",
+    "resolution_date": "2022-03-30T12:25:11.000+0300",
+    "updated_date": "2022-03-30T12:25:11.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-249389",
+    "summary": "GUI Scale is a slider instead of a button",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:35:29.000+0200",
+    "resolution_date": "2022-03-30T12:25:09.000+0300",
+    "updated_date": "2022-03-30T12:57:49.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-249385",
+    "summary": "Boat with chest cannot be placed by dispenser",
+    "labels": [
+      "boat-with-chest",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:18:04.000+0200",
+    "resolution_date": "2022-04-01T22:23:12.000+0300",
+    "updated_date": "2022-04-01T22:23:29.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-249382",
+    "summary": "Boats with chest do not drop items contained in chest when destroyed in Creative",
+    "labels": [
+      "boat-with-chest"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:07:56.000+0200",
+    "resolution_date": "2022-03-31T14:57:28.000+0300",
+    "updated_date": "2022-03-31T14:57:28.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-249380",
+    "summary": "The locks of chests within chest boats are positioned slightly too high",
+    "labels": [
+      "boat-with-chest"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-24T19:03:23.000+0200",
+    "resolution_date": "2022-03-31T14:57:30.000+0300",
+    "updated_date": "2022-04-01T09:16:53.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-249349",
+    "summary": "Dispensing a Bucket of Tadpole dispenses the item, instead of water with a tadpole",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-23T04:07:44.000+0200",
+    "resolution_date": "2022-03-30T15:25:00.000+0300",
+    "updated_date": "2022-03-30T15:25:00.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-249168",
+    "summary": "Dispensing a Bucket of Tadpole above or below a dimension dispenses the item, instead of a tadpole",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-17T01:15:48.000+0200",
+    "resolution_date": "2022-03-31T21:06:17.000+0300",
+    "updated_date": "2022-03-31T21:06:17.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-249132",
+    "summary": "Frogs are not required to be bred for the Two by Two advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-16T21:10:47.000+0200",
+    "resolution_date": "2022-03-30T15:24:37.000+0300",
+    "updated_date": "2022-03-30T15:24:37.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-249115",
+    "summary": "Frogs spawn with wrong color in some biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-16T20:10:40.000+0200",
+    "resolution_date": "2022-03-30T15:48:24.000+0300",
+    "updated_date": "2022-03-30T15:48:24.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-249110",
+    "summary": "Z-fighting textures inside the frog's mouth",
+    "labels": [
+      "frog",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-16T20:00:08.000+0200",
+    "resolution_date": "2022-03-29T18:55:30.000+0300",
+    "updated_date": "2022-03-29T18:55:30.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-249103",
+    "summary": "Z-fighting can be seen on the underside of frogs' feet",
+    "labels": [
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2022-03-16T19:46:21.000+0200",
+    "resolution_date": "2022-03-29T18:55:30.000+0300",
+    "updated_date": "2022-03-29T18:55:30.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-214652",
+    "summary": "Naming inconsistency for game events for eating/drinking",
+    "labels": [
+      "incorrect-game-event-id"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2021-02-09T18:45:49.000+0200",
+    "resolution_date": "2022-04-02T13:56:53.000+0300",
+    "updated_date": "2022-04-02T13:56:53.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-212503",
+    "summary": "Sculk sensors are not activated upon collecting fish, axolotls, or tadpoles using water buckets",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2021-01-22T22:07:06.000+0200",
+    "resolution_date": "2022-04-13T07:13:17.000+0300",
+    "updated_date": "2022-04-13T07:13:17.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-210485",
+    "summary": "Sculk sensors are not activated upon evokers summoning vexes",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2021-01-04T13:05:39.000+0200",
+    "resolution_date": "2022-04-13T07:13:17.000+0300",
+    "updated_date": "2022-04-13T07:13:17.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-210331",
+    "summary": "Sculk sensors are not activated upon wandering traders drinking milk or witches drinking potions",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2021-01-02T22:43:26.000+0200",
+    "resolution_date": "2022-04-13T07:13:16.000+0300",
+    "updated_date": "2022-04-13T07:13:17.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-195468",
+    "summary": "World Generation Settings not working on dedicated server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w13a"
+    ],
+    "creation_date": "2020-07-19T16:52:01.000+0300",
+    "resolution_date": "2022-04-06T10:04:14.000+0300",
+    "updated_date": "2022-04-19T06:08:08.000+0300",
+    "watches": 24,
+    "votes": 24
+  }
+]

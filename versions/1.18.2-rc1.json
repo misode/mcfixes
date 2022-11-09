@@ -1,0 +1,61 @@
+[
+  {
+    "id": "MC-248764",
+    "summary": "Some worldgen datapacks can kill the internal server (possibly related to density functions)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.2 Release Candidate 1"
+    ],
+    "creation_date": "2022-02-22T22:34:03.000+0200",
+    "resolution_date": "2022-02-25T12:26:42.000+0200",
+    "updated_date": "2022-02-25T12:26:42.000+0200",
+    "watches": 8,
+    "votes": 28
+  },
+  {
+    "id": "MC-244682",
+    "summary": "Some custom dimensions settings can cause the server to stop running, but not crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.18.2 Release Candidate 1"
+    ],
+    "creation_date": "2021-12-04T18:00:09.000+0200",
+    "resolution_date": "2022-02-25T12:26:28.000+0200",
+    "updated_date": "2022-02-25T12:26:28.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-188086",
+    "summary": "Decorations and amethyst geodes get cut off on full chunk boundaries upon relog",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.18.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-06-08T03:07:08.000+0300",
+    "resolution_date": "2022-03-13T14:14:20.000+0200",
+    "updated_date": "2022-03-13T14:14:20.000+0200",
+    "watches": 7,
+    "votes": 19
+  }
+]

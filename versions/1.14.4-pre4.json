@@ -1,0 +1,162 @@
+[
+  {
+    "id": "MC-156395",
+    "summary": "Villagers use job site blocks already in use",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-07-10T01:29:11.000+0300",
+    "resolution_date": "2019-07-11T10:17:14.000+0300",
+    "updated_date": "2020-04-02T17:32:00.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-156013",
+    "summary": "Breaking Blocks \"re-appear\" to nudge player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-07-04T21:08:26.000+0300",
+    "resolution_date": "2019-07-09T15:42:09.000+0300",
+    "updated_date": "2020-05-02T16:56:38.000+0300",
+    "watches": 18,
+    "votes": 29
+  },
+  {
+    "id": "MC-153852",
+    "summary": "Concrete powder deleting waterlogged blocks when falling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-06-05T05:36:56.000+0300",
+    "resolution_date": "2019-07-10T14:22:47.000+0300",
+    "updated_date": "2019-07-10T14:22:47.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-153749",
+    "summary": "Trusting Foxes attack player when self-injured",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-06-04T01:01:01.000+0300",
+    "resolution_date": "2019-07-09T09:47:42.000+0300",
+    "updated_date": "2019-07-09T09:47:42.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-152908",
+    "summary": "When a player joins a server, everything that happened during the time offline queued on connecting to the server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-05-25T18:10:03.000+0300",
+    "resolution_date": "2019-07-10T14:44:29.000+0300",
+    "updated_date": "2019-09-14T21:33:21.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-148613",
+    "summary": "Aquatic mobs are not spawning / Fish spawned from buckets count towards the aquatic mob cap again",
+    "labels": [
+      "fish",
+      "ocean",
+      "squid",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1",
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-04-18T11:02:55.000+0300",
+    "resolution_date": "2019-07-10T14:46:17.000+0300",
+    "updated_date": "2019-08-14T15:57:05.000+0300",
+    "watches": 24,
+    "votes": 43
+  },
+  {
+    "id": "MC-145769",
+    "summary": "Villagers aren't shutting doors behind them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2019-03-13T23:03:00.000+0200",
+    "resolution_date": "2019-07-09T09:58:11.000+0300",
+    "updated_date": "2020-01-09T21:54:42.000+0200",
+    "watches": 27,
+    "votes": 46
+  },
+  {
+    "id": "MC-138113",
+    "summary": "Server uses incorrect position when determining hardness for block breaking progress",
+    "labels": [
+      "block-breaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 4"
+    ],
+    "creation_date": "2018-10-27T00:31:19.000+0300",
+    "resolution_date": "2020-03-08T03:18:37.000+0200",
+    "updated_date": "2020-03-08T03:19:24.000+0200",
+    "watches": 3,
+    "votes": 2
+  }
+]

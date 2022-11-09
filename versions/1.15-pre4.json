@@ -1,0 +1,451 @@
+[
+  {
+    "id": "MC-167000",
+    "summary": "Player model in inventory inverts lighting when some items are in hotbar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-12-02T19:28:55.000+0200",
+    "resolution_date": "2019-12-03T11:16:26.000+0200",
+    "updated_date": "2019-12-03T11:16:26.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-166800",
+    "summary": "Removing items from an armor stand with DisabledSlots causes a visual bug",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-11-29T18:42:05.000+0200",
+    "resolution_date": "2019-12-02T16:25:19.000+0200",
+    "updated_date": "2019-12-02T18:16:09.000+0200",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-166716",
+    "summary": "Tridents and shields are rendered too dark in the inventory",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-11-28T21:15:18.000+0200",
+    "resolution_date": "2019-11-29T15:55:49.000+0200",
+    "updated_date": "2019-12-08T16:31:00.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-166667",
+    "summary": "Item frames are not rendered behind unexplored portions of maps",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-11-28T03:02:28.000+0200",
+    "resolution_date": "2019-12-02T16:19:25.000+0200",
+    "updated_date": "2020-12-05T13:01:51.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-166300",
+    "summary": "Pandas sometimes attack players trying to breed them",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-11-24T18:04:49.000+0200",
+    "resolution_date": "2019-12-03T08:58:23.000+0200",
+    "updated_date": "2019-12-03T08:58:23.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-166047",
+    "summary": "Tamed wolves attack tamed parrots",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-11-22T08:21:42.000+0200",
+    "resolution_date": "2019-12-03T12:08:26.000+0200",
+    "updated_date": "2019-12-03T12:08:26.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-165977",
+    "summary": "Explosions combine block drops and drop them at the wrong location",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-11-21T20:52:48.000+0200",
+    "resolution_date": "2019-12-02T16:30:37.000+0200",
+    "updated_date": "2019-12-02T18:17:48.000+0200",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-165704",
+    "summary": "Sky color no longer changes with biome or height",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-11-16T04:07:25.000+0200",
+    "resolution_date": "2019-12-02T16:08:19.000+0200",
+    "updated_date": "2019-12-04T14:57:16.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-164712",
+    "summary": "Clouds are rendered in front of chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-10-30T21:22:12.000+0200",
+    "resolution_date": "2019-12-03T22:32:54.000+0200",
+    "updated_date": "2021-08-18T16:39:33.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-164704",
+    "summary": "Rendering issue with honey and slime blocks when viewed from under glass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-10-30T19:49:27.000+0200",
+    "resolution_date": "2019-12-03T09:52:09.000+0200",
+    "updated_date": "2019-12-03T09:52:09.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-161999",
+    "summary": "Casting issue: Particles emitted by end gateways gravitate to a point that loses precision at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-09-28T04:41:19.000+0300",
+    "resolution_date": "2019-12-03T10:47:29.000+0200",
+    "updated_date": "2021-10-17T02:31:16.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-161994",
+    "summary": "Casting issue: Squid ink particles lose precision at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-09-28T04:15:31.000+0300",
+    "resolution_date": "2019-12-03T21:06:57.000+0200",
+    "updated_date": "2022-03-14T12:29:34.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-161993",
+    "summary": "Casting issue: Conduit particles are attracted to conduit incorrectly at high distances",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-09-28T04:09:45.000+0300",
+    "resolution_date": "2019-12-03T10:47:30.000+0200",
+    "updated_date": "2021-10-17T02:31:42.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-161991",
+    "summary": "Casting issue: Trailing particles from fishing lose precision at high coordinates",
+    "labels": [
+      "incorrect-particle-generation",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-09-28T03:51:02.000+0300",
+    "resolution_date": "2019-12-03T21:07:06.000+0200",
+    "updated_date": "2021-10-17T02:32:06.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-161888",
+    "summary": "Enchantment tables do not track the player correctly at high distances from the world origin",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-09-27T20:40:18.000+0300",
+    "resolution_date": "2019-12-03T10:47:30.000+0200",
+    "updated_date": "2020-07-12T22:44:14.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-161394",
+    "summary": "Skeleton and wither skeleton skull inside textures are invisible",
+    "labels": [
+      "skeleton_skull",
+      "wither_skeleton_skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w39a",
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-09-19T07:57:49.000+0300",
+    "resolution_date": "2019-12-03T09:52:08.000+0200",
+    "updated_date": "2019-12-05T18:30:15.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-157426",
+    "summary": "Command outputs which should be sorted don't get sorted",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-07-22T13:14:18.000+0300",
+    "resolution_date": "2019-12-02T18:07:30.000+0200",
+    "updated_date": "2019-12-02T18:07:30.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-155520",
+    "summary": "Repeaters do not update properly",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-06-28T14:46:35.000+0300",
+    "resolution_date": "2019-12-02T16:37:42.000+0200",
+    "updated_date": "2019-12-02T16:37:42.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-146194",
+    "summary": "Summon and Rotation in same tick not working",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2019-03-19T12:21:02.000+0200",
+    "resolution_date": "2019-12-16T01:07:27.000+0200",
+    "updated_date": "2019-12-16T01:07:27.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-125638",
+    "summary": "Ignited TNT block create entity offset at high coordinates",
+    "labels": [
+      "precision-loss",
+      "tnt",
+      "tnt-entity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2018-02-16T17:49:32.000+0200",
+    "resolution_date": "2019-12-03T10:47:31.000+0200",
+    "updated_date": "2020-07-12T22:54:00.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-81970",
+    "summary": "Rotating armor stand causes shaking base plate",
+    "labels": [
+      "/entitydata",
+      "/tp",
+      "armor_stand",
+      "rotation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 4"
+    ],
+    "creation_date": "2015-07-02T20:00:34.000+0300",
+    "resolution_date": "2019-12-02T17:24:54.000+0200",
+    "updated_date": "2019-12-02T17:24:54.000+0200",
+    "watches": 4,
+    "votes": 8
+  }
+]

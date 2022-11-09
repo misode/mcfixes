@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "MC-221146",
+    "summary": "Water fog still very subtle making water appear too clear in the distance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-27T21:45:55.000+0200",
+    "resolution_date": "2021-03-31T16:56:38.000+0300",
+    "updated_date": "2021-04-07T16:10:14.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-220339",
+    "summary": "Beacon beam is not affected by the fog from powder snow/lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-20T19:51:45.000+0200",
+    "resolution_date": "2021-03-29T10:39:16.000+0300",
+    "updated_date": "2021-03-29T10:39:16.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-220335",
+    "summary": "Beacon beam is not affected by water fog",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-20T19:33:01.000+0200",
+    "resolution_date": "2021-04-02T00:56:14.000+0300",
+    "updated_date": "2021-04-02T00:56:24.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-220269",
+    "summary": "Shader texture coordinate wrapping mode causes screen effects like glowing to wrap where they shouldn't",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-20T12:37:24.000+0200",
+    "resolution_date": "2021-03-23T12:20:52.000+0200",
+    "updated_date": "2021-03-23T12:20:52.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-220174",
+    "summary": "With graphics set to Fabulous!, blocks such as honey, slime and stained glass appear lit up in third person mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-19T16:28:50.000+0200",
+    "resolution_date": "2021-03-23T10:47:35.000+0200",
+    "updated_date": "2021-03-31T05:58:34.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-220157",
+    "summary": "String is not affected by light levels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-19T14:46:02.000+0200",
+    "resolution_date": "2021-03-24T18:41:46.000+0200",
+    "updated_date": "2022-08-16T21:38:27.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-220070",
+    "summary": "Lightning is not affected by the fog from powder snow/lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T21:19:46.000+0200",
+    "resolution_date": "2021-03-29T10:39:18.000+0300",
+    "updated_date": "2021-03-29T10:39:18.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-220069",
+    "summary": "Wither/creeper armor is no longer affected by the fog from powder snow/lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T21:19:31.000+0200",
+    "resolution_date": "2021-03-29T10:39:17.000+0300",
+    "updated_date": "2021-03-29T10:39:17.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-220068",
+    "summary": "Experience orbs are no longer affected by the fog from powder snow/lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T21:19:17.000+0200",
+    "resolution_date": "2021-03-25T17:04:27.000+0200",
+    "updated_date": "2021-03-25T17:04:27.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-219973",
+    "summary": "Hanging Roots takes about a second to be mined",
+    "labels": [
+      "mine-speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T07:44:13.000+0200",
+    "resolution_date": "2021-03-29T10:21:48.000+0300",
+    "updated_date": "2021-03-29T10:21:49.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-219964",
+    "summary": "Torches can be placed on azalea",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T06:09:39.000+0200",
+    "resolution_date": "2021-04-02T00:55:15.000+0300",
+    "updated_date": "2021-04-25T18:59:04.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-219960",
+    "summary": "Moss can still be mine faster with axe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T05:24:42.000+0200",
+    "resolution_date": "2021-04-02T00:55:07.000+0300",
+    "updated_date": "2021-04-02T00:55:07.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-219937",
+    "summary": "Parity issue: Clouds are at y=192",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T02:29:45.000+0200",
+    "resolution_date": "2021-03-31T15:41:43.000+0300",
+    "updated_date": "2021-04-07T16:12:28.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-219933",
+    "summary": "Shulker heads do not flash red when taking damage / when killed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T01:51:31.000+0200",
+    "resolution_date": "2021-03-23T10:47:33.000+0200",
+    "updated_date": "2021-03-24T03:17:58.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-219920",
+    "summary": "Amethyst Blocks can no longer be gained by mining them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-18T00:12:20.000+0200",
+    "resolution_date": "2021-03-30T16:51:21.000+0300",
+    "updated_date": "2021-03-30T18:24:32.000+0300",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-219906",
+    "summary": "Minecraft crashes when spectating an entity submerged in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-17T22:56:09.000+0200",
+    "resolution_date": "2021-03-23T10:47:34.000+0200",
+    "updated_date": "2021-04-02T03:04:43.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-219868",
+    "summary": "Opening a UI darkens the background less than it used to ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-17T21:09:22.000+0200",
+    "resolution_date": "2021-03-23T10:47:33.000+0200",
+    "updated_date": "2022-01-01T14:08:10.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-219850",
+    "summary": "There is no sound or subtitle for applying/removing/scraping wax or oxidation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-17T20:13:19.000+0200",
+    "resolution_date": "2021-03-18T16:39:40.000+0200",
+    "updated_date": "2021-03-18T16:39:40.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-219740",
+    "summary": "Spyglass overlay broken while in water with fast graphics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-16T17:17:29.000+0200",
+    "resolution_date": "2021-03-23T10:47:35.000+0200",
+    "updated_date": "2021-03-23T10:47:35.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-219635",
+    "summary": "There is no sound when defrosting from fire/lava (vanilla parity)",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-15T17:56:18.000+0200",
+    "resolution_date": "2021-03-31T15:13:58.000+0300",
+    "updated_date": "2021-03-31T15:13:58.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-219240",
+    "summary": "Inconsistency: cobbled deepslate does not take longer to mine than deepslate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-12T19:14:12.000+0200",
+    "resolution_date": "2021-03-31T17:19:01.000+0300",
+    "updated_date": "2021-03-31T17:19:01.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-219203",
+    "summary": "Mineshaft support legs can generate in lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-12T14:02:08.000+0200",
+    "resolution_date": "2021-03-23T15:33:56.000+0200",
+    "updated_date": "2021-03-23T15:33:56.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-219103",
+    "summary": "The eyes of some entities can be seen through powder snow/lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-11T21:28:36.000+0200",
+    "resolution_date": "2021-03-31T18:09:38.000+0300",
+    "updated_date": "2021-03-31T18:09:38.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-219054",
+    "summary": "Can type text into anvil text field without putting an item in it, preventing you from closing the UI with E",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-11T17:08:49.000+0200",
+    "resolution_date": "2021-03-24T15:16:28.000+0200",
+    "updated_date": "2021-03-24T15:16:28.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-218888",
+    "summary": "Shift Clicking items into inventory prevents the relevant advancement from triggering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-11T01:46:13.000+0200",
+    "resolution_date": "2021-03-24T15:16:27.000+0200",
+    "updated_date": "2021-03-28T00:56:11.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-218701",
+    "summary": "Axolotls aren't able to spawn in lush caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-10T19:53:17.000+0200",
+    "resolution_date": "2021-04-02T00:54:19.000+0300",
+    "updated_date": "2021-10-07T23:08:26.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-217749",
+    "summary": "Small Dripleaf can't be placed on Rooted Dirt while waterlogged",
+    "labels": [
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-03-05T05:43:12.000+0200",
+    "resolution_date": "2021-03-29T10:21:23.000+0300",
+    "updated_date": "2021-03-29T10:21:23.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-216820",
+    "summary": "Cobbled Deepslate Slab uses the stone sounds instead of the deepslate sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-24T21:51:57.000+0200",
+    "resolution_date": "2021-03-31T17:19:01.000+0300",
+    "updated_date": "2021-03-31T17:19:01.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-215898",
+    "summary": "Deepslate hardness does not match some of its variants",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-17T22:20:30.000+0200",
+    "resolution_date": "2021-04-09T15:13:51.000+0300",
+    "updated_date": "2021-04-09T17:33:05.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-214965",
+    "summary": "Maximum building height is 319, but warning message says 320",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-11T02:07:58.000+0200",
+    "resolution_date": "2021-03-24T11:46:08.000+0200",
+    "updated_date": "2021-06-13T00:53:04.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-214901",
+    "summary": "Rain passes through moss blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-10T22:54:43.000+0200",
+    "resolution_date": "2021-03-29T11:37:15.000+0300",
+    "updated_date": "2021-03-29T11:37:15.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-214879",
+    "summary": "Selecting nothing and pressing Ctrl+C clears clipboard",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-10T22:01:25.000+0200",
+    "resolution_date": "2021-03-24T11:46:48.000+0200",
+    "updated_date": "2021-03-24T11:46:48.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-214858",
+    "summary": "Powered big dripleaf play tilting sounds when blocks are changed nearby",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-10T21:27:54.000+0200",
+    "resolution_date": "2021-03-24T11:46:26.000+0200",
+    "updated_date": "2021-03-26T19:50:29.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-214818",
+    "summary": "Waterlogged pointed stalagmites don't drop when their support block is broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-10T20:46:52.000+0200",
+    "resolution_date": "2021-03-29T11:37:13.000+0300",
+    "updated_date": "2021-03-29T11:37:13.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-214804",
+    "summary": "Big dripleaf continuously makes tilting sound when standing on it while it's powered by redstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-10T20:33:50.000+0200",
+    "resolution_date": "2021-04-03T14:23:06.000+0300",
+    "updated_date": "2021-04-27T13:24:03.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-214698",
+    "summary": "Azalea top texture is mirrored incorrectly",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T23:14:12.000+0200",
+    "resolution_date": "2021-03-24T11:46:26.000+0200",
+    "updated_date": "2022-02-21T16:19:41.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-214696",
+    "summary": "Small dripleaf texture mirrored incorrectly from underneath",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T23:09:47.000+0200",
+    "resolution_date": "2021-03-24T11:46:24.000+0200",
+    "updated_date": "2022-02-21T16:19:36.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-214695",
+    "summary": "Big dripleaf texture mirrored incorrectly from underneath",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T23:07:23.000+0200",
+    "resolution_date": "2021-03-24T11:46:22.000+0200",
+    "updated_date": "2022-02-21T16:19:27.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-214694",
+    "summary": "Tripwire which is part of a tripwire hook is not mirrored correctly from behind",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T23:02:48.000+0200",
+    "resolution_date": "2021-03-24T11:46:18.000+0200",
+    "updated_date": "2022-02-21T16:19:20.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-214693",
+    "summary": "Tripwire texture is not mirrored correctly from behind",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T23:01:13.000+0200",
+    "resolution_date": "2021-03-24T11:46:47.000+0200",
+    "updated_date": "2022-02-21T16:19:14.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-214639",
+    "summary": "Rooted dirt is not randomly rotated",
+    "labels": [
+      "model-variants"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T17:06:17.000+0200",
+    "resolution_date": "2021-03-24T11:46:21.000+0200",
+    "updated_date": "2022-04-21T17:00:18.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-214589",
+    "summary": "End gateway exit portals can be set to high coordinates, kicking the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T07:15:38.000+0200",
+    "resolution_date": "2021-03-24T15:00:27.000+0200",
+    "updated_date": "2021-03-24T15:00:27.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-214586",
+    "summary": "Rooted Dirt has no assigned tool",
+    "labels": [
+      "rooted_dirt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-09T06:05:28.000+0200",
+    "resolution_date": "2021-03-29T10:21:03.000+0300",
+    "updated_date": "2021-03-29T10:21:03.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-214374",
+    "summary": "Redstone doesn't connect vertically on moss blocks",
+    "labels": [
+      "Moss",
+      "Redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-06T22:50:08.000+0200",
+    "resolution_date": "2021-03-29T11:37:17.000+0300",
+    "updated_date": "2021-03-29T11:37:17.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-214181",
+    "summary": "Rooted dirt cannot be picked up by endermen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-05T12:46:33.000+0200",
+    "resolution_date": "2021-03-29T10:21:10.000+0300",
+    "updated_date": "2021-03-29T10:21:10.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-214135",
+    "summary": "Converted moss blocks do not update redstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-05T02:25:44.000+0200",
+    "resolution_date": "2021-03-29T11:37:17.000+0300",
+    "updated_date": "2021-03-29T11:37:17.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-214097",
+    "summary": "Cake cannot be placed on top of a moss block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-04T20:55:09.000+0200",
+    "resolution_date": "2021-03-29T11:37:17.000+0300",
+    "updated_date": "2021-03-29T11:37:17.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-214073",
+    "summary": "The azalea's side textures are partially cut off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-04T18:41:37.000+0200",
+    "resolution_date": "2021-03-24T11:46:25.000+0200",
+    "updated_date": "2021-03-24T11:46:25.000+0200",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-214049",
+    "summary": "Mining rooted dirt is slightly faster than mining other dirt blocks",
+    "labels": [
+      "mining_speeds",
+      "rooted_dirt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-04T17:00:46.000+0200",
+    "resolution_date": "2021-03-24T11:46:32.000+0200",
+    "updated_date": "2021-03-24T11:46:32.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-213958",
+    "summary": "Azalea bushes connect to walls and fences",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-04T05:15:02.000+0200",
+    "resolution_date": "2021-03-24T11:46:37.000+0200",
+    "updated_date": "2021-03-24T11:46:37.000+0200",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-213907",
+    "summary": "Skeletons don't have a shaking animation while converting to strays",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-04T01:11:45.000+0200",
+    "resolution_date": "2021-03-31T15:13:57.000+0300",
+    "updated_date": "2021-03-31T15:13:57.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-213899",
+    "summary": "Big Dripleaf can be rotated incorrectly by breaking and replacing it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-04T00:50:48.000+0200",
+    "resolution_date": "2021-03-24T11:46:31.000+0200",
+    "updated_date": "2021-03-24T11:46:31.000+0200",
+    "watches": 9,
+    "votes": 7
+  },
+  {
+    "id": "MC-213878",
+    "summary": "Using bone meal on a small dripleaf shows breaking particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T23:38:46.000+0200",
+    "resolution_date": "2021-03-24T11:46:31.000+0200",
+    "updated_date": "2021-03-24T11:46:31.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-213877",
+    "summary": "Cannot turn Rooted Dirt into a Dirt Path",
+    "labels": [
+      "dirt_path",
+      "rooted_dirt",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T23:36:15.000+0200",
+    "resolution_date": "2021-03-29T10:21:30.000+0300",
+    "updated_date": "2021-03-29T10:21:30.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-213860",
+    "summary": "Farmland/dirt path don't convert to dirt when moss is placed above",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T22:46:34.000+0200",
+    "resolution_date": "2021-03-29T11:37:16.000+0300",
+    "updated_date": "2021-03-29T11:37:16.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-213841",
+    "summary": "Signs, banners, paintings & item frames cannot be placed on moss",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T21:59:10.000+0200",
+    "resolution_date": "2021-03-29T11:37:15.000+0300",
+    "updated_date": "2022-03-19T21:31:47.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-213837",
+    "summary": "Can't pick block big dripleaf stem",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T21:48:40.000+0200",
+    "resolution_date": "2021-03-24T11:46:29.000+0200",
+    "updated_date": "2021-03-24T11:46:29.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-213815",
+    "summary": "Grass, ferns, flowers, bushes, saplings and bamboo cannot be placed on top of rooted dirt",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T21:07:47.000+0200",
+    "resolution_date": "2021-03-29T10:20:49.000+0300",
+    "updated_date": "2021-03-31T06:26:12.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-213789",
+    "summary": "Water behaves as if moss blocks were air",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T20:42:19.000+0200",
+    "resolution_date": "2021-03-29T11:37:16.000+0300",
+    "updated_date": "2022-03-18T11:22:54.000+0200",
+    "watches": 8,
+    "votes": 19
+  },
+  {
+    "id": "MC-213783",
+    "summary": "Strays freeze in powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T20:34:03.000+0200",
+    "resolution_date": "2021-04-02T00:53:57.000+0300",
+    "updated_date": "2021-04-02T00:53:57.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-213777",
+    "summary": "Azalea and flowering azalea z-fight when placed next to blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T20:24:46.000+0200",
+    "resolution_date": "2021-03-24T11:46:25.000+0200",
+    "updated_date": "2021-03-24T11:46:25.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-213772",
+    "summary": "Certain faces of azalea are not culled by other blocks",
+    "labels": [
+      "cullface-missing-from-model"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T20:20:12.000+0200",
+    "resolution_date": "2021-03-24T11:46:25.000+0200",
+    "updated_date": "2021-03-24T11:46:25.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-213771",
+    "summary": "Rooted dirt is in decorations tab",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T20:19:45.000+0200",
+    "resolution_date": "2021-03-29T10:20:55.000+0300",
+    "updated_date": "2021-03-29T10:20:55.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-213769",
+    "summary": "Rooted dirt is far from other dirt variants in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-03T20:18:41.000+0200",
+    "resolution_date": "2021-03-29T10:21:17.000+0300",
+    "updated_date": "2021-03-29T10:21:17.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-213552",
+    "summary": "Shulker hitbox does not immediately rotate after the shulker visually rotates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-02-01T17:42:32.000+0200",
+    "resolution_date": "2021-03-24T11:46:36.000+0200",
+    "updated_date": "2021-03-24T11:46:36.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-212736",
+    "summary": "Some world border faces are rendered mirrored, resulting in incorrect corners",
+    "labels": [
+      "incorrect-uv"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-01-24T14:18:12.000+0200",
+    "resolution_date": "2021-03-31T18:09:39.000+0300",
+    "updated_date": "2022-02-21T16:21:45.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-212305",
+    "summary": "Back face of glow lichen is not correctly mirrored from behind",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-01-21T14:49:45.000+0200",
+    "resolution_date": "2021-03-24T11:46:19.000+0200",
+    "updated_date": "2022-02-21T16:18:57.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-212277",
+    "summary": "Glow lichen viewed from a distance causes z-fighting issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-01-21T07:08:56.000+0200",
+    "resolution_date": "2021-04-06T15:48:34.000+0300",
+    "updated_date": "2021-04-06T15:48:34.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-212221",
+    "summary": "Glow item frames are rendered dark when a light source is nearby",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2021-01-20T22:22:28.000+0200",
+    "resolution_date": "2021-03-31T18:09:40.000+0300",
+    "updated_date": "2021-03-31T18:09:40.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-209371",
+    "summary": "Can't cut stacks in half in furnace output",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-24T04:06:01.000+0200",
+    "resolution_date": "2021-03-29T11:37:11.000+0300",
+    "updated_date": "2021-03-29T11:37:11.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-208745",
+    "summary": "Explorer maps & filled maps turn blank after entering the nether or end",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-17T06:02:28.000+0200",
+    "resolution_date": "2021-03-24T15:16:29.000+0200",
+    "updated_date": "2021-03-24T15:16:29.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-208703",
+    "summary": "Axolotls don't give regeneration or remove mining fatigue",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-16T23:29:19.000+0200",
+    "resolution_date": "2021-03-23T15:26:38.000+0200",
+    "updated_date": "2021-03-23T15:26:38.000+0200",
+    "watches": 16,
+    "votes": 30
+  },
+  {
+    "id": "MC-208695",
+    "summary": "Semi-transparent pixels on axolotl textures",
+    "labels": [
+      "mob",
+      "rendering",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-16T22:51:59.000+0200",
+    "resolution_date": "2021-03-23T15:26:37.000+0200",
+    "updated_date": "2021-03-23T15:26:37.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-208647",
+    "summary": "Axolotls don't attack elder guardians",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-16T20:56:33.000+0200",
+    "resolution_date": "2021-03-23T15:26:37.000+0200",
+    "updated_date": "2021-03-23T15:26:37.000+0200",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-208594",
+    "summary": "Axolotls aren't required for the \"Two By Two\" advancement ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-16T19:25:53.000+0200",
+    "resolution_date": "2021-03-23T15:26:37.000+0200",
+    "updated_date": "2021-03-23T17:10:21.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-208588",
+    "summary": "Axolotls change color when released from bucket / axolotl entity data isn't stored in the bucket item",
+    "labels": [
+      "axolotl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-16T19:18:53.000+0200",
+    "resolution_date": "2021-03-23T15:26:36.000+0200",
+    "updated_date": "2021-03-25T15:07:10.000+0200",
+    "watches": 31,
+    "votes": 60
+  },
+  {
+    "id": "MC-208551",
+    "summary": "Calibrated Sculk Sensor are unused in-game files",
+    "labels": [
+      "sculk_sensor",
+      "unused_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-16T08:33:51.000+0200",
+    "resolution_date": "2021-04-03T21:20:42.000+0300",
+    "updated_date": "2021-04-03T21:20:42.000+0300",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-208075",
+    "summary": "Copper slabs and stairs are not included in the #minecraft:slabs and #minecraft:stairs tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-12-10T12:23:14.000+0200",
+    "resolution_date": "2021-03-29T11:37:12.000+0300",
+    "updated_date": "2021-03-29T11:37:12.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-206567",
+    "summary": "Stalagmite gets all destroyed at the same time when the bottom block gets destroyed",
+    "labels": [
+      "stalagmite",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-25T18:55:13.000+0200",
+    "resolution_date": "2021-04-04T16:37:22.000+0300",
+    "updated_date": "2022-08-31T10:35:52.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-205918",
+    "summary": "Experience orb stacks that were used in the mending process lose their experience amount, even if the stack is still larger than one",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-17T18:41:02.000+0200",
+    "resolution_date": "2021-03-24T18:53:42.000+0200",
+    "updated_date": "2021-03-24T18:57:51.000+0200",
+    "watches": 4,
+    "votes": 16
+  },
+  {
+    "id": "MC-205914",
+    "summary": "Placing turtle egg/sea pickle onto turtle egg/sea pickle while sneaking doesn\u2019t place it next to it, although placing candle onto candle does",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-17T18:02:48.000+0200",
+    "resolution_date": "2021-03-24T11:46:43.000+0200",
+    "updated_date": "2021-04-15T06:46:36.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-205885",
+    "summary": "Endermen holding water, lava or powder snow cauldrons don't drop cauldrons",
+    "labels": [
+      "loot_tables"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-17T07:09:58.000+0200",
+    "resolution_date": "2021-03-24T11:46:07.000+0200",
+    "updated_date": "2022-07-29T16:14:03.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-205613",
+    "summary": "Skeletons in powder snow spin when aiming at the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-14T17:28:49.000+0200",
+    "resolution_date": "2021-03-31T15:14:07.000+0300",
+    "updated_date": "2021-03-31T15:19:53.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-205302",
+    "summary": "Using /setblock to place a structure block defaults to save mode, unlike placing one by hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-12T07:13:53.000+0200",
+    "resolution_date": "2021-03-24T11:46:41.000+0200",
+    "updated_date": "2021-08-18T16:39:41.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-205169",
+    "summary": "Mobs don't path find across powder snow blocks when not wandering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-11T21:08:09.000+0200",
+    "resolution_date": "2021-03-31T15:13:57.000+0300",
+    "updated_date": "2021-03-31T15:13:57.000+0300",
+    "watches": 7,
+    "votes": 19
+  },
+  {
+    "id": "MC-205158",
+    "summary": "Powder snow inside textures are not correctly mirrored",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-11T20:48:35.000+0200",
+    "resolution_date": "2021-03-24T11:46:05.000+0200",
+    "updated_date": "2022-02-21T16:18:39.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-205143",
+    "summary": "The particles produced when extinguishing a campfire are misplaced",
+    "labels": [
+      "alignment",
+      "campfire",
+      "particle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-11T20:22:22.000+0200",
+    "resolution_date": "2021-03-24T11:46:03.000+0200",
+    "updated_date": "2021-03-24T11:46:03.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-205131",
+    "summary": "Landing on powder snow while wearing leather boots inflicts fall damage on Java, but not on Bedrock",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Parity",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-11T19:59:09.000+0200",
+    "resolution_date": "2021-03-31T15:13:59.000+0300",
+    "updated_date": "2021-06-13T00:35:04.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-205106",
+    "summary": "Mobs that get damaged by powder snow can spawn inside powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-11T19:34:08.000+0200",
+    "resolution_date": "2021-03-31T15:13:58.000+0300",
+    "updated_date": "2021-03-31T15:13:58.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-205083",
+    "summary": "Mobs wearing leather boots spin around when walking on powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-11T19:10:24.000+0200",
+    "resolution_date": "2021-03-31T15:14:01.000+0300",
+    "updated_date": "2021-03-31T15:19:57.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-205060",
+    "summary": "Powder snow does not cause underlying grass, mycelium or podzol to appear snowy",
+    "labels": [
+      "block-tag-recommended"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-11T18:54:49.000+0200",
+    "resolution_date": "2021-03-24T11:46:35.000+0200",
+    "updated_date": "2021-10-26T15:06:32.000+0300",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-204430",
+    "summary": "Cauldrons filled with water, lava or powder snow cannot be used as a workstation for villagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Village system"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-06T21:13:55.000+0200",
+    "resolution_date": "2021-03-31T15:13:57.000+0300",
+    "updated_date": "2022-09-02T01:38:42.000+0300",
+    "watches": 18,
+    "votes": 37
+  },
+  {
+    "id": "MC-204133",
+    "summary": "Candle extinguishing particle appears offset from the candle",
+    "labels": [
+      "incorrect-particle-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-05T17:53:55.000+0200",
+    "resolution_date": "2021-03-24T11:46:04.000+0200",
+    "updated_date": "2021-10-17T02:27:38.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-203847",
+    "summary": "Waterlogged candles can be lit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-05T02:53:39.000+0200",
+    "resolution_date": "2021-03-24T11:46:43.000+0200",
+    "updated_date": "2021-03-24T11:46:43.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-203838",
+    "summary": "Aiming a spyglass with a loaded crossbow in offhand creates weird third person effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-05T02:29:44.000+0200",
+    "resolution_date": "2021-03-24T11:46:40.000+0200",
+    "updated_date": "2021-06-27T01:00:54.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-203617",
+    "summary": "Can't \"Pick Block\" cauldrons with liquid or powdered snow inside",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-04T21:35:27.000+0200",
+    "resolution_date": "2021-03-24T11:46:07.000+0200",
+    "updated_date": "2022-04-08T21:56:44.000+0300",
+    "watches": 15,
+    "votes": 42
+  },
+  {
+    "id": "MC-203605",
+    "summary": "Lightning rod bottom texture is mapped incorrectly",
+    "labels": [
+      "lightning_rod"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-04T21:28:45.000+0200",
+    "resolution_date": "2021-03-24T11:46:42.000+0200",
+    "updated_date": "2021-04-02T20:26:27.000+0300",
+    "watches": 8,
+    "votes": 24
+  },
+  {
+    "id": "MC-203553",
+    "summary": "Water bottle doesn't extinguish candles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-11-04T20:47:49.000+0200",
+    "resolution_date": "2021-03-24T11:46:39.000+0200",
+    "updated_date": "2021-03-24T11:46:39.000+0200",
+    "watches": 9,
+    "votes": 21
+  },
+  {
+    "id": "MC-201753",
+    "summary": "Sea pickle green top sections do not render correctly from behind",
+    "labels": [
+      "cross-uv-dilemma",
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-10-08T21:46:45.000+0300",
+    "resolution_date": "2021-03-24T11:46:17.000+0200",
+    "updated_date": "2022-02-21T16:17:52.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-201751",
+    "summary": "Chain section on lanterns is incorrectly mirrored from behind",
+    "labels": [
+      "cross-uv-dilemma",
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-10-08T21:23:55.000+0300",
+    "resolution_date": "2021-03-24T11:46:15.000+0200",
+    "updated_date": "2022-02-21T16:17:44.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-201748",
+    "summary": "Chain model planes are incorrectly mirrored on the rear",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-10-08T20:57:39.000+0300",
+    "resolution_date": "2021-03-24T11:46:14.000+0200",
+    "updated_date": "2022-02-21T16:11:25.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-200001",
+    "summary": "Holding a loaded crossbow in offhand and using a mainhand item inconsistently combines animation in third person",
+    "labels": [
+      "arm-animation",
+      "crossbow",
+      "offhand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-09-11T05:49:15.000+0300",
+    "resolution_date": "2021-12-16T04:06:35.000+0200",
+    "updated_date": "2021-12-16T04:06:35.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-199242",
+    "summary": "Texture planes of crop models appear incorrectly mirrored from behind",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-08-29T19:20:16.000+0300",
+    "resolution_date": "2021-03-24T11:46:13.000+0200",
+    "updated_date": "2022-02-21T16:11:17.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-199239",
+    "summary": "Vines appear incorrectly mirrored when viewed from behind",
+    "labels": [
+      "1.8-bad-model-conversion-remnants",
+      "1.8-model-conversion-remnants",
+      "incorrect-uv",
+      "plane-mirroring",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-08-29T19:08:34.000+0300",
+    "resolution_date": "2021-03-24T11:46:11.000+0200",
+    "updated_date": "2022-03-17T15:03:40.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-199237",
+    "summary": "Back of ladder is incorrectly mirrored",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-08-29T18:58:24.000+0300",
+    "resolution_date": "2021-03-24T11:46:10.000+0200",
+    "updated_date": "2022-02-21T16:10:44.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-199065",
+    "summary": "Zombies that die while on fire do not drop baked potatoes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-08-27T17:40:25.000+0300",
+    "resolution_date": "2021-03-24T11:46:45.000+0200",
+    "updated_date": "2022-08-04T14:51:38.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-197073",
+    "summary": "Turtles laying eggs on red sand produce normal sand particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-08-05T06:50:33.000+0300",
+    "resolution_date": "2021-03-29T11:37:09.000+0300",
+    "updated_date": "2022-01-13T17:32:08.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-196500",
+    "summary": "Banners are rendered too bright in the inventory",
+    "labels": [
+      "banners",
+      "brightness",
+      "inventory",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-07-30T01:36:04.000+0300",
+    "resolution_date": "2021-06-06T16:48:39.000+0300",
+    "updated_date": "2021-06-06T16:48:40.000+0300",
+    "watches": 11,
+    "votes": 31
+  },
+  {
+    "id": "MC-195640",
+    "summary": "Suspicious stew inedible with full hunger",
+    "labels": [
+      "effect",
+      "food",
+      "inconsistency",
+      "suspicious_stew"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-07-21T08:44:10.000+0300",
+    "resolution_date": "2021-03-24T11:46:45.000+0200",
+    "updated_date": "2021-04-01T05:37:43.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-194183",
+    "summary": "Some experience points do not go towards Mending repair, even if the Mending gear is not fully repaired",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-07-08T20:25:50.000+0300",
+    "resolution_date": "2021-03-24T18:53:42.000+0200",
+    "updated_date": "2021-03-24T19:52:49.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-190774",
+    "summary": "Stonecutter saw spins both ways simultaneously",
+    "labels": [
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-06-21T02:28:00.000+0300",
+    "resolution_date": "2021-03-24T11:46:09.000+0200",
+    "updated_date": "2021-03-24T11:46:09.000+0200",
+    "watches": 9,
+    "votes": 15
+  },
+  {
+    "id": "MC-189888",
+    "summary": "When the window size is changed on the main menu, a white flash appears",
+    "labels": [
+      "background",
+      "flash",
+      "main-menu",
+      "rendering",
+      "resize",
+      "white",
+      "window-size"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-06-15T22:10:24.000+0300",
+    "resolution_date": "2021-06-06T16:48:53.000+0300",
+    "updated_date": "2021-06-06T16:48:54.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-187544",
+    "summary": "'Cover Me With Diamonds' advancement improperly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-06-05T08:53:49.000+0300",
+    "resolution_date": "2021-03-24T11:46:45.000+0200",
+    "updated_date": "2021-08-18T16:39:59.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-174701",
+    "summary": "Leash knot sound effect plays when loading singleplayer world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2020-03-13T11:51:06.000+0200",
+    "resolution_date": "2021-03-24T11:46:44.000+0200",
+    "updated_date": "2021-03-24T11:46:44.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-167977",
+    "summary": "Podzol generated from giant spruce trees is not snowy if it has snow above it",
+    "labels": [
+      "podzol",
+      "snow",
+      "snowy"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2019-12-14T19:04:51.000+0200",
+    "resolution_date": "2021-04-16T04:58:12.000+0300",
+    "updated_date": "2021-04-16T04:58:59.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-167853",
+    "summary": "Observer doesn't detect when a grass block changes to dirt if a tree grows on top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2019-12-13T20:11:25.000+0200",
+    "resolution_date": "2021-03-31T17:45:25.000+0300",
+    "updated_date": "2021-03-31T17:45:25.000+0300",
+    "watches": 5,
+    "votes": 1
+  },
+  {
+    "id": "MC-148758",
+    "summary": "The loading screen is incorrect when reloading the resource packs with F3+T",
+    "labels": [
+      "F3+T",
+      "loading-screen",
+      "reloading-textures",
+      "ressources-packs",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2019-04-19T13:17:11.000+0300",
+    "resolution_date": "2021-06-06T16:49:07.000+0300",
+    "updated_date": "2021-06-06T16:49:07.000+0300",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-136776",
+    "summary": "Some NBT tags are not kept when fish or axolotl mobs are caught in water buckets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2018-09-07T13:40:15.000+0300",
+    "resolution_date": "2021-03-23T15:26:38.000+0200",
+    "updated_date": "2021-03-23T15:48:42.000+0200",
+    "watches": 11,
+    "votes": 9
+  },
+  {
+    "id": "MC-124667",
+    "summary": "Air can be used in custom recipes, causing a crash",
+    "labels": [
+      "air",
+      "crash",
+      "recipe",
+      "recipe-book-tab"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2018-01-31T12:56:55.000+0200",
+    "resolution_date": "2021-03-24T18:53:44.000+0200",
+    "updated_date": "2021-03-24T19:56:15.000+0200",
+    "watches": 6,
+    "votes": 17
+  },
+  {
+    "id": "MC-123587",
+    "summary": "Kicked from the game when reaching y levels over 30,000,000",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2017-12-26T23:18:59.000+0200",
+    "resolution_date": "2021-03-24T15:00:28.000+0200",
+    "updated_date": "2021-07-01T02:05:23.000+0300",
+    "watches": 15,
+    "votes": 24
+  },
+  {
+    "id": "MC-108636",
+    "summary": "There are a number of unused texture files",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2016-10-12T19:09:23.000+0300",
+    "resolution_date": "2021-03-23T18:13:07.000+0200",
+    "updated_date": "2022-07-12T17:25:44.000+0300",
+    "watches": 18,
+    "votes": 27
+  },
+  {
+    "id": "MC-102269",
+    "summary": "Polar bears drop raw fish instead of cooked fish when killed with fire or lava",
+    "labels": [
+      "fish",
+      "loot",
+      "loot-table",
+      "polar_bear"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2016-05-20T14:10:07.000+0300",
+    "resolution_date": "2021-03-24T11:46:46.000+0200",
+    "updated_date": "2022-08-04T14:51:38.000+0300",
+    "watches": 17,
+    "votes": 19
+  },
+  {
+    "id": "MC-79888",
+    "summary": "Beacon beam can be seen when you have blindness effect",
+    "labels": [
+      "beacon",
+      "blindness",
+      "effect"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2015-04-25T13:58:02.000+0300",
+    "resolution_date": "2021-04-02T00:55:26.000+0300",
+    "updated_date": "2021-04-02T00:55:27.000+0300",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-70738",
+    "summary": "Killing guardian with lava does not give cooked fish",
+    "labels": [
+      "fish",
+      "loot-table"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 16w38a",
+      "21w13a"
+    ],
+    "creation_date": "2014-09-03T21:28:14.000+0300",
+    "resolution_date": "2021-03-24T11:46:46.000+0200",
+    "updated_date": "2022-08-04T14:51:38.000+0300",
+    "watches": 14,
+    "votes": 23
+  },
+  {
+    "id": "MC-3366",
+    "summary": "End portal appears transparent from below",
+    "labels": [
+      "missing-planes"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w13a"
+    ],
+    "creation_date": "2012-11-18T05:49:58.000+0200",
+    "resolution_date": "2021-03-23T10:47:33.000+0200",
+    "updated_date": "2021-10-19T12:23:24.000+0300",
+    "watches": 13,
+    "votes": 23
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MC-245010",
+    "summary": "Sometimes certain chunks will never load",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.18.1 Release Candidate 2"
+    ],
+    "creation_date": "2021-12-07T22:25:55.000+0200",
+    "resolution_date": "2021-12-08T14:11:27.000+0200",
+    "updated_date": "2021-12-09T13:16:10.000+0200",
+    "watches": 5,
+    "votes": 9
+  }
+]

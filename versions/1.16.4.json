@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MC-203762",
+    "summary": "Tripwire hooks not activated by shulker bullets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16.4"
+    ],
+    "creation_date": "2020-11-05T00:28:45.000+0200",
+    "resolution_date": "2021-02-24T17:10:20.000+0200",
+    "updated_date": "2021-02-24T17:10:20.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-201874",
+    "summary": "Sneaking off the edge of a block with a bamboo plant diagonal makes you fall off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.4"
+    ],
+    "creation_date": "2020-10-10T22:05:30.000+0300",
+    "resolution_date": "2020-12-12T15:53:52.000+0200",
+    "updated_date": "2020-12-12T15:53:52.000+0200",
+    "watches": 2,
+    "votes": 1
+  }
+]

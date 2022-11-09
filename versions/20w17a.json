@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "MC-224029",
+    "summary": "Fishing line becomes increasingly thinner the closer to the rod it gets on some devices",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2021-04-24T00:48:31.000+0300",
+    "resolution_date": "2021-06-01T22:28:29.000+0300",
+    "updated_date": "2022-04-26T17:17:56.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-179542",
+    "summary": "Basalt Delta Blocks Override Nether Bricks in Fortresses",
+    "labels": [
+      "basalt_deltas",
+      "nether-fortress",
+      "netherbrick"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-20T11:40:28.000+0300",
+    "resolution_date": "2020-04-22T15:50:24.000+0300",
+    "updated_date": "2020-05-08T16:40:19.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-178955",
+    "summary": "Badlands are viewed as a mountainous biome for Ruined Portals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-16T07:39:27.000+0300",
+    "resolution_date": "2020-04-20T09:14:31.000+0300",
+    "updated_date": "2020-04-20T09:14:31.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-178797",
+    "summary": "Barrier blocks generate in bastion remnant",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-15T18:56:14.000+0300",
+    "resolution_date": "2020-04-22T15:06:30.000+0300",
+    "updated_date": "2020-04-22T15:06:30.000+0300",
+    "watches": 12,
+    "votes": 23
+  },
+  {
+    "id": "MC-178630",
+    "summary": "TNT eyeheight changed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-14T14:08:23.000+0300",
+    "resolution_date": "2020-04-22T15:50:29.000+0300",
+    "updated_date": "2020-05-25T16:49:46.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-178316",
+    "summary": "Dispenser plays \"dispensed item\" sound when attempting to charge a full respawn anchor instead of \"dispenser fails\"",
+    "labels": [
+      "dispenser",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-11T23:27:50.000+0300",
+    "resolution_date": "2020-04-22T09:55:07.000+0300",
+    "updated_date": "2020-04-30T00:15:10.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-178259",
+    "summary": "Game crashes when an iron golem with the attack damage attribute set to 0.5d",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-11T12:49:19.000+0300",
+    "resolution_date": "2020-04-20T17:05:08.000+0300",
+    "updated_date": "2020-04-20T17:06:47.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-178093",
+    "summary": "Piglins with full inventories won't pick up gold ingots to barter even though you can still right-click to barter with them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-10T06:17:27.000+0300",
+    "resolution_date": "2020-04-22T09:55:06.000+0300",
+    "updated_date": "2021-07-26T01:00:45.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-178086",
+    "summary": "Flying close to the ground with soul speed over soul blocks speeds up player and generates soul particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-10T05:55:04.000+0300",
+    "resolution_date": "2020-04-22T15:50:28.000+0300",
+    "updated_date": "2020-04-22T15:50:28.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-178050",
+    "summary": "New Nether music is inconsistently loud",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-10T00:45:19.000+0300",
+    "resolution_date": "2020-04-22T18:32:20.000+0300",
+    "updated_date": "2020-04-22T18:32:20.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-177997",
+    "summary": "Baby zoglins still use the same attack damage as an adult",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-09T09:17:35.000+0300",
+    "resolution_date": "2020-04-20T17:05:07.000+0300",
+    "updated_date": "2020-04-20T17:06:27.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-177885",
+    "summary": "Invisible Horses show patterns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-08T22:21:00.000+0300",
+    "resolution_date": "2020-04-21T17:12:48.000+0300",
+    "updated_date": "2020-04-22T23:28:41.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-177862",
+    "summary": "Polished blackstone button and pressure plate in incorrect area in creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-08T21:00:10.000+0300",
+    "resolution_date": "2020-04-22T09:55:04.000+0300",
+    "updated_date": "2020-04-22T09:55:04.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-177796",
+    "summary": "Blackstone walls are in the \"Building Blocks\" category instead of \"decoration Blocks\" category, unlike all other walls",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-08T17:30:04.000+0300",
+    "resolution_date": "2020-04-22T09:55:03.000+0300",
+    "updated_date": "2020-04-22T09:55:03.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-177780",
+    "summary": "Shulkers cannot be opened while playing closing animation anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-08T14:58:35.000+0300",
+    "resolution_date": "2020-04-20T09:30:07.000+0300",
+    "updated_date": "2020-04-20T09:30:07.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-177776",
+    "summary": "Netherite ingots are not sorted properly with other ingots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-08T13:47:24.000+0300",
+    "resolution_date": "2020-04-22T09:55:03.000+0300",
+    "updated_date": "2020-04-22T09:55:03.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-177346",
+    "summary": "Compass in a mob's hand does not point to correct location if mob turns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-04-04T01:33:00.000+0300",
+    "resolution_date": "2020-04-17T11:23:59.000+0300",
+    "updated_date": "2020-04-26T18:35:27.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-176521",
+    "summary": "Pressing space while the recipe book button is highlighted in crafting interfaces doesn't toggle the recipe book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-28T02:11:29.000+0200",
+    "resolution_date": "2020-04-22T09:55:04.000+0300",
+    "updated_date": "2020-06-15T14:48:52.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-176348",
+    "summary": "Cartographer Villagers cannot trade Explorer Maps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-26T20:06:40.000+0200",
+    "resolution_date": "2020-04-24T10:37:10.000+0300",
+    "updated_date": "2020-04-24T10:37:10.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-176116",
+    "summary": "Saddle texture on Strider is backwards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-25T22:32:37.000+0200",
+    "resolution_date": "2020-04-20T17:05:09.000+0300",
+    "updated_date": "2020-05-08T03:54:42.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-176104",
+    "summary": "Dropped compasses always point up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-25T22:07:07.000+0200",
+    "resolution_date": "2020-04-17T11:24:00.000+0300",
+    "updated_date": "2021-08-18T16:39:40.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-176060",
+    "summary": "Recipe book doesn't load the entire empty map recipe anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-25T21:00:58.000+0200",
+    "resolution_date": "2020-04-22T09:55:05.000+0300",
+    "updated_date": "2020-04-22T09:55:05.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-176029",
+    "summary": "Right clicking a lodestone with a stack of compasses converts the whole stack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-25T20:25:23.000+0200",
+    "resolution_date": "2020-04-21T17:12:48.000+0300",
+    "updated_date": "2020-04-21T17:12:48.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-175998",
+    "summary": "Striders are moving very fast between two blocks or when diagonally running into blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-25T19:54:53.000+0200",
+    "resolution_date": "2020-04-21T17:12:48.000+0300",
+    "updated_date": "2020-04-27T12:43:19.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-175186",
+    "summary": "Respawning doesn't check if the \"respawn block\" is the correct one for the dimension",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-18T20:19:34.000+0200",
+    "resolution_date": "2020-04-20T09:30:05.000+0300",
+    "updated_date": "2020-04-20T09:30:05.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-175113",
+    "summary": "Rain prevents entities from burning in fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-18T00:48:40.000+0200",
+    "resolution_date": "2020-04-20T09:30:05.000+0300",
+    "updated_date": "2020-04-24T00:49:10.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-174473",
+    "summary": "Nether gold ore uses stone sound effects",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-11T19:34:21.000+0200",
+    "resolution_date": "2020-04-26T18:41:03.000+0300",
+    "updated_date": "2020-04-26T18:41:03.000+0300",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-174359",
+    "summary": "Piglins prefer using an unenchanted gold item instead of an enchanted gold item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-03-10T04:59:27.000+0200",
+    "resolution_date": "2020-04-20T17:05:08.000+0300",
+    "updated_date": "2020-04-20T17:05:08.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-171939",
+    "summary": "Many mobs are placed incorrectly in the statistics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-02-12T12:25:40.000+0200",
+    "resolution_date": "2020-04-28T16:28:11.000+0300",
+    "updated_date": "2020-05-03T18:04:44.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-171561",
+    "summary": "Only one player can access shulker box at a time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-02-08T19:24:55.000+0200",
+    "resolution_date": "2020-04-20T09:30:06.000+0300",
+    "updated_date": "2020-04-20T21:57:31.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-170075",
+    "summary": "\"Online play is not rated\" checkbox has no outline when focused",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-01-19T00:16:36.000+0200",
+    "resolution_date": "2020-04-23T16:36:26.000+0300",
+    "updated_date": "2020-04-23T16:36:26.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-169514",
+    "summary": "Tamed parrots cannot be renamed unless they are flying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2020-01-06T06:06:37.000+0200",
+    "resolution_date": "2020-04-22T09:50:29.000+0300",
+    "updated_date": "2020-04-29T13:28:24.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-151364",
+    "summary": "Feeding a dolphin causes a crash when structure generation is turned off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2019-05-10T02:00:32.000+0300",
+    "resolution_date": "2020-04-23T18:37:58.000+0300",
+    "updated_date": "2020-06-04T15:19:04.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-149792",
+    "summary": "Client book length mismatch resulting in crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2019-04-26T13:59:46.000+0300",
+    "resolution_date": "2020-04-30T01:09:39.000+0300",
+    "updated_date": "2020-06-10T00:32:00.000+0300",
+    "watches": 21,
+    "votes": 18
+  },
+  {
+    "id": "MC-149704",
+    "summary": "Sneaking / crouching twice makes player sprint",
+    "labels": [
+      "sneaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2019-04-26T00:10:36.000+0300",
+    "resolution_date": "2020-04-22T15:50:30.000+0300",
+    "updated_date": "2020-04-22T15:50:30.000+0300",
+    "watches": 8,
+    "votes": 23
+  },
+  {
+    "id": "MC-144622",
+    "summary": "Using data modify to set the name from a block only works once",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2019-02-21T21:10:59.000+0200",
+    "resolution_date": "2020-04-22T21:40:04.000+0300",
+    "updated_date": "2020-04-22T21:40:04.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-135738",
+    "summary": "Bossbar names that have scores don't update as intended after exiting and re-entering the world",
+    "labels": [
+      "JSON",
+      "bossbar",
+      "score"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2018-08-08T02:00:16.000+0300",
+    "resolution_date": "2020-05-09T01:11:29.000+0300",
+    "updated_date": "2020-05-09T01:11:29.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-132926",
+    "summary": "The width of an advancement's description depends on the first line",
+    "labels": [
+      "advancement",
+      "advancement-description",
+      "width"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Advancements",
+      "Text",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2018-07-06T23:36:15.000+0300",
+    "resolution_date": "2020-04-22T21:39:47.000+0300",
+    "updated_date": "2020-04-22T21:39:47.000+0300",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-131360",
+    "summary": "Music sometimes stops abruptly when you go underwater",
+    "labels": [
+      "music",
+      "underwater"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2018-06-15T17:19:02.000+0300",
+    "resolution_date": "2020-04-27T10:13:36.000+0300",
+    "updated_date": "2020-07-30T18:22:34.000+0300",
+    "watches": 15,
+    "votes": 34
+  },
+  {
+    "id": "MC-126244",
+    "summary": "'/locate', explorer maps, and treasure maps can cause extreme TPS lag, even leading to a complete server freeze if structure generation is turned off",
+    "labels": [
+      "/locate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Performance",
+      "Structures",
+      "Trading"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.13-pre6",
+      "20w17a"
+    ],
+    "creation_date": "2018-02-23T23:04:00.000+0200",
+    "resolution_date": "2020-04-20T17:07:08.000+0300",
+    "updated_date": "2022-07-12T17:45:27.000+0300",
+    "watches": 52,
+    "votes": 103
+  },
+  {
+    "id": "MC-120572",
+    "summary": "/recipe crashes the game",
+    "labels": [
+      "/recipe",
+      "command_block",
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2017-09-08T18:11:32.000+0300",
+    "resolution_date": "2020-04-22T15:50:31.000+0300",
+    "updated_date": "2020-06-14T10:17:08.000+0300",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-117805",
+    "summary": "Oak trees can generate right below height limit (y = 256) resulting in incomplete tree",
+    "labels": [
+      "height-limit",
+      "oak",
+      "sapling",
+      "tree",
+      "tree-generation",
+      "y-coordinate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2017-05-21T19:37:33.000+0300",
+    "resolution_date": "2020-04-24T04:32:05.000+0300",
+    "updated_date": "2021-08-18T16:39:45.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-117710",
+    "summary": "Bonus Chest setting is not copied when re-creating world",
+    "labels": [
+      "bonus-chest",
+      "re-create",
+      "world",
+      "world-options"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.12 Pre-Release 6",
+      "20w17a"
+    ],
+    "creation_date": "2017-05-19T17:29:19.000+0300",
+    "resolution_date": "2020-04-25T05:24:47.000+0300",
+    "updated_date": "2020-04-25T05:24:47.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-114544",
+    "summary": "Kicked by \"Flying is not enabled on this server\" while sleeping",
+    "labels": [
+      "bed",
+      "jump",
+      "kick",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2017-03-14T02:58:34.000+0200",
+    "resolution_date": "2020-04-20T09:21:16.000+0300",
+    "updated_date": "2020-05-08T14:01:01.000+0300",
+    "watches": 17,
+    "votes": 21
+  },
+  {
+    "id": "MC-108598",
+    "summary": "Client rendering other player or mob holding compass influences compass of user",
+    "labels": [
+      "compass",
+      "lan",
+      "mob",
+      "multiplayer",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2016-10-11T19:57:28.000+0300",
+    "resolution_date": "2020-04-26T18:39:05.000+0300",
+    "updated_date": "2020-05-29T04:08:21.000+0300",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-96319",
+    "summary": "Mob pathfinding AI does not regard some blocks as obstructions and is unable to pathfind on top of them",
+    "labels": [
+      "AI",
+      "bamboo",
+      "bell",
+      "brewing_stand",
+      "end_rod",
+      "grindstone",
+      "lectern",
+      "mob",
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2016-01-30T10:27:37.000+0200",
+    "resolution_date": "2020-04-16T17:17:56.000+0300",
+    "updated_date": "2020-10-16T14:29:58.000+0300",
+    "watches": 28,
+    "votes": 59
+  },
+  {
+    "id": "MC-94535",
+    "summary": "Flying and holding CTRL really close to the ground, emits walking particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2015-12-19T13:32:21.000+0200",
+    "resolution_date": "2020-04-22T15:50:28.000+0300",
+    "updated_date": "2020-04-22T15:50:28.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-63020",
+    "summary": "Some chunks are not rendered in first person from some angles in certain situations (incorrect frustum culling)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 14w30c",
+      "20w17a"
+    ],
+    "creation_date": "2014-07-23T17:17:17.000+0300",
+    "resolution_date": "2020-04-22T18:11:08.000+0300",
+    "updated_date": "2021-10-03T19:52:42.000+0300",
+    "watches": 77,
+    "votes": 213
+  },
+  {
+    "id": "MC-56373",
+    "summary": "Selector and score text components don't work on hoverEvents",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2014-06-05T20:04:36.000+0300",
+    "resolution_date": "2020-04-21T09:40:13.000+0300",
+    "updated_date": "2020-05-15T00:36:11.000+0300",
+    "watches": 26,
+    "votes": 50
+  },
+  {
+    "id": "MC-46417",
+    "summary": "Sprint particles are generated in spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 14w08a",
+      "20w17a"
+    ],
+    "creation_date": "2014-01-30T18:14:11.000+0200",
+    "resolution_date": "2020-04-22T15:50:28.000+0300",
+    "updated_date": "2020-04-22T15:50:28.000+0300",
+    "watches": 15,
+    "votes": 27
+  },
+  {
+    "id": "MC-31032",
+    "summary": "Using only one empty map doesn't increase minecraft.used:minecraft.map",
+    "labels": [
+      "map",
+      "scoreboard"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2013-09-13T23:03:06.000+0300",
+    "resolution_date": "2020-04-22T15:50:27.000+0300",
+    "updated_date": "2020-04-22T15:50:27.000+0300",
+    "watches": 13,
+    "votes": 35
+  },
+  {
+    "id": "MC-5410",
+    "summary": "In creative mode, flying down is stopped when brushing up against ladders or vines.",
+    "labels": [
+      "flying",
+      "ladder",
+      "vines"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2012-12-27T08:36:32.000+0200",
+    "resolution_date": "2020-04-29T17:46:34.000+0300",
+    "updated_date": "2021-04-09T17:47:05.000+0300",
+    "watches": 8,
+    "votes": 32
+  },
+  {
+    "id": "MC-1601",
+    "summary": "Breaking a Furnace will not give you the experience for the smelted things inside",
+    "labels": [
+      "experience",
+      "furnace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2012-11-01T15:56:08.000+0200",
+    "resolution_date": "2020-04-20T17:05:07.000+0300",
+    "updated_date": "2020-08-07T23:05:13.000+0300",
+    "watches": 5,
+    "votes": 3
+  }
+]

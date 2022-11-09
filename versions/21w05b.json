@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MC-213802",
+    "summary": "Copper is not upgraded correctly from pre-21w05a worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w05b"
+    ],
+    "creation_date": "2021-02-03T20:52:43.000+0200",
+    "resolution_date": "2021-02-04T16:44:11.000+0200",
+    "updated_date": "2021-02-06T02:17:15.000+0200",
+    "watches": 9,
+    "votes": 6
+  },
+  {
+    "id": "MC-213788",
+    "summary": "The game can randomly freeze",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w05b"
+    ],
+    "creation_date": "2021-02-03T20:40:52.000+0200",
+    "resolution_date": "2021-02-04T14:57:33.000+0200",
+    "updated_date": "2021-02-10T18:11:42.000+0200",
+    "watches": 20,
+    "votes": 28
+  },
+  {
+    "id": "MC-205054",
+    "summary": "Copper blocks called \"Copper Block\", while blocks of quartz are called \"Block of Quartz\"",
+    "labels": [
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05b"
+    ],
+    "creation_date": "2020-11-11T18:51:21.000+0200",
+    "resolution_date": "2021-02-10T19:01:06.000+0200",
+    "updated_date": "2021-02-10T19:01:06.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-203813",
+    "summary": "Copper blocks are named inconsistently",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05b"
+    ],
+    "creation_date": "2020-11-05T01:43:38.000+0200",
+    "resolution_date": "2021-02-04T16:44:19.000+0200",
+    "updated_date": "2021-07-23T22:07:41.000+0300",
+    "watches": 16,
+    "votes": 31
+  }
+]

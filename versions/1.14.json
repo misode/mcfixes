@@ -1,0 +1,367 @@
+[
+  {
+    "id": "MC-148779",
+    "summary": "Books can be crafted backwards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-19T17:19:08.000+0300",
+    "resolution_date": "2019-04-23T17:12:26.000+0300",
+    "updated_date": "2019-04-23T18:13:15.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-148723",
+    "summary": "Skylight not correctly propagated from empty subchunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-19T04:11:43.000+0300",
+    "resolution_date": "2019-04-25T04:31:30.000+0300",
+    "updated_date": "2019-04-25T04:31:30.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-148647",
+    "summary": "u00b7 is duplicated in nonlatin_european.png. The second one should be u0387.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-18T14:58:11.000+0300",
+    "resolution_date": "2019-04-23T17:12:29.000+0300",
+    "updated_date": "2020-07-13T03:13:08.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-148461",
+    "summary": "Java crash: libjemalloc.so",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-16T23:36:31.000+0300",
+    "resolution_date": "2019-04-23T15:49:24.000+0300",
+    "updated_date": "2019-04-30T21:54:42.000+0300",
+    "watches": 30,
+    "votes": 38
+  },
+  {
+    "id": "MC-148147",
+    "summary": "Exception in server tick loop and Optimization failing only after 1.14pre2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-13T20:09:53.000+0300",
+    "resolution_date": "2019-04-23T16:46:51.000+0300",
+    "updated_date": "2019-04-23T16:46:51.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-148059",
+    "summary": "Beacons sometimes don't activate or change effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-13T11:02:07.000+0300",
+    "resolution_date": "2019-04-23T16:15:28.000+0300",
+    "updated_date": "2019-04-23T16:15:28.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-147761",
+    "summary": "Crash while ticking sign",
+    "labels": [
+      "block",
+      "crash",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-10T18:56:30.000+0300",
+    "resolution_date": "2019-04-23T16:35:20.000+0300",
+    "updated_date": "2019-04-23T16:35:20.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-147733",
+    "summary": "Cannot craft specific firework stars",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-10T03:15:10.000+0300",
+    "resolution_date": "2019-04-23T17:20:13.000+0300",
+    "updated_date": "2019-04-23T18:12:59.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-147728",
+    "summary": "Carpets prevent the player from respawning at their bed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-04-10T01:13:04.000+0300",
+    "resolution_date": "2019-04-23T14:18:56.000+0300",
+    "updated_date": "2019-04-23T14:52:33.000+0300",
+    "watches": 6,
+    "votes": 21
+  },
+  {
+    "id": "MC-145766",
+    "summary": "Iron golems spawning at an alarming rate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14 Pre-Release 1",
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-03-13T22:50:49.000+0200",
+    "resolution_date": "2019-04-23T12:52:28.000+0300",
+    "updated_date": "2021-01-02T02:05:39.000+0200",
+    "watches": 26,
+    "votes": 32
+  },
+  {
+    "id": "MC-145664",
+    "summary": "Crash: java.lang.NullPointerException: Unexpected error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-03-13T17:16:47.000+0200",
+    "resolution_date": "2019-04-23T23:01:23.000+0300",
+    "updated_date": "2019-04-23T23:01:24.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-145160",
+    "summary": "Crash while ticking hopper",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-03-01T02:25:13.000+0200",
+    "resolution_date": "2019-04-23T16:35:18.000+0300",
+    "updated_date": "2019-04-23T16:35:18.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-143889",
+    "summary": "Shapeless recipes only check for number of items and number of occupied slots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-02-09T01:51:52.000+0200",
+    "resolution_date": "2019-04-23T17:20:18.000+0300",
+    "updated_date": "2019-04-23T18:13:24.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-143201",
+    "summary": "Shooting a player with a Crossbow while PVP is off crashes the server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-01-27T09:12:11.000+0200",
+    "resolution_date": "2019-04-23T14:43:15.000+0300",
+    "updated_date": "2019-04-23T14:43:15.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-142971",
+    "summary": "Manually spawning Illagers during raid crashes and breaks Raids completely",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2019-01-24T21:51:43.000+0200",
+    "resolution_date": "2019-04-28T22:03:57.000+0300",
+    "updated_date": "2019-04-28T22:03:57.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-141431",
+    "summary": "Light Glitching",
+    "labels": [
+      "Lighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2018-12-24T07:53:19.000+0200",
+    "resolution_date": "2019-05-16T06:10:58.000+0300",
+    "updated_date": "2019-05-16T06:10:58.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-138396",
+    "summary": "Saddle \"outline\" is in-accurate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2018-10-29T03:00:33.000+0200",
+    "resolution_date": "2019-04-23T16:07:07.000+0300",
+    "updated_date": "2019-04-23T16:07:07.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-132746",
+    "summary": "Can't leave bed and land on grass path",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2018-07-05T05:45:38.000+0300",
+    "resolution_date": "2020-03-18T23:18:29.000+0200",
+    "updated_date": "2020-03-18T23:18:29.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-44352",
+    "summary": " Vibrating screen when standing on a slime block",
+    "labels": [
+      "flicker",
+      "flickering",
+      "slime_block",
+      "stand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14"
+    ],
+    "creation_date": "2014-01-09T17:57:20.000+0200",
+    "resolution_date": "2019-05-06T14:13:56.000+0300",
+    "updated_date": "2019-09-30T19:13:59.000+0300",
+    "watches": 14,
+    "votes": 27
+  }
+]

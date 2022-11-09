@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "MC-185156",
+    "summary": "Worldgen settings are not validated and can cause crashes",
+    "labels": [
+      "crash",
+      "worldgen-settings"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-22T16:20:15.000+0300",
+    "resolution_date": "2020-05-28T16:10:14.000+0300",
+    "updated_date": "2020-05-29T16:27:32.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-185141",
+    "summary": "Opacity of the new Minecraft logo when fading in the main menu is inconsistent with other elements",
+    "labels": [
+      "fade",
+      "logo",
+      "main-menu",
+      "menu",
+      "opacity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-22T14:04:59.000+0300",
+    "resolution_date": "2020-05-30T01:23:09.000+0300",
+    "updated_date": "2020-05-30T01:23:09.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-184936",
+    "summary": "Old Minecraft logo in the end poem/credits ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-21T07:00:07.000+0300",
+    "resolution_date": "2020-05-28T16:24:42.000+0300",
+    "updated_date": "2020-05-28T16:24:42.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-184907",
+    "summary": "[Crash] java.lang.UnsupportedOperationException - Some villages cause crashes",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-21T04:16:43.000+0300",
+    "resolution_date": "2020-05-29T19:27:22.000+0300",
+    "updated_date": "2020-05-29T19:27:22.000+0300",
+    "watches": 25,
+    "votes": 47
+  },
+  {
+    "id": "MC-184778",
+    "summary": "Redstone dust can be toggled between cross and dot in adventure mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-20T21:24:40.000+0300",
+    "resolution_date": "2020-05-28T15:03:10.000+0300",
+    "updated_date": "2022-08-11T15:43:48.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-184740",
+    "summary": "Structures generated in previous versions are not recognised as valid structures, causing mobs not to spawn",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer",
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-20T19:59:54.000+0300",
+    "resolution_date": "2020-05-29T12:15:02.000+0300",
+    "updated_date": "2021-08-30T18:14:17.000+0300",
+    "watches": 73,
+    "votes": 113
+  },
+  {
+    "id": "MC-184730",
+    "summary": "[Crash] \"java.lang.NullPointerException: mouseClicked event handler\" - Some Superflat presets crash immediately when trying to generate them",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-20T19:33:13.000+0300",
+    "resolution_date": "2020-05-29T10:43:07.000+0300",
+    "updated_date": "2020-05-29T10:43:07.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-184640",
+    "summary": "Only one piglin can ride on a boat while the other piglin dismounts the boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-20T16:52:50.000+0300",
+    "resolution_date": "2020-05-29T16:42:45.000+0300",
+    "updated_date": "2020-05-29T16:42:45.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-184629",
+    "summary": "Piglins riding on hoglins or other piglins automatically dismount them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-20T16:42:08.000+0300",
+    "resolution_date": "2020-05-29T13:22:05.000+0300",
+    "updated_date": "2020-05-29T13:26:22.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-184619",
+    "summary": "Piglins riding on other entities float",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-20T16:35:10.000+0300",
+    "resolution_date": "2020-05-29T13:22:05.000+0300",
+    "updated_date": "2020-07-01T20:15:25.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-184609",
+    "summary": "Text renders in the wrong order",
+    "labels": [
+      "interfaces",
+      "order",
+      "rendering",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-20T16:15:00.000+0300",
+    "resolution_date": "2020-05-27T17:36:25.000+0300",
+    "updated_date": "2020-06-20T17:13:49.000+0300",
+    "watches": 44,
+    "votes": 90
+  },
+  {
+    "id": "MC-184482",
+    "summary": "End Gateways don't generate after defeating the ender dragon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-19T11:36:15.000+0300",
+    "resolution_date": "2020-05-27T18:28:52.000+0300",
+    "updated_date": "2021-07-24T00:07:10.000+0300",
+    "watches": 15,
+    "votes": 26
+  },
+  {
+    "id": "MC-183860",
+    "summary": "Zombie villager converted from villager gets PersistenceRequired depending on whether attacking zombie had it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour",
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-14T01:49:27.000+0300",
+    "resolution_date": "2020-05-28T15:54:26.000+0300",
+    "updated_date": "2020-05-29T13:36:30.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-183808",
+    "summary": "\"Bee Our Guest\" advancement does not trigger when harvesting honey from bee nests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-13T20:46:46.000+0300",
+    "resolution_date": "2020-05-28T16:16:20.000+0300",
+    "updated_date": "2020-11-04T14:20:02.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-183718",
+    "summary": "Stronghold end portal can be overwritten by ocean ruins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-13T07:05:11.000+0300",
+    "resolution_date": "2020-05-28T16:57:23.000+0300",
+    "updated_date": "2020-05-29T13:35:50.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-183496",
+    "summary": "Enchantment glint doesn't render in boat interior",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-11T16:01:46.000+0300",
+    "resolution_date": "2020-05-28T16:24:41.000+0300",
+    "updated_date": "2020-06-25T22:07:12.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-183374",
+    "summary": "Text on signs stops rendering while still in view",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-10T16:24:55.000+0300",
+    "resolution_date": "2020-05-27T17:44:56.000+0300",
+    "updated_date": "2020-05-27T17:47:28.000+0300",
+    "watches": 0,
+    "votes": 9
+  },
+  {
+    "id": "MC-183298",
+    "summary": "Piglins crash game when reloaded if a block tag called within the piglin_repellents tag cannot be read",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-10T00:48:11.000+0300",
+    "resolution_date": "2020-05-31T15:08:26.000+0300",
+    "updated_date": "2020-05-31T15:08:26.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-183275",
+    "summary": "Basalt pillars end above the lava in Java Edition but inside of the lava in Bedrock Edition",
+    "labels": [
+      "nether",
+      "parity",
+      "soul_sand_valley",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-09T22:01:32.000+0300",
+    "resolution_date": "2020-05-28T16:16:22.000+0300",
+    "updated_date": "2020-05-28T16:16:22.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-182967",
+    "summary": "Throwing ender pearl whilst mounted doesn't teleport you",
+    "labels": [
+      "ender_pearl",
+      "mount",
+      "teleport",
+      "throw"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w20a",
+      "20w22a"
+    ],
+    "creation_date": "2020-05-07T20:38:38.000+0300",
+    "resolution_date": "2020-05-28T16:24:40.000+0300",
+    "updated_date": "2020-05-28T16:24:40.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-182919",
+    "summary": "Horse armour stops rendering if you equip the horse with a saddle by right-clicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-07T14:20:52.000+0300",
+    "resolution_date": "2020-05-28T16:24:42.000+0300",
+    "updated_date": "2020-06-26T12:46:01.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-182888",
+    "summary": "Compasses and clocks work like normal in villager trading GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-07T08:56:12.000+0300",
+    "resolution_date": "2020-05-27T15:37:06.000+0300",
+    "updated_date": "2020-06-16T21:37:56.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-182666",
+    "summary": "Parity issue: Piglins do not have a dancing animation when celebrating their victory",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-06T09:35:36.000+0300",
+    "resolution_date": "2020-05-28T16:44:42.000+0300",
+    "updated_date": "2020-05-28T16:44:42.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-182336",
+    "summary": "Entities sometimes do not render behind the wither armor effect of the Wither",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-04T06:07:35.000+0300",
+    "resolution_date": "2020-05-29T23:29:48.000+0300",
+    "updated_date": "2020-05-29T23:29:48.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-181827",
+    "summary": "Northwest bias in bee movement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-05-01T00:28:03.000+0300",
+    "resolution_date": "2020-06-02T07:48:50.000+0300",
+    "updated_date": "2020-11-23T16:56:53.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-181555",
+    "summary": "When replacing a snow layer with a grass block, podzol or mycelium, the block has the \"snowy=true\" blockstate",
+    "labels": [
+      "grass_block",
+      "snow_layer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-30T00:08:13.000+0300",
+    "resolution_date": "2020-05-28T16:24:44.000+0300",
+    "updated_date": "2020-07-30T17:52:49.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-181529",
+    "summary": "Ctrl + Pick Block no longer copies skull / head NBT data properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-29T22:58:30.000+0300",
+    "resolution_date": "2020-05-28T16:24:43.000+0300",
+    "updated_date": "2020-05-28T16:24:43.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-181464",
+    "summary": "When a piglin picks up a shield the gear equip sound is infinitely spammed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-29T20:34:26.000+0300",
+    "resolution_date": "2020-05-28T16:31:14.000+0300",
+    "updated_date": "2020-05-28T16:31:14.000+0300",
+    "watches": 1,
+    "votes": 8
+  },
+  {
+    "id": "MC-181108",
+    "summary": "Right-to-left text is displayed left-to-right at all times",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-27T19:51:24.000+0300",
+    "resolution_date": "2020-05-25T17:23:30.000+0300",
+    "updated_date": "2020-05-29T13:37:59.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-180877",
+    "summary": "Fire does not spread from netherack to other blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-26T10:33:30.000+0300",
+    "resolution_date": "2020-05-27T16:50:43.000+0300",
+    "updated_date": "2020-05-27T16:50:43.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-180771",
+    "summary": "Observer not updating when tree grows leaves in front of it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-25T20:02:55.000+0300",
+    "resolution_date": "2020-05-28T16:24:44.000+0300",
+    "updated_date": "2020-06-26T15:08:57.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-180098",
+    "summary": "Farmer villagers' farming behavior is broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-23T09:52:15.000+0300",
+    "resolution_date": "2020-05-28T16:57:18.000+0300",
+    "updated_date": "2020-06-02T22:04:00.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-179909",
+    "summary": "2x2 trees sometimes fail to grow, but if they grow, they always grow on the surface",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-22T20:49:58.000+0300",
+    "resolution_date": "2020-05-27T18:28:51.000+0300",
+    "updated_date": "2020-05-31T03:30:12.000+0300",
+    "watches": 48,
+    "votes": 72
+  },
+  {
+    "id": "MC-179890",
+    "summary": "Fire stops ticking forever if gamerule doFireTick is set to false once",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-22T20:12:30.000+0300",
+    "resolution_date": "2020-05-27T16:50:43.000+0300",
+    "updated_date": "2020-05-30T02:40:38.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-179020",
+    "summary": "Jigsaw blocks do not disappear post-gen when structure is spawned using the 'Generate' action from an initial jigsaw",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-16T17:46:37.000+0300",
+    "resolution_date": "2020-05-27T18:28:51.000+0300",
+    "updated_date": "2020-05-27T18:28:51.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-178576",
+    "summary": "Projectile protection has no effect on wither skulls, unlike ghast fireballs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-14T01:45:41.000+0300",
+    "resolution_date": "2020-08-06T09:36:46.000+0300",
+    "updated_date": "2022-04-05T22:23:46.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-178441",
+    "summary": "Endermen don't avoid the wither's skull projectiles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-13T02:51:27.000+0300",
+    "resolution_date": "2020-05-28T17:22:27.000+0300",
+    "updated_date": "2021-12-23T20:06:28.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-178003",
+    "summary": "Fossils can generate inside of desert temples",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-09T10:55:25.000+0300",
+    "resolution_date": "2020-05-25T18:33:45.000+0300",
+    "updated_date": "2020-05-29T13:31:03.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-177970",
+    "summary": "Player can occasionally be forced into crawling in one block tall spaces",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-09T05:30:18.000+0300",
+    "resolution_date": "2020-05-27T15:37:05.000+0300",
+    "updated_date": "2022-02-11T12:56:55.000+0200",
+    "watches": 19,
+    "votes": 46
+  },
+  {
+    "id": "MC-177962",
+    "summary": "Giant fungi can replace waterlogged blocks when growing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-09T04:39:45.000+0300",
+    "resolution_date": "2020-05-28T16:16:27.000+0300",
+    "updated_date": "2020-05-28T16:16:27.000+0300",
+    "watches": 14,
+    "votes": 45
+  },
+  {
+    "id": "MC-177888",
+    "summary": "Blackstone can\u2019t be used to repair stone tools and weapons using an anvil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-08T22:36:52.000+0300",
+    "resolution_date": "2020-05-26T16:39:02.000+0300",
+    "updated_date": "2020-05-26T16:39:02.000+0300",
+    "watches": 6,
+    "votes": 18
+  },
+  {
+    "id": "MC-177870",
+    "summary": "Soul campfire doesn\u2019t deal twice the amount of damage as normal campfire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-08T21:32:23.000+0300",
+    "resolution_date": "2020-05-25T18:33:33.000+0300",
+    "updated_date": "2020-05-31T20:05:58.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-177626",
+    "summary": "Spruce generation is broken",
+    "labels": [
+      "tree-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a",
+      "1.16 Pre-release 3"
+    ],
+    "creation_date": "2020-04-06T23:19:24.000+0300",
+    "resolution_date": "2020-06-09T17:46:17.000+0300",
+    "updated_date": "2020-06-29T17:01:31.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-177265",
+    "summary": "Piglin and Zombified Piglin right arm/leg/loincloth textures are identical to the left ones",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-03T13:53:04.000+0300",
+    "resolution_date": "2020-05-26T15:18:45.000+0300",
+    "updated_date": "2020-07-06T00:38:52.000+0300",
+    "watches": 7,
+    "votes": 0
+  },
+  {
+    "id": "MC-177150",
+    "summary": "Ticking entity  java.lang.IllegalStateException: Tag minecraft:fire used before it was bound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-04-02T22:44:16.000+0300",
+    "resolution_date": "2020-05-25T19:18:23.000+0300",
+    "updated_date": "2021-07-23T22:59:25.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-177075",
+    "summary": "Taking product out of stonecutter produces no subtitle",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w21a",
+      "20w22a"
+    ],
+    "creation_date": "2020-04-02T19:13:08.000+0300",
+    "resolution_date": "2020-05-29T19:06:36.000+0300",
+    "updated_date": "2021-10-12T05:34:42.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-176628",
+    "summary": "Frost Walker protects player from fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-29T00:21:54.000+0200",
+    "resolution_date": "2020-05-28T16:16:28.000+0300",
+    "updated_date": "2020-05-28T16:16:28.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-176147",
+    "summary": "Basalt randomly gets cut off",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-26T00:00:44.000+0200",
+    "resolution_date": "2020-05-28T16:57:19.000+0300",
+    "updated_date": "2020-05-28T16:57:19.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-176051",
+    "summary": "Glowstone in the offhand sets spawn point and charges respawn anchor at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-25T20:51:29.000+0200",
+    "resolution_date": "2020-05-28T14:11:05.000+0300",
+    "updated_date": "2020-05-28T14:11:05.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-176020",
+    "summary": "If a player is riding a strider, other players can not see the animation of the strider",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-25T20:19:30.000+0200",
+    "resolution_date": "2020-05-27T16:50:41.000+0300",
+    "updated_date": "2020-05-27T16:50:41.000+0300",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-175553",
+    "summary": "Piglins don't drop their inventories when converted to zombified piglins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-21T05:54:21.000+0200",
+    "resolution_date": "2020-05-29T13:05:46.000+0300",
+    "updated_date": "2020-05-31T20:03:56.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-174957",
+    "summary": "Held items are rendered in front of the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-16T07:22:32.000+0200",
+    "resolution_date": "2020-05-29T23:29:52.000+0300",
+    "updated_date": "2020-05-29T23:29:52.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-174956",
+    "summary": "Some entities behind the world border are rendered in front of it instead of behind it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-16T07:20:11.000+0200",
+    "resolution_date": "2020-05-30T13:56:40.000+0300",
+    "updated_date": "2020-05-30T13:56:49.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-174932",
+    "summary": "Right-to-left text appears left-to-right after game start until language is changed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-15T22:39:46.000+0200",
+    "resolution_date": "2020-05-25T17:23:29.000+0300",
+    "updated_date": "2020-05-25T17:23:29.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-174692",
+    "summary": "Shroomlights, wart blocks and vines can overwrite the stem of large Nether fungi",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-13T08:15:28.000+0200",
+    "resolution_date": "2020-05-28T16:57:25.000+0300",
+    "updated_date": "2020-05-29T11:08:36.000+0300",
+    "watches": 11,
+    "votes": 25
+  },
+  {
+    "id": "MC-174404",
+    "summary": "Arrows are rendered in front of the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-10T19:51:41.000+0200",
+    "resolution_date": "2020-05-29T23:29:57.000+0300",
+    "updated_date": "2020-05-29T23:29:57.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-174325",
+    "summary": "Mushrooms or Nether fungi can replace the stem of large nether fungi (trees)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-09T21:30:04.000+0200",
+    "resolution_date": "2020-05-28T16:57:24.000+0300",
+    "updated_date": "2020-06-15T15:06:43.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-174307",
+    "summary": "Nether fossil stops basalt pillar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-03-09T17:16:39.000+0200",
+    "resolution_date": "2020-05-28T16:57:19.000+0300",
+    "updated_date": "2020-05-28T16:57:19.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-173552",
+    "summary": "Nether Fossil support islands are sometimes cut off at chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w12a",
+      "20w22a"
+    ],
+    "creation_date": "2020-03-01T23:00:22.000+0200",
+    "resolution_date": "2020-05-27T18:28:51.000+0300",
+    "updated_date": "2020-05-29T13:25:16.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-173404",
+    "summary": "Desync when mounting an entity while sneaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a",
+      "1.16 Pre-release 3"
+    ],
+    "creation_date": "2020-02-29T00:31:53.000+0200",
+    "resolution_date": "2020-06-10T12:34:45.000+0300",
+    "updated_date": "2020-11-13T14:29:32.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-173197",
+    "summary": "Zombified Piglin does not hold its arms upwards like a zombie",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-26T21:31:23.000+0200",
+    "resolution_date": "2020-05-28T15:54:14.000+0300",
+    "updated_date": "2020-05-30T16:06:05.000+0300",
+    "watches": 15,
+    "votes": 28
+  },
+  {
+    "id": "MC-173063",
+    "summary": "Redstone wire doesn't update connections going up or down when being placed by commands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-24T20:53:54.000+0200",
+    "resolution_date": "2020-05-28T17:22:29.000+0300",
+    "updated_date": "2020-05-28T19:36:18.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-173032",
+    "summary": "Fossils can overwrite the stronghold end portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-24T03:36:46.000+0200",
+    "resolution_date": "2020-05-25T18:33:33.000+0300",
+    "updated_date": "2020-05-29T13:24:18.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-172479",
+    "summary": "Hoglins immediately attack invisible players",
+    "labels": [
+      "attack",
+      "hoglin",
+      "invisibility",
+      "player"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-16T12:14:40.000+0200",
+    "resolution_date": "2020-05-28T16:30:54.000+0300",
+    "updated_date": "2020-05-28T16:30:54.000+0300",
+    "watches": 5,
+    "votes": 15
+  },
+  {
+    "id": "MC-172272",
+    "summary": "/clear removes all items from crafting grid regardless of item type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-15T03:54:00.000+0200",
+    "resolution_date": "2020-05-25T15:47:38.000+0300",
+    "updated_date": "2020-05-28T13:36:23.000+0300",
+    "watches": 24,
+    "votes": 52
+  },
+  {
+    "id": "MC-172197",
+    "summary": "Nylium is not dropping netherrack when it is broken by pickaxe",
+    "labels": [
+      "mojang_internal_1",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Loot tables",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-14T22:23:51.000+0200",
+    "resolution_date": "2020-05-28T16:16:25.000+0300",
+    "updated_date": "2020-05-28T16:16:25.000+0300",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-172142",
+    "summary": "Items are invisible while being picked up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-14T20:07:01.000+0200",
+    "resolution_date": "2020-05-28T14:11:05.000+0300",
+    "updated_date": "2020-06-02T05:57:49.000+0300",
+    "watches": 20,
+    "votes": 43
+  },
+  {
+    "id": "MC-172079",
+    "summary": "The /clear command output doesn't count items in the inventory crafting grid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-14T16:58:27.000+0200",
+    "resolution_date": "2020-05-28T16:25:37.000+0300",
+    "updated_date": "2020-05-28T16:25:37.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-171553",
+    "summary": "Basalt can generate inside Nether fortresses",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-02-08T19:02:54.000+0200",
+    "resolution_date": "2020-05-28T16:57:19.000+0300",
+    "updated_date": "2020-05-29T17:19:31.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-169891",
+    "summary": "Zombie Reinforcements can spawn in regardless if light level is higher than 9 in nether (hard difficulty)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-01-15T18:32:33.000+0200",
+    "resolution_date": "2020-05-26T16:39:02.000+0300",
+    "updated_date": "2020-05-27T17:28:31.000+0300",
+    "watches": 4,
+    "votes": 18
+  },
+  {
+    "id": "MC-169683",
+    "summary": "Bells cannot be hung from certain blocks that have a wide enough base",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2020-01-10T21:27:39.000+0200",
+    "resolution_date": "2020-05-29T16:46:04.000+0300",
+    "updated_date": "2020-06-04T23:24:13.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-169079",
+    "summary": "Held items do not render behind semi-transparent entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-12-29T22:06:49.000+0200",
+    "resolution_date": "2020-05-29T21:33:20.000+0300",
+    "updated_date": "2020-05-29T21:33:20.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-168485",
+    "summary": "Chests do not render behind experience orbs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-12-21T07:29:47.000+0200",
+    "resolution_date": "2020-05-29T19:13:43.000+0300",
+    "updated_date": "2020-06-23T17:16:25.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-168311",
+    "summary": "Fishing line disappears when in front of entities and block entites",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-12-18T18:09:37.000+0200",
+    "resolution_date": "2020-05-29T18:58:46.000+0300",
+    "updated_date": "2020-06-17T21:19:21.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-168137",
+    "summary": "Entities sometimes do not render behind semi-transparent entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-12-16T09:36:04.000+0200",
+    "resolution_date": "2020-05-29T23:29:43.000+0300",
+    "updated_date": "2020-11-09T12:56:20.000+0200",
+    "watches": 5,
+    "votes": 16
+  },
+  {
+    "id": "MC-167342",
+    "summary": "Structure block outline renders behind clouds and translucent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-12-08T19:48:53.000+0200",
+    "resolution_date": "2020-05-29T21:01:50.000+0300",
+    "updated_date": "2020-05-29T21:01:50.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-167273",
+    "summary": "Some special rendering blocks render in front of entity hitboxes ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-12-07T23:47:55.000+0200",
+    "resolution_date": "2020-05-29T21:00:38.000+0300",
+    "updated_date": "2020-05-29T21:00:38.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-167090",
+    "summary": "Entity hitboxes are rendered behind item frames",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-12-04T12:56:58.000+0200",
+    "resolution_date": "2020-05-29T20:59:47.000+0300",
+    "updated_date": "2021-08-18T16:40:00.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-166729",
+    "summary": "Fishing lines render behind water, other transparent blocks, and clouds",
+    "labels": [
+      "cloud",
+      "fishing_rod",
+      "rendering",
+      "transparent-block",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-28T22:33:34.000+0200",
+    "resolution_date": "2020-05-29T17:17:39.000+0300",
+    "updated_date": "2021-01-02T23:22:11.000+0200",
+    "watches": 9,
+    "votes": 18
+  },
+  {
+    "id": "MC-166725",
+    "summary": "Entity hitboxes render behind all translucent blocks and clouds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-28T21:48:40.000+0200",
+    "resolution_date": "2020-05-29T20:57:50.000+0300",
+    "updated_date": "2021-08-18T16:39:33.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-166717",
+    "summary": "Block outlines/hitboxes render behind all translucent blocks and clouds",
+    "labels": [
+      "block-outlines",
+      "clouds",
+      "hitbox",
+      "rendering",
+      "translucency-occlusion",
+      "translucent-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-28T21:15:57.000+0200",
+    "resolution_date": "2020-05-29T17:17:26.000+0300",
+    "updated_date": "2022-02-28T14:54:27.000+0200",
+    "watches": 9,
+    "votes": 23
+  },
+  {
+    "id": "MC-166398",
+    "summary": "Mobs do not render behind experience orbs",
+    "labels": [
+      "translucency-occlusion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-25T22:10:36.000+0200",
+    "resolution_date": "2020-05-29T16:39:37.000+0300",
+    "updated_date": "2022-03-01T13:38:36.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-166297",
+    "summary": "Items do not render behind experience orbs",
+    "labels": [
+      "translucency-occlusion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-24T17:16:39.000+0200",
+    "resolution_date": "2020-05-29T16:40:47.000+0300",
+    "updated_date": "2022-03-01T13:38:41.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-166135",
+    "summary": "Bees inside a nest/hive don't grow up or get their breeding timer reset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-23T02:29:01.000+0200",
+    "resolution_date": "2020-05-28T16:16:23.000+0300",
+    "updated_date": "2022-02-09T01:42:52.000+0200",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-166006",
+    "summary": "Items do not render behind transparent blocks while being picked up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-22T00:19:24.000+0200",
+    "resolution_date": "2020-05-30T13:33:33.000+0300",
+    "updated_date": "2020-05-30T13:33:33.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-165968",
+    "summary": "Transparent blocks do not render behind experience orbs",
+    "labels": [
+      "translucency-occlusion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-21T20:14:07.000+0200",
+    "resolution_date": "2020-05-29T16:40:28.000+0300",
+    "updated_date": "2022-03-01T13:38:47.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-165966",
+    "summary": "Shadows do not render behind experience orbs",
+    "labels": [
+      "translucency-occlusion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-21T20:09:17.000+0200",
+    "resolution_date": "2020-05-29T16:41:11.000+0300",
+    "updated_date": "2022-03-01T13:38:51.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-165962",
+    "summary": "Some transparent items make transparent blocks and beacon beams not render behind them when dropped (again)",
+    "labels": [
+      "item-entity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-21T20:01:10.000+0200",
+    "resolution_date": "2020-05-29T14:21:05.000+0300",
+    "updated_date": "2020-05-29T20:45:57.000+0300",
+    "watches": 11,
+    "votes": 20
+  },
+  {
+    "id": "MC-165958",
+    "summary": "Clouds, transparent blocks, and other semi-transparent textures do not render behind semi-transparent entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-21T19:54:19.000+0200",
+    "resolution_date": "2020-05-29T19:58:49.000+0300",
+    "updated_date": "2022-02-25T17:03:34.000+0200",
+    "watches": 11,
+    "votes": 23
+  },
+  {
+    "id": "MC-165549",
+    "summary": "Arm swing animation is still played when drinking an item",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-11-13T22:47:32.000+0200",
+    "resolution_date": "2020-05-28T19:30:30.000+0300",
+    "updated_date": "2021-08-18T16:39:33.000+0300",
+    "watches": 2,
+    "votes": 12
+  },
+  {
+    "id": "MC-164233",
+    "summary": "\"Skilled\" villagers without job site do not get precedence over unemployed villagers ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-10-21T02:57:18.000+0300",
+    "resolution_date": "2020-05-26T21:08:05.000+0300",
+    "updated_date": "2020-12-18T05:31:56.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-164111",
+    "summary": "Transparent falling blocks make entities and block entities invisible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-10-19T12:20:31.000+0300",
+    "resolution_date": "2020-05-29T18:54:44.000+0300",
+    "updated_date": "2020-05-29T18:54:44.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-164056",
+    "summary": "Clouds do not render behind moving transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-10-18T15:59:02.000+0300",
+    "resolution_date": "2020-05-30T13:32:19.000+0300",
+    "updated_date": "2020-05-30T13:32:19.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-164047",
+    "summary": "Moving transparent blocks cause transparent blocks behind them to not render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-10-18T13:27:08.000+0300",
+    "resolution_date": "2020-05-30T13:32:32.000+0300",
+    "updated_date": "2020-05-30T19:02:03.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-163910",
+    "summary": "Hand animation sometimes plays for a second time with high ping",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-10-17T01:23:38.000+0300",
+    "resolution_date": "2020-05-28T19:30:27.000+0300",
+    "updated_date": "2020-06-06T16:02:40.000+0300",
+    "watches": 19,
+    "votes": 38
+  },
+  {
+    "id": "MC-162665",
+    "summary": "Food does not drop from a campfire when it is put out with a shovel/water bottle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-10-03T19:58:17.000+0300",
+    "resolution_date": "2020-05-26T15:35:05.000+0300",
+    "updated_date": "2020-06-10T19:22:42.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-162428",
+    "summary": "Rain and snow cannot be seen through transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-10-01T14:56:09.000+0300",
+    "resolution_date": "2020-05-30T13:47:29.000+0300",
+    "updated_date": "2020-06-18T22:10:09.000+0300",
+    "watches": 5,
+    "votes": 19
+  },
+  {
+    "id": "MC-162346",
+    "summary": "Clouds do not render behind transparent particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-09-30T19:06:24.000+0300",
+    "resolution_date": "2020-05-29T19:20:57.000+0300",
+    "updated_date": "2021-06-30T06:43:55.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-162341",
+    "summary": "World border is rendered behind clouds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-09-30T18:11:58.000+0300",
+    "resolution_date": "2020-05-30T13:29:06.000+0300",
+    "updated_date": "2020-05-30T13:29:06.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-162340",
+    "summary": "World border is rendered behind transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-09-30T18:10:46.000+0300",
+    "resolution_date": "2020-05-28T17:03:56.000+0300",
+    "updated_date": "2020-06-16T11:29:48.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-161917",
+    "summary": "Particles do not render underwater, behind water or behind other transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-09-27T22:33:47.000+0300",
+    "resolution_date": "2020-05-29T16:00:26.000+0300",
+    "updated_date": "2021-03-20T09:44:08.000+0200",
+    "watches": 60,
+    "votes": 163
+  },
+  {
+    "id": "MC-161899",
+    "summary": "Clouds do not render behind transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-09-27T21:17:39.000+0300",
+    "resolution_date": "2020-05-30T02:43:47.000+0300",
+    "updated_date": "2021-07-28T10:59:07.000+0300",
+    "watches": 11,
+    "votes": 25
+  },
+  {
+    "id": "MC-157436",
+    "summary": "Player position is constantly reset when clicking with a sword or a trident onto the ground in creative mode",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-07-22T16:11:30.000+0300",
+    "resolution_date": "2020-05-27T18:47:24.000+0300",
+    "updated_date": "2021-07-09T06:10:42.000+0300",
+    "watches": 28,
+    "votes": 79
+  },
+  {
+    "id": "MC-157303",
+    "summary": "Villagers wake up and seek a new \"home\" (bed) while living in a 2 high house",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-07-21T05:40:10.000+0300",
+    "resolution_date": "2020-05-25T18:28:35.000+0300",
+    "updated_date": "2020-05-25T18:28:35.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-156866",
+    "summary": "Villagers level from Apprentice to Journeyman with less experience than shown by XP bar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-07-16T02:11:28.000+0300",
+    "resolution_date": "2020-05-25T18:33:32.000+0300",
+    "updated_date": "2020-05-25T18:33:32.000+0300",
+    "watches": 3,
+    "votes": 14
+  },
+  {
+    "id": "MC-156161",
+    "summary": "Some chest loot is randomized across the same seed, unlike before 1.14",
+    "labels": [
+      "chest",
+      "loot-table",
+      "mojang_internal_1",
+      "seed",
+      "village",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-07-06T22:05:49.000+0300",
+    "resolution_date": "2020-05-28T14:11:03.000+0300",
+    "updated_date": "2020-05-30T23:12:48.000+0300",
+    "watches": 12,
+    "votes": 23
+  },
+  {
+    "id": "MC-153787",
+    "summary": "Zombie Reinforcements can spawn on glass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-06-04T11:22:27.000+0300",
+    "resolution_date": "2020-05-26T16:39:03.000+0300",
+    "updated_date": "2020-08-19T17:23:38.000+0300",
+    "watches": 10,
+    "votes": 23
+  },
+  {
+    "id": "MC-150806",
+    "summary": "Multiple villagers are attached to the same profession block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-05-04T22:55:35.000+0300",
+    "resolution_date": "2020-05-26T21:08:30.000+0300",
+    "updated_date": "2022-02-24T09:22:55.000+0200",
+    "watches": 63,
+    "votes": 118
+  },
+  {
+    "id": "MC-148893",
+    "summary": "Fox spawners do not render the fox inside of the block",
+    "labels": [
+      "Spawner",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-04-20T18:56:00.000+0300",
+    "resolution_date": "2020-05-25T18:33:32.000+0300",
+    "updated_date": "2020-08-23T20:40:36.000+0300",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-143443",
+    "summary": "Redstone dust block states don't update properly if the wire is broken by a piston",
+    "labels": [
+      "piston",
+      "redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2019-01-31T17:34:53.000+0200",
+    "resolution_date": "2020-05-28T19:37:01.000+0300",
+    "updated_date": "2020-12-18T05:31:12.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-137102",
+    "summary": "Hoe doesn't lose durability if used to mine blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2018-09-30T00:09:16.000+0300",
+    "resolution_date": "2020-06-04T16:14:59.000+0300",
+    "updated_date": "2020-06-04T16:15:24.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-136760",
+    "summary": "A passenger of a boat is not saved if the passenger is in a different chunk than the boat",
+    "labels": [
+      "boat",
+      "boat-passenger",
+      "chunk",
+      "passenger",
+      "save"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2018-09-06T12:02:43.000+0300",
+    "resolution_date": "2020-06-08T20:44:13.000+0300",
+    "updated_date": "2020-06-08T20:44:13.000+0300",
+    "watches": 11,
+    "votes": 19
+  },
+  {
+    "id": "MC-134755",
+    "summary": "All short mobs drown just below the surface of water",
+    "labels": [
+      "baby-mob",
+      "cats",
+      "drowning",
+      "endermite",
+      "foxes",
+      "hitbox",
+      "mob",
+      "silverfish",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14 Pre-Release 1",
+      "20w22a"
+    ],
+    "creation_date": "2018-07-24T22:23:11.000+0300",
+    "resolution_date": "2020-05-28T15:54:13.000+0300",
+    "updated_date": "2020-07-07T15:23:28.000+0300",
+    "watches": 25,
+    "votes": 59
+  },
+  {
+    "id": "MC-134637",
+    "summary": "Comparators on slabs drop when loading them with structure blocks",
+    "labels": [
+      "comparator",
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2018-07-23T06:10:05.000+0300",
+    "resolution_date": "2020-06-04T00:07:47.000+0300",
+    "updated_date": "2021-01-06T23:19:11.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-124812",
+    "summary": "Endermen holding a block can despawn",
+    "labels": [
+      "despawning",
+      "enderman"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2018-02-05T13:36:01.000+0200",
+    "resolution_date": "2020-05-28T15:54:13.000+0300",
+    "updated_date": "2020-07-17T01:19:43.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-121932",
+    "summary": "Villager trade with same items but different NBT data",
+    "labels": [
+      "item",
+      "villager",
+      "villager-trade"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2017-11-13T16:20:33.000+0200",
+    "resolution_date": "2020-06-03T16:12:00.000+0300",
+    "updated_date": "2020-06-03T16:12:01.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-120805",
+    "summary": "Pig rotation is wrong when you see a player riding them with carrot on a stick",
+    "labels": [
+      "pig-riding",
+      "rotation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2017-09-23T10:10:25.000+0300",
+    "resolution_date": "2020-05-27T16:50:41.000+0300",
+    "updated_date": "2020-05-27T16:50:41.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-118594",
+    "summary": "Removal of Log4J2Plugins.dat causing a slowdown of 3 secs on startup while it has to rescan all classes",
+    "labels": [
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2017-06-11T17:51:23.000+0300",
+    "resolution_date": "2020-05-26T16:30:59.000+0300",
+    "updated_date": "2020-05-26T16:30:59.000+0300",
+    "watches": 7,
+    "votes": 2
+  },
+  {
+    "id": "MC-112131",
+    "summary": "Intersecting dungeons: spawner replaced by cobblestone",
+    "labels": [
+      "cobblestone",
+      "dungeon",
+      "mob-spawner",
+      "spawner",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2017-01-01T18:56:28.000+0200",
+    "resolution_date": "2020-05-28T16:57:22.000+0300",
+    "updated_date": "2020-10-01T04:59:53.000+0300",
+    "watches": 9,
+    "votes": 7
+  },
+  {
+    "id": "MC-4065",
+    "summary": "Messages/commands sent while in a bed won't be remembered in sent history",
+    "labels": [
+      "bed",
+      "chat",
+      "chat-history"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2012-12-02T11:16:59.000+0200",
+    "resolution_date": "2020-05-26T15:35:05.000+0300",
+    "updated_date": "2021-06-05T01:39:23.000+0300",
+    "watches": 18,
+    "votes": 32
+  },
+  {
+    "id": "MC-667",
+    "summary": "Lily pads can be placed intersecting entities",
+    "labels": [
+      "collision",
+      "lily_pad",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w22a"
+    ],
+    "creation_date": "2012-10-26T06:13:12.000+0300",
+    "resolution_date": "2020-05-28T14:11:03.000+0300",
+    "updated_date": "2021-04-07T20:25:58.000+0300",
+    "watches": 16,
+    "votes": 23
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "MC-176004",
+    "summary": "Cannot interact with the world after dying in the end or the nether without a valid spawn point",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2020-03-25T20:06:18.000+0200",
+    "resolution_date": "2020-03-26T09:07:57.000+0200",
+    "updated_date": "2020-03-28T17:55:40.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-175988",
+    "summary": "Dying without a valid spawnpoint causes a softlock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2020-03-25T19:44:25.000+0200",
+    "resolution_date": "2020-03-26T09:08:29.000+0200",
+    "updated_date": "2020-03-27T11:52:48.000+0200",
+    "watches": 24,
+    "votes": 63
+  },
+  {
+    "id": "MC-175604",
+    "summary": "Iron golems do not always spawn in villages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2020-03-21T18:35:38.000+0200",
+    "resolution_date": "2020-03-28T20:25:36.000+0200",
+    "updated_date": "2020-03-28T20:25:36.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-175315",
+    "summary": "the Nether respawn anchor doesnt let me respawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2020-03-19T14:14:27.000+0200",
+    "resolution_date": "2020-03-27T10:43:47.000+0200",
+    "updated_date": "2020-06-20T15:50:17.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-175241",
+    "summary": "Carpets obstruct respawn anchors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2020-03-18T22:54:22.000+0200",
+    "resolution_date": "2020-03-27T10:44:15.000+0200",
+    "updated_date": "2020-03-27T10:44:15.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-175177",
+    "summary": "Exhausting, breaking or obstructing the respawn anchor creates ghost blocks in the overworld when breaking blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2020-03-18T20:11:49.000+0200",
+    "resolution_date": "2020-03-26T11:13:59.000+0200",
+    "updated_date": "2020-07-28T06:08:21.000+0300",
+    "watches": 11,
+    "votes": 20
+  },
+  {
+    "id": "MC-173013",
+    "summary": "Cast fishing rod is rendered as not-cast in first person when replaced with other fishing rod",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2020-02-23T22:59:00.000+0200",
+    "resolution_date": "2020-03-28T20:15:02.000+0200",
+    "updated_date": "2021-08-18T16:39:56.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-160020",
+    "summary": "Pulled bow changes its texture to the unpulled one when the durability changes",
+    "labels": [
+      "animation",
+      "bow",
+      "durability",
+      "rendering",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2019-08-29T11:12:40.000+0300",
+    "resolution_date": "2020-03-28T20:10:44.000+0200",
+    "updated_date": "2020-08-11T22:45:28.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-156600",
+    "summary": "Shields appear to stop blocking when they have taken damage and are still in use",
+    "labels": [
+      "blocking",
+      "damage",
+      "first-person",
+      "shield",
+      "third-person"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2019-07-12T18:34:25.000+0300",
+    "resolution_date": "2020-03-28T20:05:51.000+0200",
+    "updated_date": "2020-04-05T20:12:56.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-156306",
+    "summary": "Villager not throwing bread during idle/meet up times",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w13b"
+    ],
+    "creation_date": "2019-07-09T00:40:56.000+0300",
+    "resolution_date": "2020-03-30T00:19:26.000+0300",
+    "updated_date": "2020-09-08T00:50:20.000+0300",
+    "watches": 10,
+    "votes": 22
+  },
+  {
+    "id": "MC-102439",
+    "summary": "Shield Desynchronises",
+    "labels": [
+      "block",
+      "desync",
+      "multiplayer",
+      "shield"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 16w41a",
+      "20w13b"
+    ],
+    "creation_date": "2016-05-23T09:59:43.000+0300",
+    "resolution_date": "2020-04-01T09:20:15.000+0300",
+    "updated_date": "2020-04-01T09:20:15.000+0300",
+    "watches": 14,
+    "votes": 15
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "MC-151126",
+    "summary": "Villagers won't detect beds when doors on the way",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-08T02:13:39.000+0300",
+    "resolution_date": "2019-05-11T14:31:51.000+0300",
+    "updated_date": "2021-01-26T13:44:59.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-151097",
+    "summary": "Villagers can't use doors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-07T23:52:16.000+0300",
+    "resolution_date": "2019-05-09T22:17:37.000+0300",
+    "updated_date": "2019-05-10T17:23:42.000+0300",
+    "watches": 14,
+    "votes": 24
+  },
+  {
+    "id": "MC-151068",
+    "summary": "Crash when breaking a work station: Ticking entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-07T21:08:01.000+0300",
+    "resolution_date": "2019-05-09T23:20:37.000+0300",
+    "updated_date": "2019-05-12T02:32:03.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-151057",
+    "summary": "Redstone components sometimes don't get updated properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-07T19:56:17.000+0300",
+    "resolution_date": "2019-05-09T15:26:20.000+0300",
+    "updated_date": "2019-05-22T23:13:04.000+0300",
+    "watches": 14,
+    "votes": 30
+  },
+  {
+    "id": "MC-150847",
+    "summary": "Can load crossbow with air",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-05T09:14:16.000+0300",
+    "resolution_date": "2019-05-09T15:54:31.000+0300",
+    "updated_date": "2019-05-31T02:03:58.000+0300",
+    "watches": 8,
+    "votes": 4
+  },
+  {
+    "id": "MC-150785",
+    "summary": "Villagers and iron golems count towards the passive mob cap",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 2"
+    ],
+    "creation_date": "2019-05-04T18:24:44.000+0300",
+    "resolution_date": "2019-05-09T15:54:32.000+0300",
+    "updated_date": "2019-05-09T15:54:32.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-150218",
+    "summary": "Spawning algorithm stops at chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 2"
+    ],
+    "creation_date": "2019-04-28T22:38:53.000+0300",
+    "resolution_date": "2019-05-09T15:54:33.000+0300",
+    "updated_date": "2019-05-09T15:54:33.000+0300",
+    "watches": 13,
+    "votes": 21
+  }
+]

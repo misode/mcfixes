@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "MC-172580",
+    "summary": "Piglin can no longer pick up items when equipped with a shield",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-17T07:45:55.000+0200",
+    "resolution_date": "2020-02-25T09:36:05.000+0200",
+    "updated_date": "2020-02-25T09:36:06.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-172516",
+    "summary": "Piglin/hoglin become Persistant when within 16 blocks of a player, causing massive lag due to piling up entites",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-16T19:03:07.000+0200",
+    "resolution_date": "2020-02-25T09:38:49.000+0200",
+    "updated_date": "2020-06-05T02:22:44.000+0300",
+    "watches": 3,
+    "votes": 15
+  },
+  {
+    "id": "MC-172486",
+    "summary": "Piglins drop two shields when killed while holding one in their offhand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-16T13:06:53.000+0200",
+    "resolution_date": "2020-02-25T09:38:48.000+0200",
+    "updated_date": "2020-02-25T09:38:48.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-172434",
+    "summary": "Baby piglins don't sound high pitched when zombified",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-16T02:32:29.000+0200",
+    "resolution_date": "2020-02-25T09:38:51.000+0200",
+    "updated_date": "2020-07-19T16:50:21.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-172363",
+    "summary": "Piglins aren't attracted to certain golden items",
+    "labels": [
+      "bell",
+      "clock",
+      "gold_nugget",
+      "light_weighted_pressure_plate",
+      "piglin",
+      "powered_rail"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-15T17:07:10.000+0200",
+    "resolution_date": "2020-02-25T09:38:43.000+0200",
+    "updated_date": "2021-04-21T13:19:08.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-172356",
+    "summary": "Piglin admiring held gold ingot drops it when killed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-15T16:38:33.000+0200",
+    "resolution_date": "2020-02-25T09:38:45.000+0200",
+    "updated_date": "2020-03-22T11:57:31.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-172203",
+    "summary": "Soul sand and Soul soil have no subtitles for breaking, placing and when being walked on",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-14T22:34:23.000+0200",
+    "resolution_date": "2020-02-27T15:43:16.000+0200",
+    "updated_date": "2020-02-27T15:43:16.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-172151",
+    "summary": "Dark oak saplings are called \"Jukebox/Note Blocks\" in English (United Kingdom)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-14T20:25:13.000+0200",
+    "resolution_date": "2020-02-25T10:47:42.000+0200",
+    "updated_date": "2020-03-29T14:25:10.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-172112",
+    "summary": "Hoglin walking sound is subtitled as \"Hoglin dies\" instead of \"Footsteps\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound",
+      "Text"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-14T18:20:00.000+0200",
+    "resolution_date": "2020-02-25T16:18:14.000+0200",
+    "updated_date": "2020-02-25T16:18:14.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-172096",
+    "summary": "Baby hoglins and baby piglins don't seem to play with each other",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-14T17:38:09.000+0200",
+    "resolution_date": "2020-02-25T09:38:42.000+0200",
+    "updated_date": "2020-02-25T09:38:42.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-172090",
+    "summary": "Piglins would rather hold a golden item instead of a crossbow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a",
+      "20w21a"
+    ],
+    "creation_date": "2020-02-14T17:24:36.000+0200",
+    "resolution_date": "2020-05-20T11:43:49.000+0300",
+    "updated_date": "2020-05-21T05:09:12.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-172084",
+    "summary": "Soul Sand and Soul Soil have no sounds",
+    "labels": [
+      "soil_soil",
+      "soul_sand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-14T17:11:31.000+0200",
+    "resolution_date": "2020-02-26T18:00:18.000+0200",
+    "updated_date": "2020-02-26T18:00:18.000+0200",
+    "watches": 12,
+    "votes": 22
+  },
+  {
+    "id": "MC-171961",
+    "summary": "Nether wart block and warped wart block don't have a tool assigned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-12T17:01:38.000+0200",
+    "resolution_date": "2020-02-26T21:56:53.000+0200",
+    "updated_date": "2020-02-29T15:32:05.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-171731",
+    "summary": "Huge Fungi Generate on the Lowest Nylium Block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-09T22:38:07.000+0200",
+    "resolution_date": "2020-02-26T16:52:19.000+0200",
+    "updated_date": "2020-02-26T16:52:19.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-171640",
+    "summary": "Villagers,  vindicators and zombies don't properly interact with the new crimson/warped doors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-09T04:49:37.000+0200",
+    "resolution_date": "2020-03-02T19:03:27.000+0200",
+    "updated_date": "2020-03-02T19:03:27.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-171548",
+    "summary": "Soul Soil is not mined quicker with a shovel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-08T18:47:10.000+0200",
+    "resolution_date": "2020-02-24T10:45:21.000+0200",
+    "updated_date": "2020-02-24T10:45:21.000+0200",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-171517",
+    "summary": "Nylia, Wart bushes, Soul Soil or Soul Sand generate slightly below the nether ceiling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-08T15:47:14.000+0200",
+    "resolution_date": "2020-02-26T20:52:28.000+0200",
+    "updated_date": "2020-02-26T20:57:12.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-171502",
+    "summary": "In the texture files there is 2 sets of textures for the stripped warped stem",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-08T13:43:54.000+0200",
+    "resolution_date": "2020-03-12T06:15:22.000+0200",
+    "updated_date": "2020-03-12T06:15:22.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-171491",
+    "summary": "Fossils spawn floating in the sky in buffet worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-08T11:51:45.000+0200",
+    "resolution_date": "2020-02-25T11:35:37.000+0200",
+    "updated_date": "2020-12-18T05:17:16.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-171457",
+    "summary": "New fungi wrongly named",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-08T04:53:28.000+0200",
+    "resolution_date": "2020-02-28T17:39:19.000+0200",
+    "updated_date": "2020-02-28T17:39:19.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-171448",
+    "summary": "The top textures of stripped stems don't match the normal stem top textures",
+    "labels": [
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-08T04:12:58.000+0200",
+    "resolution_date": "2020-02-25T16:08:05.000+0200",
+    "updated_date": "2020-03-13T21:38:26.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-171245",
+    "summary": "Warped and Crimson signs cannot be crafted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-07T01:15:59.000+0200",
+    "resolution_date": "2020-02-25T11:49:36.000+0200",
+    "updated_date": "2020-02-25T11:49:36.000+0200",
+    "watches": 2,
+    "votes": 13
+  },
+  {
+    "id": "MC-171130",
+    "summary": "Hoglin spawn egg is not sorted alphabetically in the Creative menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-06T14:52:48.000+0200",
+    "resolution_date": "2020-03-01T12:11:17.000+0200",
+    "updated_date": "2020-03-01T12:11:25.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-171077",
+    "summary": "Soul Fire can be setblock on air, while normal Fire can't",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-06T05:23:48.000+0200",
+    "resolution_date": "2020-02-25T15:58:46.000+0200",
+    "updated_date": "2020-02-25T15:58:46.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-171048",
+    "summary": "HugeFungiConfiguration has an unused `planted` field",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-06T03:25:36.000+0200",
+    "resolution_date": "2020-02-26T16:52:19.000+0200",
+    "updated_date": "2020-02-26T16:52:19.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-171025",
+    "summary": "Netherite items aren't pushed in flowing lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-06T02:07:08.000+0200",
+    "resolution_date": "2020-02-25T12:11:17.000+0200",
+    "updated_date": "2020-02-25T12:11:17.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-170986",
+    "summary": "Lava fire spread creates normal fire on soul soil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-06T00:20:45.000+0200",
+    "resolution_date": "2020-02-24T10:45:21.000+0200",
+    "updated_date": "2020-02-24T10:45:21.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-170968",
+    "summary": "Crimson and Warped trees / fungi replace certain blocks when growing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T23:34:08.000+0200",
+    "resolution_date": "2020-02-26T16:52:19.000+0200",
+    "updated_date": "2021-02-16T23:27:28.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-170961",
+    "summary": "Mining speeds for breaking crimson & warped doors, trapdoors, fences, signs, stairs and slabs aren't faster with an axe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T23:29:06.000+0200",
+    "resolution_date": "2020-02-25T15:58:46.000+0200",
+    "updated_date": "2020-03-14T12:27:24.000+0200",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-170954",
+    "summary": "Lava spreads blue fire at invalid locations",
+    "labels": [
+      "blue-fire",
+      "fire-spread",
+      "lava"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T23:09:06.000+0200",
+    "resolution_date": "2020-02-24T10:43:17.000+0200",
+    "updated_date": "2020-02-24T10:43:17.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-170932",
+    "summary": "Cave generator won't cut through crimson_nylium and warped_nylium, leading to lots of floating nylium",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T22:29:38.000+0200",
+    "resolution_date": "2020-02-26T17:10:52.000+0200",
+    "updated_date": "2020-05-02T16:23:37.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-170915",
+    "summary": "Hoglins have inconsistent texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T22:00:08.000+0200",
+    "resolution_date": "2020-02-25T16:08:04.000+0200",
+    "updated_date": "2020-02-25T16:08:05.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-170904",
+    "summary": "When viewed in 3rd person mode, the cape renders incorrectly when sneaking while wearing a chest plate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T21:39:59.000+0200",
+    "resolution_date": "2020-02-25T15:25:50.000+0200",
+    "updated_date": "2020-02-26T00:54:46.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-170890",
+    "summary": "You can get normal fire on soul soil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T21:10:03.000+0200",
+    "resolution_date": "2020-02-24T10:45:21.000+0200",
+    "updated_date": "2020-02-24T10:45:21.000+0200",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-170879",
+    "summary": "Nether fog abruptly changes color when moving across biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T20:51:15.000+0200",
+    "resolution_date": "2020-02-26T19:59:54.000+0200",
+    "updated_date": "2021-02-26T01:24:43.000+0200",
+    "watches": 7,
+    "votes": 1
+  },
+  {
+    "id": "MC-170844",
+    "summary": "Nether sprouts don't break without supporting block",
+    "labels": [
+      "block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T19:56:07.000+0200",
+    "resolution_date": "2020-02-25T15:58:47.000+0200",
+    "updated_date": "2020-02-25T15:58:47.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-170842",
+    "summary": "Potted plant models still missing bottom due to faulty uv",
+    "labels": [
+      "incorrect-uv"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T19:53:57.000+0200",
+    "resolution_date": "2020-02-26T15:11:23.000+0200",
+    "updated_date": "2022-02-21T15:27:02.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-170835",
+    "summary": "Nether large fungi do not kill nylium underneath them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T19:40:40.000+0200",
+    "resolution_date": "2020-03-08T02:50:07.000+0200",
+    "updated_date": "2020-03-26T00:15:15.000+0200",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-170834",
+    "summary": "Cannot replace warped forest foliage with other blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T19:39:17.000+0200",
+    "resolution_date": "2020-02-28T23:45:13.000+0200",
+    "updated_date": "2020-02-28T23:45:13.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-170833",
+    "summary": "Crimson Fungi and Warped Fungi cannot be placed in flower pots",
+    "labels": [
+      "non-pottable-plants"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T19:38:05.000+0200",
+    "resolution_date": "2020-02-26T15:11:27.000+0200",
+    "updated_date": "2021-05-28T21:16:36.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-170823",
+    "summary": "Crimson and Warped trees spawn on top of the Nether roof",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T19:26:50.000+0200",
+    "resolution_date": "2020-02-28T12:56:58.000+0200",
+    "updated_date": "2020-02-28T12:56:58.000+0200",
+    "watches": 15,
+    "votes": 26
+  },
+  {
+    "id": "MC-170815",
+    "summary": "Soul sand valley fossils generate duplicated / stacked",
+    "labels": [
+      "Soul_sand",
+      "fossil",
+      "soul_sand_valley"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-02-05T19:10:13.000+0200",
+    "resolution_date": "2020-02-25T11:35:43.000+0200",
+    "updated_date": "2020-02-26T00:54:00.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-170556",
+    "summary": "Hoe textures are inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-01-29T20:54:38.000+0200",
+    "resolution_date": "2020-02-25T16:08:06.000+0200",
+    "updated_date": "2020-07-08T15:38:58.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-170274",
+    "summary": "Pickaxe textures are inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-01-23T05:55:40.000+0200",
+    "resolution_date": "2020-02-25T16:08:06.000+0200",
+    "updated_date": "2021-08-18T16:39:52.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-170273",
+    "summary": "Diamond Swords use the wrong pallet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2020-01-23T05:41:55.000+0200",
+    "resolution_date": "2020-02-25T16:08:06.000+0200",
+    "updated_date": "2021-08-18T16:39:52.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-166246",
+    "summary": "Skeleton horses cannot be leashed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2019-11-24T01:14:18.000+0200",
+    "resolution_date": "2020-02-25T15:58:46.000+0200",
+    "updated_date": "2020-02-25T19:54:30.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-164435",
+    "summary": "Stream sounds don't loop properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2019-10-25T16:12:53.000+0300",
+    "resolution_date": "2020-02-26T20:36:36.000+0200",
+    "updated_date": "2020-02-26T20:36:36.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-149042",
+    "summary": "Minecart dismount position is not consistent.",
+    "labels": [
+      "minecart",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2019-04-22T20:05:07.000+0300",
+    "resolution_date": "2020-02-28T14:26:36.000+0200",
+    "updated_date": "2020-04-13T13:43:52.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-148869",
+    "summary": "Player can clip through the ground when exiting a minecart or a boat",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Minecart",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2019-04-20T12:07:55.000+0300",
+    "resolution_date": "2020-02-25T17:52:48.000+0200",
+    "updated_date": "2020-06-13T20:47:07.000+0300",
+    "watches": 15,
+    "votes": 22
+  },
+  {
+    "id": "MC-147601",
+    "summary": "Purpur pillar block top texture hasn't changed to a new texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2019-04-07T01:57:51.000+0300",
+    "resolution_date": "2020-02-25T16:08:08.000+0200",
+    "updated_date": "2020-02-25T16:08:08.000+0200",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-146834",
+    "summary": "Zombie pigman's head bottom texture is flipped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2019-03-27T23:36:10.000+0200",
+    "resolution_date": "2020-03-12T01:37:00.000+0200",
+    "updated_date": "2020-03-12T01:37:00.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-137554",
+    "summary": "Shearing sound is in \"friendly creatures\" sound category",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2018-10-24T18:41:08.000+0300",
+    "resolution_date": "2020-02-25T11:24:22.000+0200",
+    "updated_date": "2020-04-10T14:40:29.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-111726",
+    "summary": "Minecart dismount position always above the minecart, even if there's space next to it",
+    "labels": [
+      "dismount",
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2016-12-21T19:40:24.000+0200",
+    "resolution_date": "2020-02-28T14:26:51.000+0200",
+    "updated_date": "2020-04-13T13:43:52.000+0300",
+    "watches": 12,
+    "votes": 9
+  },
+  {
+    "id": "MC-102319",
+    "summary": "Nether portal trigger and travel sounds are not assigned to any sound category",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2016-05-21T08:28:05.000+0300",
+    "resolution_date": "2020-02-25T11:24:22.000+0200",
+    "updated_date": "2020-02-25T11:24:23.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-7424",
+    "summary": "Fall damage death messages don't show block player fall from correctly (ladders, vines, water)",
+    "labels": [
+      "death",
+      "fall-damage",
+      "ladders",
+      "messages",
+      "vines",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2013-01-13T22:08:14.000+0200",
+    "resolution_date": "2020-02-26T18:05:39.000+0200",
+    "updated_date": "2022-07-09T15:37:25.000+0300",
+    "watches": 16,
+    "votes": 22
+  }
+]

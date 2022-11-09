@@ -1,0 +1,449 @@
+[
+  {
+    "id": "MC-221673",
+    "summary": "Ocean monuments are completely empty",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-31T23:43:43.000+0300",
+    "resolution_date": "2021-04-07T12:17:58.000+0300",
+    "updated_date": "2021-04-11T12:09:09.000+0300",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-221586",
+    "summary": "Excessive pillager spawning in pillager outposts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-31T20:47:00.000+0300",
+    "resolution_date": "2021-04-07T13:42:45.000+0300",
+    "updated_date": "2021-05-05T09:02:58.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-221553",
+    "summary": "The end dimension generates differently than it did previously",
+    "labels": [
+      "dimension",
+      "end",
+      "generation",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-31T20:20:51.000+0300",
+    "resolution_date": "2021-04-06T09:56:19.000+0300",
+    "updated_date": "2021-04-11T10:07:10.000+0300",
+    "watches": 17,
+    "votes": 36
+  },
+  {
+    "id": "MC-221549",
+    "summary": "Parity Issue: There is no waxed oxidized copper ",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-31T20:13:10.000+0300",
+    "resolution_date": "2021-04-07T20:17:38.000+0300",
+    "updated_date": "2021-06-15T14:12:42.000+0300",
+    "watches": 7,
+    "votes": 3
+  },
+  {
+    "id": "MC-220652",
+    "summary": "IndexOutOfBound exception hard crash when loading a simple custom dimension datapack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-24T02:07:48.000+0200",
+    "resolution_date": "2021-04-06T18:24:55.000+0300",
+    "updated_date": "2021-04-06T18:24:55.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-220066",
+    "summary": "Barrels can be duplicated by blowing them up while they are open",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-18T21:09:14.000+0200",
+    "resolution_date": "2021-04-12T11:05:37.000+0300",
+    "updated_date": "2021-04-12T11:05:37.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-220054",
+    "summary": "Crafting preview for furnaces/blast furnaces cycle through Deepslate Copper, Emerald & Coal Ore",
+    "labels": [
+      "crafting-recipe",
+      "gui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-18T20:10:28.000+0200",
+    "resolution_date": "2021-04-08T17:11:54.000+0300",
+    "updated_date": "2021-06-21T13:11:00.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-219849",
+    "summary": "Fishing doesn't animate or render the rod, line or bobber anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-17T18:32:35.000+0200",
+    "resolution_date": "2021-04-07T15:32:16.000+0300",
+    "updated_date": "2021-04-22T17:01:50.000+0300",
+    "watches": 29,
+    "votes": 60
+  },
+  {
+    "id": "MC-218669",
+    "summary": "Mineshafts don't connect to the caves ceiling in case of a lava lake and are floating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-10T19:28:18.000+0200",
+    "resolution_date": "2021-04-11T07:36:35.000+0300",
+    "updated_date": "2021-06-01T14:25:57.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-217702",
+    "summary": "Game crashes (ArrayIndexOutOfBoundsException) during world feature placement / decoration",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-03-04T15:48:22.000+0200",
+    "resolution_date": "2021-04-06T18:24:55.000+0300",
+    "updated_date": "2021-04-06T18:24:55.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-216697",
+    "summary": "Having 'min_y' set to lower than -64 causes either a crash or the world not to behave correctly if the height limit wasn't modified",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-02-24T08:10:59.000+0200",
+    "resolution_date": "2021-04-06T18:24:54.000+0300",
+    "updated_date": "2022-08-31T10:35:51.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-216649",
+    "summary": "Default type surface builders don't generate below y=50",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-02-23T20:26:18.000+0200",
+    "resolution_date": "2021-04-15T16:17:07.000+0300",
+    "updated_date": "2021-04-16T14:10:28.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-215120",
+    "summary": "World-gen datapacks can cause crashes when first generating world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-02-11T20:05:37.000+0200",
+    "resolution_date": "2021-04-06T18:24:55.000+0300",
+    "updated_date": "2021-04-06T18:24:55.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-214823",
+    "summary": "Ice spikes can generate in caves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-02-10T20:50:34.000+0200",
+    "resolution_date": "2021-04-13T10:02:59.000+0300",
+    "updated_date": "2021-11-12T08:30:11.000+0200",
+    "watches": 10,
+    "votes": 23
+  },
+  {
+    "id": "MC-214287",
+    "summary": "Crash upon entering a nether portal when logical_height is set to 0 and min_y is set to 80 or greater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-02-06T06:32:34.000+0200",
+    "resolution_date": "2021-04-06T18:24:53.000+0300",
+    "updated_date": "2021-04-06T18:24:54.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-213665",
+    "summary": "Crash upon attempting to generate a world with a height of 0 blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2021-02-02T21:27:18.000+0200",
+    "resolution_date": "2021-04-06T18:24:53.000+0300",
+    "updated_date": "2021-04-06T18:24:53.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-210155",
+    "summary": "Command block output no longer is displayed immediately after running a command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2020-12-31T23:57:59.000+0200",
+    "resolution_date": "2021-04-07T15:32:19.000+0300",
+    "updated_date": "2021-04-07T15:32:19.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-207173",
+    "summary": "Entering only colons into multiplayer Direct Connection & pressing enter crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2020-12-02T00:28:27.000+0200",
+    "resolution_date": "2021-04-07T15:32:17.000+0300",
+    "updated_date": "2021-05-02T13:10:40.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-203854",
+    "summary": "Fishing rod texture always looks like it has been cast when in the player's hand",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2020-11-05T03:10:29.000+0200",
+    "resolution_date": "2021-04-07T15:32:17.000+0300",
+    "updated_date": "2021-07-26T14:18:25.000+0300",
+    "watches": 20,
+    "votes": 39
+  },
+  {
+    "id": "MC-114796",
+    "summary": "Overworld nether portals outside of the world border (up to ~128m from the border) are considered valid",
+    "labels": [
+      "mojang_internal_1",
+      "nether_portal",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2017-03-26T01:38:17.000+0200",
+    "resolution_date": "2021-05-25T19:49:57.000+0300",
+    "updated_date": "2021-05-25T19:49:57.000+0300",
+    "watches": 11,
+    "votes": 38
+  },
+  {
+    "id": "MC-86313",
+    "summary": "Off-hand slot sometimes doesn't play item pickup animation",
+    "labels": [
+      "hotbar",
+      "offhand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2015-08-15T13:35:16.000+0300",
+    "resolution_date": "2021-06-30T17:54:56.000+0300",
+    "updated_date": "2021-06-30T17:54:56.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-73104",
+    "summary": "Server address field editing bug",
+    "labels": [
+      "gui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w14a"
+    ],
+    "creation_date": "2014-10-16T15:14:19.000+0300",
+    "resolution_date": "2021-05-02T13:09:50.000+0300",
+    "updated_date": "2021-05-02T13:10:40.000+0300",
+    "watches": 8,
+    "votes": 17
+  }
+]

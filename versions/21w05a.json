@@ -1,0 +1,2099 @@
+[
+  {
+    "id": "MC-222189",
+    "summary": "Piston lag escalates massively with the total tile entity count.",
+    "labels": [
+      "lag"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-04-04T16:17:57.000+0300",
+    "resolution_date": "2021-04-06T10:43:37.000+0300",
+    "updated_date": "2021-04-06T10:43:37.000+0300",
+    "watches": 1,
+    "votes": 15
+  },
+  {
+    "id": "MC-213512",
+    "summary": "Copper blocks are named differently from bedrock edition",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-02-01T03:42:09.000+0200",
+    "resolution_date": "2021-02-02T10:05:24.000+0200",
+    "updated_date": "2021-02-09T22:50:22.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-213268",
+    "summary": "Copper Blocks variants like slabs/stairs/cut copper cannot be crafted through Stonecutter",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-29T07:26:45.000+0200",
+    "resolution_date": "2021-02-04T08:59:17.000+0200",
+    "updated_date": "2021-02-04T08:59:17.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-213257",
+    "summary": "Drowned do not drop copper",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-28T18:51:55.000+0200",
+    "resolution_date": "2021-02-03T22:35:58.000+0200",
+    "updated_date": "2021-06-04T22:58:22.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-212541",
+    "summary": "Shulkers are often incorrectly rotated upon generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-23T04:50:36.000+0200",
+    "resolution_date": "2021-01-28T17:43:39.000+0200",
+    "updated_date": "2021-03-12T16:03:17.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-212537",
+    "summary": "Standing near a shulker slightly lifts you when they open",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-23T04:37:38.000+0200",
+    "resolution_date": "2021-01-28T17:43:38.000+0200",
+    "updated_date": "2021-03-12T16:03:18.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-212532",
+    "summary": "Shulkers are spawned slightly mis-rotated after a shulker was hit by another shulker's shulker bullet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-23T03:54:50.000+0200",
+    "resolution_date": "2021-01-28T17:43:39.000+0200",
+    "updated_date": "2021-03-12T16:03:18.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-212449",
+    "summary": "Fish/(glow) squid spawned using /summon dry out instantly",
+    "labels": [
+      "command",
+      "fish-mob",
+      "glow_squid",
+      "squid"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-22T20:50:40.000+0200",
+    "resolution_date": "2021-02-04T00:05:51.000+0200",
+    "updated_date": "2021-02-13T12:26:01.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-212432",
+    "summary": "Sculk sensors are not activated upon using a spawn egg",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-22T18:31:11.000+0200",
+    "resolution_date": "2021-02-03T22:27:37.000+0200",
+    "updated_date": "2021-02-25T01:23:19.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-212422",
+    "summary": "Game crashes when generating a world with increased height limit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-22T13:34:05.000+0200",
+    "resolution_date": "2021-01-28T15:35:13.000+0200",
+    "updated_date": "2021-01-28T15:57:18.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-212384",
+    "summary": "Sculk sensors do not detect cake being eaten",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-22T01:35:14.000+0200",
+    "resolution_date": "2021-02-04T00:30:18.000+0200",
+    "updated_date": "2021-02-04T00:30:18.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-212347",
+    "summary": "Importing custom world file height is limited to 2047 instead of 2048",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-21T20:43:42.000+0200",
+    "resolution_date": "2021-02-03T16:13:31.000+0200",
+    "updated_date": "2021-02-04T00:34:16.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-212331",
+    "summary": "Boats dismount you in the direction the boat is facing instead of the direction of the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-21T17:59:19.000+0200",
+    "resolution_date": "2021-01-25T11:55:54.000+0200",
+    "updated_date": "2021-03-12T16:03:18.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-212291",
+    "summary": "Client can dismount vehicles independently from the server, causing a de-sync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-21T11:16:35.000+0200",
+    "resolution_date": "2021-01-29T09:54:41.000+0200",
+    "updated_date": "2021-06-15T20:27:21.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-212290",
+    "summary": "Commands \"setblock\" and \"fill\" don't work at or above height 1024 in some cases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-21T10:43:53.000+0200",
+    "resolution_date": "2021-01-28T15:35:13.000+0200",
+    "updated_date": "2021-01-28T15:58:36.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-212284",
+    "summary": "Crammed enitities pushed through blocks when growing to adults",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-21T09:15:43.000+0200",
+    "resolution_date": "2021-01-27T19:35:28.000+0200",
+    "updated_date": "2021-04-16T23:35:34.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-212215",
+    "summary": "Glow Lichen mining speed is not affected by efficiency",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-20T21:52:54.000+0200",
+    "resolution_date": "2021-02-04T14:36:49.000+0200",
+    "updated_date": "2021-02-04T14:36:49.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-212211",
+    "summary": "Glow lichen is not grouped with vines in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-20T21:35:57.000+0200",
+    "resolution_date": "2021-02-03T23:45:11.000+0200",
+    "updated_date": "2021-03-21T22:12:32.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-212149",
+    "summary": "Shulker is sometimes mis-rotated when player teleports through a nether portal and reloading an active chunk with Shulker",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-20T18:49:12.000+0200",
+    "resolution_date": "2021-01-28T17:43:39.000+0200",
+    "updated_date": "2021-01-28T17:43:39.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-212141",
+    "summary": "Shulkers get rotated when upgrading to 21w03a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-20T18:26:04.000+0200",
+    "resolution_date": "2021-01-28T17:43:40.000+0200",
+    "updated_date": "2021-01-28T17:43:40.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-212117",
+    "summary": "Placing glow lichen in lava creates waterlogged glow lichen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-20T17:53:15.000+0200",
+    "resolution_date": "2021-01-21T18:16:51.000+0200",
+    "updated_date": "2021-06-19T13:10:31.000+0300",
+    "watches": 12,
+    "votes": 16
+  },
+  {
+    "id": "MC-211119",
+    "summary": "Sculk sensors do not detect when withers shoot wither skulls",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-11T08:08:30.000+0200",
+    "resolution_date": "2021-02-03T22:28:10.000+0200",
+    "updated_date": "2021-03-12T16:07:23.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-210815",
+    "summary": "Sculk sensors are not activated upon shulkers shooting",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-07T21:12:20.000+0200",
+    "resolution_date": "2021-02-03T23:45:23.000+0200",
+    "updated_date": "2021-02-03T23:45:23.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-210495",
+    "summary": "Sculk sensors are not activated upon lighting a campfire or candle with a fire charge",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-04T13:10:18.000+0200",
+    "resolution_date": "2021-02-03T22:26:37.000+0200",
+    "updated_date": "2021-02-03T22:26:37.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-210282",
+    "summary": "Sculk sensors are not activated upon silverfish or endermite moving along the ground",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2021-01-02T14:51:34.000+0200",
+    "resolution_date": "2021-02-03T22:27:47.000+0200",
+    "updated_date": "2021-02-03T22:27:47.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-210000",
+    "summary": "Sculk sensors do not detect when blazes shoot fireballs",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-30T07:19:41.000+0200",
+    "resolution_date": "2021-02-03T22:27:14.000+0200",
+    "updated_date": "2021-02-03T22:27:14.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-209953",
+    "summary": "Sculk sensors are not activated upon extinguishing a candle",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-29T21:10:33.000+0200",
+    "resolution_date": "2021-02-03T22:26:51.000+0200",
+    "updated_date": "2021-02-03T22:26:51.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-209926",
+    "summary": "Sculk sensors are not activated upon collecting Dragon's Breath",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-29T17:59:01.000+0200",
+    "resolution_date": "2021-02-03T22:27:01.000+0200",
+    "updated_date": "2021-02-03T22:27:01.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-209903",
+    "summary": "Sculk sensors are not activated upon shearing sheep, mushrooms, snow golems and pumpkins",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-29T15:27:06.000+0200",
+    "resolution_date": "2021-02-03T22:32:51.000+0200",
+    "updated_date": "2021-02-03T22:32:51.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-209625",
+    "summary": "Baby llamas suffocate when below a solid block while standing on top of a carpet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-26T17:10:35.000+0200",
+    "resolution_date": "2021-01-27T19:35:25.000+0200",
+    "updated_date": "2021-01-27T19:35:26.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-209361",
+    "summary": "Game crashes upon instantly click-replacing the block underneath a bamboo sapling with another bamboo",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-24T00:59:23.000+0200",
+    "resolution_date": "2021-02-03T16:23:05.000+0200",
+    "updated_date": "2021-09-11T13:44:22.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-208602",
+    "summary": "Axolotls summoned with a command dry out instantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-16T19:32:41.000+0200",
+    "resolution_date": "2021-02-03T22:28:58.000+0200",
+    "updated_date": "2021-02-03T22:28:58.000+0200",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-208477",
+    "summary": "Going into a dimension that has height higher than the maximum height crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-15T15:29:46.000+0200",
+    "resolution_date": "2021-02-02T15:41:00.000+0200",
+    "updated_date": "2022-08-31T10:35:52.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-208194",
+    "summary": "Sculk sensors do not detect when candle cakes are eaten",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-11T23:06:46.000+0200",
+    "resolution_date": "2021-02-01T14:56:11.000+0200",
+    "updated_date": "2021-03-02T12:09:17.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-208193",
+    "summary": "Sculk sensors do not detect removing things from flower pots",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-11T23:04:25.000+0200",
+    "resolution_date": "2021-02-01T14:56:16.000+0200",
+    "updated_date": "2021-02-23T17:30:48.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-207745",
+    "summary": "Sculk sensors do not detect when ender dragons shoot fireballs",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-06T05:27:16.000+0200",
+    "resolution_date": "2021-02-01T14:56:17.000+0200",
+    "updated_date": "2021-02-01T14:56:17.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-207679",
+    "summary": "Sculk sensors do not detect the breaking of bee nests and beehives in Creative mode",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:38:31.000+0200",
+    "resolution_date": "2021-02-01T14:56:20.000+0200",
+    "updated_date": "2021-02-23T17:31:15.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-207678",
+    "summary": "Sculk sensors do not detect collecting honey bottles",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:36:15.000+0200",
+    "resolution_date": "2021-02-01T14:56:17.000+0200",
+    "updated_date": "2021-02-01T14:56:17.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-207677",
+    "summary": "Sculk sensors do not detect collecting water with bottles",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:34:49.000+0200",
+    "resolution_date": "2021-02-01T14:56:18.000+0200",
+    "updated_date": "2021-02-24T18:57:36.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-207675",
+    "summary": "Sculk sensors do not detect books being placed onto lecterns",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:27:41.000+0200",
+    "resolution_date": "2021-02-01T14:56:18.000+0200",
+    "updated_date": "2021-02-25T01:23:33.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-207674",
+    "summary": "Sculk sensors do not detect placing things in flower pots",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:22:46.000+0200",
+    "resolution_date": "2021-02-01T14:56:16.000+0200",
+    "updated_date": "2021-02-01T14:56:16.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-207673",
+    "summary": "Sculk sensors do not detect lighting TNT with flint and steel",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:16:45.000+0200",
+    "resolution_date": "2021-02-01T14:56:19.000+0200",
+    "updated_date": "2021-02-24T15:20:16.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-207672",
+    "summary": "Sculk sensors do not detect when creepers are set off with flint and steel",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:15:17.000+0200",
+    "resolution_date": "2021-02-01T14:56:19.000+0200",
+    "updated_date": "2021-02-01T14:56:19.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-207671",
+    "summary": "Sculk sensors do not detect candles being placed into cakes",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:07:47.000+0200",
+    "resolution_date": "2021-02-01T14:56:11.000+0200",
+    "updated_date": "2021-02-01T14:56:12.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-207670",
+    "summary": "Sculk sensors do not detect the placement of boats and minecarts",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-05T14:04:47.000+0200",
+    "resolution_date": "2021-02-01T14:56:12.000+0200",
+    "updated_date": "2021-02-01T14:56:12.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-207600",
+    "summary": "Sculk sensor detects wrong sound for fishing rod",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-04T20:26:56.000+0200",
+    "resolution_date": "2021-02-01T14:56:10.000+0200",
+    "updated_date": "2021-02-01T23:48:08.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-207592",
+    "summary": "Shooting bow with flame enchantment while sneaking triggers sculk sensor",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-04T18:36:52.000+0200",
+    "resolution_date": "2021-02-01T14:56:15.000+0200",
+    "updated_date": "2021-02-24T19:11:23.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-207521",
+    "summary": "Ocelots and cats can still emit vibrations while sneaking",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-04T02:56:04.000+0200",
+    "resolution_date": "2021-02-01T14:56:19.000+0200",
+    "updated_date": "2021-02-01T14:56:19.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-207520",
+    "summary": "Sculk sensors don't react to ravager roars",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-04T02:35:59.000+0200",
+    "resolution_date": "2021-02-01T14:56:12.000+0200",
+    "updated_date": "2021-02-01T14:56:12.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-207473",
+    "summary": "Sculk sensors do not detect when ghasts shoot",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T19:17:20.000+0200",
+    "resolution_date": "2021-02-01T14:56:14.000+0200",
+    "updated_date": "2021-02-01T14:56:14.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-207445",
+    "summary": "Sculk sensor doesn't detect squids swimming",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T16:09:29.000+0200",
+    "resolution_date": "2021-02-01T14:56:14.000+0200",
+    "updated_date": "2021-02-01T14:56:14.000+0200",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-207418",
+    "summary": "Breaking paintings/item frames/glow item frames does not alert sculk sensors, even though placing them does",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T12:16:17.000+0200",
+    "resolution_date": "2021-02-01T14:56:14.000+0200",
+    "updated_date": "2021-02-24T23:58:17.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-207417",
+    "summary": "Directly breaking fire does not alert sculk sensors, but removing its supporting block correctly does",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T12:11:01.000+0200",
+    "resolution_date": "2021-02-01T14:56:19.000+0200",
+    "updated_date": "2021-02-24T19:15:09.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-207408",
+    "summary": "Trying to generate something below y=0 results in game crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T10:12:05.000+0200",
+    "resolution_date": "2021-03-30T15:09:03.000+0300",
+    "updated_date": "2021-03-30T15:09:04.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-207407",
+    "summary": "Villages will always generate at least on y=0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T10:03:03.000+0200",
+    "resolution_date": "2021-02-02T16:38:17.000+0200",
+    "updated_date": "2021-02-02T16:55:25.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-207397",
+    "summary": "The fire extinguish sound plays every tick when the player is on fire and freezing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T08:12:20.000+0200",
+    "resolution_date": "2021-02-01T15:48:30.000+0200",
+    "updated_date": "2021-06-15T17:19:11.000+0300",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-207391",
+    "summary": "Sculk sensors don't detect certain flying mobs",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T06:00:42.000+0200",
+    "resolution_date": "2021-02-01T14:56:10.000+0200",
+    "updated_date": "2021-02-01T14:56:10.000+0200",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-207387",
+    "summary": "Sculk sensors can sense players sneaking in water when they move, even when they're not swimming",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T05:45:04.000+0200",
+    "resolution_date": "2021-02-01T14:56:14.000+0200",
+    "updated_date": "2021-02-10T00:36:33.000+0200",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-207384",
+    "summary": "Flame arrows repeatedly trigger sculk sensors",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T04:53:46.000+0200",
+    "resolution_date": "2021-02-01T14:56:15.000+0200",
+    "updated_date": "2021-02-01T14:56:15.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-207358",
+    "summary": "Sculk sensors don't detect shulkers opening and closing",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T01:03:39.000+0200",
+    "resolution_date": "2021-02-01T14:56:15.000+0200",
+    "updated_date": "2021-02-01T14:56:15.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-207340",
+    "summary": "Sculk sensors do not detect buckets of fish being emptied",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-03T00:12:48.000+0200",
+    "resolution_date": "2021-02-01T14:56:15.000+0200",
+    "updated_date": "2021-02-25T01:23:48.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-207329",
+    "summary": "Sculk sensors don't properly detect eating from other mobs",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T23:34:44.000+0200",
+    "resolution_date": "2021-02-01T14:56:09.000+0200",
+    "updated_date": "2021-02-01T14:56:09.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-207300",
+    "summary": "Blocks being placed or picked up by an enderman are not detected by sculk sensors",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T21:07:14.000+0200",
+    "resolution_date": "2021-02-01T14:56:16.000+0200",
+    "updated_date": "2021-02-04T00:34:43.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-207283",
+    "summary": "Extinguishing a campfire is not detected by sculk sensor",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T20:35:32.000+0200",
+    "resolution_date": "2021-02-01T14:56:16.000+0200",
+    "updated_date": "2021-02-01T14:56:16.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-207277",
+    "summary": "Sculk sensor can't detect setting a fire with fire charge",
+    "labels": [
+      "redstone",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T20:25:58.000+0200",
+    "resolution_date": "2021-02-01T14:56:09.000+0200",
+    "updated_date": "2021-02-01T15:10:34.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-207263",
+    "summary": "Inconsistency: Filling cauldrons with liquids or powder snow is not detected by sculk sensors",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T20:09:38.000+0200",
+    "resolution_date": "2021-02-01T14:56:10.000+0200",
+    "updated_date": "2021-02-01T14:56:10.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-207262",
+    "summary": "Drinking potions or milk doesn\u2019t cause vibrations even though eating does",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T20:08:39.000+0200",
+    "resolution_date": "2021-02-01T14:56:09.000+0200",
+    "updated_date": "2021-02-04T04:20:44.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-207261",
+    "summary": "Bell ringing event is not considered a vibration",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T20:05:52.000+0200",
+    "resolution_date": "2021-02-01T14:56:09.000+0200",
+    "updated_date": "2021-02-01T14:56:09.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-207258",
+    "summary": "Sculk sensors do not react to minecarts being driven",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T19:58:04.000+0200",
+    "resolution_date": "2021-02-01T14:56:10.000+0200",
+    "updated_date": "2021-03-01T13:26:47.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-207256",
+    "summary": "Overwriting sculk sensors with themselves using /fill causes them to not work",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-12-02T19:55:51.000+0200",
+    "resolution_date": "2021-02-16T17:00:32.000+0200",
+    "updated_date": "2022-06-30T22:12:38.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-206113",
+    "summary": "Powder Snow causes Z-Fighting with Falling Blocks",
+    "labels": [
+      "rendering",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-20T00:08:47.000+0200",
+    "resolution_date": "2021-02-01T15:48:30.000+0200",
+    "updated_date": "2021-06-13T13:57:12.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-205735",
+    "summary": "Baby cows can suffocate on stairs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-15T20:40:09.000+0200",
+    "resolution_date": "2021-01-27T19:35:27.000+0200",
+    "updated_date": "2021-01-27T19:35:27.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-205477",
+    "summary": "Occasional desync when trying to enter/exit a boat while the server is lagging",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-13T12:44:07.000+0200",
+    "resolution_date": "2021-02-01T16:28:46.000+0200",
+    "updated_date": "2021-02-02T01:52:09.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-205401",
+    "summary": "\"Fire extinguishes\" Sound repeatedly plays when a mob that burns in daylight is in powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-12T21:12:40.000+0200",
+    "resolution_date": "2021-02-01T15:48:30.000+0200",
+    "updated_date": "2021-02-01T15:48:30.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-205079",
+    "summary": "Cauldrons don't fill with powder snow in some biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-11T19:07:54.000+0200",
+    "resolution_date": "2021-02-01T15:48:30.000+0200",
+    "updated_date": "2021-03-12T16:07:26.000+0200",
+    "watches": 9,
+    "votes": 20
+  },
+  {
+    "id": "MC-204801",
+    "summary": "Large amounts of copper blocks lag the server and causes the worldsave to take forever ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-09T06:52:04.000+0200",
+    "resolution_date": "2021-01-28T16:11:27.000+0200",
+    "updated_date": "2021-01-28T16:11:27.000+0200",
+    "watches": 8,
+    "votes": 32
+  },
+  {
+    "id": "MC-204446",
+    "summary": "Inconsistency: The lighting on the lightning rod is inconsistent with everything else (no shade)",
+    "labels": [
+      "lighting",
+      "lightning_rod"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-06T22:30:52.000+0200",
+    "resolution_date": "2021-02-05T20:51:12.000+0200",
+    "updated_date": "2022-07-23T01:32:52.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-204301",
+    "summary": "Lightning rods don't strongly power the blocks they are attached onto",
+    "labels": [
+      "lightning_rod"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-06T03:09:11.000+0200",
+    "resolution_date": "2021-02-05T08:53:40.000+0200",
+    "updated_date": "2021-02-24T19:43:47.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-203594",
+    "summary": "Inconsistent spelling with copper blocks ",
+    "labels": [
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-04T21:22:25.000+0200",
+    "resolution_date": "2021-02-03T22:34:11.000+0200",
+    "updated_date": "2021-02-03T22:34:11.000+0200",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-203555",
+    "summary": "Typo in \"Weathered Copper BlocK\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-04T20:50:32.000+0200",
+    "resolution_date": "2021-02-03T20:41:51.000+0200",
+    "updated_date": "2021-02-03T20:42:14.000+0200",
+    "watches": 19,
+    "votes": 59
+  },
+  {
+    "id": "MC-203374",
+    "summary": "Falling blocks broken by shulkers have a strong directional bias",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-11-02T21:36:17.000+0200",
+    "resolution_date": "2021-02-25T01:13:44.000+0200",
+    "updated_date": "2021-02-25T01:13:45.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-200906",
+    "summary": "Pufferfish hitbox incorrect when reloading world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-09-24T08:20:52.000+0300",
+    "resolution_date": "2021-01-27T19:35:29.000+0200",
+    "updated_date": "2021-02-03T20:39:14.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-199543",
+    "summary": "Parity issue: Vine sounds",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-09-03T17:05:49.000+0300",
+    "resolution_date": "2021-02-23T21:39:13.000+0200",
+    "updated_date": "2021-02-23T21:39:13.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-199356",
+    "summary": "chatDelay in options.txt has a space between the colon and the value",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-08-31T12:03:01.000+0300",
+    "resolution_date": "2021-01-27T17:48:55.000+0200",
+    "updated_date": "2021-01-27T22:02:07.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-198432",
+    "summary": "Pufferfish phases through blocks after reloading world",
+    "labels": [
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-08-19T23:22:23.000+0300",
+    "resolution_date": "2021-01-27T19:35:28.000+0200",
+    "updated_date": "2021-06-17T14:23:15.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-197947",
+    "summary": "Creative mode player constantly gets extinguished while standing in constant fire in rain, making constant sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-08-14T02:24:17.000+0300",
+    "resolution_date": "2021-02-17T21:40:49.000+0200",
+    "updated_date": "2021-02-17T22:02:49.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-191714",
+    "summary": "Player is dismounted when standing on farmland while riding a horse/boat while the farmland turns to dirt, causing a desync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-06-25T03:19:38.000+0300",
+    "resolution_date": "2021-01-29T09:55:47.000+0200",
+    "updated_date": "2021-05-18T19:19:00.000+0300",
+    "watches": 17,
+    "votes": 25
+  },
+  {
+    "id": "MC-190454",
+    "summary": "Desync when a player rides a horse riding another mob, and that mob dies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-06-19T00:26:33.000+0300",
+    "resolution_date": "2021-02-05T17:17:28.000+0200",
+    "updated_date": "2021-02-05T17:17:28.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-186879",
+    "summary": "Standing in fire and water spams the extinguish sound",
+    "labels": [
+      "fire",
+      "sound",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-06-01T14:35:47.000+0300",
+    "resolution_date": "2021-02-01T15:48:33.000+0200",
+    "updated_date": "2021-02-05T02:42:35.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-172466",
+    "summary": "Entities misaligning when growing up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2020-02-16T09:43:14.000+0200",
+    "resolution_date": "2021-02-05T16:30:04.000+0200",
+    "updated_date": "2021-06-17T05:34:00.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-165846",
+    "summary": "Pufferfish can take suffocation damage when bloating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-11-18T20:59:45.000+0200",
+    "resolution_date": "2021-02-05T17:12:51.000+0200",
+    "updated_date": "2021-07-02T09:08:08.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-163673",
+    "summary": "Baby husks, piglins, zombies, zombie villagers, and zombified piglins take damage when jumping into a space with a solid block above it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-10-14T08:39:44.000+0300",
+    "resolution_date": "2021-01-27T19:35:26.000+0200",
+    "updated_date": "2021-09-25T04:17:04.000+0300",
+    "watches": 15,
+    "votes": 22
+  },
+  {
+    "id": "MC-158640",
+    "summary": "When a player is perfectly aligned with a shulker box, the shulker box teleports the player upwards when being opened",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-08-08T16:13:06.000+0300",
+    "resolution_date": "2022-10-30T17:11:48.000+0200",
+    "updated_date": "2022-10-30T17:11:48.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-157993",
+    "summary": "Mobs standing East/South against a shulker box are moved up/down when opening/closing",
+    "labels": [
+      "hitbox",
+      "shulker_box"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-07-29T18:45:51.000+0300",
+    "resolution_date": "2022-10-30T17:12:25.000+0200",
+    "updated_date": "2022-10-30T17:12:25.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-153254",
+    "summary": "Baby zombies/piglins take damage when pushed against ceiling by bubble columns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-05-28T18:07:31.000+0300",
+    "resolution_date": "2021-01-27T19:35:26.000+0200",
+    "updated_date": "2021-01-27T22:04:08.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-152265",
+    "summary": "Starting server outputs \"unable to resolve BlockEntity for ItemStack\" errors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-05-18T19:45:05.000+0300",
+    "resolution_date": "2021-01-26T12:27:00.000+0200",
+    "updated_date": "2021-01-26T16:19:07.000+0200",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-149495",
+    "summary": "Pufferfish triggers tripwire without colliding with it upon reloading the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-04-24T22:40:57.000+0300",
+    "resolution_date": "2021-01-27T19:35:28.000+0200",
+    "updated_date": "2021-06-17T14:23:15.000+0300",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-148432",
+    "summary": "Sound spam while in water and lava at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-04-16T18:46:31.000+0300",
+    "resolution_date": "2021-02-01T15:48:33.000+0200",
+    "updated_date": "2021-02-16T12:52:49.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-142711",
+    "summary": "Baby turtles take damage when pushed against ceiling",
+    "labels": [
+      "baby-turtle",
+      "suffocate",
+      "turtle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-01-19T09:52:57.000+0200",
+    "resolution_date": "2021-01-27T19:35:25.000+0200",
+    "updated_date": "2021-05-06T17:35:29.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-130098",
+    "summary": "Debug world spawns player at y=2 instead at y=70 where all the blocks are",
+    "labels": [
+      "debug-world",
+      "y-coordinate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2018-05-23T17:40:01.000+0300",
+    "resolution_date": "2021-01-28T15:35:13.000+0200",
+    "updated_date": "2021-01-28T15:35:13.000+0200",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-103430",
+    "summary": "Vines breaking too slow (enchanted shears)",
+    "labels": [
+      "axe",
+      "block",
+      "block-breaking",
+      "break",
+      "break-block",
+      "break-time",
+      "efficiency",
+      "enchantment",
+      "enchantment-effect",
+      "shears",
+      "speed",
+      "tool",
+      "vines"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2016-06-10T22:14:17.000+0300",
+    "resolution_date": "2021-02-04T21:21:55.000+0200",
+    "updated_date": "2021-02-25T01:19:35.000+0200",
+    "watches": 11,
+    "votes": 18
+  },
+  {
+    "id": "MC-96114",
+    "summary": "Shulker can lift up mobs",
+    "labels": [
+      "lift-up",
+      "mob",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2016-01-25T21:50:52.000+0200",
+    "resolution_date": "2021-02-04T13:41:32.000+0200",
+    "updated_date": "2022-10-30T17:10:29.000+0200",
+    "watches": 3,
+    "votes": 4
+  }
+]

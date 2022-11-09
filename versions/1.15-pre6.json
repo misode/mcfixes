@@ -1,0 +1,94 @@
+[
+  {
+    "id": "MC-166756",
+    "summary": "Plains Village Tree leaves are MUCH bigger than normal",
+    "labels": [
+      "tree",
+      "village",
+      "world",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.15 Pre-release 6"
+    ],
+    "creation_date": "2019-11-29T06:10:27.000+0200",
+    "resolution_date": "2019-12-06T13:28:18.000+0200",
+    "updated_date": "2020-08-14T05:09:08.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-163979",
+    "summary": "Entities (including items) get slowed down by soul sand even when not sunken into the block",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.15 Pre-release 6"
+    ],
+    "creation_date": "2019-10-17T18:41:28.000+0300",
+    "resolution_date": "2019-12-06T12:56:46.000+0200",
+    "updated_date": "2019-12-06T12:56:46.000+0200",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-163270",
+    "summary": "Sign in sign editing GUI is too dark",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "19w45a",
+      "1.15 Pre-release 3",
+      "1.15 Pre-release 6"
+    ],
+    "creation_date": "2019-10-10T13:45:50.000+0300",
+    "resolution_date": "2019-11-28T17:31:02.000+0200",
+    "updated_date": "2019-12-06T14:57:17.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-130616",
+    "summary": "Arrow and Trident projectiles have no lighting",
+    "labels": [
+      "arrow",
+      "lighting",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.15 Pre-release 6"
+    ],
+    "creation_date": "2018-06-01T14:59:38.000+0300",
+    "resolution_date": "2019-12-07T14:29:46.000+0200",
+    "updated_date": "2019-12-07T14:29:46.000+0200",
+    "watches": 2,
+    "votes": 5
+  }
+]

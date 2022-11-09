@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-243253",
+    "summary": "Minecraft Realms screen is loading for long time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.18.1"
+    ],
+    "creation_date": "2021-11-30T22:57:33.000+0200",
+    "resolution_date": "2021-12-11T14:11:33.000+0200",
+    "updated_date": "2021-12-11T14:11:33.000+0200",
+    "watches": 2,
+    "votes": 3
+  }
+]

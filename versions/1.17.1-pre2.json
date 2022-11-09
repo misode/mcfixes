@@ -1,0 +1,165 @@
+[
+  {
+    "id": "MC-229983",
+    "summary": "/clear command doesn't clear certain stacks after dropping items from them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-06-23T05:10:56.000+0300",
+    "resolution_date": "2021-06-29T15:30:00.000+0300",
+    "updated_date": "2021-07-09T00:33:05.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-229614",
+    "summary": "Wandering Trader obtained tropical fish are only white kob",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-06-19T19:26:51.000+0300",
+    "resolution_date": "2021-06-29T16:18:08.000+0300",
+    "updated_date": "2021-07-23T22:15:50.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-229441",
+    "summary": "You can steal the item a villager is holding for trade by killing it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Trading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-06-18T08:04:52.000+0300",
+    "resolution_date": "2021-06-29T14:09:41.000+0300",
+    "updated_date": "2021-07-01T17:25:40.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-229191",
+    "summary": "Diamond ore distribution changed between 1.16.5 and 1.17",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-06-16T02:46:53.000+0300",
+    "resolution_date": "2021-06-29T17:05:51.000+0300",
+    "updated_date": "2021-06-30T19:11:21.000+0300",
+    "watches": 16,
+    "votes": 23
+  },
+  {
+    "id": "MC-228599",
+    "summary": "Attempting to walk through flowing water constantly switches the player from swimming into normal mode",
+    "labels": [
+      "push",
+      "swim",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-06-11T23:10:35.000+0300",
+    "resolution_date": "2021-06-28T18:11:26.000+0300",
+    "updated_date": "2021-07-13T08:00:51.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-226926",
+    "summary": "Emerald ore generates too often",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-05-31T18:32:17.000+0300",
+    "resolution_date": "2021-06-29T17:05:50.000+0300",
+    "updated_date": "2021-06-29T20:32:09.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-221656",
+    "summary": "Creative mode obtained Bucket of Axolotl/Tropical Fish only spawns one kind axolotl/tropical fish",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-03-31T22:53:36.000+0300",
+    "resolution_date": "2021-06-29T16:18:16.000+0300",
+    "updated_date": "2021-07-03T00:49:07.000+0300",
+    "watches": 11,
+    "votes": 19
+  },
+  {
+    "id": "MC-219290",
+    "summary": "Calcite is too quiet compared to other blocks",
+    "labels": [
+      "calcite",
+      "sound",
+      "volume"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.17.1 Pre-release 2"
+    ],
+    "creation_date": "2021-03-13T01:11:47.000+0200",
+    "resolution_date": "2021-06-29T15:27:55.000+0300",
+    "updated_date": "2022-08-03T01:05:57.000+0300",
+    "watches": 3,
+    "votes": 6
+  }
+]

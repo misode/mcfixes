@@ -1,0 +1,604 @@
+[
+  {
+    "id": "MC-192894",
+    "summary": "Transparency layers lose their auxiliary depth buffer ID when resized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-30T18:34:31.000+0300",
+    "resolution_date": "2020-07-01T10:52:13.000+0300",
+    "updated_date": "2020-07-05T07:40:10.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-191953",
+    "summary": "End Gateway occasionally fails to teleport player to/from the End Islands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-26T00:01:55.000+0300",
+    "resolution_date": "2020-07-29T16:24:58.000+0300",
+    "updated_date": "2020-08-03T17:56:32.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-191915",
+    "summary": "While in a boat the elytra does not show as enchanted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-25T21:57:41.000+0300",
+    "resolution_date": "2020-07-01T13:15:42.000+0300",
+    "updated_date": "2020-07-06T03:43:49.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-191467",
+    "summary": "Resource packs screen not updated during runtime when packs are dropped in the folder",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-24T09:05:15.000+0300",
+    "resolution_date": "2020-07-02T16:36:34.000+0300",
+    "updated_date": "2020-07-02T16:37:01.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-190849",
+    "summary": "Slime blocks can only push entities 5 blocks high instead of 6 blocks high as in 1.15.2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-21T19:10:08.000+0300",
+    "resolution_date": "2020-06-29T18:45:54.000+0300",
+    "updated_date": "2020-06-29T18:45:54.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-190274",
+    "summary": "Collecting liquids in bottles on Creative mode is inconsistent with the new creative bucket mechanics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-18T01:40:12.000+0300",
+    "resolution_date": "2020-06-30T17:30:33.000+0300",
+    "updated_date": "2020-07-08T13:47:48.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-190266",
+    "summary": "Players and other entities can catch on fire after logging on while riding a Strider in lava",
+    "labels": [
+      "fire",
+      "lava",
+      "log-in",
+      "log-out",
+      "nether",
+      "player",
+      "riding",
+      "strider",
+      "the_nether"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-18T00:37:15.000+0300",
+    "resolution_date": "2020-07-01T12:08:09.000+0300",
+    "updated_date": "2020-07-07T22:30:31.000+0300",
+    "watches": 16,
+    "votes": 70
+  },
+  {
+    "id": "MC-190021",
+    "summary": "Trying to mount a pig or strider while sneaking plays hand animation",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-16T16:57:26.000+0300",
+    "resolution_date": "2020-06-30T17:30:33.000+0300",
+    "updated_date": "2020-06-30T17:30:33.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-189909",
+    "summary": "player_interacted_with_entity does not trigger if there is only one item and the item gets consumed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-15T23:58:45.000+0300",
+    "resolution_date": "2020-06-30T11:25:21.000+0300",
+    "updated_date": "2020-07-20T13:45:43.000+0300",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-188969",
+    "summary": "Having a suspicious stew in inventory prevents all types of suspicious stew from going into your inventory when milking brown mooshroom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-12T17:44:59.000+0300",
+    "resolution_date": "2020-06-30T17:30:34.000+0300",
+    "updated_date": "2020-08-09T19:24:42.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-188473",
+    "summary": "Resource pack screen no longer updates when adding or removing resource packs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-06-10T20:19:59.000+0300",
+    "resolution_date": "2020-06-30T18:34:48.000+0300",
+    "updated_date": "2020-07-19T19:22:47.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-185274",
+    "summary": "Subtitles are still showing ''Gear equips'' when eating in snapshot 20w21a or newer.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-05-23T10:36:36.000+0300",
+    "resolution_date": "2020-06-30T11:58:45.000+0300",
+    "updated_date": "2020-09-10T03:32:38.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-183743",
+    "summary": "Iron golem overpopulation",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-05-13T14:57:32.000+0300",
+    "resolution_date": "2020-06-30T12:11:26.000+0300",
+    "updated_date": "2020-11-17T16:20:25.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-183663",
+    "summary": "Farmer villagers don't compost correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-05-12T23:36:27.000+0300",
+    "resolution_date": "2020-06-30T17:30:34.000+0300",
+    "updated_date": "2020-06-30T17:30:34.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-182652",
+    "summary": "Ruined portals don't always spawn with chest",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-05-06T06:41:44.000+0300",
+    "resolution_date": "2020-06-29T18:16:02.000+0300",
+    "updated_date": "2021-07-30T17:18:42.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-180447",
+    "summary": "Game crash when placing player head down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-04-24T16:48:59.000+0300",
+    "resolution_date": "2020-07-02T10:27:51.000+0300",
+    "updated_date": "2022-07-29T16:51:18.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-178729",
+    "summary": "Inconsistency: Red and brown mushrooms can't be grown into huge mushrooms on nylium, while they can on all other \"grass\" blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-04-15T03:02:14.000+0300",
+    "resolution_date": "2020-07-01T12:20:42.000+0300",
+    "updated_date": "2020-11-17T17:49:23.000+0200",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-174762",
+    "summary": "Villager iron golem respawn timer is reset when the chunk is reloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-03-14T01:11:04.000+0200",
+    "resolution_date": "2020-07-03T11:54:14.000+0300",
+    "updated_date": "2020-07-03T11:54:14.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-171739",
+    "summary": "Weeping and twisting vines, bamboo, and kelp can be replaced by \"saplings\" by breaking and placing the block at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-02-09T23:51:28.000+0200",
+    "resolution_date": "2020-06-29T18:45:55.000+0300",
+    "updated_date": "2021-02-13T14:41:42.000+0200",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-170628",
+    "summary": "UserCache with X user entries writes the same file X times to disk on server startup",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2020-01-31T23:16:30.000+0200",
+    "resolution_date": "2022-04-18T06:59:32.000+0300",
+    "updated_date": "2022-04-18T06:59:32.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-160723",
+    "summary": "Bamboo crouch sliding off",
+    "labels": [
+      "movement"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2019-09-08T03:57:41.000+0300",
+    "resolution_date": "2020-07-08T15:58:12.000+0300",
+    "updated_date": "2020-12-01T20:48:40.000+0200",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-150417",
+    "summary": "Some items get stuck in soul sand when there is liquid above the soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2019-05-01T00:20:28.000+0300",
+    "resolution_date": "2020-06-30T11:58:46.000+0300",
+    "updated_date": "2020-07-27T15:57:58.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-145691",
+    "summary": "Binding \"Open/Close Inventory\" to Tab only opens inventory",
+    "labels": [
+      "binding",
+      "inventory",
+      "tab"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2019-03-13T18:45:25.000+0200",
+    "resolution_date": "2020-06-29T17:44:09.000+0300",
+    "updated_date": "2020-07-02T14:23:30.000+0300",
+    "watches": 68,
+    "votes": 129
+  },
+  {
+    "id": "MC-124365",
+    "summary": "Exiting world does not release file handle to zipped datapack / resourcepack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2018-01-17T19:17:07.000+0200",
+    "resolution_date": "2022-03-09T20:19:32.000+0200",
+    "updated_date": "2022-03-09T20:21:59.000+0200",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-97507",
+    "summary": "Using item which modifies the held item shows \"Gear equips\" subtitle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.9 Pre-Release 3",
+      "20w21a",
+      "20w27a"
+    ],
+    "creation_date": "2016-02-18T23:25:15.000+0200",
+    "resolution_date": "2020-05-20T13:34:21.000+0300",
+    "updated_date": "2020-08-07T20:58:00.000+0300",
+    "watches": 21,
+    "votes": 44
+  },
+  {
+    "id": "MC-68487",
+    "summary": "Player heads of the same player always have the same skin texture, even if the saved texture data is different",
+    "labels": [
+      "head",
+      "mojang_internal_1",
+      "multiple",
+      "player",
+      "skin",
+      "skull",
+      "skullowner"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2014-08-20T23:12:00.000+0300",
+    "resolution_date": "2020-07-01T13:48:59.000+0300",
+    "updated_date": "2021-09-05T03:19:18.000+0300",
+    "watches": 15,
+    "votes": 16
+  },
+  {
+    "id": "MC-49476",
+    "summary": "NBT \"HideFlags\" does not hide \"Dyed\" on leather armor",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2014-02-22T08:04:08.000+0200",
+    "resolution_date": "2020-06-30T19:14:59.000+0300",
+    "updated_date": "2020-06-30T19:21:15.000+0300",
+    "watches": 17,
+    "votes": 39
+  },
+  {
+    "id": "MC-2404",
+    "summary": "Stepping down while sneaking allows falling off of blocks",
+    "labels": [
+      "sneaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w27a"
+    ],
+    "creation_date": "2012-11-06T20:33:49.000+0200",
+    "resolution_date": "2020-06-29T18:45:54.000+0300",
+    "updated_date": "2021-10-04T19:03:57.000+0300",
+    "watches": 17,
+    "votes": 24
+  },
+  {
+    "id": "MC-1058",
+    "summary": "A dragon head is invisible if the entity wearing it is not in view",
+    "labels": [
+      "edge",
+      "entity",
+      "invisible",
+      "item_frame",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Entities",
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 16w06a",
+      "20w27a"
+    ],
+    "creation_date": "2012-10-28T19:24:54.000+0200",
+    "resolution_date": "2020-06-30T11:58:45.000+0300",
+    "updated_date": "2020-07-03T20:52:30.000+0300",
+    "watches": 43,
+    "votes": 191
+  }
+]

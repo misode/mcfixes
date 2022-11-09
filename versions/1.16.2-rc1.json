@@ -1,0 +1,142 @@
+[
+  {
+    "id": "MC-197275",
+    "summary": "Due to changes to walls, \"pack_format: 5\" is not cross-compatible between 1.15 and 1.16",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs",
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-08-06T23:35:40.000+0300",
+    "resolution_date": "2020-08-07T15:21:08.000+0300",
+    "updated_date": "2020-08-10T19:01:03.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-197263",
+    "summary": "End sky and nether fog don't work on servers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-08-06T22:15:39.000+0300",
+    "resolution_date": "2020-08-07T15:35:31.000+0300",
+    "updated_date": "2020-08-07T18:52:35.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-197258",
+    "summary": "Certain dimensions can cause a game crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-08-06T21:58:06.000+0300",
+    "resolution_date": "2020-08-07T17:27:19.000+0300",
+    "updated_date": "2020-08-07T17:46:02.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-197225",
+    "summary": "Crash: java.util.concurrent.CompletionException: u: Exception generating new chunk",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-08-06T16:36:23.000+0300",
+    "resolution_date": "2020-08-07T17:08:40.000+0300",
+    "updated_date": "2020-08-07T17:46:02.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-197197",
+    "summary": "Game crashes/freezes after creating/entering a Superflat world without presets",
+    "labels": [
+      "crash",
+      "superflat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-08-06T05:42:11.000+0300",
+    "resolution_date": "2020-08-07T17:27:19.000+0300",
+    "updated_date": "2020-08-13T15:38:18.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-194933",
+    "summary": "Game crashes when loading a custom biome / java.lang.UnsupportedOperationException: Trying to add tag of type 8 to list of 10",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Custom Worlds"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-07-14T17:12:11.000+0300",
+    "resolution_date": "2020-08-07T17:37:16.000+0300",
+    "updated_date": "2020-08-07T17:38:51.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-190103",
+    "summary": "Crash when using a nether portal: java.lang.IndexOutOfBoundsException: fromIndex < 0: -2368549",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.16.2 Release Candidate 1"
+    ],
+    "creation_date": "2020-06-17T00:27:47.000+0300",
+    "resolution_date": "2020-08-07T15:42:58.000+0300",
+    "updated_date": "2020-08-07T15:42:58.000+0300",
+    "watches": 4,
+    "votes": 7
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "id": "MC-155571",
+    "summary": "Silverfish & Endermite spawners no longer functioning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-29T03:30:25.000+0300",
+    "resolution_date": "2019-07-02T09:29:42.000+0300",
+    "updated_date": "2019-07-07T19:13:05.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-155345",
+    "summary": "ConcurrentModificationException when a player leaves an active raid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-26T15:56:37.000+0300",
+    "resolution_date": "2019-07-03T14:47:39.000+0300",
+    "updated_date": "2019-08-29T14:55:17.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-155238",
+    "summary": "Villagers picking up workstation through wall",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-25T14:26:07.000+0300",
+    "resolution_date": "2019-07-01T12:19:09.000+0300",
+    "updated_date": "2019-07-01T12:19:09.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-155172",
+    "summary": "Hostile Wolf AI has been broken. Wolves can no longer attack enemies efficiently.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-25T03:25:14.000+0300",
+    "resolution_date": "2019-07-01T12:19:09.000+0300",
+    "updated_date": "2020-07-10T16:35:02.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-155104",
+    "summary": "when closing a menu while moving the mouse, the screen will move in that direction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-24T18:53:57.000+0300",
+    "resolution_date": "2019-07-02T09:29:45.000+0300",
+    "updated_date": "2021-04-27T16:23:26.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-155092",
+    "summary": "Zombie sieges can happen on mushroom islands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-24T15:03:13.000+0300",
+    "resolution_date": "2019-07-03T14:47:37.000+0300",
+    "updated_date": "2021-01-26T04:55:34.000+0200",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-154830",
+    "summary": "All wall signs use oak color on maps",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-19T04:47:44.000+0300",
+    "resolution_date": "2019-07-01T12:19:08.000+0300",
+    "updated_date": "2019-07-01T12:19:08.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-154668",
+    "summary": "Invalid characters crash the game in jigsaw block input upon pressing enter",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-16T13:40:36.000+0300",
+    "resolution_date": "2019-07-01T09:31:15.000+0300",
+    "updated_date": "2019-07-01T09:31:16.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-154509",
+    "summary": "Bashkir letters \u0498, \u0499, \u04a0, \u04a1, \u04aa, and \u04ab are not included in the Minecraft font",
+    "labels": [
+      "characters-needing-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-14T16:00:51.000+0300",
+    "resolution_date": "2019-07-03T08:28:15.000+0300",
+    "updated_date": "2021-09-01T22:41:10.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-154362",
+    "summary": "Crossbow has to re-load when mending takes place",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-11T18:22:35.000+0300",
+    "resolution_date": "2019-07-01T09:31:22.000+0300",
+    "updated_date": "2019-07-01T09:31:22.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-154201",
+    "summary": "Trying to trade with villager immediately closes trading menu for some villagers",
+    "labels": [
+      "gui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading",
+      "Village system"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-09T09:39:09.000+0300",
+    "resolution_date": "2019-06-28T10:30:59.000+0300",
+    "updated_date": "2019-12-19T22:07:29.000+0200",
+    "watches": 71,
+    "votes": 88
+  },
+  {
+    "id": "MC-154068",
+    "summary": "parrots occasionally disappearing when you take them from a boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-07T22:39:28.000+0300",
+    "resolution_date": "2019-07-01T09:31:18.000+0300",
+    "updated_date": "2019-07-18T14:32:10.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-154031",
+    "summary": "villagers give away all food if they want to share it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-07T15:16:57.000+0300",
+    "resolution_date": "2019-06-28T10:19:34.000+0300",
+    "updated_date": "2019-06-28T21:05:28.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-154019",
+    "summary": "Beacon deactivate sound not sounds when you break the base",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-07T13:07:14.000+0300",
+    "resolution_date": "2019-07-01T09:31:17.000+0300",
+    "updated_date": "2019-07-15T07:14:57.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-153892",
+    "summary": "Mending slows down breaking blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-05T20:18:24.000+0300",
+    "resolution_date": "2019-07-01T09:31:21.000+0300",
+    "updated_date": "2020-05-01T11:23:48.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-153766",
+    "summary": "Rabbits no longer need sand/grass in order to spawn in deserts/tundras",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-04T05:28:49.000+0300",
+    "resolution_date": "2019-06-28T10:13:42.000+0300",
+    "updated_date": "2019-10-20T21:07:38.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-153665",
+    "summary": "Full villager inventory creates invisible items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-06-02T23:34:03.000+0300",
+    "resolution_date": "2019-06-28T10:19:35.000+0300",
+    "updated_date": "2019-08-28T16:50:31.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-153498",
+    "summary": "Cyrillic letter \u0404 is not included in the Minecraft font",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-05-31T17:28:59.000+0300",
+    "resolution_date": "2019-07-03T08:28:15.000+0300",
+    "updated_date": "2019-07-03T08:28:15.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-147844",
+    "summary": "Pillagers don't pathfind around obstacles & out of water",
+    "labels": [
+      "obstacle",
+      "pathfind",
+      "pillager",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-11T04:46:20.000+0300",
+    "resolution_date": "2019-07-03T14:47:28.000+0300",
+    "updated_date": "2019-07-03T14:47:28.000+0300",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-146289",
+    "summary": "Farmer villagers don't stop to pick up their crops",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-03-21T01:35:16.000+0200",
+    "resolution_date": "2019-06-28T10:37:50.000+0300",
+    "updated_date": "2019-10-22T06:07:38.000+0300",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-143886",
+    "summary": "Acacia leaves render improprly from a distance",
+    "labels": [
+      "savanna"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-02-09T00:31:19.000+0200",
+    "resolution_date": "2019-07-02T09:29:44.000+0300",
+    "updated_date": "2019-07-02T09:29:44.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-142037",
+    "summary": "java.lang.NullPointerException: Initializing game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2019-01-10T19:53:25.000+0200",
+    "resolution_date": "2019-07-01T09:11:46.000+0300",
+    "updated_date": "2019-07-22T18:14:23.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-134964",
+    "summary": "Unexpected error: java.util.NoSuchElementException",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2018-07-26T22:51:42.000+0300",
+    "resolution_date": "2019-07-01T09:11:44.000+0300",
+    "updated_date": "2019-07-01T09:11:44.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-113970",
+    "summary": "Zombies of village siege do not spawn centered on a block",
+    "labels": [
+      "siege",
+      "zombie"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2017-02-18T21:15:50.000+0200",
+    "resolution_date": "2019-06-28T10:19:32.000+0300",
+    "updated_date": "2020-08-12T01:30:58.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-113968",
+    "summary": "Zombies of village siege spawn despite gamerule doMobSpawning being false",
+    "labels": [
+      "doMobSpawning",
+      "gamerule",
+      "siege",
+      "zombie"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2017-02-18T21:04:10.000+0200",
+    "resolution_date": "2019-06-28T10:19:30.000+0300",
+    "updated_date": "2020-08-12T01:31:15.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-100946",
+    "summary": "Bow with mending undraws when receiving XP while drawed",
+    "labels": [
+      "bow",
+      "durability",
+      "experience",
+      "mending",
+      "repairing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2016-04-15T08:13:14.000+0300",
+    "resolution_date": "2019-07-01T09:31:19.000+0300",
+    "updated_date": "2020-09-21T20:31:16.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-68124",
+    "summary": "Game crashes with superflat preset is above 256: java.lang.ArrayIndexOutOfBoundsException: 256",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 1.14.4 Pre-Release 1"
+    ],
+    "creation_date": "2014-08-19T00:24:43.000+0300",
+    "resolution_date": "2019-11-22T18:57:34.000+0200",
+    "updated_date": "2021-02-01T23:33:14.000+0200",
+    "watches": 15,
+    "votes": 16
+  }
+]
