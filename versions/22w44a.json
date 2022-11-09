@@ -121,6 +121,26 @@
     "votes": 5
   },
   {
+    "id": "MC-256830",
+    "summary": "Unable to sprint on a Camel with low hunger",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-10-24T00:10:53.000+0300",
+    "resolution_date": "2022-11-09T23:20:20.000+0200",
+    "updated_date": "2022-11-09T23:20:20.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
     "id": "MC-256768",
     "summary": "Entities no longer have random rotations upon being summoned from spawn eggs",
     "labels": [
