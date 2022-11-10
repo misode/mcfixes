@@ -569,6 +569,69 @@
     "votes": 0
   },
   {
+    "id": "MC-220711",
+    "summary": "Shulker boxes can be opened when blocked by spore blossoms",
+    "labels": [
+      "shulker_box",
+      "spore_blossom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2021-03-24T20:33:01.000+0200",
+    "resolution_date": "2022-11-10T17:32:06.000+0200",
+    "updated_date": "2022-11-10T17:32:06.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-220708",
+    "summary": "Shulker boxes can be opened when blocked by small dripleaves",
+    "labels": [
+      "shulker_box",
+      "small_dripleaf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2021-03-24T20:32:56.000+0200",
+    "resolution_date": "2022-11-10T17:31:16.000+0200",
+    "updated_date": "2022-11-10T17:31:22.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-220668",
+    "summary": "Shulker boxes can open when blocked by Big Dripleaf",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2021-03-24T10:12:24.000+0200",
+    "resolution_date": "2022-11-10T17:31:51.000+0200",
+    "updated_date": "2022-11-10T17:31:51.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
     "id": "MC-200000",
     "summary": "Merchant trade select packet (C2S) does not check for negative indices",
     "labels": [],
