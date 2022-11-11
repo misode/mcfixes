@@ -532,6 +532,25 @@
     "votes": 5
   },
   {
+    "id": "MC-253107",
+    "summary": "Chat reporting screen is forcibly closed upon dying or changing dimensions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2022-06-15T21:02:05.000+0300",
+    "resolution_date": "2022-11-11T09:58:23.000+0200",
+    "updated_date": "2022-11-11T09:58:23.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
     "id": "MC-252214",
     "summary": "Going into water does not extinguish the fire on you if you're in a boat",
     "labels": [],
