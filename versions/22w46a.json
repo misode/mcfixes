@@ -42,26 +42,6 @@
     "votes": 3
   },
   {
-    "id": "MC-257386",
-    "summary": "Inventory menu has broken textures with Programmer Art enabled",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Resource Packs",
-      "UI"
-    ],
-    "priority": "Important",
-    "fix_versions": [
-      "22w46a"
-    ],
-    "creation_date": "2022-11-10T01:18:42.000+0200",
-    "resolution_date": "2022-11-11T13:36:30.000+0200",
-    "updated_date": "2022-11-14T22:07:15.000+0200",
-    "watches": 4,
-    "votes": 6
-  },
-  {
     "id": "MC-257378",
     "summary": "Villagers and piglins can't open or close doors",
     "labels": [],
