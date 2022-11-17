@@ -218,26 +218,6 @@
     "votes": 6
   },
   {
-    "id": "MC-257105",
-    "summary": "The walking animation of frogs and camels doesn't play when they are moving slowly",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Mob behaviour",
-      "Textures and models"
-    ],
-    "priority": "Important",
-    "fix_versions": [
-      "22w46a"
-    ],
-    "creation_date": "2022-11-02T16:57:24.000+0200",
-    "resolution_date": "2022-11-15T12:21:19.000+0200",
-    "updated_date": "2022-11-15T12:21:19.000+0200",
-    "watches": 5,
-    "votes": 5
-  },
-  {
     "id": "MC-257073",
     "summary": "You cannot hold the TAB key to navigate between buttons quickly in the \"Experimental Features Warning\" menu",
     "labels": [],
