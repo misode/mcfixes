@@ -1,0 +1,173 @@
+[
+  {
+    "id": "MC-257668",
+    "summary": "The draft report icon isn't present on any of the \"Title Screen\" buttons within the death screen when attempting to disconnect from worlds while having saved draft reports",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2022-11-17T14:27:56.000+0200",
+    "resolution_date": "2022-11-23T15:02:59.000+0200",
+    "updated_date": "2022-11-23T15:02:59.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-257664",
+    "summary": "Buttons within the list in the social interactions menu display their hover text regardless of the position of the cursor",
+    "labels": [
+      "social-interactions"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2022-11-17T12:59:52.000+0200",
+    "resolution_date": "2022-11-23T16:34:42.000+0200",
+    "updated_date": "2022-11-23T16:34:42.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-257636",
+    "summary": "Villagers rarely close doors after going through them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2022-11-16T20:58:24.000+0200",
+    "resolution_date": "2022-11-23T16:23:07.000+0200",
+    "updated_date": "2022-11-23T16:23:07.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-257616",
+    "summary": "The \"Data Collection\" button in the telemetry menu displays its hover text regardless of the position of the cursor",
+    "labels": [
+      "telemetry"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2022-11-16T17:52:37.000+0200",
+    "resolution_date": "2022-11-23T16:34:42.000+0200",
+    "updated_date": "2022-11-23T16:34:42.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-256655",
+    "summary": "Some shorter mobs can attack Players on a Camel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2022-10-20T03:45:06.000+0300",
+    "resolution_date": "2022-11-23T15:16:55.000+0200",
+    "updated_date": "2022-11-23T15:16:55.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-189111",
+    "summary": "Bees get stuck on non-full blocks",
+    "labels": [
+      "bee",
+      "pathfinding"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2020-06-12T22:34:48.000+0300",
+    "resolution_date": "2022-11-23T12:19:30.000+0200",
+    "updated_date": "2022-11-23T12:19:30.000+0200",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-187744",
+    "summary": "\"Place pack files here\" hover text on pack selection screen shows everywhere when \"Open pack folder\" button has focus",
+    "labels": [
+      "button",
+      "datapacks",
+      "focus",
+      "ressources-packs",
+      "tooltip",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2020-06-06T02:39:24.000+0300",
+    "resolution_date": "2022-11-23T16:34:42.000+0200",
+    "updated_date": "2022-11-23T16:34:42.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-185618",
+    "summary": "Creepers can't be ignited with a fire charge",
+    "labels": [
+      "creeper",
+      "fire_charge",
+      "igniting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2020-05-25T20:03:30.000+0300",
+    "resolution_date": "2022-11-23T15:28:47.000+0200",
+    "updated_date": "2022-11-23T15:28:47.000+0200",
+    "watches": 11,
+    "votes": 20
+  }
+]
