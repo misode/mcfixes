@@ -375,6 +375,28 @@
     "votes": 3
   },
   {
+    "id": "MC-251744",
+    "summary": "Datapacks cannot change sapling growth",
+    "labels": [
+      "custom-worldgen",
+      "data-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2022-05-15T15:42:29.000+0300",
+    "resolution_date": "2022-11-23T23:35:55.000+0200",
+    "updated_date": "2022-11-23T23:35:55.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
     "id": "MC-244721",
     "summary": "\"Erase cached data\" is not capitalized",
     "labels": [
