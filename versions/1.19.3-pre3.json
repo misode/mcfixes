@@ -259,6 +259,25 @@
     "votes": 5
   },
   {
+    "id": "MC-254036",
+    "summary": "Entity data sometimes doesn't get properly updated in multiplayer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Pre-release 3"
+    ],
+    "creation_date": "2022-07-09T19:52:42.000+0300",
+    "resolution_date": "2022-11-29T19:58:33.000+0200",
+    "updated_date": "2022-11-29T19:58:33.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
     "id": "MC-250428",
     "summary": "Narrator does not narrate the death screen",
     "labels": [
@@ -354,7 +373,7 @@
     ],
     "creation_date": "2020-10-09T03:35:45.000+0300",
     "resolution_date": "2022-11-28T12:21:15.000+0200",
-    "updated_date": "2022-11-28T12:21:15.000+0200",
+    "updated_date": "2022-11-29T20:00:27.000+0200",
     "watches": 13,
     "votes": 13
   },
@@ -417,7 +436,7 @@
     ],
     "creation_date": "2019-11-15T20:54:42.000+0200",
     "resolution_date": "2022-11-29T14:22:06.000+0200",
-    "updated_date": "2022-11-29T14:22:06.000+0200",
+    "updated_date": "2022-11-29T20:15:17.000+0200",
     "watches": 12,
     "votes": 46
   },
