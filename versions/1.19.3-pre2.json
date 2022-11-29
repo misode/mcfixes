@@ -103,6 +103,26 @@
     "votes": 2
   },
   {
+    "id": "MC-257468",
+    "summary": "Tabbed tooltip sticks to the mouse",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.3 Pre-release 2"
+    ],
+    "creation_date": "2022-11-11T16:09:25.000+0200",
+    "resolution_date": "2022-11-29T12:17:29.000+0200",
+    "updated_date": "2022-11-29T12:17:29.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
     "id": "MC-256655",
     "summary": "Some shorter mobs can attack Players on a Camel",
     "labels": [],
