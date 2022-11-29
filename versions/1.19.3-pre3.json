@@ -78,6 +78,25 @@
     "votes": 5
   },
   {
+    "id": "MC-257637",
+    "summary": "Stripped bamboo top texture doesn't match bamboo block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Pre-release 3"
+    ],
+    "creation_date": "2022-11-16T20:58:27.000+0200",
+    "resolution_date": "2022-11-29T18:54:20.000+0200",
+    "updated_date": "2022-11-29T18:54:20.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-257530",
     "summary": "When Chat is set to Hidden, the Chat Hidden Warning appears in chat instead of the actionbar when attempting to send a message whilst sleeping or switching gamemode",
     "labels": [],
