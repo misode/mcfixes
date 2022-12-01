@@ -182,25 +182,6 @@
     "votes": 6
   },
   {
-    "id": "MC-227250",
-    "summary": "Mobs continue converting after the conversion process starts and the block causing the conversion is removed",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Mob behaviour"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "1.19.3 Release Candidate 1"
-    ],
-    "creation_date": "2021-06-03T08:15:19.000+0300",
-    "resolution_date": "2022-11-30T14:06:44.000+0200",
-    "updated_date": "2022-12-01T18:11:50.000+0200",
-    "watches": 5,
-    "votes": 11
-  },
-  {
     "id": "MC-187816",
     "summary": "Using Tab multiple times to select a datapack / resource pack from the list does not deselect it",
     "labels": [
