@@ -78,6 +78,28 @@
     "votes": 5
   },
   {
+    "id": "MC-257638",
+    "summary": "Creeper note block sound is not pitched correctly",
+    "labels": [
+      "note_block",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Pre-release 3"
+    ],
+    "creation_date": "2022-11-16T20:59:25.000+0200",
+    "resolution_date": "2022-12-02T00:29:16.000+0200",
+    "updated_date": "2022-12-02T00:29:16.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
     "id": "MC-257637",
     "summary": "Stripped bamboo top texture doesn't match bamboo block",
     "labels": [],

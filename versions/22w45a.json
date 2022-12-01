@@ -713,6 +713,28 @@
     "votes": 20
   },
   {
+    "id": "MC-152823",
+    "summary": "Buckets ignore fluid placement check for replaceable or non-solid-blocking LiquidBlockContainers",
+    "labels": [
+      "bucket",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2019-05-24T20:48:42.000+0300",
+    "resolution_date": "2022-12-02T01:05:24.000+0200",
+    "updated_date": "2022-12-02T01:05:24.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
     "id": "MC-127110",
     "summary": "You can't empty water buckets into waterlogged blocks",
     "labels": [
@@ -733,7 +755,7 @@
     ],
     "creation_date": "2018-03-10T19:59:52.000+0200",
     "resolution_date": "2022-11-07T09:50:33.000+0200",
-    "updated_date": "2022-11-09T21:46:01.000+0200",
+    "updated_date": "2022-12-02T01:05:01.000+0200",
     "watches": 14,
     "votes": 37
   },
