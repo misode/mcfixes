@@ -1,0 +1,310 @@
+[
+  {
+    "id": "MC-258209",
+    "summary": "Storage data is broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-11-30T13:12:57.000+0200",
+    "resolution_date": "2022-11-30T18:49:41.000+0200",
+    "updated_date": "2022-11-30T18:49:41.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-258203",
+    "summary": "/data modify thinks NBT is too large, but /data merge doesn't",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-11-30T05:35:06.000+0200",
+    "resolution_date": "2022-11-30T18:49:58.000+0200",
+    "updated_date": "2022-11-30T18:49:58.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-258196",
+    "summary": "Stray pixel in gui/toasts.png",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-11-29T19:37:17.000+0200",
+    "resolution_date": "2022-11-30T14:08:13.000+0200",
+    "updated_date": "2022-11-30T14:08:13.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-258195",
+    "summary": "Performance degradation of NBT modification",
+    "labels": [
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Commands",
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-11-29T18:24:50.000+0200",
+    "resolution_date": "2022-11-30T15:48:30.000+0200",
+    "updated_date": "2022-11-30T15:48:30.000+0200",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-258190",
+    "summary": "Bubble columns let skylight through",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-11-29T10:32:43.000+0200",
+    "resolution_date": "2022-11-30T14:06:47.000+0200",
+    "updated_date": "2022-11-30T14:06:47.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-258159",
+    "summary": "Pick block doesn't work on Ender Dragon",
+    "labels": [
+      "ender_dragon",
+      "ender_dragon_spawn_egg"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-11-27T19:11:59.000+0200",
+    "resolution_date": "2022-11-30T14:06:46.000+0200",
+    "updated_date": "2022-11-30T14:06:46.000+0200",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-254809",
+    "summary": "You cannot get water bottles from water in creative mode if there's a potion in your inventory",
+    "labels": [
+      "potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-08-01T02:18:17.000+0300",
+    "resolution_date": "2022-11-30T14:06:43.000+0200",
+    "updated_date": "2022-11-30T14:06:43.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-248589",
+    "summary": "World border texture jumps back and forth between two positions as the player's y level changes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-02-12T19:35:50.000+0200",
+    "resolution_date": "2022-11-30T14:06:45.000+0200",
+    "updated_date": "2022-11-30T14:06:45.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-240724",
+    "summary": "There are no shadows on text displayed within the subtitles overlay",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2021-11-05T19:58:07.000+0200",
+    "resolution_date": "2022-11-30T14:20:23.000+0200",
+    "updated_date": "2022-11-30T14:20:23.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-227250",
+    "summary": "Mobs continue converting after the conversion process starts and the block causing the conversion is removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2021-06-03T08:15:19.000+0300",
+    "resolution_date": "2022-11-30T14:06:44.000+0200",
+    "updated_date": "2022-11-30T14:06:44.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-187816",
+    "summary": "Using Tab multiple times to select a datapack / resource pack from the list does not deselect it",
+    "labels": [
+      "accessibility",
+      "datapacks",
+      "list",
+      "resource-pack",
+      "tab",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2020-06-06T12:51:09.000+0300",
+    "resolution_date": "2022-11-30T14:20:24.000+0200",
+    "updated_date": "2022-11-30T14:20:24.000+0200",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-187812",
+    "summary": "The buttons are not selected in the right order using Tab in the new datapacks and resource packs menus",
+    "labels": [
+      "accessibility",
+      "buttons",
+      "datapacks",
+      "menu",
+      "resource-pack",
+      "tab",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2020-06-06T12:32:29.000+0300",
+    "resolution_date": "2022-12-01T10:39:55.000+0200",
+    "updated_date": "2022-12-01T10:39:55.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-185279",
+    "summary": "\"Done\" and \"Cancel\" buttons in the game rules screen are not selected in the right order when navigating using Tab",
+    "labels": [
+      "accessibility",
+      "buttons",
+      "menu",
+      "tab",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2020-05-23T11:18:09.000+0300",
+    "resolution_date": "2022-11-30T14:20:26.000+0200",
+    "updated_date": "2022-11-30T14:20:26.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-58668",
+    "summary": "Smooth Lighting Minimum and Maximum levels no longer differ",
+    "labels": [
+      "floodlight-zone",
+      "full",
+      "lighting",
+      "smooth",
+      "smooth-lighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2014-06-23T09:34:46.000+0300",
+    "resolution_date": "2022-11-30T14:06:43.000+0200",
+    "updated_date": "2022-11-30T14:06:43.000+0200",
+    "watches": 16,
+    "votes": 23
+  }
+]
