@@ -141,6 +141,28 @@
     "votes": 6
   },
   {
+    "id": "MC-250246",
+    "summary": "Moving in mangrove swamps FPS/TPS drop below normal forests",
+    "labels": [
+      "lag-spike",
+      "mangrove-swamp"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2022-04-16T16:11:23.000+0300",
+    "resolution_date": "2022-12-02T15:00:40.000+0200",
+    "updated_date": "2022-12-02T15:01:13.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
     "id": "MC-248589",
     "summary": "World border texture jumps back and forth between two positions as the player's y level changes",
     "labels": [],
