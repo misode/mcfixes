@@ -378,6 +378,27 @@
     "votes": 14
   },
   {
+    "id": "MC-221421",
+    "summary": "A list tag can be modified during insertion into itself",
+    "labels": [
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.3 Pre-release 3"
+    ],
+    "creation_date": "2021-03-30T17:19:17.000+0300",
+    "resolution_date": "2022-12-02T22:43:39.000+0200",
+    "updated_date": "2022-12-02T22:43:39.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-208051",
     "summary": "Chests/trapped chests/barrels do not 'open' after respawning",
     "labels": [],
