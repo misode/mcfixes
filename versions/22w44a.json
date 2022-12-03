@@ -397,6 +397,28 @@
     "votes": 10
   },
   {
+    "id": "MC-245503",
+    "summary": "The configuration of moss block spreading cannot be modified by data pack",
+    "labels": [
+      "block",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w44a"
+    ],
+    "creation_date": "2021-12-14T18:30:47.000+0200",
+    "resolution_date": "2022-12-03T14:25:30.000+0200",
+    "updated_date": "2022-12-03T14:25:30.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-244721",
     "summary": "\"Erase cached data\" is not capitalized",
     "labels": [
