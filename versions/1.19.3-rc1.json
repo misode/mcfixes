@@ -288,7 +288,6 @@
     "id": "MC-58668",
     "summary": "Smooth Lighting Minimum and Maximum levels no longer differ",
     "labels": [
-      "floodlight-zone",
       "full",
       "lighting",
       "smooth",
@@ -306,8 +305,8 @@
     ],
     "creation_date": "2014-06-23T09:34:46.000+0300",
     "resolution_date": "2022-11-30T14:06:43.000+0200",
-    "updated_date": "2022-11-30T14:06:43.000+0200",
-    "watches": 16,
+    "updated_date": "2022-12-03T02:07:31.000+0200",
+    "watches": 15,
     "votes": 23
   }
 ]
