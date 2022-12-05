@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MC-258256",
+    "summary": "Cannot join a LAN world while offline",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.3 Release Candidate 2"
+    ],
+    "creation_date": "2022-12-02T19:36:10.000+0200",
+    "resolution_date": "2022-12-05T14:52:04.000+0200",
+    "updated_date": "2022-12-05T14:52:04.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-258251",
+    "summary": "Slots (like %s) in translations no longer ignore missing elements in \"with\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Text"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.3 Release Candidate 2"
+    ],
+    "creation_date": "2022-12-02T15:33:24.000+0200",
+    "resolution_date": "2022-12-05T12:50:58.000+0200",
+    "updated_date": "2022-12-05T12:50:58.000+0200",
+    "watches": 14,
+    "votes": 32
+  }
+]
