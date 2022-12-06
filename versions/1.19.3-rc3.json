@@ -1,0 +1,61 @@
+[
+  {
+    "id": "MC-258279",
+    "summary": "Particle groups aren't cleared on resource reload",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.3 Release Candidate 3"
+    ],
+    "creation_date": "2022-12-04T03:07:27.000+0200",
+    "resolution_date": "2022-12-06T11:53:42.000+0200",
+    "updated_date": "2022-12-06T11:53:42.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-258258",
+    "summary": "The \"EntityTag\" NBT data on armor stands is no longer applied upon placement",
+    "labels": [
+      "armor_stand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.3 Release Candidate 3"
+    ],
+    "creation_date": "2022-12-03T02:25:49.000+0200",
+    "resolution_date": "2022-12-06T12:14:05.000+0200",
+    "updated_date": "2022-12-06T12:14:05.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-108707",
+    "summary": "Potion effects, particles, and fire animations persist client-side after death in server environments",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.3 Release Candidate 3"
+    ],
+    "creation_date": "2016-10-14T03:51:50.000+0300",
+    "resolution_date": "2022-12-06T12:25:13.000+0200",
+    "updated_date": "2022-12-06T12:25:13.000+0200",
+    "watches": 18,
+    "votes": 35
+  }
+]
