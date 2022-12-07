@@ -744,6 +744,28 @@
     "votes": 12
   },
   {
+    "id": "MC-131738",
+    "summary": "Commands data report creates a server instance for no reason",
+    "labels": [
+      "data-generator",
+      "performance"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2018-06-21T06:04:39.000+0300",
+    "resolution_date": "2022-12-07T10:03:29.000+0200",
+    "updated_date": "2022-12-07T10:03:29.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
     "id": "MC-131360",
     "summary": "Music sometimes stops abruptly when you go underwater",
     "labels": [
