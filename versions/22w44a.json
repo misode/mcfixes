@@ -619,5 +619,26 @@
     "updated_date": "2022-11-02T16:56:13.000+0200",
     "watches": 31,
     "votes": 32
+  },
+  {
+    "id": "MC-30403",
+    "summary": "Sprinting isn't canceled when dismounting rideable entities while sprinting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 14w34d",
+      "22w44a",
+      "Future Update"
+    ],
+    "creation_date": "2013-09-07T18:26:25.000+0300",
+    "resolution_date": "2022-12-19T15:04:21.000+0200",
+    "updated_date": "2022-12-19T15:04:21.000+0200",
+    "watches": 22,
+    "votes": 44
   }
 ]
