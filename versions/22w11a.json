@@ -61,6 +61,25 @@
     "votes": 8
   },
   {
+    "id": "MC-237306",
+    "summary": "NBT suggesting is not present in clear command when using an item tag.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w11a"
+    ],
+    "creation_date": "2021-09-21T15:19:04.000+0300",
+    "resolution_date": "2022-12-25T20:22:30.000+0200",
+    "updated_date": "2022-12-25T20:22:30.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-235964",
     "summary": "Crash on \"Saving world\" when F3+L profiling is active - java.lang.NullPointerException: Cannot read field \"f\" because \"this.D\" is null",
     "labels": [
