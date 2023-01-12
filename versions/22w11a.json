@@ -469,6 +469,25 @@
     "votes": 10
   },
   {
+    "id": "MC-148795",
+    "summary": "Ghost blocks can occasionally be created when placing scaffolding too quickly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w11a"
+    ],
+    "creation_date": "2019-04-19T20:18:21.000+0300",
+    "resolution_date": "2023-01-12T16:40:56.000+0200",
+    "updated_date": "2023-01-12T16:40:56.000+0200",
+    "watches": 14,
+    "votes": 36
+  },
+  {
     "id": "MC-136188",
     "summary": "# disappears from item/block tag suggestions, but not function/entity tag suggestions",
     "labels": [],

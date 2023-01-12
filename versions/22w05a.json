@@ -377,6 +377,27 @@
     "votes": 4
   },
   {
+    "id": "MC-221312",
+    "summary": "Decorations can occasionally replace logs that support mineshafts when generating",
+    "labels": [
+      "mineshaft"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w05a"
+    ],
+    "creation_date": "2021-03-29T11:31:17.000+0300",
+    "resolution_date": "2023-01-12T16:51:05.000+0200",
+    "updated_date": "2023-01-12T17:01:54.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
     "id": "MC-216589",
     "summary": "Abandoned Mineshafts don't delete dripstone in certain situations",
     "labels": [],

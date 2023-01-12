@@ -888,6 +888,27 @@
     "votes": 7
   },
   {
+    "id": "MC-210231",
+    "summary": "Sculk sensors are not activated upon using the riptide enchantment",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2021-01-01T23:21:39.000+0200",
+    "resolution_date": "2023-01-12T17:06:41.000+0200",
+    "updated_date": "2023-01-12T17:06:41.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-209222",
     "summary": "Attempting to open the Minecraft Realms menu claims that the client is outdated, even if the snapshot may be newer than the release",
     "labels": [],
