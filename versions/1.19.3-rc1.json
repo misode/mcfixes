@@ -182,6 +182,26 @@
     "votes": 6
   },
   {
+    "id": "MC-236136",
+    "summary": "Strikethrough and underlined text in the F3 debug menu renders over subtitles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.3 Release Candidate 1"
+    ],
+    "creation_date": "2021-09-08T14:56:39.000+0300",
+    "resolution_date": "2023-01-14T00:28:49.000+0200",
+    "updated_date": "2023-01-14T00:28:49.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
     "id": "MC-187816",
     "summary": "Using Tab multiple times to select a datapack / resource pack from the list does not deselect it",
     "labels": [
