@@ -1231,6 +1231,27 @@
     "votes": 11
   },
   {
+    "id": "MC-195060",
+    "summary": "Right-clicking a tamed, ridden horse while sneaking plays the hand-swinging animation and doesn't use held items",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-07-15T20:07:55.000+0300",
+    "resolution_date": "2023-01-14T15:36:02.000+0200",
+    "updated_date": "2023-01-14T15:36:02.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
     "id": "MC-183899",
     "summary": "You can set your spawn point inside an end portal, causing the player to become stuck in the End",
     "labels": [],
