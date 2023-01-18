@@ -1,0 +1,737 @@
+[
+  {
+    "id": "MC-258953",
+    "summary": "Out of memory screen has raw message in the title",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2023-01-04T16:12:57.000+0200",
+    "resolution_date": "2023-01-11T12:58:15.000+0200",
+    "updated_date": "2023-01-11T12:58:15.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-258430",
+    "summary": "Camels with large LastPoseTime values offset the player view model strangely",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-12-10T18:17:24.000+0200",
+    "resolution_date": "2023-01-12T10:49:53.000+0200",
+    "updated_date": "2023-01-12T10:49:53.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-258295",
+    "summary": "Villager AI broken when workstation is nearby",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Village system"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-12-05T03:25:45.000+0200",
+    "resolution_date": "2023-01-16T12:33:56.000+0200",
+    "updated_date": "2023-01-17T15:03:46.000+0200",
+    "watches": 16,
+    "votes": 18
+  },
+  {
+    "id": "MC-258246",
+    "summary": "\"Telemetry Data\" button is missing an ellipsis",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-12-02T06:40:52.000+0200",
+    "resolution_date": "2022-12-08T14:33:22.000+0200",
+    "updated_date": "2022-12-22T17:19:49.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-258173",
+    "summary": "Entering an End Portal whilst sleeping causes the bed to be occupied permanently",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-11-28T00:56:44.000+0200",
+    "resolution_date": "2022-12-08T14:18:57.000+0200",
+    "updated_date": "2022-12-08T14:18:57.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-258163",
+    "summary": "ClientboundSectionBlocksUpdatePacket serialization breaks after 2^19 block states",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-11-27T21:38:19.000+0200",
+    "resolution_date": "2022-12-08T14:18:56.000+0200",
+    "updated_date": "2022-12-08T14:18:56.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-257875",
+    "summary": "Fire charges aren't consumed when igniting creepers using them in survival or adventure mode",
+    "labels": [
+      "creeper",
+      "fire_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-11-24T19:17:56.000+0200",
+    "resolution_date": "2022-12-14T14:56:19.000+0200",
+    "updated_date": "2022-12-14T14:56:19.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-257755",
+    "summary": "Elements within the realms menu are not selected in order when using the TAB key if you're not currently a member of any realm",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-11-19T21:53:50.000+0200",
+    "resolution_date": "2023-01-18T09:59:45.000+0200",
+    "updated_date": "2023-01-18T09:59:45.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-257418",
+    "summary": "Camels sometimes sit down for a split second when receiving damage",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-11-10T12:07:51.000+0200",
+    "resolution_date": "2022-12-15T19:45:04.000+0200",
+    "updated_date": "2022-12-15T19:45:04.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-257346",
+    "summary": "Vexes with empty hand make obscene gesture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-11-09T18:43:43.000+0200",
+    "resolution_date": "2022-12-12T11:15:04.000+0200",
+    "updated_date": "2022-12-12T11:15:04.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-257082",
+    "summary": "Sprinting whilst riding an entity or flying with elytra changes your field of view",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-11-01T13:53:43.000+0200",
+    "resolution_date": "2022-12-19T15:04:21.000+0200",
+    "updated_date": "2023-01-04T06:42:14.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-256838",
+    "summary": "The facing direction of the camel doesn't match",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-10-24T13:48:08.000+0300",
+    "resolution_date": "2022-12-15T19:45:05.000+0200",
+    "updated_date": "2022-12-15T19:45:05.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-256576",
+    "summary": "Players become the controlling passengers of unsaddled camels when mounting them while other players are already riding them",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-10-19T19:50:25.000+0300",
+    "resolution_date": "2022-12-14T11:40:53.000+0200",
+    "updated_date": "2022-12-14T16:10:23.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-256555",
+    "summary": "Camel sits down for a split second when spawned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-10-19T18:57:04.000+0300",
+    "resolution_date": "2022-12-15T19:45:04.000+0200",
+    "updated_date": "2022-12-15T19:45:04.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-256292",
+    "summary": "Goats don't spawn on grass after initial world generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-10-07T22:42:48.000+0300",
+    "resolution_date": "2022-12-08T14:08:50.000+0200",
+    "updated_date": "2022-12-08T14:08:50.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-255811",
+    "summary": "Level#isRainingAt(BlockPos) always returns false for snowy and frozen biomes, even when it is raining",
+    "labels": [
+      "environment",
+      "frozen_ocean"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-09-09T03:52:55.000+0300",
+    "resolution_date": "2022-12-15T12:29:51.000+0200",
+    "updated_date": "2022-12-15T12:29:51.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-255545",
+    "summary": "Magma Cube shadows do not change with size",
+    "labels": [
+      "magma_cube",
+      "rendering",
+      "shadow",
+      "shadow-size"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-08-26T23:42:32.000+0300",
+    "resolution_date": "2022-12-08T14:08:50.000+0200",
+    "updated_date": "2022-12-08T14:08:50.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-254132",
+    "summary": "Wolves do not get wet when raining in Frozen Oceans",
+    "labels": [
+      "frozen_ocean"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-07-12T15:51:42.000+0300",
+    "resolution_date": "2023-01-18T17:08:48.000+0200",
+    "updated_date": "2023-01-18T17:08:49.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-252773",
+    "summary": "Goat Horn without instrument NBT and with other NBT data (such as text) does not play",
+    "labels": [
+      "goat-horn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-06-10T13:29:47.000+0300",
+    "resolution_date": "2022-12-08T14:08:49.000+0200",
+    "updated_date": "2022-12-08T14:08:49.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-247836",
+    "summary": "Riptide doesn't work in rain within a frozen ocean biome",
+    "labels": [
+      "frozen_ocean"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-01-05T02:41:14.000+0200",
+    "resolution_date": "2022-12-15T12:29:51.000+0200",
+    "updated_date": "2022-12-15T12:29:51.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-238904",
+    "summary": "Rain is silent in Frozen Oceans ",
+    "labels": [
+      "frozen_ocean"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2021-10-13T20:33:32.000+0300",
+    "resolution_date": "2023-01-18T17:10:18.000+0200",
+    "updated_date": "2023-01-18T17:10:18.000+0200",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-235260",
+    "summary": "Hopper minecart at (0, 0, 0) transfers items slower than normal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Minecart"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2021-08-26T01:32:18.000+0300",
+    "resolution_date": "2022-12-08T13:20:13.000+0200",
+    "updated_date": "2022-12-08T13:20:13.000+0200",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-233893",
+    "summary": "Burning mobs won't get extinguished by rain in warm patches of Frozen Ocean biome",
+    "labels": [
+      "entities",
+      "extinguish",
+      "frozen_ocean",
+      "rain"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2021-08-06T16:25:12.000+0300",
+    "resolution_date": "2022-12-15T12:29:51.000+0200",
+    "updated_date": "2022-12-15T12:29:51.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-230678",
+    "summary": "Cauldron fills with powder snow in frozen ocean biome while it's visually raining",
+    "labels": [
+      "frozen_ocean"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2021-06-30T00:53:40.000+0300",
+    "resolution_date": "2022-12-15T12:29:51.000+0200",
+    "updated_date": "2022-12-15T12:29:51.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-224960",
+    "summary": "The spectate command does not work between dimensions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2021-05-05T23:24:00.000+0300",
+    "resolution_date": "2023-01-04T12:13:57.000+0200",
+    "updated_date": "2023-01-04T12:13:57.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-222518",
+    "summary": "Skeleton/Zombie Horse's & Donkey/Mule's saddles and chests are outdated/have errors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2021-04-07T17:48:20.000+0300",
+    "resolution_date": "2022-12-20T16:36:12.000+0200",
+    "updated_date": "2023-01-07T19:07:03.000+0200",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-191942",
+    "summary": "The buttons in the multiplayer menu are not evenly spaced",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2020-06-25T23:31:54.000+0300",
+    "resolution_date": "2023-01-04T12:26:48.000+0200",
+    "updated_date": "2023-01-04T12:26:48.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-181832",
+    "summary": "The \"/spreadplayers\" command doesn't spread entities in the specified dimension",
+    "labels": [
+      "spreadplayers"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2020-05-01T01:35:09.000+0300",
+    "resolution_date": "2023-01-04T12:14:02.000+0200",
+    "updated_date": "2023-01-04T12:14:02.000+0200",
+    "watches": 6,
+    "votes": 15
+  },
+  {
+    "id": "MC-165595",
+    "summary": "Guardian beam does not render when over a certain \"Time\" in level.dat",
+    "labels": [
+      "overflow",
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2019-11-14T15:44:24.000+0200",
+    "resolution_date": "2022-12-20T16:25:12.000+0200",
+    "updated_date": "2022-12-20T16:25:12.000+0200",
+    "watches": 31,
+    "votes": 87
+  },
+  {
+    "id": "MC-155433",
+    "summary": "Minecart with hopper not picking matching items from a mixed pile",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2019-06-27T13:59:23.000+0300",
+    "resolution_date": "2022-12-08T13:17:11.000+0200",
+    "updated_date": "2022-12-08T13:17:11.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-149144",
+    "summary": "Multiple buttons can be selected by pressing another button and Tab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2019-04-23T20:01:45.000+0300",
+    "resolution_date": "2023-01-11T16:31:35.000+0200",
+    "updated_date": "2023-01-11T16:31:35.000+0200",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-136534",
+    "summary": "All command blocks think they're facing south with caret notation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2018-08-28T16:41:27.000+0300",
+    "resolution_date": "2022-12-15T12:54:08.000+0200",
+    "updated_date": "2022-12-15T12:54:08.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-122595",
+    "summary": "/weather command with duration 0 has the same weather for longer time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2017-11-27T19:33:26.000+0200",
+    "resolution_date": "2023-01-04T12:13:56.000+0200",
+    "updated_date": "2023-01-04T12:13:56.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-121048",
+    "summary": "When an entity dies, the combat tracker only records the killing blow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2017-10-08T16:53:21.000+0300",
+    "resolution_date": "2022-12-15T11:56:26.000+0200",
+    "updated_date": "2022-12-15T11:56:26.000+0200",
+    "watches": 7,
+    "votes": 15
+  },
+  {
+    "id": "MC-30403",
+    "summary": "Sprinting isn't canceled when dismounting rideable entities while sprinting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 14w34d",
+      "22w44a",
+      "23w03a"
+    ],
+    "creation_date": "2013-09-07T18:26:25.000+0300",
+    "resolution_date": "2022-12-19T15:04:21.000+0200",
+    "updated_date": "2022-12-19T15:04:21.000+0200",
+    "watches": 23,
+    "votes": 44
+  },
+  {
+    "id": "MC-26678",
+    "summary": "Damage wobble no longer shows direction of incoming damage",
+    "labels": [
+      "12w18a",
+      "damage",
+      "shake"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2013-07-19T22:07:19.000+0300",
+    "resolution_date": "2022-12-14T13:05:56.000+0200",
+    "updated_date": "2023-01-18T16:19:17.000+0200",
+    "watches": 97,
+    "votes": 43
+  }
+]
