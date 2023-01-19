@@ -19,6 +19,25 @@
     "votes": 2
   },
   {
+    "id": "MC-258625",
+    "summary": "Client-side death messages disappear as soon as the \"Respawn\" button is pressed even if the player remains on the death screen due to lag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-12-19T20:08:27.000+0200",
+    "resolution_date": "2023-01-19T08:59:32.000+0200",
+    "updated_date": "2023-01-19T08:59:32.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
     "id": "MC-258430",
     "summary": "Camels with large LastPoseTime values offset the player view model strangely",
     "labels": [],
