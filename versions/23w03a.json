@@ -405,6 +405,27 @@
     "votes": 4
   },
   {
+    "id": "MC-252461",
+    "summary": "Goat not shown in Extended Death Message",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Mob behaviour",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-06-04T23:26:22.000+0300",
+    "resolution_date": "2023-01-21T21:35:43.000+0200",
+    "updated_date": "2023-01-21T21:35:43.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
     "id": "MC-247836",
     "summary": "Riptide doesn't work in rain within a frozen ocean biome",
     "labels": [
