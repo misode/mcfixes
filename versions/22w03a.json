@@ -923,5 +923,25 @@
     "updated_date": "2022-01-18T18:52:12.000+0200",
     "watches": 14,
     "votes": 29
+  },
+  {
+    "id": "MC-56037",
+    "summary": "Killing falling_block entity: texture disappears while falling but the block is still there",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w03a"
+    ],
+    "creation_date": "2014-05-29T15:02:33.000+0300",
+    "resolution_date": "2023-01-28T14:29:44.000+0200",
+    "updated_date": "2023-01-28T14:30:44.000+0200",
+    "watches": 9,
+    "votes": 12
   }
 ]
