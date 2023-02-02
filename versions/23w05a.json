@@ -157,6 +157,25 @@
     "votes": 4
   },
   {
+    "id": "MC-258669",
+    "summary": "Warning Menu when import generation data for a new world does not react when click \"Yes\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w05a"
+    ],
+    "creation_date": "2022-12-21T18:01:05.000+0200",
+    "resolution_date": "2023-02-02T05:09:29.000+0200",
+    "updated_date": "2023-02-02T05:09:29.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
     "id": "MC-257464",
     "summary": "Axolotl walking animation stutters when moving slowly",
     "labels": [
@@ -346,6 +365,25 @@
     "updated_date": "2023-02-02T01:31:36.000+0200",
     "watches": 6,
     "votes": 11
+  },
+  {
+    "id": "MC-190146",
+    "summary": "Game mode descriptions are grammatically incorrect/inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w05a"
+    ],
+    "creation_date": "2020-06-17T07:04:15.000+0300",
+    "resolution_date": "2023-02-02T05:08:20.000+0200",
+    "updated_date": "2023-02-02T05:08:20.000+0200",
+    "watches": 4,
+    "votes": 6
   },
   {
     "id": "MC-147711",
