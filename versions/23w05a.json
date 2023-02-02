@@ -367,6 +367,25 @@
     "votes": 11
   },
   {
+    "id": "MC-197173",
+    "summary": "Sliders in game settings render tooltip on top of displayed value",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w05a"
+    ],
+    "creation_date": "2020-08-06T01:01:40.000+0300",
+    "resolution_date": "2023-02-02T18:42:28.000+0200",
+    "updated_date": "2023-02-02T18:42:28.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
     "id": "MC-190146",
     "summary": "Game mode descriptions are grammatically incorrect/inconsistent",
     "labels": [],
