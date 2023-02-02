@@ -38,6 +38,25 @@
     "votes": 1
   },
   {
+    "id": "MC-258592",
+    "summary": "You can select multiple text fields inside the gamerules menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-12-18T02:40:58.000+0200",
+    "resolution_date": "2023-02-02T13:14:46.000+0200",
+    "updated_date": "2023-02-02T13:14:46.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
     "id": "MC-258430",
     "summary": "Camels with large LastPoseTime values offset the player view model strangely",
     "labels": [],
