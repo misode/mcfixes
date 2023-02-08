@@ -1,0 +1,899 @@
+[
+  {
+    "id": "MC-259640",
+    "summary": "The lightest three colors of \"iron\" and \"iron_darker\" color palettes are identical",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-02-02T03:57:54.000+0200",
+    "resolution_date": "2023-02-08T14:37:36.000+0200",
+    "updated_date": "2023-02-08T14:40:14.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-259635",
+    "summary": "The color palettes for \"iron\" and \"iron_darker\" trims are flipped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-02-02T00:37:39.000+0200",
+    "resolution_date": "2023-02-08T14:37:36.000+0200",
+    "updated_date": "2023-02-08T14:37:36.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-259599",
+    "summary": "Curse of Binding armor can be removed by swapping armor with right click in hotbar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-02-01T17:53:28.000+0200",
+    "resolution_date": "2023-02-03T12:16:11.000+0200",
+    "updated_date": "2023-02-03T12:16:11.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-259468",
+    "summary": "empty_slot_amethyst_shard does not show in Smithing Table slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-26T13:11:42.000+0200",
+    "resolution_date": "2023-02-08T11:24:20.000+0200",
+    "updated_date": "2023-02-08T11:24:20.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-259454",
+    "summary": "Loot table for hoglin stable chests uses the loot table for bridge chests instead",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-26T04:06:04.000+0200",
+    "resolution_date": "2023-02-03T14:17:25.000+0200",
+    "updated_date": "2023-02-03T14:17:25.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-259442",
+    "summary": "Can't shift click items into second anvil slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-25T21:49:47.000+0200",
+    "resolution_date": "2023-02-03T13:52:05.000+0200",
+    "updated_date": "2023-02-03T13:52:05.000+0200",
+    "watches": 13,
+    "votes": 12
+  },
+  {
+    "id": "MC-259432",
+    "summary": "Single missing pixel in 'chestplate_trim' item texture",
+    "labels": [
+      "armor",
+      "item",
+      "texture",
+      "trim"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-25T19:55:52.000+0200",
+    "resolution_date": "2023-02-03T13:52:04.000+0200",
+    "updated_date": "2023-02-03T13:52:04.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-259360",
+    "summary": "The \"selectWorld.mapFeatures.info\" string is missing a comma after the word \"Shipwrecks\"",
+    "labels": [
+      "grammar"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-24T18:56:19.000+0200",
+    "resolution_date": "2023-02-07T16:56:39.000+0200",
+    "updated_date": "2023-02-07T16:56:39.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-259247",
+    "summary": "The execute on owner sub-command does not select the owner of a horse, donkey, llama, or mule",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-19T21:00:25.000+0200",
+    "resolution_date": "2023-02-07T16:56:38.000+0200",
+    "updated_date": "2023-02-07T16:56:38.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-259245",
+    "summary": "An enderman ridden with /ride constantly teleports if the player looks at the enderman's eyes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-19T20:30:54.000+0200",
+    "resolution_date": "2023-02-07T16:56:36.000+0200",
+    "updated_date": "2023-02-07T21:48:36.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-259233",
+    "summary": "Argument error messages for low values are inconsistently spelled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-19T12:10:18.000+0200",
+    "resolution_date": "2023-02-07T16:56:38.000+0200",
+    "updated_date": "2023-02-07T21:49:03.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-259227",
+    "summary": "/execute if loaded <pos> alone always fails",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-19T03:08:25.000+0200",
+    "resolution_date": "2023-02-07T16:56:37.000+0200",
+    "updated_date": "2023-02-07T16:56:37.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-259224",
+    "summary": "Blocking attacks with shields causes the damage tilt to play and red damage tint to show",
+    "labels": [
+      "shield"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-19T00:31:06.000+0200",
+    "resolution_date": "2023-02-07T18:46:07.000+0200",
+    "updated_date": "2023-02-07T18:46:07.000+0200",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-259221",
+    "summary": "Using the \"/ride\" command on invalid entities teleports players to their position",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-18T23:41:30.000+0200",
+    "resolution_date": "2023-02-07T16:56:36.000+0200",
+    "updated_date": "2023-02-07T21:48:00.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-259197",
+    "summary": "The damage tilt effect isn't accessible-friendly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-18T19:09:05.000+0200",
+    "resolution_date": "2023-02-07T20:33:45.000+0200",
+    "updated_date": "2023-02-07T21:40:01.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-259195",
+    "summary": "Using /ride on an entity in another dimension causes client/server desync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-18T18:10:31.000+0200",
+    "resolution_date": "2023-02-07T16:56:35.000+0200",
+    "updated_date": "2023-02-07T16:56:35.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-259193",
+    "summary": "The \"Notification Display Time\" text can appear outside of its slider",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2023-01-18T17:41:34.000+0200",
+    "resolution_date": "2023-02-07T18:46:08.000+0200",
+    "updated_date": "2023-02-08T18:46:13.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-258622",
+    "summary": "Fire charge isn't in the Ingredients tab in creative inventory",
+    "labels": [
+      "creative-inventory",
+      "creative-inventory-contents",
+      "inventory"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-12-19T16:31:28.000+0200",
+    "resolution_date": "2023-02-03T14:02:48.000+0200",
+    "updated_date": "2023-02-03T14:02:48.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-258156",
+    "summary": "The Warden does not deal the same amount of damage to the player and entities in difficult mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-11-27T18:21:11.000+0200",
+    "resolution_date": "2023-02-07T18:34:40.000+0200",
+    "updated_date": "2023-02-07T18:34:40.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-257873",
+    "summary": "Swapping an armor piece with an armor piece of the same type doesn't play its equipping sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-11-24T19:02:29.000+0200",
+    "resolution_date": "2023-02-08T11:55:19.000+0200",
+    "updated_date": "2023-02-08T11:55:19.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-257558",
+    "summary": "Sculk sensors are activated upon interacting with minecarts with hoppers",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-11-14T17:22:08.000+0200",
+    "resolution_date": "2023-02-08T18:31:53.000+0200",
+    "updated_date": "2023-02-08T18:31:53.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-252434",
+    "summary": "Sculk sensors are activated when interacting with fences while holding leads",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-06-03T16:54:46.000+0300",
+    "resolution_date": "2023-02-08T14:29:13.000+0200",
+    "updated_date": "2023-02-08T14:29:13.000+0200",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-251934",
+    "summary": "Sculk sensors are not activated upon frogs laying frogspawn",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-05-19T19:17:27.000+0300",
+    "resolution_date": "2023-02-07T10:32:29.000+0200",
+    "updated_date": "2023-02-07T10:32:29.000+0200",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-251917",
+    "summary": "No gear equipping sound or subtitle when a shield is placed into the offhand slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-05-19T17:16:16.000+0300",
+    "resolution_date": "2023-02-08T11:55:19.000+0200",
+    "updated_date": "2023-02-08T11:55:19.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-249878",
+    "summary": "Text can appear outside of the \"Device\" button within the music and sound options menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-04-04T12:10:45.000+0300",
+    "resolution_date": "2023-02-07T18:46:08.000+0200",
+    "updated_date": "2023-02-08T18:46:13.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-237879",
+    "summary": "Sculk sensors are not activated upon villagers working with composters",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-09-29T02:10:16.000+0300",
+    "resolution_date": "2023-02-08T14:26:42.000+0200",
+    "updated_date": "2023-02-08T14:26:42.000+0200",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-237450",
+    "summary": "The \"Simulation Distance\" text can appear outside of its slider",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-09-23T18:59:40.000+0300",
+    "resolution_date": "2023-02-07T18:46:09.000+0200",
+    "updated_date": "2023-02-08T18:46:13.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-236988",
+    "summary": "Sculk sensors are not activated upon using shears on cave/twisting/weeping vines or kelp",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-09-18T03:47:46.000+0300",
+    "resolution_date": "2023-02-07T10:47:41.000+0200",
+    "updated_date": "2023-02-07T10:47:41.000+0200",
+    "watches": 7,
+    "votes": 18
+  },
+  {
+    "id": "MC-233972",
+    "summary": "Text can appear outside of buttons in the key binds menu when assigning keys to functions or when multiple functions are assigned to the same key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-08-07T19:04:20.000+0300",
+    "resolution_date": "2023-02-07T18:46:08.000+0200",
+    "updated_date": "2023-02-08T18:46:13.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-215767",
+    "summary": "Sculk sensors do not detect turtles laying an egg",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-02-17T00:57:34.000+0200",
+    "resolution_date": "2023-02-06T16:48:37.000+0200",
+    "updated_date": "2023-02-06T16:48:37.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-213803",
+    "summary": "Sculk sensors are not activated upon harvesting glow berries from cave vines",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-02-03T20:52:47.000+0200",
+    "resolution_date": "2023-02-07T11:09:03.000+0200",
+    "updated_date": "2023-02-07T11:09:03.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-212501",
+    "summary": "Sculk sensors are not activated upon collecting books from lecterns",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-01-22T22:02:27.000+0200",
+    "resolution_date": "2023-02-07T12:03:07.000+0200",
+    "updated_date": "2023-02-07T12:03:07.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-210715",
+    "summary": "Sculk sensors are not activated upon attaching or removing leads from entities",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-01-06T18:13:52.000+0200",
+    "resolution_date": "2023-02-07T19:32:02.000+0200",
+    "updated_date": "2023-02-07T21:45:17.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-210707",
+    "summary": "Sculk sensors are not activated upon closing chest boats, chest rafts, or chest minecarts",
+    "labels": [
+      "chest_boat",
+      "chest_minecart",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-01-06T17:28:25.000+0200",
+    "resolution_date": "2023-02-07T10:58:43.000+0200",
+    "updated_date": "2023-02-07T10:58:43.000+0200",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-210334",
+    "summary": "Sculk sensors are not activated upon sheep being dyed",
+    "labels": [
+      "sculk_sensor",
+      "sheep"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-01-02T22:43:35.000+0200",
+    "resolution_date": "2023-02-07T16:18:25.000+0200",
+    "updated_date": "2023-02-07T16:18:25.000+0200",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-210294",
+    "summary": "Sculk sensors are not activated upon mounting or dismounting any non-biological entities",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-01-02T17:55:23.000+0200",
+    "resolution_date": "2023-02-08T12:11:20.000+0200",
+    "updated_date": "2023-02-08T12:11:20.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-210276",
+    "summary": "Sculk sensors are not activated upon trampling farmland",
+    "labels": [
+      "farmland",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-01-02T14:51:01.000+0200",
+    "resolution_date": "2023-02-07T16:07:01.000+0200",
+    "updated_date": "2023-02-07T16:07:01.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-209929",
+    "summary": "Sculk sensors are not activated upon filling composters",
+    "labels": [
+      "composter",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-12-29T18:11:00.000+0200",
+    "resolution_date": "2023-02-08T14:26:42.000+0200",
+    "updated_date": "2023-02-08T14:26:42.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-209907",
+    "summary": "Sculk sensors are not activated upon attaching or removing leads from fences",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-12-29T15:46:12.000+0200",
+    "resolution_date": "2023-02-08T18:39:12.000+0200",
+    "updated_date": "2023-02-08T18:39:12.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-209896",
+    "summary": "Sculk sensors are not activated upon placing glowstone into respawn anchors",
+    "labels": [
+      "glowstone",
+      "respawn_anchor",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-12-29T15:04:00.000+0200",
+    "resolution_date": "2023-02-07T16:29:20.000+0200",
+    "updated_date": "2023-02-07T16:29:20.000+0200",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-209622",
+    "summary": "Sculk sensors do not detect item frame / glow item frame interactions",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-12-26T16:39:01.000+0200",
+    "resolution_date": "2023-02-07T14:42:54.000+0200",
+    "updated_date": "2023-02-07T14:42:54.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-198874",
+    "summary": "Opening a Minecart with Hopper provokes Piglins, even though opening a Hopper doesn't provoke them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-08-25T05:48:39.000+0300",
+    "resolution_date": "2023-02-07T10:58:43.000+0200",
+    "updated_date": "2023-02-07T10:58:43.000+0200",
+    "watches": 14,
+    "votes": 29
+  },
+  {
+    "id": "MC-156443",
+    "summary": "In some languages, text is too long and escapes buttons",
+    "labels": [
+      "escaping-text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2019-07-10T20:33:17.000+0300",
+    "resolution_date": "2023-02-07T18:46:09.000+0200",
+    "updated_date": "2023-02-07T21:44:52.000+0200",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-145765",
+    "summary": "Both \"Text Background\" settings strings are overflowing the buttons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2019-03-13T22:46:40.000+0200",
+    "resolution_date": "2023-02-07T18:46:08.000+0200",
+    "updated_date": "2023-02-08T18:46:13.000+0200",
+    "watches": 11,
+    "votes": 13
+  }
+]
