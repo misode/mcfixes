@@ -895,5 +895,26 @@
     "updated_date": "2023-02-08T18:46:13.000+0200",
     "watches": 11,
     "votes": 13
+  },
+  {
+    "id": "MC-12729",
+    "summary": "Z-fighting can be seen on leggings and boots worn by entities",
+    "labels": [
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2013-03-23T23:47:48.000+0200",
+    "resolution_date": "2023-02-11T14:04:08.000+0200",
+    "updated_date": "2023-02-11T14:04:55.000+0200",
+    "watches": 17,
+    "votes": 26
   }
 ]
