@@ -1,0 +1,720 @@
+[
+  {
+    "id": "MC-259999",
+    "summary": "Entities mounted on display entities do not visually update until after resync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-14T11:11:20.000+0200",
+    "resolution_date": "2023-02-15T14:54:16.000+0200",
+    "updated_date": "2023-02-15T14:54:16.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-259819",
+    "summary": "Z-fighting on the text of text displays",
+    "labels": [
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-08T22:49:01.000+0200",
+    "resolution_date": "2023-02-15T14:53:30.000+0200",
+    "updated_date": "2023-02-15T14:53:30.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-259816",
+    "summary": "Odd behavior when an item_display, block_display, or text_display entity mounts another entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-08T22:12:43.000+0200",
+    "resolution_date": "2023-02-15T14:54:05.000+0200",
+    "updated_date": "2023-02-15T14:54:05.000+0200",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-259808",
+    "summary": "Allay wing animation skips frames/loops incorrectly as of 23w06a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-08T20:47:06.000+0200",
+    "resolution_date": "2023-02-15T15:21:38.000+0200",
+    "updated_date": "2023-02-15T15:21:38.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-259805",
+    "summary": "Players cannot dismount when riding item_display, block_display and text_display using the ride command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-08T20:08:09.000+0200",
+    "resolution_date": "2023-02-15T14:53:30.000+0200",
+    "updated_date": "2023-02-15T14:53:30.000+0200",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-259797",
+    "summary": "Z-fighting occurs on the bottom of boots",
+    "labels": [
+      "boots",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-08T18:43:50.000+0200",
+    "resolution_date": "2023-02-15T12:36:26.000+0200",
+    "updated_date": "2023-02-15T12:36:26.000+0200",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-259796",
+    "summary": "Creeper does not flash white and expand before exploding",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-08T18:36:39.000+0200",
+    "resolution_date": "2023-02-15T15:21:37.000+0200",
+    "updated_date": "2023-02-15T15:21:37.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-259729",
+    "summary": "\"Falling Block\" can appear in death messages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-05T21:33:33.000+0200",
+    "resolution_date": "2023-02-15T12:50:33.000+0200",
+    "updated_date": "2023-02-15T12:50:33.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-259691",
+    "summary": "Drowned that are swimming render outside of their hitboxes when looking up or down",
+    "labels": [
+      "drowned"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-04T13:36:09.000+0200",
+    "resolution_date": "2023-02-15T15:21:39.000+0200",
+    "updated_date": "2023-02-15T15:21:39.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259675",
+    "summary": "Capes occasionally jitter when moving and adjusting your rotation",
+    "labels": [
+      "cape"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-03T18:12:30.000+0200",
+    "resolution_date": "2023-02-15T12:50:33.000+0200",
+    "updated_date": "2023-02-15T12:50:33.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-259573",
+    "summary": "Blast Protection does not reduce explosion knockback in creative game mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-30T20:47:17.000+0200",
+    "resolution_date": "2023-02-13T18:49:51.000+0200",
+    "updated_date": "2023-02-13T18:49:51.000+0200",
+    "watches": 3,
+    "votes": 19
+  },
+  {
+    "id": "MC-259489",
+    "summary": "Experimental \"disabled items\" can still be suggested as fuel by the recipe book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-27T08:48:20.000+0200",
+    "resolution_date": "2023-02-15T15:21:36.000+0200",
+    "updated_date": "2023-02-15T15:21:36.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-259241",
+    "summary": "Turtles can spawn inside each other causing them to get stuck and play constant sounds",
+    "labels": [
+      "turtle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-19T17:31:14.000+0200",
+    "resolution_date": "2023-02-15T15:21:37.000+0200",
+    "updated_date": "2023-02-15T15:21:37.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-259240",
+    "summary": "The game crashes when navigating with arrow keys after changing key binds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-19T17:01:46.000+0200",
+    "resolution_date": "2023-02-15T14:12:24.000+0200",
+    "updated_date": "2023-02-15T14:12:24.000+0200",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-259218",
+    "summary": "Onboarding isn't resumed after restarting Minecraft",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-18T22:32:27.000+0200",
+    "resolution_date": "2023-02-15T15:21:34.000+0200",
+    "updated_date": "2023-02-15T15:21:34.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-259107",
+    "summary": "Opening the crafting recipe book selects the recipe that appears under the mouse cursor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-14T12:53:43.000+0200",
+    "resolution_date": "2023-02-15T14:12:24.000+0200",
+    "updated_date": "2023-02-15T14:12:24.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-258907",
+    "summary": "Advancement trigger \"player_interacted_with_entity\" doesn't work with \"area_effect_cloud\" entity when used \"glass_bottle\" item on it",
+    "labels": [
+      "advancement",
+      "advancement-criteria",
+      "advancement-trigger",
+      "area_effect_cloud",
+      "data-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Advancements",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-02T04:10:10.000+0200",
+    "resolution_date": "2023-02-15T15:21:28.000+0200",
+    "updated_date": "2023-02-15T15:21:28.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-258902",
+    "summary": "Opening a lectern on Adventure mode and closing it causes inventory desyncs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-01-01T22:01:47.000+0200",
+    "resolution_date": "2023-02-15T15:21:31.000+0200",
+    "updated_date": "2023-02-15T15:21:31.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-258697",
+    "summary": "Invalid translation of \"translationKey=narration.suggestion\" in command block GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-12-22T18:34:06.000+0200",
+    "resolution_date": "2023-02-15T15:21:32.000+0200",
+    "updated_date": "2023-02-15T15:21:32.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-258624",
+    "summary": "The Title Screen Warning menu doesn't disappear after the player respawns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-12-19T19:48:11.000+0200",
+    "resolution_date": "2023-02-15T14:12:25.000+0200",
+    "updated_date": "2023-02-15T14:12:25.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-258580",
+    "summary": "Player is kicked from a server for flying in death screen when dying on a Horse or Camel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-12-17T22:27:08.000+0200",
+    "resolution_date": "2023-02-15T12:50:35.000+0200",
+    "updated_date": "2023-02-15T12:50:35.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-258459",
+    "summary": "Invalid forced resource pack can cause infinite reload loop on client",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-12-11T11:14:04.000+0200",
+    "resolution_date": "2023-02-15T15:21:30.000+0200",
+    "updated_date": "2023-02-15T15:21:30.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-258457",
+    "summary": "Resource Pack won't load if it contains reference to non-existing particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-12-11T10:48:38.000+0200",
+    "resolution_date": "2023-02-15T15:21:31.000+0200",
+    "updated_date": "2023-02-15T15:21:31.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-257282",
+    "summary": "Allays sometimes have a several-second delay before deciding to follow the player",
+    "labels": [
+      "allay",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-11-07T07:07:08.000+0200",
+    "resolution_date": "2023-02-13T18:49:41.000+0200",
+    "updated_date": "2023-02-13T18:49:41.000+0200",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-256465",
+    "summary": "Baby camels can enter boats despite adult camels not being able to",
+    "labels": [
+      "camel",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-10-19T16:21:20.000+0300",
+    "resolution_date": "2023-02-13T18:31:32.000+0200",
+    "updated_date": "2023-02-13T18:31:32.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-248249",
+    "summary": "minecraft:forest_rock feature does not work correctly when used with /place",
+    "labels": [
+      "/place"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2022-01-24T15:34:28.000+0200",
+    "resolution_date": "2023-02-15T13:11:59.000+0200",
+    "updated_date": "2023-02-15T13:11:59.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-238920",
+    "summary": "Soul campfire recipe unlocks when obtaining a stick",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2021-10-13T23:59:23.000+0300",
+    "resolution_date": "2023-02-15T19:12:01.000+0200",
+    "updated_date": "2023-02-15T19:12:01.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-226729",
+    "summary": "Memory leakage problem in native operations",
+    "labels": [
+      "memory-leak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2021-05-29T14:27:44.000+0300",
+    "resolution_date": "2023-02-15T15:21:40.000+0200",
+    "updated_date": "2023-02-15T15:21:40.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-209409",
+    "summary": "Sitting cats sink in water",
+    "labels": [
+      "buoyancy",
+      "cat",
+      "drown"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2020-12-24T16:56:49.000+0200",
+    "resolution_date": "2023-02-15T12:50:36.000+0200",
+    "updated_date": "2023-02-15T12:50:36.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-194080",
+    "summary": "Elytra model stutters by flying and turning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2020-07-08T00:18:38.000+0300",
+    "resolution_date": "2023-02-15T12:50:34.000+0200",
+    "updated_date": "2023-02-15T12:50:34.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-181412",
+    "summary": "Removing a jukebox with a command while it's playing a music disc won't stop playing the music disc",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2020-04-29T18:01:01.000+0300",
+    "resolution_date": "2023-02-15T16:31:42.000+0200",
+    "updated_date": "2023-02-15T16:34:17.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-134448",
+    "summary": "Drowned animation glitch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2018-07-21T11:58:19.000+0300",
+    "resolution_date": "2023-02-15T15:21:39.000+0200",
+    "updated_date": "2023-02-15T15:21:39.000+0200",
+    "watches": 7,
+    "votes": 18
+  },
+  {
+    "id": "MC-84633",
+    "summary": "Resource packs: ambientocclusion flag only respects topmost parent",
+    "labels": [
+      "block-model",
+      "resource-pack",
+      "resource-pack-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2015-08-01T14:21:19.000+0300",
+    "resolution_date": "2023-02-13T17:54:15.000+0200",
+    "updated_date": "2023-02-13T18:15:25.000+0200",
+    "watches": 16,
+    "votes": 37
+  },
+  {
+    "id": "MC-64522",
+    "summary": "Server shows as \"Old\" in server list while starting",
+    "labels": [
+      "client",
+      "server",
+      "server-list"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2014-07-30T22:34:12.000+0300",
+    "resolution_date": "2023-02-15T15:03:56.000+0200",
+    "updated_date": "2023-02-15T15:38:31.000+0200",
+    "watches": 7,
+    "votes": 17
+  },
+  {
+    "id": "MC-16533",
+    "summary": "Horse Breeding never exceeds egg/spawn horse attributes",
+    "labels": [
+      "attributes",
+      "breeding",
+      "horse",
+      "stats"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2013-05-26T07:48:18.000+0300",
+    "resolution_date": "2023-02-15T16:00:18.000+0200",
+    "updated_date": "2023-02-15T16:00:18.000+0200",
+    "watches": 70,
+    "votes": 286
+  }
+]
