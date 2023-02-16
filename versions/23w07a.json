@@ -1,5 +1,26 @@
 [
   {
+    "id": "MC-260000",
+    "summary": "Saved Y Pos of entities mounted on display entities does not update internally in NBT",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2023-02-14T11:11:22.000+0200",
+    "resolution_date": "2023-02-16T17:19:19.000+0200",
+    "updated_date": "2023-02-16T17:19:19.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-259999",
     "summary": "Entities mounted on display entities do not visually update until after resync",
     "labels": [],
