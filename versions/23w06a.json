@@ -359,6 +359,26 @@
     "votes": 5
   },
   {
+    "id": "MC-258535",
+    "summary": "End crystal and TNT explosions do same damage regardless of difficulty",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-12-15T17:57:58.000+0200",
+    "resolution_date": "2023-02-18T01:03:18.000+0200",
+    "updated_date": "2023-02-18T01:03:18.000+0200",
+    "watches": 9,
+    "votes": 12
+  },
+  {
     "id": "MC-258156",
     "summary": "The Warden does not deal the same amount of damage to the player and entities in difficult mode",
     "labels": [],
