@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "MC-260367",
+    "summary": "Crash when damaging a Guardian using a command block: java.lang.StackOverflowError: Executing command block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-20T03:23:01.000+0200",
+    "resolution_date": "2023-02-21T17:33:50.000+0200",
+    "updated_date": "2023-02-21T17:33:50.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-260355",
+    "summary": "The server crashes when making slimes ride iron golems",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-19T17:24:04.000+0200",
+    "resolution_date": "2023-02-22T16:28:30.000+0200",
+    "updated_date": "2023-02-22T17:41:06.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-260262",
+    "summary": "Cherry Saplings can be obtained in world with experimental settings turned off",
+    "labels": [
+      "item",
+      "mob_Al",
+      "trade",
+      "trader"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T22:02:04.000+0200",
+    "resolution_date": "2023-02-22T15:29:21.000+0200",
+    "updated_date": "2023-02-22T15:29:21.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-260234",
+    "summary": "Sniffers jump multiple times when attempting to climb blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T16:55:44.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-260227",
+    "summary": "When re-creating the superflat world, the customize content is lost",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T16:11:46.000+0200",
+    "resolution_date": "2023-02-22T13:01:00.000+0200",
+    "updated_date": "2023-02-22T13:01:00.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-260223",
+    "summary": "Torchflowers seeds and Torchflowers hitboxes are different",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T15:31:21.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-260210",
+    "summary": "Brush Recipe is in the Vanilla datapack, not 1.20",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T12:58:42.000+0200",
+    "resolution_date": "2023-02-22T15:29:22.000+0200",
+    "updated_date": "2023-02-22T15:29:22.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-260209",
+    "summary": "breaks_decorated_pots Item Tag is in the Vanilla datapack, not 1.20",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T12:58:01.000+0200",
+    "resolution_date": "2023-02-22T15:29:22.000+0200",
+    "updated_date": "2023-02-22T15:29:22.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-260195",
+    "summary": "Cherry Logs and Wood are missing from the #log, #logs_that_burn and #complete_find_tree_tutorial item tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T07:06:50.000+0200",
+    "resolution_date": "2023-02-22T16:12:05.000+0200",
+    "updated_date": "2023-02-22T16:12:05.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-260194",
+    "summary": "Create new world screen appears even when world is created; clicking on button causes freeze or crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T07:04:10.000+0200",
+    "resolution_date": "2023-02-21T12:34:38.000+0200",
+    "updated_date": "2023-02-21T12:34:38.000+0200",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-260193",
+    "summary": "Cherry Logs and Wood can't be used as fuel in furnaces",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T07:03:53.000+0200",
+    "resolution_date": "2023-02-22T16:12:05.000+0200",
+    "updated_date": "2023-02-22T16:12:05.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-260192",
+    "summary": "You can't make Charcoal with Cherry Logs or Wood",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T07:00:35.000+0200",
+    "resolution_date": "2023-02-22T16:12:06.000+0200",
+    "updated_date": "2023-02-22T16:12:06.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-260191",
+    "summary": "Cherry Leaves aren't part of the #leaves and #complete_find_tree_tutorial item tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T06:54:29.000+0200",
+    "resolution_date": "2023-02-22T16:12:06.000+0200",
+    "updated_date": "2023-02-22T16:12:06.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260189",
+    "summary": "Cherry Sapling is not part of the #saplings item tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T06:50:13.000+0200",
+    "resolution_date": "2023-02-22T16:12:06.000+0200",
+    "updated_date": "2023-02-22T16:12:06.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260185",
+    "summary": "Pink Petals aren't insta-mined",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T05:34:06.000+0200",
+    "resolution_date": "2023-02-22T17:02:31.000+0200",
+    "updated_date": "2023-02-22T17:02:31.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260181",
+    "summary": "Torchflower seeds are not grouped with other seeds in the creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T05:04:09.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-260172",
+    "summary": "Torchflower isn't part of the #flowers block or item tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T03:12:27.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-260171",
+    "summary": "Cherry Leaves and Pink Petals aren't part of the #flower block tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T03:08:08.000+0200",
+    "resolution_date": "2023-02-22T16:12:07.000+0200",
+    "updated_date": "2023-02-22T16:12:07.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260168",
+    "summary": "Torchflower crop aren't part of the #crops block tag",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T02:54:18.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-260157",
+    "summary": "On existing snapshot servers, cherry grove biomes cannot be found with \"/locate\", nor do they generate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T01:45:26.000+0200",
+    "resolution_date": "2023-02-22T13:01:11.000+0200",
+    "updated_date": "2023-02-22T13:01:11.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-260156",
+    "summary": "The sound of the torchflower being broken after growing is different than the sound of it breaking after being placed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T01:40:49.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-260149",
+    "summary": "Cherry logs can't be used to craft campfires",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-16T01:06:29.000+0200",
+    "resolution_date": "2023-02-22T16:12:07.000+0200",
+    "updated_date": "2023-02-22T16:12:07.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-260126",
+    "summary": "Using pick block function on grown torchflower crop gives torchflower seeds instead of the plant item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T23:25:07.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-260125",
+    "summary": "Sniffer's head occasionally disappears",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T23:15:42.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-260121",
+    "summary": "Hoppers are ghost blocks for other players when placed on jukeboxes that are playing music",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T22:42:22.000+0200",
+    "resolution_date": "2023-02-22T11:38:48.000+0200",
+    "updated_date": "2023-02-22T11:38:48.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-260118",
+    "summary": "Disabling experimental features on the world creation screen causes pack validation to fail",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T22:05:44.000+0200",
+    "resolution_date": "2023-02-22T13:00:53.000+0200",
+    "updated_date": "2023-02-22T13:00:53.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-260109",
+    "summary": "Sniffers do not rotate their head to look at the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T21:34:39.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-260107",
+    "summary": "Sniffers don't swim properly and their walking animations freeze when in water",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T21:24:18.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-260102",
+    "summary": "Torchflower seeds don't contribute to the \"A Seedy Place\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T20:58:58.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-260098",
+    "summary": "Sniffers aren't required for the \"Two by Two\" advancement",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T20:33:13.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-260092",
+    "summary": "Sniffers' hitboxes are too small resulting in sniffers not being rendered from certain angles despite being visible on the screen",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T20:01:43.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-260089",
+    "summary": "Sniffers panic when receiving fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T19:49:19.000+0200",
+    "resolution_date": "2023-02-22T14:04:36.000+0200",
+    "updated_date": "2023-02-22T14:04:36.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-260071",
+    "summary": "Sniffer Digging Sounds can be heard from way too far",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T19:22:14.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-260059",
+    "summary": "Pigs do not seem to spawn in Cherry Grove biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T19:04:24.000+0200",
+    "resolution_date": "2023-02-22T17:08:19.000+0200",
+    "updated_date": "2023-02-22T17:08:19.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260051",
+    "summary": "Bees are not tempted by or attempt to pollinate Pink Petals and Torchflowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T18:48:11.000+0200",
+    "resolution_date": "2023-02-22T16:12:08.000+0200",
+    "updated_date": "2023-02-22T16:12:08.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-260035",
+    "summary": "Chickens and parrots are not tempted by torchflower seeds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T18:19:18.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-260033",
+    "summary": "Torchflowers cannot be used to craft suspicious stew",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T18:18:36.000+0200",
+    "resolution_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-260030",
+    "summary": "Starting data.Main for data generation crashes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-15T18:15:20.000+0200",
+    "resolution_date": "2023-02-22T12:44:40.000+0200",
+    "updated_date": "2023-02-22T12:44:40.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-259920",
+    "summary": "The \"ITEM_INTERACT_FINISH\" game event overrides other game events causing several actions to not produce their intended vibration frequency",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-11T12:42:58.000+0200",
+    "resolution_date": "2023-02-22T12:03:00.000+0200",
+    "updated_date": "2023-02-22T12:03:00.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-259918",
+    "summary": "Text scrolling speed isn't accessible-friendly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-11T11:35:55.000+0200",
+    "resolution_date": "2023-02-21T17:33:18.000+0200",
+    "updated_date": "2023-02-21T17:33:18.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-259917",
+    "summary": "Entities immune to fall damage are damaged when using minecraft:fall damage type in /damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-11T09:42:26.000+0200",
+    "resolution_date": "2023-02-22T11:12:24.000+0200",
+    "updated_date": "2023-02-22T14:11:12.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-259893",
+    "summary": "Long texts on buttons scroll too fast",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-10T15:23:02.000+0200",
+    "resolution_date": "2023-02-21T15:38:07.000+0200",
+    "updated_date": "2023-02-21T15:38:07.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259882",
+    "summary": "Axolotls no longer give the Regeneration effect to nearby players after they kill a mob, and do not grant \"The Healing Power of Friendship!\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-10T09:39:04.000+0200",
+    "resolution_date": "2023-02-21T12:34:38.000+0200",
+    "updated_date": "2023-02-21T12:34:38.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-259630",
+    "summary": "Camels, horses and mules bounce high into the air when being ridden across water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-01T21:59:55.000+0200",
+    "resolution_date": "2023-02-21T16:06:19.000+0200",
+    "updated_date": "2023-02-21T16:06:19.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-259613",
+    "summary": "Enchantment glint is hardly noticeable on some items, even when the Glint Strength is set to 100%",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-02-01T18:30:48.000+0200",
+    "resolution_date": "2023-02-22T12:30:03.000+0200",
+    "updated_date": "2023-02-22T12:30:03.000+0200",
+    "watches": 14,
+    "votes": 23
+  },
+  {
+    "id": "MC-259576",
+    "summary": "Passenger's riding position is too high on a phantom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-01-31T00:11:20.000+0200",
+    "resolution_date": "2023-02-21T19:36:51.000+0200",
+    "updated_date": "2023-02-21T19:36:51.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-259246",
+    "summary": "Passengers on an ender dragon ride too high",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-01-19T20:36:31.000+0200",
+    "resolution_date": "2023-02-21T16:06:16.000+0200",
+    "updated_date": "2023-02-21T16:06:16.000+0200",
+    "watches": 6,
+    "votes": 23
+  },
+  {
+    "id": "MC-259192",
+    "summary": "Server/client position desync when running /ride too fast and manually dismounting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2023-01-18T17:39:13.000+0200",
+    "resolution_date": "2023-02-21T16:06:18.000+0200",
+    "updated_date": "2023-02-21T16:06:18.000+0200",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-256861",
+    "summary": "Camels panic when receiving fall damage",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-10-25T16:47:24.000+0300",
+    "resolution_date": "2023-02-22T15:18:04.000+0200",
+    "updated_date": "2023-02-22T15:18:04.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-256731",
+    "summary": "The sounds of camels recovering aren't controlled by the \"Friendly Creatures\" sound slider",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-10-21T16:07:02.000+0300",
+    "resolution_date": "2023-02-21T17:50:57.000+0200",
+    "updated_date": "2023-02-21T17:50:57.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-256489",
+    "summary": "Sitting camels that are in love don't attempt to stand up and approach one another to breed",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-10-19T17:04:40.000+0300",
+    "resolution_date": "2023-02-21T17:50:57.000+0200",
+    "updated_date": "2023-02-21T17:50:57.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-256484",
+    "summary": "Sitting camels don't stand up and begin following players that are tempting them with their favorite food",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-10-19T16:51:12.000+0300",
+    "resolution_date": "2023-02-21T17:50:57.000+0200",
+    "updated_date": "2023-02-21T17:50:57.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-253211",
+    "summary": "Frogs will panic when receiving fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-06-17T03:17:27.000+0300",
+    "resolution_date": "2023-02-22T15:18:05.000+0200",
+    "updated_date": "2023-02-22T15:18:05.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-253210",
+    "summary": "Goats will panic when receiving fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-06-17T03:15:15.000+0300",
+    "resolution_date": "2023-02-22T15:18:05.000+0200",
+    "updated_date": "2023-02-22T15:18:05.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-132200",
+    "summary": "Ghost block hoppers appear if summoned by command to powered location",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2018-06-28T00:35:15.000+0300",
+    "resolution_date": "2023-02-22T11:38:48.000+0200",
+    "updated_date": "2023-02-22T11:38:48.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-106484",
+    "summary": "Some potions are indistinguishable by color",
+    "labels": [
+      "color",
+      "glint",
+      "potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2016-08-24T22:23:32.000+0300",
+    "resolution_date": "2023-02-22T12:30:04.000+0200",
+    "updated_date": "2023-02-22T14:16:03.000+0200",
+    "watches": 12,
+    "votes": 21
+  }
+]
