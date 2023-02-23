@@ -1084,6 +1084,32 @@
     "votes": 4
   },
   {
+    "id": "MC-188163",
+    "summary": "Abnormally very high RAM usage since 1.13 (client side)",
+    "labels": [
+      "client",
+      "high",
+      "high-ram",
+      "memory-leak",
+      "ram",
+      "ram-usage"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2020-06-08T18:15:45.000+0300",
+    "resolution_date": "2023-02-24T01:03:40.000+0200",
+    "updated_date": "2023-02-24T01:03:40.000+0200",
+    "watches": 28,
+    "votes": 70
+  },
+  {
     "id": "MC-132200",
     "summary": "Ghost block hoppers appear if summoned by command to powered location",
     "labels": [],
