@@ -941,6 +941,27 @@
     "votes": 15
   },
   {
+    "id": "MC-257009",
+    "summary": "When creating a Debug Mode world, there is no Data Packs option",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Debug",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-10-29T15:53:42.000+0300",
+    "resolution_date": "2023-02-25T22:04:42.000+0200",
+    "updated_date": "2023-02-25T22:04:42.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-256861",
     "summary": "Camels panic when receiving fall damage",
     "labels": [
