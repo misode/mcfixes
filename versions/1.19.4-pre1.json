@@ -15,7 +15,7 @@
     ],
     "creation_date": "2023-02-20T03:23:01.000+0200",
     "resolution_date": "2023-02-21T17:33:50.000+0200",
-    "updated_date": "2023-02-26T17:09:44.000+0200",
+    "updated_date": "2023-02-26T18:05:11.000+0200",
     "watches": 5,
     "votes": 3
   },
@@ -605,7 +605,7 @@
     ],
     "creation_date": "2023-02-15T20:01:43.000+0200",
     "resolution_date": "2023-02-22T14:04:35.000+0200",
-    "updated_date": "2023-02-22T14:04:35.000+0200",
+    "updated_date": "2023-02-26T18:07:34.000+0200",
     "watches": 3,
     "votes": 6
   },
@@ -957,7 +957,7 @@
     ],
     "creation_date": "2022-12-02T02:15:55.000+0200",
     "resolution_date": "2023-02-26T05:06:06.000+0200",
-    "updated_date": "2023-02-26T10:31:21.000+0200",
+    "updated_date": "2023-02-26T17:43:19.000+0200",
     "watches": 4,
     "votes": 6
   },
@@ -1124,6 +1124,27 @@
     "updated_date": "2023-02-22T15:18:05.000+0200",
     "watches": 4,
     "votes": 4
+  },
+  {
+    "id": "MC-189383",
+    "summary": "Baby striders aren't shivering when riding an adult strider",
+    "labels": [
+      "strider"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2020-06-13T17:13:46.000+0300",
+    "resolution_date": "2023-02-26T18:16:45.000+0200",
+    "updated_date": "2023-02-26T18:16:45.000+0200",
+    "watches": 5,
+    "votes": 5
   },
   {
     "id": "MC-188163",
