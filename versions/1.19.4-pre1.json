@@ -941,6 +941,27 @@
     "votes": 15
   },
   {
+    "id": "MC-258242",
+    "summary": "Checkerboard biome sources using biome tags do not generate features, and structures cannot be /located",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Data Packs",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2022-12-02T02:15:55.000+0200",
+    "resolution_date": "2023-02-26T05:06:06.000+0200",
+    "updated_date": "2023-02-26T05:06:07.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-257009",
     "summary": "When creating a Debug Mode world, there is no Data Packs option",
     "labels": [],
