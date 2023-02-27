@@ -1,0 +1,443 @@
+[
+  {
+    "id": "MC-260461",
+    "summary": "Water mobs cannot be ridden in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-23T02:49:43.000+0200",
+    "resolution_date": "2023-02-24T18:10:52.000+0200",
+    "updated_date": "2023-02-24T18:10:52.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-260445",
+    "summary": "Player can climb up one block while riding a boat or raft",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-22T22:33:40.000+0200",
+    "resolution_date": "2023-02-24T18:10:51.000+0200",
+    "updated_date": "2023-02-26T20:20:45.000+0200",
+    "watches": 13,
+    "votes": 10
+  },
+  {
+    "id": "MC-260443",
+    "summary": "Loading a snapshot 23w07a experimental world says it can be opened in \"safe mode\" and clicking \"safe mode\" does nothing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-22T21:50:36.000+0200",
+    "resolution_date": "2023-02-27T12:28:18.000+0200",
+    "updated_date": "2023-02-27T12:28:18.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-260438",
+    "summary": "Items are not rendered in the bundle UI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-22T20:07:23.000+0200",
+    "resolution_date": "2023-02-24T18:10:49.000+0200",
+    "updated_date": "2023-02-27T12:13:14.000+0200",
+    "watches": 13,
+    "votes": 20
+  },
+  {
+    "id": "MC-260436",
+    "summary": "Item Tags in 1.19.4-pre1 have extra entries",
+    "labels": [
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-22T20:02:39.000+0200",
+    "resolution_date": "2023-02-24T18:24:37.000+0200",
+    "updated_date": "2023-02-24T18:24:37.000+0200",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-260434",
+    "summary": "There is no \"Will be saved in...\" text in the new world creation menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-22T19:32:37.000+0200",
+    "resolution_date": "2023-02-27T11:25:28.000+0200",
+    "updated_date": "2023-02-27T11:25:28.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-260427",
+    "summary": "Button text is visible outside menus",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-22T19:10:04.000+0200",
+    "resolution_date": "2023-02-24T18:10:49.000+0200",
+    "updated_date": "2023-02-26T19:28:50.000+0200",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-260364",
+    "summary": "Cherry Door inconsistent item texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-19T23:34:45.000+0200",
+    "resolution_date": "2023-02-24T19:16:38.000+0200",
+    "updated_date": "2023-02-24T19:16:38.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-260335",
+    "summary": "Clicking with an item that is out of stock in the villager trading menu with sufficient payment will allow purchase of the item regardless",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-18T17:38:00.000+0200",
+    "resolution_date": "2023-02-24T18:10:52.000+0200",
+    "updated_date": "2023-02-24T18:10:52.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-260324",
+    "summary": "Cherry Boat with Chest item texture has a misplaced pixel",
+    "labels": [
+      "chest_boat",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-18T09:25:52.000+0200",
+    "resolution_date": "2023-02-24T19:16:37.000+0200",
+    "updated_date": "2023-02-24T19:16:37.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-260268",
+    "summary": "Can't scroll using arrows in \"Telemetry Data Collection\" screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-17T00:41:00.000+0200",
+    "resolution_date": "2023-02-27T12:28:17.000+0200",
+    "updated_date": "2023-02-27T12:28:17.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-260208",
+    "summary": "Display entities in spawn chunks with interpolation_duration greater than 0 visually reset to default transformation on rejoin",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-16T12:53:21.000+0200",
+    "resolution_date": "2023-02-24T18:24:38.000+0200",
+    "updated_date": "2023-02-24T18:24:38.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-260066",
+    "summary": "Z-fighting when placing several blocks on a decorated pot",
+    "labels": [
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-15T19:09:37.000+0200",
+    "resolution_date": "2023-02-27T17:22:37.000+0200",
+    "updated_date": "2023-02-27T17:22:37.000+0200",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-259979",
+    "summary": "Striders and blazes do not take five times the damage when using /damage with freeze type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Game Events",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-13T14:30:21.000+0200",
+    "resolution_date": "2023-02-24T18:10:50.000+0200",
+    "updated_date": "2023-02-24T18:10:50.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-259961",
+    "summary": "item_display does not take some nbt tags into account",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-12T17:06:36.000+0200",
+    "resolution_date": "2023-02-24T18:10:53.000+0200",
+    "updated_date": "2023-02-24T18:10:53.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259885",
+    "summary": "Upon entering the credits screen while in F1 mode, the Minecraft: Java Edition logo does not display correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-10T10:47:54.000+0200",
+    "resolution_date": "2023-02-24T18:10:48.000+0200",
+    "updated_date": "2023-02-24T18:10:48.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-259839",
+    "summary": "Duplicated \"minecraft:freeze\" in damage_type tag \"bypasses_armor\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-09T02:36:00.000+0200",
+    "resolution_date": "2023-02-24T18:10:50.000+0200",
+    "updated_date": "2023-02-24T18:10:50.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-259831",
+    "summary": "UI Buttons break certain resource packs as of 23w06a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-09T00:43:33.000+0200",
+    "resolution_date": "2023-02-27T14:46:14.000+0200",
+    "updated_date": "2023-02-27T14:46:14.000+0200",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-259609",
+    "summary": "Tooltips from selected buttons and sliders don't disappear when expected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-02-01T18:13:48.000+0200",
+    "resolution_date": "2023-02-24T10:47:28.000+0200",
+    "updated_date": "2023-02-24T10:47:28.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259208",
+    "summary": "Zombie riding chicken or skeleton riding spider not considered controllers by /execute on controller command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2023-01-18T21:07:56.000+0200",
+    "resolution_date": "2023-02-24T18:10:51.000+0200",
+    "updated_date": "2023-02-24T18:10:51.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-229293",
+    "summary": "Casting issue: Broken blocks drop items in the wrong position at high distances",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2021-06-16T23:06:28.000+0300",
+    "resolution_date": "2023-02-27T11:56:45.000+0200",
+    "updated_date": "2023-02-27T11:56:45.000+0200",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-137552",
+    "summary": "Loaded crossbows look unloaded in item frames and when dropped on the ground",
+    "labels": [
+      "crossbow",
+      "dropped",
+      "item_frame",
+      "loaded",
+      "look",
+      "unloaded"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2018-10-24T18:30:20.000+0300",
+    "resolution_date": "2023-02-24T18:10:53.000+0200",
+    "updated_date": "2023-02-24T18:10:53.000+0200",
+    "watches": 15,
+    "votes": 49
+  }
+]
