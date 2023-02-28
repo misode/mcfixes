@@ -414,6 +414,25 @@
     "votes": 15
   },
   {
+    "id": "MC-153838",
+    "summary": "Entities that don't require air dismount each other in water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2019-06-05T01:58:58.000+0300",
+    "resolution_date": "2023-02-28T16:51:45.000+0200",
+    "updated_date": "2023-02-28T16:51:45.000+0200",
+    "watches": 14,
+    "votes": 43
+  },
+  {
     "id": "MC-137552",
     "summary": "Loaded crossbows look unloaded in item frames and when dropped on the ground",
     "labels": [
