@@ -1,1 +1,260 @@
-[]
+[
+  {
+    "id": "MC-260627",
+    "summary": "Dolphins with passengers either accelerate to ludicrous speed or are immobilized completely",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-27T23:06:09.000+0200",
+    "resolution_date": "2023-03-01T14:34:15.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260605",
+    "summary": "Repeating command block summoning piglins/villagers causes memory usage to constantly increase",
+    "labels": [
+      "memory-leak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-27T09:48:27.000+0200",
+    "resolution_date": "2023-03-01T11:56:34.000+0200",
+    "updated_date": "2023-03-02T10:20:15.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-260579",
+    "summary": "Crash when a guardian deals damage to itself after removing thorns from avoids_guardian_thorns",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-26T17:32:44.000+0200",
+    "resolution_date": "2023-03-01T11:39:31.000+0200",
+    "updated_date": "2023-03-02T10:20:15.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-260501",
+    "summary": "Cannot delete previous snapshot world in launcher",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-24T01:05:14.000+0200",
+    "resolution_date": "2023-03-01T14:34:14.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-260474",
+    "summary": "Players and mobs are no longer affected by knockback upon death",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-23T11:34:45.000+0200",
+    "resolution_date": "2023-03-01T11:40:44.000+0200",
+    "updated_date": "2023-03-02T10:20:15.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-260470",
+    "summary": "Endermen can't dodge arrows fired from a dispenser",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-23T07:49:25.000+0200",
+    "resolution_date": "2023-03-01T15:11:41.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-260456",
+    "summary": "Certain potions are still indistinguishable by color",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-23T00:49:51.000+0200",
+    "resolution_date": "2023-03-01T14:00:10.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 11,
+    "votes": 12
+  },
+  {
+    "id": "MC-260451",
+    "summary": "Inventory character with semi-transparent outer skin layer not rendered correctly when looking right",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-23T00:01:10.000+0200",
+    "resolution_date": "2023-03-01T14:46:06.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260277",
+    "summary": "potted_cherry_sapling and potted_torchflower not part of #flower_pots block tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-17T02:24:52.000+0200",
+    "resolution_date": "2023-02-28T12:23:43.000+0200",
+    "updated_date": "2023-03-02T10:20:15.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-259666",
+    "summary": "Reloading a resource pack that has a custom texture atlas for a second time causes severe FPS lag on the client",
+    "labels": [
+      "resource-pack",
+      "server",
+      "server-resource-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-02-03T04:55:56.000+0200",
+    "resolution_date": "2023-03-01T12:21:12.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-258561",
+    "summary": "Endermen teleport away instead of taking damage from end crystal, TNT and wither skull explosions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2022-12-17T03:21:44.000+0200",
+    "resolution_date": "2023-03-01T15:11:40.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 24,
+    "votes": 21
+  },
+  {
+    "id": "MC-250486",
+    "summary": "Error saving GUI scale option when toggling fullscreen while fullscreen resolution is changed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2022-04-22T02:51:13.000+0300",
+    "resolution_date": "2023-03-01T14:46:06.000+0200",
+    "updated_date": "2023-03-02T10:20:15.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-148458",
+    "summary": "Ridable mobs aren't knocked back upon death",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2019-04-16T23:25:42.000+0300",
+    "resolution_date": "2023-03-01T11:40:51.000+0200",
+    "updated_date": "2023-03-02T10:20:16.000+0200",
+    "watches": 6,
+    "votes": 15
+  }
+]
