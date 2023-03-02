@@ -733,6 +733,25 @@
     "votes": 6
   },
   {
+    "id": "MC-146605",
+    "summary": "Cannot (de-)select or reorder data and resource packs using the keyboard only",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2019-03-24T17:09:05.000+0200",
+    "resolution_date": "2023-03-02T14:16:25.000+0200",
+    "updated_date": "2023-03-02T14:16:25.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-136534",
     "summary": "All command blocks think they're facing south with caret notation",
     "labels": [],
