@@ -1,5 +1,25 @@
 [
   {
+    "id": "MC-260669",
+    "summary": "Iron golems rapidly jitter during their death animations",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2023-03-01T11:02:14.000+0200",
+    "resolution_date": "2023-03-07T15:45:50.000+0200",
+    "updated_date": "2023-03-07T15:45:50.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-260627",
     "summary": "Dolphins with passengers either accelerate to ludicrous speed or are immobilized completely",
     "labels": [],
