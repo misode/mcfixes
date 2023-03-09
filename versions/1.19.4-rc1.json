@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MC-260857",
+    "summary": "Display entities summoned with initial transformation interpolate incorrectly from default transformation during next transformation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Release Candidate 1"
+    ],
+    "creation_date": "2023-03-09T16:29:29.000+0200",
+    "resolution_date": "2023-03-09T17:48:51.000+0200",
+    "updated_date": "2023-03-09T17:48:51.000+0200",
+    "watches": 3,
+    "votes": 3
+  }
+]
