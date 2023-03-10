@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MC-260881",
+    "summary": "Transparent 3D models don't render properly in the GUI/Hotbar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Release Candidate 2"
+    ],
+    "creation_date": "2023-03-10T04:21:45.000+0200",
+    "resolution_date": "2023-03-10T14:32:46.000+0200",
+    "updated_date": "2023-03-10T15:31:43.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-260878",
+    "summary": "Guardians apply Thorns damage when hit by projectiles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.19.4 Release Candidate 2"
+    ],
+    "creation_date": "2023-03-10T01:18:36.000+0200",
+    "resolution_date": "2023-03-10T11:22:46.000+0200",
+    "updated_date": "2023-03-10T11:22:46.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-260677",
+    "summary": "Advancement icons handle translucent textures wrong",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Release Candidate 2"
+    ],
+    "creation_date": "2023-03-01T19:20:46.000+0200",
+    "resolution_date": "2023-03-10T14:32:47.000+0200",
+    "updated_date": "2023-03-10T14:32:47.000+0200",
+    "watches": 0,
+    "votes": 2
+  }
+]
