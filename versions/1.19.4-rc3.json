@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-260901",
+    "summary": "Guardians deal thorns damage even while their spikes are retracted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Release Candidate 3"
+    ],
+    "creation_date": "2023-03-10T22:46:44.000+0200",
+    "resolution_date": "2023-03-13T11:48:40.000+0200",
+    "updated_date": "2023-03-13T11:48:40.000+0200",
+    "watches": 5,
+    "votes": 8
+  }
+]
