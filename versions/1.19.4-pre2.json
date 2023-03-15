@@ -414,6 +414,26 @@
     "votes": 15
   },
   {
+    "id": "MC-173809",
+    "summary": "Crossbows cannot display as loaded in advancement icons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2020-03-05T01:58:32.000+0200",
+    "resolution_date": "2023-03-15T16:56:37.000+0200",
+    "updated_date": "2023-03-15T16:56:37.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
     "id": "MC-153838",
     "summary": "Entities that don't require air dismount each other in water",
     "labels": [],
