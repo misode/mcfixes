@@ -1391,6 +1391,25 @@
     "votes": 4
   },
   {
+    "id": "MC-176597",
+    "summary": "Petrifried oak slab isn't under #non_flammable_wood in creative menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2020-03-28T20:01:35.000+0200",
+    "resolution_date": "2023-03-21T17:44:52.000+0200",
+    "updated_date": "2023-03-21T17:50:23.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-175313",
     "summary": "Composter filling sounds originate from the bottom northwest corner of the block",
     "labels": [],

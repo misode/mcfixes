@@ -319,6 +319,25 @@
     "votes": 4
   },
   {
+    "id": "MC-157206",
+    "summary": "Firework explosions don't damage endermen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.4 Pre-release 3"
+    ],
+    "creation_date": "2019-07-20T06:25:48.000+0300",
+    "resolution_date": "2023-03-21T18:00:16.000+0200",
+    "updated_date": "2023-03-21T18:00:17.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-148458",
     "summary": "Ridable mobs aren't knocked back upon death",
     "labels": [],
