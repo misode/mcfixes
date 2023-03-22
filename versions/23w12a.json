@@ -1,0 +1,682 @@
+[
+  {
+    "id": "MC-260897",
+    "summary": "Display entity's previous state of interpolation doesn't work as expected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-10T17:55:24.000+0200",
+    "resolution_date": "2023-03-21T11:11:35.000+0200",
+    "updated_date": "2023-03-21T11:11:35.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-260885",
+    "summary": "Display entities summoned with initial transformation interpolate incorrectly from default transformation during next transformation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-10T08:46:48.000+0200",
+    "resolution_date": "2023-03-20T09:59:02.000+0200",
+    "updated_date": "2023-03-20T09:59:02.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260839",
+    "summary": "Mobs can replace weapons held in their main hand with armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-09T00:52:12.000+0200",
+    "resolution_date": "2023-03-15T12:13:58.000+0200",
+    "updated_date": "2023-03-15T12:13:58.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-260779",
+    "summary": "Sniffers can dig into blocks outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-05T17:00:48.000+0200",
+    "resolution_date": "2023-03-22T17:14:20.000+0200",
+    "updated_date": "2023-03-22T17:14:20.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260778",
+    "summary": "Sniffer tries to sniff out blocks outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-05T17:00:45.000+0200",
+    "resolution_date": "2023-03-22T16:50:05.000+0200",
+    "updated_date": "2023-03-22T16:50:05.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-260777",
+    "summary": "Sniffers ignore some dangerous blocks while sniffing and pathfinding resulting in them being damaged",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-05T16:35:06.000+0200",
+    "resolution_date": "2023-03-21T16:53:27.000+0200",
+    "updated_date": "2023-03-21T16:53:27.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260757",
+    "summary": "Updating a large amount of Iron Bars causes the game to hang in-game or during the Saving world screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-04T22:03:48.000+0200",
+    "resolution_date": "2023-03-15T10:38:17.000+0200",
+    "updated_date": "2023-03-15T10:38:17.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-260750",
+    "summary": "Magma blocks use unnecessary random ticking for an outdated feature, causing performance issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-04T16:20:52.000+0200",
+    "resolution_date": "2023-03-22T11:49:45.000+0200",
+    "updated_date": "2023-03-22T11:49:45.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-260678",
+    "summary": "Potion of Invisibility looks too similar to the Potion of Slow Falling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-01T19:23:28.000+0200",
+    "resolution_date": "2023-03-22T10:04:23.000+0200",
+    "updated_date": "2023-03-22T10:04:23.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-260632",
+    "summary": "Riding an entity that is far away causes client/server desync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-28T01:09:36.000+0200",
+    "resolution_date": "2023-03-15T11:08:16.000+0200",
+    "updated_date": "2023-03-15T11:08:16.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-260503",
+    "summary": "Sniffers refuse to dig into soil with a non-solid block on top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-24T01:08:34.000+0200",
+    "resolution_date": "2023-03-21T12:41:59.000+0200",
+    "updated_date": "2023-03-21T12:41:59.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260409",
+    "summary": "Cherry Grove biome is not in the #is_overworld biome tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Resource Packs",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-21T21:22:01.000+0200",
+    "resolution_date": "2023-03-15T12:05:29.000+0200",
+    "updated_date": "2023-03-15T12:05:29.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-260326",
+    "summary": "Dying sniffers continue to dig",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-18T14:13:18.000+0200",
+    "resolution_date": "2023-03-21T12:41:58.000+0200",
+    "updated_date": "2023-03-21T12:41:58.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-260317",
+    "summary": "Sniffers try to sniff out obstructed blocks they can't reach",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-18T05:52:30.000+0200",
+    "resolution_date": "2023-03-21T14:39:55.000+0200",
+    "updated_date": "2023-03-21T14:39:55.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-260296",
+    "summary": "Pink petal block models are not optimized",
+    "labels": [
+      "block",
+      "model",
+      "performance",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-17T20:49:45.000+0200",
+    "resolution_date": "2023-03-15T12:05:29.000+0200",
+    "updated_date": "2023-03-15T12:05:29.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-260282",
+    "summary": "Sniffers can sniff out and follow players in spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-17T11:58:22.000+0200",
+    "resolution_date": "2023-03-21T13:20:33.000+0200",
+    "updated_date": "2023-03-21T13:20:33.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-260251",
+    "summary": "The walking animations of sniffers don't change in relation to their movement speed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-16T19:34:41.000+0200",
+    "resolution_date": "2023-03-21T12:41:59.000+0200",
+    "updated_date": "2023-03-21T15:42:34.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-260240",
+    "summary": "Sniffers that are in love sometimes don't attempt to approach one another to breed",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-16T17:45:11.000+0200",
+    "resolution_date": "2023-03-22T17:15:46.000+0200",
+    "updated_date": "2023-03-22T17:15:46.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-260069",
+    "summary": "Growing cherry trees inside each other causes their leaves to decay",
+    "labels": [
+      "block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-15T19:13:15.000+0200",
+    "resolution_date": "2023-03-15T12:05:30.000+0200",
+    "updated_date": "2023-03-15T12:05:30.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-260061",
+    "summary": "Sniffer's ears and head z-fight",
+    "labels": [
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-15T19:05:15.000+0200",
+    "resolution_date": "2023-03-22T14:29:55.000+0200",
+    "updated_date": "2023-03-22T14:29:55.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-260053",
+    "summary": "When rotating a decorated pot with the debug stick, it will spawn a decorated pot item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-15T18:49:59.000+0200",
+    "resolution_date": "2023-03-17T11:12:31.000+0200",
+    "updated_date": "2023-03-17T11:48:38.000+0200",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-260047",
+    "summary": "Decorated pots from the creative inventory and new blank decorated pots with no NBT will match their texture to the last decorated pot you crafted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-15T18:36:08.000+0200",
+    "resolution_date": "2023-03-15T12:43:47.000+0200",
+    "updated_date": "2023-03-15T12:43:47.000+0200",
+    "watches": 9,
+    "votes": 17
+  },
+  {
+    "id": "MC-260043",
+    "summary": "Decorated Pots don't play breaking sound in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-15T18:28:33.000+0200",
+    "resolution_date": "2023-03-17T11:12:31.000+0200",
+    "updated_date": "2023-03-17T11:12:31.000+0200",
+    "watches": 10,
+    "votes": 24
+  },
+  {
+    "id": "MC-260020",
+    "summary": "Reloading the world resets the Brown Mooshroom's given flower",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-15T16:17:50.000+0200",
+    "resolution_date": "2023-03-15T12:52:34.000+0200",
+    "updated_date": "2023-03-15T12:52:34.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-259879",
+    "summary": "Display entities with a rather large shadow_radius value can cause performance issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-10T06:58:25.000+0200",
+    "resolution_date": "2023-03-15T11:08:15.000+0200",
+    "updated_date": "2023-03-15T11:08:15.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-259201",
+    "summary": "The tops and bottoms of donkeys' ears are miscolored",
+    "labels": [
+      "donkey",
+      "mob",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-01-18T19:47:50.000+0200",
+    "resolution_date": "2023-03-21T15:11:13.000+0200",
+    "updated_date": "2023-03-22T05:12:34.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-256585",
+    "summary": "Z-fighting occurs on the text of hanging signs",
+    "labels": [
+      "hanging_sign",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2022-10-19T20:29:20.000+0300",
+    "resolution_date": "2023-03-15T12:20:49.000+0200",
+    "updated_date": "2023-03-15T12:20:49.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-256551",
+    "summary": "Baby camels have a visible inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2022-10-19T18:51:18.000+0300",
+    "resolution_date": "2023-03-15T12:20:50.000+0200",
+    "updated_date": "2023-03-15T12:20:50.000+0200",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-256488",
+    "summary": "Bamboo Raft and Raft with Chest models float above ground",
+    "labels": [
+      "model",
+      "visual",
+      "visual-bug"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2022-10-19T16:55:42.000+0300",
+    "resolution_date": "2023-03-15T12:20:49.000+0200",
+    "updated_date": "2023-03-15T12:20:49.000+0200",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-201647",
+    "summary": "Entity riding an entity can cause location/coordinate desync",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2020-10-06T19:19:22.000+0300",
+    "resolution_date": "2023-03-15T11:08:16.000+0200",
+    "updated_date": "2023-03-15T11:08:16.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-197241",
+    "summary": "Players can change the color of a wolf's collar even if they're not its owner",
+    "labels": [
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2020-08-06T19:45:34.000+0300",
+    "resolution_date": "2023-03-22T10:30:12.000+0200",
+    "updated_date": "2023-03-22T10:30:12.000+0200",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-165221",
+    "summary": "3D Modeled Potions are not rendered correctly in the \"GUI Display\"",
+    "labels": [
+      "GUI",
+      "item-model",
+      "potion",
+      "rendering",
+      "resource-pack",
+      "resource-pack-support",
+      "transparency"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2019-11-08T19:36:02.000+0200",
+    "resolution_date": "2023-03-15T12:59:35.000+0200",
+    "updated_date": "2023-03-15T12:59:35.000+0200",
+    "watches": 11,
+    "votes": 18
+  },
+  {
+    "id": "MC-157727",
+    "summary": "The small cube in honey/slime blocks isn't displayed in inventory",
+    "labels": [
+      "slime_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2019-07-26T02:18:24.000+0300",
+    "resolution_date": "2023-03-15T12:59:34.000+0200",
+    "updated_date": "2023-03-15T12:59:34.000+0200",
+    "watches": 12,
+    "votes": 33
+  }
+]
