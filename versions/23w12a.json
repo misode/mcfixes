@@ -345,27 +345,6 @@
     "votes": 7
   },
   {
-    "id": "MC-260240",
-    "summary": "Sniffers that are in love sometimes don't attempt to approach one another to breed",
-    "labels": [
-      "sniffer"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Mob behaviour"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "23w12a"
-    ],
-    "creation_date": "2023-02-16T17:45:11.000+0200",
-    "resolution_date": "2023-03-22T17:15:46.000+0200",
-    "updated_date": "2023-03-22T17:15:46.000+0200",
-    "watches": 2,
-    "votes": 6
-  },
-  {
     "id": "MC-260069",
     "summary": "Growing cherry trees inside each other causes their leaves to decay",
     "labels": [
