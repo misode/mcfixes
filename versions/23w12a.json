@@ -261,6 +261,30 @@
     "votes": 6
   },
   {
+    "id": "MC-260315",
+    "summary": "Parity Issue: Pottery Shards have different textures compared to Bedrock",
+    "labels": [
+      "parity",
+      "texture",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-02-18T05:23:52.000+0200",
+    "resolution_date": "2023-03-24T02:59:05.000+0200",
+    "updated_date": "2023-03-24T02:59:05.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
     "id": "MC-260301",
     "summary": "Decorated Pots drop from setblock/fill air replace",
     "labels": [],
