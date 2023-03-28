@@ -326,6 +326,25 @@
     "votes": 6
   },
   {
+    "id": "MC-251897",
+    "summary": "Frogs legs move quickly when pushed into a corner",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w05a"
+    ],
+    "creation_date": "2022-05-19T09:58:57.000+0300",
+    "resolution_date": "2023-03-29T01:29:21.000+0300",
+    "updated_date": "2023-03-29T01:29:22.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-216270",
     "summary": "It's not possible to replace armor by right clicking while holding the armor item",
     "labels": [
