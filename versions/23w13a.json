@@ -1,0 +1,872 @@
+[
+  {
+    "id": "MC-261275",
+    "summary": "Sniffers drop moss blocks when killed",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T19:55:48.000+0200",
+    "resolution_date": "2023-03-24T12:45:19.000+0200",
+    "updated_date": "2023-03-24T12:47:12.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-261264",
+    "summary": "The advancement \"Two by Two\" is no longer obtainable due to the change to sniffer's breeding",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T14:00:38.000+0200",
+    "resolution_date": "2023-03-27T19:25:13.000+0300",
+    "updated_date": "2023-03-27T19:25:13.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-261262",
+    "summary": "Raiser and Wayfinder smithing templates are offset by one pixel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T13:03:37.000+0200",
+    "resolution_date": "2023-03-24T16:23:16.000+0200",
+    "updated_date": "2023-03-24T16:23:16.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-261243",
+    "summary": "Pitcher Crop isn't part of the #crops tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T03:49:44.000+0200",
+    "resolution_date": "2023-03-27T19:33:18.000+0300",
+    "updated_date": "2023-03-27T19:33:18.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-261241",
+    "summary": "Saddle equips sound plays twice when equipping a saddle on a camel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T03:34:45.000+0200",
+    "resolution_date": "2023-03-28T16:44:11.000+0300",
+    "updated_date": "2023-03-28T16:44:11.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-261237",
+    "summary": "Using bone meal on upper pitcher crop doesn't advance the age of the lower half",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T03:06:57.000+0200",
+    "resolution_date": "2023-03-27T19:33:17.000+0300",
+    "updated_date": "2023-03-27T19:33:17.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-261232",
+    "summary": "Texture minecraft:block/sniffer_egg_slightly_cracked with size 40x32 limits mip level from 4 to 3",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T01:37:07.000+0200",
+    "resolution_date": "2023-03-24T12:51:44.000+0200",
+    "updated_date": "2023-03-24T12:51:44.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-261229",
+    "summary": "Crashes and Chunk Resetting involving Suspicious Sand with Loot Tables updating from 1.19.4",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Datafixer",
+      "Loot tables"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-23T00:09:55.000+0200",
+    "resolution_date": "2023-03-28T15:40:27.000+0300",
+    "updated_date": "2023-03-28T16:00:35.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-261224",
+    "summary": "Editing sign from an angle (or the side) will edit the back instead of the front",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T23:02:35.000+0200",
+    "resolution_date": "2023-03-28T16:52:36.000+0300",
+    "updated_date": "2023-03-29T01:24:08.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-261223",
+    "summary": "Editing a hanging sign with a right click doesn't work while holding a placeable object",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T23:01:13.000+0200",
+    "resolution_date": "2023-03-28T16:52:35.000+0300",
+    "updated_date": "2023-03-29T02:08:54.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-261213",
+    "summary": "Sniffer eggs can be destroyed by fluids which is different from turtle eggs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T21:51:48.000+0200",
+    "resolution_date": "2023-03-29T12:58:41.000+0300",
+    "updated_date": "2023-03-29T12:58:41.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-261206",
+    "summary": "\"A Seedy Place\" advancement not granted when planting Pitcher Pods",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T21:11:33.000+0200",
+    "resolution_date": "2023-03-27T19:33:19.000+0300",
+    "updated_date": "2023-03-27T19:33:19.000+0300",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-261205",
+    "summary": "Using bone meal on pitcher pod (crop) advances several growth stages at once",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T21:05:03.000+0200",
+    "resolution_date": "2023-03-27T19:33:17.000+0300",
+    "updated_date": "2023-03-27T19:33:17.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-261204",
+    "summary": "When is farmland broken under a pitcher crop, the crop doesn't get broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T20:54:46.000+0200",
+    "resolution_date": "2023-03-27T19:33:16.000+0300",
+    "updated_date": "2023-03-29T19:56:04.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-261193",
+    "summary": "Calibrated sculk sensor placed by commands is waterlogged by default",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T20:00:48.000+0200",
+    "resolution_date": "2023-03-28T14:48:55.000+0300",
+    "updated_date": "2023-03-28T14:48:55.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-261191",
+    "summary": "Pitcher plants aren't part of the #minecraft:flowers or #minecraft:tall_flowers block tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T19:58:28.000+0200",
+    "resolution_date": "2023-03-27T19:33:18.000+0300",
+    "updated_date": "2023-03-27T19:33:18.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-261190",
+    "summary": "Signs no longer resolve JSON text components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T19:55:46.000+0200",
+    "resolution_date": "2023-03-28T16:52:34.000+0300",
+    "updated_date": "2023-03-28T16:52:34.000+0300",
+    "watches": 10,
+    "votes": 23
+  },
+  {
+    "id": "MC-261181",
+    "summary": "The \"Glow and Behold!\" advancement is granted when interacting with waxed signs while holding glow ink sacs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T19:24:44.000+0200",
+    "resolution_date": "2023-03-28T16:52:35.000+0300",
+    "updated_date": "2023-03-28T16:52:35.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-261170",
+    "summary": "Sniffer egg faces aren't culled when covered by blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T18:47:05.000+0200",
+    "resolution_date": "2023-03-24T12:51:45.000+0200",
+    "updated_date": "2023-03-24T12:51:45.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-260974",
+    "summary": "Aggressive mobs can't control \"vehicle\" mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-13T17:08:59.000+0200",
+    "resolution_date": "2023-03-27T09:54:59.000+0300",
+    "updated_date": "2023-03-27T09:54:59.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-260898",
+    "summary": "Brushes can be used through entities ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-10T19:45:19.000+0200",
+    "resolution_date": "2023-03-24T12:33:11.000+0200",
+    "updated_date": "2023-03-24T12:33:11.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260834",
+    "summary": "\"Alpha\" can play during gameplay",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-08T22:42:11.000+0200",
+    "resolution_date": "2023-03-27T09:54:59.000+0300",
+    "updated_date": "2023-03-27T09:54:59.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-260693",
+    "summary": "potted_torchflower is still not part of the #flower_pots block tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-02T01:01:12.000+0200",
+    "resolution_date": "2023-03-29T12:58:42.000+0300",
+    "updated_date": "2023-03-29T12:58:42.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-260465",
+    "summary": "The torchflower crop still has an age 2 blockstate that looks like the regular torchflower",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-23T04:24:05.000+0200",
+    "resolution_date": "2023-03-29T12:58:41.000+0300",
+    "updated_date": "2023-03-29T12:58:41.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-260454",
+    "summary": "Decorated pots are translated off-center when displayed on head",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-23T00:40:39.000+0200",
+    "resolution_date": "2023-03-28T16:05:12.000+0300",
+    "updated_date": "2023-03-28T16:05:12.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-260435",
+    "summary": "Sniffers don't play their walking animation when moving through cobwebs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-22T19:37:09.000+0200",
+    "resolution_date": "2023-03-29T15:43:40.000+0300",
+    "updated_date": "2023-03-29T15:43:40.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-260320",
+    "summary": "Parity Issue: Snifflets (Baby Sniffers) have an inconsistent model with Bedrock",
+    "labels": [
+      "sniffer",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-18T06:10:28.000+0200",
+    "resolution_date": "2023-03-27T14:51:19.000+0300",
+    "updated_date": "2023-03-27T14:51:19.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-260252",
+    "summary": "Sniffer walking animation is broken when walking on ice",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-16T19:42:35.000+0200",
+    "resolution_date": "2023-03-29T11:37:48.000+0300",
+    "updated_date": "2023-03-29T11:37:48.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-260247",
+    "summary": "Sniffers constantly play their walking animations when they're pushed into blocks",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-16T18:56:58.000+0200",
+    "resolution_date": "2023-03-29T19:02:20.000+0300",
+    "updated_date": "2023-03-29T19:02:20.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-260238",
+    "summary": "Sniffer digging particles are produced slightly too high up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-16T17:33:54.000+0200",
+    "resolution_date": "2023-03-29T12:58:43.000+0300",
+    "updated_date": "2023-03-29T12:58:43.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-260146",
+    "summary": "Pink petals are not next to other flowers in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-16T00:48:34.000+0200",
+    "resolution_date": "2023-03-28T14:48:54.000+0300",
+    "updated_date": "2023-03-28T14:48:54.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-260093",
+    "summary": "Particles spawned by brushes in the left hand move in the wrong direction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-15T20:02:33.000+0200",
+    "resolution_date": "2023-03-24T12:33:10.000+0200",
+    "updated_date": "2023-03-24T12:33:10.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-260090",
+    "summary": "Sniffers ignore the \"minecraft:generic.movement_speed\" attribute",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-15T19:50:25.000+0200",
+    "resolution_date": "2023-03-29T11:37:48.000+0300",
+    "updated_date": "2023-03-29T11:37:48.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-260086",
+    "summary": "Entities riding sniffers are positioned too low down",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-15T19:45:42.000+0200",
+    "resolution_date": "2023-03-29T12:58:42.000+0300",
+    "updated_date": "2023-03-29T12:58:42.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-260081",
+    "summary": "Sniffers don't play their walking animations when they are damaged",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-15T19:33:27.000+0200",
+    "resolution_date": "2023-03-29T19:02:42.000+0300",
+    "updated_date": "2023-03-29T19:02:42.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-260080",
+    "summary": "Sniffers play their walking animations after the \"NoAI\" NBT tag is applied to them",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-15T19:32:08.000+0200",
+    "resolution_date": "2023-03-29T19:03:41.000+0300",
+    "updated_date": "2023-03-29T19:03:41.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-260075",
+    "summary": "Player holds brush by ferrule in third person",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-15T19:28:34.000+0200",
+    "resolution_date": "2023-03-24T12:33:11.000+0200",
+    "updated_date": "2023-03-24T12:33:11.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-259364",
+    "summary": "The \"item.minecraft.smithing_template.netherite_upgrade.base_slot_description\" string is missing a serial comma",
+    "labels": [
+      "grammar"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-01-24T19:29:00.000+0200",
+    "resolution_date": "2023-03-28T14:48:54.000+0300",
+    "updated_date": "2023-03-28T14:48:54.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-257268",
+    "summary": "The dashing animations of camels sometimes aren't displayed for other players",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2022-11-06T16:26:26.000+0200",
+    "resolution_date": "2023-03-28T16:44:10.000+0300",
+    "updated_date": "2023-03-28T16:44:10.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-257246",
+    "summary": "Horses do not make step_wood sounds when walking on Nether wood, cherry wood, bamboo wood, or stems",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2022-11-06T02:25:13.000+0200",
+    "resolution_date": "2023-03-28T14:48:55.000+0300",
+    "updated_date": "2023-03-28T14:48:55.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-256506",
+    "summary": "Camels riding entities get permanently stuck in dash mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2022-10-19T17:27:42.000+0300",
+    "resolution_date": "2023-03-28T16:44:10.000+0300",
+    "updated_date": "2023-03-28T16:44:10.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-256503",
+    "summary": "Camel can swim sitting down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2022-10-19T17:24:40.000+0300",
+    "resolution_date": "2023-03-28T16:44:11.000+0300",
+    "updated_date": "2023-03-28T16:44:11.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-230916",
+    "summary": "\"Potted Flowering Azalea Bush Plant\" uses the wrong texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2021-07-02T04:00:25.000+0300",
+    "resolution_date": "2023-03-24T16:32:01.000+0200",
+    "updated_date": "2023-03-24T16:32:01.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-159637",
+    "summary": "Mobs with passengers have broken movements",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2019-08-24T12:50:48.000+0300",
+    "resolution_date": "2023-03-27T09:55:00.000+0300",
+    "updated_date": "2023-03-27T09:55:00.000+0300",
+    "watches": 0,
+    "votes": 2
+  }
+]
