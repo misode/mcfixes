@@ -779,6 +779,25 @@
     "votes": 26
   },
   {
+    "id": "MC-224709",
+    "summary": "Full armour icon doesn't match empty armour icon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w17a"
+    ],
+    "creation_date": "2021-05-02T19:07:51.000+0300",
+    "resolution_date": "2023-03-29T13:51:52.000+0300",
+    "updated_date": "2023-03-29T13:52:49.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
     "id": "MC-210901",
     "summary": "Sculk sensors are not activated upon entities sliding on ice",
     "labels": [
