@@ -439,6 +439,30 @@
     "votes": 2
   },
   {
+    "id": "MC-253886",
+    "summary": "The legs of skeletons, wither skeletons, and strays aren't properly aligned with their bodies which results in minor z-fighting",
+    "labels": [
+      "skeleton",
+      "stray",
+      "wither_skeleton",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2022-07-04T15:22:13.000+0300",
+    "resolution_date": "2023-03-29T21:31:33.000+0300",
+    "updated_date": "2023-03-29T21:31:34.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
     "id": "MC-252434",
     "summary": "Sculk sensors are activated when interacting with fences while holding leads",
     "labels": [

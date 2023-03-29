@@ -851,6 +851,32 @@
     "votes": 4
   },
   {
+    "id": "MC-160332",
+    "summary": "Horses with non-player passengers have improper orientation when walking",
+    "labels": [
+      "horse",
+      "orientation",
+      "riding",
+      "riding-entities",
+      "tracking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2019-09-02T13:37:41.000+0300",
+    "resolution_date": "2023-03-29T21:36:26.000+0300",
+    "updated_date": "2023-03-29T21:36:26.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
     "id": "MC-159637",
     "summary": "Mobs with passengers have broken movements",
     "labels": [],
