@@ -263,6 +263,26 @@
     "votes": 4
   },
   {
+    "id": "MC-260091",
+    "summary": "The facing directions of sniffers don't always match their visual facing rotation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.19.4 Pre-release 4"
+    ],
+    "creation_date": "2023-02-15T19:57:47.000+0200",
+    "resolution_date": "2023-03-30T15:08:43.000+0300",
+    "updated_date": "2023-03-30T15:08:43.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
     "id": "MC-260068",
     "summary": "The sounds of using brushes don't show any subtitles",
     "labels": [],
