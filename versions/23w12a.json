@@ -80,6 +80,26 @@
     "votes": 3
   },
   {
+    "id": "MC-260778",
+    "summary": "Sniffer tries to sniff out blocks outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a",
+      "Future Update"
+    ],
+    "creation_date": "2023-03-05T17:00:45.000+0200",
+    "resolution_date": "2023-03-31T10:48:11.000+0300",
+    "updated_date": "2023-03-31T10:48:11.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
     "id": "MC-260777",
     "summary": "Sniffers ignore some dangerous blocks while sniffing and pathfinding resulting in them being damaged",
     "labels": [
