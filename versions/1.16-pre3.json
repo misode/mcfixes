@@ -1658,7 +1658,7 @@
       "1.8-bad-model-conversion-remnants",
       "1.8-model-conversion-remnants",
       "cullface-missing-from-model",
-      "unneccessary-planes"
+      "unnecessary-planes"
     ],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -1671,8 +1671,8 @@
     ],
     "creation_date": "2020-05-03T18:54:35.000+0300",
     "resolution_date": "2020-06-10T14:17:45.000+0300",
-    "updated_date": "2022-03-17T15:03:32.000+0200",
-    "watches": 1,
+    "updated_date": "2023-05-15T17:37:23.000+0300",
+    "watches": 0,
     "votes": 2
   },
   {
@@ -2086,8 +2086,8 @@
     ],
     "creation_date": "2020-02-27T17:45:52.000+0200",
     "resolution_date": "2020-06-10T13:58:36.000+0300",
-    "updated_date": "2020-07-10T21:17:10.000+0300",
-    "watches": 3,
+    "updated_date": "2023-06-03T13:54:22.000+0300",
+    "watches": 2,
     "votes": 5
   },
   {
@@ -2624,7 +2624,7 @@
     "creation_date": "2013-04-19T01:48:27.000+0300",
     "resolution_date": "2020-06-10T15:30:17.000+0300",
     "updated_date": "2020-07-02T16:17:28.000+0300",
-    "watches": 13,
+    "watches": 12,
     "votes": 39
   }
 ]

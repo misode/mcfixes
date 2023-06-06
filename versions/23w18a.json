@@ -1,0 +1,527 @@
+[
+  {
+    "id": "MC-262218",
+    "summary": "Block light updates don't cross chunk borders properly in 23w17a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-30T11:35:39.000+0300",
+    "resolution_date": "2023-05-02T11:27:59.000+0300",
+    "updated_date": "2023-05-04T19:07:41.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-262185",
+    "summary": "Partially transparent pixels in font glyphs appear more opaque than they should in the tooltip",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-29T04:52:27.000+0300",
+    "resolution_date": "2023-05-04T11:32:09.000+0300",
+    "updated_date": "2023-05-04T11:32:09.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-262133",
+    "summary": "Strong lag spikes when moving above a cleared area with exposed void",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-26T22:14:40.000+0300",
+    "resolution_date": "2023-04-27T15:43:13.000+0300",
+    "updated_date": "2023-04-27T15:43:13.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-262123",
+    "summary": "Advancement titles of new advancements introduced in 23w17a are improperly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-26T18:17:28.000+0300",
+    "resolution_date": "2023-05-03T12:05:13.000+0300",
+    "updated_date": "2023-05-03T12:05:13.000+0300",
+    "watches": 7,
+    "votes": 15
+  },
+  {
+    "id": "MC-262104",
+    "summary": "Rendering of FPS graph seems to be performing worse than before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Debug",
+      "Performance",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-26T00:46:26.000+0300",
+    "resolution_date": "2023-04-28T14:43:08.000+0300",
+    "updated_date": "2023-04-28T14:43:08.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-262069",
+    "summary": "Sniffers continue digging after their target block is destroyed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-23T14:54:39.000+0300",
+    "resolution_date": "2023-04-27T16:10:21.000+0300",
+    "updated_date": "2023-04-28T13:12:01.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-262067",
+    "summary": "The type of sniffer digging particles that are produced is determined by the block that sniffers are located on instead of the block that sniffers are digging",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-23T13:29:07.000+0300",
+    "resolution_date": "2023-04-27T16:10:22.000+0300",
+    "updated_date": "2023-04-27T16:10:22.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-262003",
+    "summary": "Bundle tooltip does not show its interface",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-20T23:02:48.000+0300",
+    "resolution_date": "2023-04-27T15:54:26.000+0300",
+    "updated_date": "2023-05-03T19:04:36.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
+    "id": "MC-261952",
+    "summary": "Clocks flicker rapidly when enchanted and in an unnatural dimension",
+    "labels": [
+      "enchantment-glint",
+      "model",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-04-18T22:14:55.000+0300",
+    "resolution_date": "2023-04-27T15:54:27.000+0300",
+    "updated_date": "2023-04-27T15:54:27.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-261417",
+    "summary": "The hitboxes of sniffers are not adjusted when they lay down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-03-29T19:33:55.000+0300",
+    "resolution_date": "2023-04-27T10:23:32.000+0300",
+    "updated_date": "2023-04-27T10:23:32.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-260279",
+    "summary": "Jukebox is not in the Redstone Blocks tab in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-02-17T07:00:19.000+0200",
+    "resolution_date": "2023-05-03T16:28:45.000+0300",
+    "updated_date": "2023-05-03T16:28:45.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-259978",
+    "summary": "Minecraft telemetry data detected Windows 11 as Windows 10",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug",
+      "Performance"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2023-02-13T13:03:58.000+0200",
+    "resolution_date": "2023-05-03T18:58:52.000+0300",
+    "updated_date": "2023-05-03T18:58:52.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-257269",
+    "summary": "Sculk sensor detects player walking between carpet and wool",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2022-11-06T16:34:01.000+0200",
+    "resolution_date": "2023-04-27T16:02:26.000+0300",
+    "updated_date": "2023-04-27T16:02:26.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-252389",
+    "summary": "When landing (or jumping) on wool with your hitbox over the edge, it produces a vibration",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Parity"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2022-06-01T17:20:45.000+0300",
+    "resolution_date": "2023-05-03T16:39:19.000+0300",
+    "updated_date": "2023-05-03T16:39:19.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-242105",
+    "summary": "When landing on some non-full blocks while touching a thin block, impact particles use the thin block's texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2021-11-20T12:53:42.000+0200",
+    "resolution_date": "2023-05-03T18:14:42.000+0300",
+    "updated_date": "2023-05-03T18:14:42.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-240098",
+    "summary": "Minecraft can't be correctly profiled to Windows 11 version",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug",
+      "Performance"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2021-10-30T12:41:24.000+0300",
+    "resolution_date": "2023-05-03T19:01:12.000+0300",
+    "updated_date": "2023-05-03T19:01:12.000+0300",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-221861",
+    "summary": "Light blocks have particles when fallen on, despite not having them in most other cases",
+    "labels": [
+      "invisible-blocks",
+      "invisible-blocks-not-invisible",
+      "light",
+      "unnecessary-particles",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2021-04-01T20:29:36.000+0300",
+    "resolution_date": "2023-05-29T13:32:06.000+0300",
+    "updated_date": "2023-06-01T15:48:31.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-217447",
+    "summary": "\"Walking\" on nether wart produces stone footstep sounds instead of nether wart sounds",
+    "labels": [
+      "incorrect-block-sound",
+      "nether_wart",
+      "sound-event"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2021-03-01T19:20:33.000+0200",
+    "resolution_date": "2023-05-04T00:20:24.000+0300",
+    "updated_date": "2023-05-14T08:15:35.000+0300",
+    "watches": 7,
+    "votes": 3
+  },
+  {
+    "id": "MC-207290",
+    "summary": "Sculk sensors don't detect vibrations while walking on the edge of a block",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2020-12-02T20:49:13.000+0200",
+    "resolution_date": "2023-05-03T16:38:51.000+0300",
+    "updated_date": "2023-05-03T16:38:51.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-203317",
+    "summary": "There is a missing torch in one of the Stronghold rooms leaving a Light source",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Lighting",
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2020-11-01T22:40:46.000+0200",
+    "resolution_date": "2023-05-05T20:05:58.000+0300",
+    "updated_date": "2023-05-05T20:05:58.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-158154",
+    "summary": "Players can bounce on beds even when not directly touching it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2019-08-01T01:24:11.000+0300",
+    "resolution_date": "2023-05-03T18:15:28.000+0300",
+    "updated_date": "2023-05-12T19:35:24.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-130089",
+    "summary": "Turtle eggs break weird at block edges",
+    "labels": [
+      "block-edges",
+      "player",
+      "turtle_egg"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2018-05-23T16:58:57.000+0300",
+    "resolution_date": "2023-05-03T18:16:23.000+0300",
+    "updated_date": "2023-05-03T18:16:23.000+0300",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-48923",
+    "summary": "Slime/magma cubes not affected by jump boost potion effect",
+    "labels": [
+      "jump_boost",
+      "magma_cube",
+      "slime"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2014-02-17T14:57:11.000+0200",
+    "resolution_date": "2023-05-03T12:54:02.000+0300",
+    "updated_date": "2023-05-03T17:13:28.000+0300",
+    "watches": 15,
+    "votes": 30
+  },
+  {
+    "id": "MC-2604",
+    "summary": "Walking on non-solid blocks with no collision plays their respective walking sounds",
+    "labels": [
+      "sound",
+      "torch",
+      "walking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2012-11-09T13:51:54.000+0200",
+    "resolution_date": "2023-05-03T18:13:34.000+0300",
+    "updated_date": "2023-05-03T18:13:34.000+0300",
+    "watches": 31,
+    "votes": 69
+  },
+  {
+    "id": "MC-1133",
+    "summary": "Whether or not a player experiences some effect is calculated based on the block under the center of the player",
+    "labels": [
+      "edge",
+      "particle-testing-corner",
+      "sound",
+      "walking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2012-10-29T13:51:45.000+0200",
+    "resolution_date": "2023-05-03T12:40:13.000+0300",
+    "updated_date": "2023-05-26T15:08:15.000+0300",
+    "watches": 82,
+    "votes": 193
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "id": "MC-262714",
+    "summary": "The \"key.keyboard.unknown\" string displayed within the key binds menu is improperly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-05-16T23:17:38.000+0300",
+    "resolution_date": "2023-05-19T11:23:44.000+0300",
+    "updated_date": "2023-05-19T11:23:44.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-262712",
+    "summary": "Alternative recipes in recipe book do not appear on right-click",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-05-16T22:32:57.000+0300",
+    "resolution_date": "2023-05-19T14:17:04.000+0300",
+    "updated_date": "2023-05-19T14:17:04.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-262709",
+    "summary": "Dispensers do not dispense boats at the correct height",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-05-16T21:13:33.000+0300",
+    "resolution_date": "2023-05-17T13:21:29.000+0300",
+    "updated_date": "2023-05-17T13:21:29.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-262684",
+    "summary": "Game icon has low resolution",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-05-15T15:23:29.000+0300",
+    "resolution_date": "2023-05-19T11:36:04.000+0300",
+    "updated_date": "2023-05-26T19:09:26.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-262593",
+    "summary": "The word \"occurred\" is misspelled as \"occured\" within two realms strings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-05-12T17:52:46.000+0300",
+    "resolution_date": "2023-05-19T13:59:23.000+0300",
+    "updated_date": "2023-05-19T13:59:23.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-262505",
+    "summary": "Iron golems can produce particles for blocks they're not colliding with",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-05-10T16:31:35.000+0300",
+    "resolution_date": "2023-05-17T11:59:06.000+0300",
+    "updated_date": "2023-05-20T00:49:45.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-262324",
+    "summary": "Teleporting a mob while riding it doesn't work well",
+    "labels": [
+      "#ride",
+      "#teleport"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-05-04T01:25:48.000+0300",
+    "resolution_date": "2023-05-19T12:34:01.000+0300",
+    "updated_date": "2023-05-19T12:34:01.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-261202",
+    "summary": "Teleporting a display entity jitters the player riding on the stack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-03-22T20:47:17.000+0200",
+    "resolution_date": "2023-05-17T10:11:24.000+0300",
+    "updated_date": "2023-05-17T10:11:24.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-260903",
+    "summary": "Less recent attacker can be credited for kill",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-03-10T23:09:56.000+0200",
+    "resolution_date": "2023-05-19T12:49:56.000+0300",
+    "updated_date": "2023-05-19T12:49:56.000+0300",
+    "watches": 14,
+    "votes": 21
+  },
+  {
+    "id": "MC-260653",
+    "summary": "Markers, interaction, and display entities can prevent pressure plates from deactivating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-02-28T18:33:39.000+0200",
+    "resolution_date": "2023-05-16T17:24:52.000+0300",
+    "updated_date": "2023-05-27T14:19:58.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259912",
+    "summary": "Saddled horses can infinitely retain Levitation effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2023-02-11T02:34:23.000+0200",
+    "resolution_date": "2023-05-19T11:36:22.000+0300",
+    "updated_date": "2023-05-19T11:36:22.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-181280",
+    "summary": "Incorrect textures can sometimes be displayed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2020-04-28T19:22:56.000+0300",
+    "resolution_date": "2023-05-19T14:26:26.000+0300",
+    "updated_date": "2023-06-04T16:30:03.000+0300",
+    "watches": 33,
+    "votes": 61
+  },
+  {
+    "id": "MC-152258",
+    "summary": "Riding an entity with slow falling will not stop fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2019-05-18T19:06:32.000+0300",
+    "resolution_date": "2023-05-19T12:59:54.000+0300",
+    "updated_date": "2023-05-19T12:59:54.000+0300",
+    "watches": 7,
+    "votes": 22
+  },
+  {
+    "id": "MC-135809",
+    "summary": "Armor stands with Marker tag can still activate pressure plates",
+    "labels": [
+      "Marker",
+      "armor_stand",
+      "pressure_plate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2018-08-09T16:31:13.000+0300",
+    "resolution_date": "2023-05-27T14:19:08.000+0300",
+    "updated_date": "2023-05-27T14:19:58.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-121788",
+    "summary": "Jump boost, slow falling and levitation don't apply to ridden horses, pigs or striders until after a relog",
+    "labels": [
+      "horse",
+      "jump_boost"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2017-11-10T20:23:43.000+0200",
+    "resolution_date": "2023-05-19T11:37:03.000+0300",
+    "updated_date": "2023-05-19T14:55:19.000+0300",
+    "watches": 17,
+    "votes": 43
+  }
+]

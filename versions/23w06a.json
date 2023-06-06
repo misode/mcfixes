@@ -604,6 +604,26 @@
     "votes": 18
   },
   {
+    "id": "MC-234892",
+    "summary": "The minecraft:entity.player.hurt_on_fire sound is not consistently heard by other players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2021-08-20T12:22:25.000+0300",
+    "resolution_date": "2023-04-02T14:35:35.000+0300",
+    "updated_date": "2023-04-02T14:35:36.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-233972",
     "summary": "Text can appear outside of buttons in the key binds menu when assigning keys to functions or when multiple functions are assigned to the same key",
     "labels": [],
@@ -882,6 +902,25 @@
     "votes": 9
   },
   {
+    "id": "MC-199066",
+    "summary": "Unenchanted armor/armor points don\u2019t reduce campfire damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-08-27T17:42:21.000+0300",
+    "resolution_date": "2023-05-01T18:39:00.000+0300",
+    "updated_date": "2023-05-01T18:39:00.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
     "id": "MC-198874",
     "summary": "Opening a Minecart with Hopper provokes Piglins, even though opening a Hopper doesn't provoke them",
     "labels": [],
@@ -979,7 +1018,7 @@
     "creation_date": "2013-03-23T23:47:48.000+0200",
     "resolution_date": "2023-02-11T14:04:08.000+0200",
     "updated_date": "2023-03-10T17:16:31.000+0200",
-    "watches": 17,
+    "watches": 16,
     "votes": 26
   }
 ]

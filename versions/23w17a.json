@@ -1,0 +1,593 @@
+[
+  {
+    "id": "MC-262030",
+    "summary": "Sniffers stand a bit too close to players that are tempting them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-21T15:26:25.000+0300",
+    "resolution_date": "2023-04-25T11:22:06.000+0300",
+    "updated_date": "2023-05-08T13:48:58.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-262024",
+    "summary": "Sniffer eggs are sometimes spawned in the ground when sniffers breed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-21T12:30:20.000+0300",
+    "resolution_date": "2023-04-25T14:05:55.000+0300",
+    "updated_date": "2023-04-25T14:05:55.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-262022",
+    "summary": "Tooltips get cut off at the bottom of the screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-21T08:07:32.000+0300",
+    "resolution_date": "2023-04-24T17:41:05.000+0300",
+    "updated_date": "2023-04-24T17:41:05.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-262012",
+    "summary": "Telemetry Tooltip out of screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-21T01:12:13.000+0300",
+    "resolution_date": "2023-04-24T17:41:26.000+0300",
+    "updated_date": "2023-04-24T17:41:27.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-261997",
+    "summary": "Game crashes when generating new chunk / java.lang.IllegalStateException: Asking for biomes before we have biomes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-20T20:46:48.000+0300",
+    "resolution_date": "2023-04-24T17:11:15.000+0300",
+    "updated_date": "2023-04-26T13:40:40.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-261938",
+    "summary": "Sniffer animation is not smooth on slime blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-18T05:18:56.000+0300",
+    "resolution_date": "2023-04-25T11:15:00.000+0300",
+    "updated_date": "2023-05-02T20:58:35.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-261900",
+    "summary": "Sniffers cannot properly pathfind into water while burning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-16T20:54:53.000+0300",
+    "resolution_date": "2023-04-25T10:51:10.000+0300",
+    "updated_date": "2023-04-25T10:51:10.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-261626",
+    "summary": "Reversed Comma doesn't render properly when using the Unicode font",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Internationalisation",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-04-05T19:42:15.000+0300",
+    "resolution_date": "2023-04-25T18:52:01.000+0300",
+    "updated_date": "2023-04-25T18:52:01.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-261413",
+    "summary": "Particles spawned by brushes held by left-handed players move in the wrong direction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-03-29T18:17:12.000+0300",
+    "resolution_date": "2023-04-21T11:33:50.000+0300",
+    "updated_date": "2023-04-21T11:33:50.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-260307",
+    "summary": "Cherry Grove biome has empty music sound event",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-02-18T01:13:39.000+0200",
+    "resolution_date": "2023-04-26T18:26:29.000+0300",
+    "updated_date": "2023-04-26T18:26:29.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-258926",
+    "summary": "Space is no longer treated as padding in fonts",
+    "labels": [
+      "font",
+      "fonts",
+      "space"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2023-01-03T00:40:57.000+0200",
+    "resolution_date": "2023-04-25T18:52:25.000+0300",
+    "updated_date": "2023-04-25T18:52:52.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-254506",
+    "summary": "Font file of some Korean completed font area is wrong",
+    "labels": [
+      "font",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2022-07-23T18:22:05.000+0300",
+    "resolution_date": "2023-04-25T18:51:25.000+0300",
+    "updated_date": "2023-04-25T18:51:25.000+0300",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-249508",
+    "summary": "Light emitted from cave vines and glow lichens upon world generation still sometimes doesn't propagate across chunk borders",
+    "labels": [
+      "cave_vines",
+      "cave_vines_plant",
+      "glow_lichen"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2022-03-25T21:51:03.000+0200",
+    "resolution_date": "2023-04-26T13:01:37.000+0300",
+    "updated_date": "2023-04-26T13:01:37.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-249341",
+    "summary": "Some Mojang employees are not mentioned in the credits",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2022-03-22T22:00:32.000+0200",
+    "resolution_date": "2023-04-26T13:09:12.000+0300",
+    "updated_date": "2023-04-26T13:09:12.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-245819",
+    "summary": "Lighting can still occasionally lag behind world generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-12-20T11:59:41.000+0200",
+    "resolution_date": "2023-04-26T13:00:11.000+0300",
+    "updated_date": "2023-04-26T13:00:11.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-241803",
+    "summary": "credits.json: Line 2632 has typo in (C instead of O)",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-11-17T21:43:21.000+0200",
+    "resolution_date": "2023-04-26T13:09:37.000+0300",
+    "updated_date": "2023-04-26T13:09:37.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-241741",
+    "summary": "Certain names are listed twice in the credits",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-11-17T12:27:32.000+0200",
+    "resolution_date": "2023-04-26T13:10:12.000+0300",
+    "updated_date": "2023-04-26T13:10:12.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-241733",
+    "summary": "In the credits, \"Insight\" is misspelt in one place",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-11-17T09:05:05.000+0200",
+    "resolution_date": "2023-04-26T13:11:18.000+0300",
+    "updated_date": "2023-04-26T13:11:18.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-241732",
+    "summary": "In the credits, \"Lionbridge\" is misspelt in one place",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-11-17T08:48:57.000+0200",
+    "resolution_date": "2023-04-26T13:10:54.000+0300",
+    "updated_date": "2023-04-26T13:10:54.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-241730",
+    "summary": "In the credits, a closing parenthesis is missing for Konrad J\u00f3wko",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-11-17T08:39:06.000+0200",
+    "resolution_date": "2023-04-26T13:13:23.000+0300",
+    "updated_date": "2023-04-26T13:13:23.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-241725",
+    "summary": "In the credits, an opening parenthesis is missing for Riley Manns",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-11-17T07:40:50.000+0200",
+    "resolution_date": "2023-04-26T13:14:15.000+0300",
+    "updated_date": "2023-04-26T13:14:15.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-225742",
+    "summary": "When light emitting blocks generate as ores, they do not emit light",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-05-17T23:55:46.000+0300",
+    "resolution_date": "2023-04-26T13:01:44.000+0300",
+    "updated_date": "2023-04-26T13:01:44.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-197772",
+    "summary": "Missing textures in minecraft:uniform font",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2020-08-12T03:36:28.000+0300",
+    "resolution_date": "2023-04-25T18:51:40.000+0300",
+    "updated_date": "2023-04-25T18:51:40.000+0300",
+    "watches": 11,
+    "votes": 13
+  },
+  {
+    "id": "MC-179867",
+    "summary": "Unicode Characters swapped in Minecraft",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2020-04-22T19:09:03.000+0300",
+    "resolution_date": "2023-04-27T01:26:30.000+0300",
+    "updated_date": "2023-04-27T01:26:30.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-172980",
+    "summary": "Block light updates don't cross chunk borders properly when updated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "20w22a",
+      "23w17a"
+    ],
+    "creation_date": "2020-02-23T17:45:38.000+0200",
+    "resolution_date": "2023-04-26T13:00:10.000+0300",
+    "updated_date": "2023-05-02T19:13:48.000+0300",
+    "watches": 24,
+    "votes": 40
+  },
+  {
+    "id": "MC-166260",
+    "summary": "Light from fire that has gone out lingers at the border of chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 2",
+      "23w17a"
+    ],
+    "creation_date": "2019-11-24T07:23:47.000+0200",
+    "resolution_date": "2023-04-27T01:18:07.000+0300",
+    "updated_date": "2023-04-27T01:18:07.000+0300",
+    "watches": 10,
+    "votes": 18
+  },
+  {
+    "id": "MC-127394",
+    "summary": "Minecraft does not render characters in Unicode mb4 range",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2018-03-16T20:12:49.000+0200",
+    "resolution_date": "2023-04-25T18:51:13.000+0300",
+    "updated_date": "2023-04-25T18:51:13.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-108045",
+    "summary": "Minecraft not using latest unifont unicode chart; characters are missing",
+    "labels": [
+      "character",
+      "unicode"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 16w41a",
+      "23w17a"
+    ],
+    "creation_date": "2016-10-01T16:59:17.000+0300",
+    "resolution_date": "2023-04-25T18:50:58.000+0300",
+    "updated_date": "2023-04-25T18:50:58.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-30939",
+    "summary": "Nether portal continues emitting light, even if portal is broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 6",
+      "23w17a"
+    ],
+    "creation_date": "2013-09-13T04:53:30.000+0300",
+    "resolution_date": "2023-04-27T01:16:41.000+0300",
+    "updated_date": "2023-04-27T01:16:41.000+0300",
+    "watches": 13,
+    "votes": 19
+  }
+]

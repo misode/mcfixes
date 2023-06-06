@@ -1,0 +1,293 @@
+[
+  {
+    "id": "MC-262801",
+    "summary": "Z-fighting occurs on trimmed enchanted armor in the inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-20T16:44:47.000+0300",
+    "resolution_date": "2023-05-23T14:37:47.000+0300",
+    "updated_date": "2023-05-23T14:37:47.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-262797",
+    "summary": "Book model not rendering in Enchanting Table GUI",
+    "labels": [
+      "enchanting_table",
+      "gui",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-20T15:04:36.000+0300",
+    "resolution_date": "2023-05-23T14:37:46.000+0300",
+    "updated_date": "2023-05-23T14:37:46.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-262778",
+    "summary": "Losing control of a ridden mob with levitation and then re-gaining control causes levitation to persist indefinitely",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-19T23:17:39.000+0300",
+    "resolution_date": "2023-05-23T10:45:13.000+0300",
+    "updated_date": "2023-05-23T10:45:13.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-262773",
+    "summary": "Markers, interaction, and display entities prevent weighted pressure plates from deactivating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-19T21:48:06.000+0300",
+    "resolution_date": "2023-05-23T14:29:41.000+0300",
+    "updated_date": "2023-05-23T14:29:41.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-262730",
+    "summary": "Biomes being partially overwritten / regenerated in 1.20pre2 inside old world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-17T18:49:37.000+0300",
+    "resolution_date": "2023-05-22T18:09:07.000+0300",
+    "updated_date": "2023-05-25T10:46:18.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-262690",
+    "summary": "The player can still jump from the edge of the honey block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-15T18:28:52.000+0300",
+    "resolution_date": "2023-05-22T14:28:11.000+0300",
+    "updated_date": "2023-05-22T14:29:19.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-262514",
+    "summary": "Unbreakable blocks display the first breaking animation frame when attempting to mine them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-10T17:52:31.000+0300",
+    "resolution_date": "2023-05-22T10:50:06.000+0300",
+    "updated_date": "2023-05-22T10:50:06.000+0300",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-262513",
+    "summary": "Blocks placed in the spot of a previously broken block will display the first frame of the breaking animation until updated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Player",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-10T17:37:50.000+0300",
+    "resolution_date": "2023-05-22T10:50:06.000+0300",
+    "updated_date": "2023-05-22T10:50:06.000+0300",
+    "watches": 7,
+    "votes": 20
+  },
+  {
+    "id": "MC-262504",
+    "summary": "Recipes for colored wool, carpets, and beds in the recipe book are not grouped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-10T16:27:49.000+0300",
+    "resolution_date": "2023-05-22T18:42:08.000+0300",
+    "updated_date": "2023-05-23T17:05:13.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-262334",
+    "summary": "Item display entities have wrong lighting when they're rotated",
+    "labels": [
+      "mob",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-05-04T07:01:22.000+0300",
+    "resolution_date": "2023-05-23T14:37:45.000+0300",
+    "updated_date": "2023-05-23T14:37:45.000+0300",
+    "watches": 9,
+    "votes": 39
+  },
+  {
+    "id": "MC-261294",
+    "summary": "Jack o'lantern can be placed on the player or armor stand head without commands and without appearing the blur",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2023-03-24T05:03:47.000+0200",
+    "resolution_date": "2023-05-23T14:37:46.000+0300",
+    "updated_date": "2023-05-23T14:37:46.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-163467",
+    "summary": "Jack o'lanterns can be enchanted with curses",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2019-10-12T01:04:13.000+0300",
+    "resolution_date": "2023-05-23T17:01:19.000+0300",
+    "updated_date": "2023-05-23T17:01:19.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-120158",
+    "summary": "Anvils and other falling_blocks with HurtEntities set to true kill items and xp orbs",
+    "labels": [
+      "HurtEntities",
+      "anvil",
+      "experience_orb",
+      "falling_block",
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2017-08-15T12:39:39.000+0300",
+    "resolution_date": "2023-05-23T11:46:45.000+0300",
+    "updated_date": "2023-05-23T11:46:45.000+0300",
+    "watches": 13,
+    "votes": 21
+  },
+  {
+    "id": "MC-572",
+    "summary": "Anvils sometimes destroy items when falling on them even if they aren't placed successfully",
+    "labels": [
+      "anvil",
+      "item",
+      "stack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2012-10-25T23:17:25.000+0300",
+    "resolution_date": "2023-05-23T18:32:13.000+0300",
+    "updated_date": "2023-05-23T18:32:13.000+0300",
+    "watches": 18,
+    "votes": 26
+  }
+]

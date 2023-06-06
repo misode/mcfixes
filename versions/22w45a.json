@@ -671,6 +671,27 @@
     "votes": 11
   },
   {
+    "id": "MC-192011",
+    "summary": "Villager item tooltip is opaque in the trading UI",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2020-06-26T05:57:00.000+0300",
+    "resolution_date": "2023-05-01T18:39:47.000+0300",
+    "updated_date": "2023-05-01T18:39:47.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-177789",
     "summary": "Shulker box doesn't destroy twisting vines when placed on top",
     "labels": [],
@@ -801,7 +822,7 @@
     ],
     "creation_date": "2015-05-02T16:59:37.000+0300",
     "resolution_date": "2022-11-07T10:15:31.000+0200",
-    "updated_date": "2022-11-07T10:15:31.000+0200",
+    "updated_date": "2023-04-26T17:55:35.000+0300",
     "watches": 41,
     "votes": 71
   }

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MC-262575",
+    "summary": "Company names are still inconsistent in the credits",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 6"
+    ],
+    "creation_date": "2023-05-12T01:32:46.000+0300",
+    "resolution_date": "2023-05-25T12:21:43.000+0300",
+    "updated_date": "2023-05-25T12:21:43.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-262340",
+    "summary": "Iron Golems can spawn on transparent blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 6"
+    ],
+    "creation_date": "2023-05-04T12:09:59.000+0300",
+    "resolution_date": "2023-05-24T16:18:32.000+0300",
+    "updated_date": "2023-05-24T16:18:32.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-262134",
+    "summary": "'Smithing with Style' advancement doesn't have non-square image in Advancements menu ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 6"
+    ],
+    "creation_date": "2023-04-26T22:32:47.000+0300",
+    "resolution_date": "2023-05-25T17:46:22.000+0300",
+    "updated_date": "2023-05-25T17:46:22.000+0300",
+    "watches": 4,
+    "votes": 59
+  },
+  {
+    "id": "MC-260411",
+    "summary": "Re-summoned dragons don't spawn end gateways when exiting the world before killing the dragon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Save Data"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 6"
+    ],
+    "creation_date": "2023-02-22T00:04:22.000+0200",
+    "resolution_date": "2023-05-24T10:39:25.000+0300",
+    "updated_date": "2023-06-01T01:02:13.000+0300",
+    "watches": 22,
+    "votes": 33
+  },
+  {
+    "id": "MC-241326",
+    "summary": "Thomas Guimbreti\u00e8re's name is listed twice and misspelt in the credits",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 6"
+    ],
+    "creation_date": "2021-11-12T21:18:50.000+0200",
+    "resolution_date": "2023-05-25T12:21:43.000+0300",
+    "updated_date": "2023-05-25T12:21:43.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-237042",
+    "summary": "Killing players in the sneaking state that have their sneak option set to \"Toggle\" in their accessibility settings, results in other players not being able to see them in this state when they respawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 6"
+    ],
+    "creation_date": "2021-09-18T17:11:17.000+0300",
+    "resolution_date": "2023-05-24T11:43:47.000+0300",
+    "updated_date": "2023-05-24T11:43:47.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-230799",
+    "summary": "Sculk sensors detect the movement of crouching players after they respawn if toggle-sneak is enabled",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 6"
+    ],
+    "creation_date": "2021-07-01T02:17:08.000+0300",
+    "resolution_date": "2023-05-25T17:15:54.000+0300",
+    "updated_date": "2023-05-25T17:15:54.000+0300",
+    "watches": 6,
+    "votes": 7
+  }
+]

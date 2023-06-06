@@ -1,0 +1,25 @@
+[
+  {
+    "id": "MC-257778",
+    "summary": "Bamboo Mosaic Slabs and Stairs are not in the #slabs and #stairs block and item tags",
+    "labels": [
+      "tag",
+      "tags"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 7"
+    ],
+    "creation_date": "2022-11-20T12:09:19.000+0200",
+    "resolution_date": "2023-05-29T15:50:50.000+0300",
+    "updated_date": "2023-05-29T15:50:50.000+0300",
+    "watches": 11,
+    "votes": 18
+  }
+]

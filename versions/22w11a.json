@@ -15,7 +15,7 @@
     ],
     "creation_date": "2017-11-01T12:49:49.000+0200",
     "resolution_date": "2022-03-07T18:23:44.000+0200",
-    "updated_date": "2022-03-08T01:22:03.000+0200",
+    "updated_date": "2023-04-23T13:04:19.000+0300",
     "watches": 43,
     "votes": 69
   },
@@ -307,7 +307,8 @@
     "id": "MC-201150",
     "summary": "Unused pixels in end rod texture",
     "labels": [
-      "development-leftovers"
+      "development-leftovers",
+      "unused-pixels"
     ],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -320,8 +321,8 @@
     ],
     "creation_date": "2020-09-28T00:18:49.000+0300",
     "resolution_date": "2022-03-07T12:31:38.000+0200",
-    "updated_date": "2022-12-22T14:17:24.000+0200",
-    "watches": 4,
+    "updated_date": "2023-05-15T19:56:32.000+0300",
+    "watches": 5,
     "votes": 10
   },
   {
@@ -388,6 +389,25 @@
     "updated_date": "2022-05-26T08:51:12.000+0300",
     "watches": 5,
     "votes": 11
+  },
+  {
+    "id": "MC-172550",
+    "summary": "Ghost blocks sometimes appear when insta-mining",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "22w11a"
+    ],
+    "creation_date": "2020-02-17T01:03:19.000+0200",
+    "resolution_date": "2023-05-17T10:02:47.000+0300",
+    "updated_date": "2023-05-17T10:02:48.000+0300",
+    "watches": 32,
+    "votes": 100
   },
   {
     "id": "MC-166437",

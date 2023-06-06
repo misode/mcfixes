@@ -1,0 +1,679 @@
+[
+  {
+    "id": "MC-261984",
+    "summary": "Clicking the Narrator button on the Accessibility settings menu causes crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-20T17:13:05.000+0300",
+    "resolution_date": "2023-04-20T20:14:33.000+0300",
+    "updated_date": "2023-04-20T20:14:33.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-261981",
+    "summary": "Click any buttons on the Accessibility Onboarding Screen crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-20T16:36:50.000+0300",
+    "resolution_date": "2023-04-20T20:15:11.000+0300",
+    "updated_date": "2023-04-20T20:15:11.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-261857",
+    "summary": "Using the \"/setblock\", \"/fill\", or \"/clone\" commands to create little amounts of blocks in completely isolated areas causes large client-side stutters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-14T18:54:51.000+0300",
+    "resolution_date": "2023-04-19T17:53:07.000+0300",
+    "updated_date": "2023-04-19T18:03:20.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-261804",
+    "summary": "Expired Key preventing players from logging in on servers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-11T19:38:43.000+0300",
+    "resolution_date": "2023-04-17T14:05:00.000+0300",
+    "updated_date": "2023-04-17T14:05:00.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-261746",
+    "summary": "Incorrect sound event ID spelling for \"block.sniffer.egg_crack\" and \"block.sniffer.egg_hatch\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-09T16:53:42.000+0300",
+    "resolution_date": "2023-04-18T11:15:05.000+0300",
+    "updated_date": "2023-04-18T11:15:05.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-261740",
+    "summary": "Feeding a Sniffer while it is digging causes it to lay motionless for a while then dig again with no animation",
+    "labels": [
+      "animation",
+      "sniffer",
+      "sniffer_diggable"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-09T07:54:38.000+0300",
+    "resolution_date": "2023-04-17T17:29:53.000+0300",
+    "updated_date": "2023-04-17T17:29:53.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-261646",
+    "summary": "Subtitle for Sniffers laying eggs is \"Chicken plops\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-06T02:54:34.000+0300",
+    "resolution_date": "2023-04-18T11:15:04.000+0300",
+    "updated_date": "2023-04-18T11:15:04.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-261643",
+    "summary": "Villagers can't plant torchflower seeds or pitcher plant pods, despite picking them up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-06T00:14:35.000+0300",
+    "resolution_date": "2023-04-17T12:35:47.000+0300",
+    "updated_date": "2023-04-27T15:17:04.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-261625",
+    "summary": "\"Programmer Art\" and \"High contrast\" built-in Resource Packs are incompatible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-05T19:37:35.000+0300",
+    "resolution_date": "2023-04-13T10:58:10.000+0300",
+    "updated_date": "2023-04-13T10:58:10.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-261620",
+    "summary": "Crash when modifying age property of a pitcher crop",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-05T18:19:34.000+0300",
+    "resolution_date": "2023-04-17T13:47:44.000+0300",
+    "updated_date": "2023-04-17T23:22:39.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-261609",
+    "summary": "The subtitle 'subtitles.block.sign.waxed_interact_fail' isn't displayed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-05T17:06:56.000+0300",
+    "resolution_date": "2023-04-21T01:31:55.000+0300",
+    "updated_date": "2023-04-21T01:31:56.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-261608",
+    "summary": "Sculk sensors and calibrated sculk sensors lack a cooldown state",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-05T17:01:08.000+0300",
+    "resolution_date": "2023-04-20T13:32:59.000+0300",
+    "updated_date": "2023-04-20T13:32:59.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-261605",
+    "summary": "Splash text sometimes covers several letters of \"Java Edition\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-05T16:29:29.000+0300",
+    "resolution_date": "2023-04-17T17:01:49.000+0300",
+    "updated_date": "2023-04-17T17:01:49.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-261515",
+    "summary": "You can't brush blocks if a dropped item is between you and the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-04-01T15:34:02.000+0300",
+    "resolution_date": "2023-04-18T10:54:55.000+0300",
+    "updated_date": "2023-04-18T10:54:55.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-261286",
+    "summary": "Walking near liquids causes stone footstep sounds to play",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-03-24T00:31:03.000+0200",
+    "resolution_date": "2023-04-17T17:01:48.000+0300",
+    "updated_date": "2023-04-17T17:01:48.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-261214",
+    "summary": "Amethyst in calibrated sculk sensor is shaded and not stretched",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-03-22T21:59:23.000+0200",
+    "resolution_date": "2023-04-17T14:35:24.000+0300",
+    "updated_date": "2023-05-07T18:23:54.000+0300",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-260849",
+    "summary": "Sniffer can't get into minecart",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-03-09T09:51:12.000+0200",
+    "resolution_date": "2023-04-17T13:40:20.000+0300",
+    "updated_date": "2023-04-17T13:40:20.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-260466",
+    "summary": "Torchflower doesn't maintain farmland used to grow it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-02-23T04:26:25.000+0200",
+    "resolution_date": "2023-04-17T14:12:02.000+0300",
+    "updated_date": "2023-04-17T14:19:25.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-260237",
+    "summary": "Sniffers can sniff while panicking",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-02-16T17:23:43.000+0200",
+    "resolution_date": "2023-04-18T11:07:46.000+0300",
+    "updated_date": "2023-04-18T11:07:46.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-260221",
+    "summary": "Sniffers can still dig when floated by levitation status effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-02-16T15:10:33.000+0200",
+    "resolution_date": "2023-04-17T11:27:26.000+0300",
+    "updated_date": "2023-04-17T11:27:26.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-260219",
+    "summary": "Sniffer eating sounds aren't played when feeding them the last item of torchflower seeds within a stack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-02-16T14:09:11.000+0200",
+    "resolution_date": "2023-04-18T10:29:38.000+0300",
+    "updated_date": "2023-04-18T10:29:38.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-260038",
+    "summary": "Sniffer does not have smooth animation transitions for some of its animations, like sniffing",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2023-02-15T18:25:09.000+0200",
+    "resolution_date": "2023-04-12T11:27:43.000+0300",
+    "updated_date": "2023-04-12T18:22:31.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-257178",
+    "summary": "Chiseled Bookshelf redstone behavior is inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2022-11-03T16:27:20.000+0200",
+    "resolution_date": "2023-04-18T10:47:17.000+0300",
+    "updated_date": "2023-04-18T10:47:17.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-254410",
+    "summary": "/setidletimeout set to a timer longer than 35791 disconnects idle player immediately",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2022-07-21T05:57:59.000+0300",
+    "resolution_date": "2023-04-18T11:33:43.000+0300",
+    "updated_date": "2023-04-18T11:33:43.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-252786",
+    "summary": "SculkSensorBlockEntity and SculkShriekerBlockEntity leak VibrationListeners on update",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2022-06-10T18:34:49.000+0300",
+    "resolution_date": "2023-04-13T16:27:05.000+0300",
+    "updated_date": "2023-04-13T16:27:05.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-249450",
+    "summary": "Sculk shriekers placed with NBT don't receive signals from nearby sculk sensors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2022-03-25T00:30:09.000+0200",
+    "resolution_date": "2023-04-13T16:26:22.000+0300",
+    "updated_date": "2023-04-13T16:26:22.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-207251",
+    "summary": "Sculk sensors and shriekers do not work correctly when cloned, generated on superflat worlds or placed with custom structures",
+    "labels": [
+      "sculk-shrieker",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2020-12-02T19:51:22.000+0200",
+    "resolution_date": "2023-04-13T16:26:38.000+0300",
+    "updated_date": "2023-06-01T10:02:40.000+0300",
+    "watches": 23,
+    "votes": 43
+  },
+  {
+    "id": "MC-199752",
+    "summary": "Polished Blackstone Button takes longer to break than other buttons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2020-09-07T18:15:43.000+0300",
+    "resolution_date": "2023-04-17T17:01:48.000+0300",
+    "updated_date": "2023-04-17T17:09:19.000+0300",
+    "watches": 6,
+    "votes": 18
+  },
+  {
+    "id": "MC-188295",
+    "summary": "Placing fallling blocks using /setblock can cause a client-side lag spike in some circumstances",
+    "labels": [
+      "falling_block",
+      "lag-spike"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2020-06-09T17:05:05.000+0300",
+    "resolution_date": "2023-04-21T18:22:38.000+0300",
+    "updated_date": "2023-04-21T18:22:38.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-170012",
+    "summary": "Lightmaps are missing for initial skylight",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2020-01-18T01:34:39.000+0200",
+    "resolution_date": "2023-04-12T11:35:27.000+0300",
+    "updated_date": "2023-04-12T11:35:27.000+0300",
+    "watches": 12,
+    "votes": 25
+  },
+  {
+    "id": "MC-170010",
+    "summary": "Sky-lightmaps not properly initialized",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2020-01-18T00:09:48.000+0200",
+    "resolution_date": "2023-04-12T11:35:28.000+0300",
+    "updated_date": "2023-04-19T17:53:07.000+0300",
+    "watches": 25,
+    "votes": 66
+  },
+  {
+    "id": "MC-169498",
+    "summary": "Empty top subchunks don't update skylight in some cases",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2020-01-05T22:18:54.000+0200",
+    "resolution_date": "2023-04-12T11:35:30.000+0300",
+    "updated_date": "2023-04-12T11:35:30.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-162253",
+    "summary": "Lag spike when crossing certain chunk borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2019-09-29T20:31:08.000+0300",
+    "resolution_date": "2023-04-12T11:35:29.000+0300",
+    "updated_date": "2023-05-08T01:51:34.000+0300",
+    "watches": 174,
+    "votes": 445
+  },
+  {
+    "id": "MC-151882",
+    "summary": "Favicon in game window shows old crafting table texture",
+    "labels": [
+      "outdated-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2019-05-15T01:23:18.000+0300",
+    "resolution_date": "2023-04-20T17:23:21.000+0300",
+    "updated_date": "2023-04-20T17:54:18.000+0300",
+    "watches": 10,
+    "votes": 27
+  }
+]

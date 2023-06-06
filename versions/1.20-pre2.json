@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "MC-262557",
+    "summary": "Ender Dragon respawns and exit portal does not open if the world was Saved and Quit in End before killing the dragon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-11T17:07:41.000+0300",
+    "resolution_date": "2023-05-16T12:12:56.000+0300",
+    "updated_date": "2023-05-16T12:12:56.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-262542",
+    "summary": "Loot tables have the same loot sequence in each dimension",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-11T01:24:26.000+0300",
+    "resolution_date": "2023-05-15T14:38:18.000+0300",
+    "updated_date": "2023-05-15T14:38:18.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-262531",
+    "summary": "\"death.attack.genericKill.player\" displays raw translation string (is untranslated)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-10T21:25:51.000+0300",
+    "resolution_date": "2023-05-15T12:23:51.000+0300",
+    "updated_date": "2023-05-15T12:23:51.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-262518",
+    "summary": "The \"mco.configure.world.uninvite.player\" string contains an unnecessary space before the question mark",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-10T18:33:37.000+0300",
+    "resolution_date": "2023-05-16T10:35:16.000+0300",
+    "updated_date": "2023-05-16T10:35:16.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-262508",
+    "summary": "Torchflower_crop causes the game to crash and locks the world when pollinated by bees",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-10T16:41:56.000+0300",
+    "resolution_date": "2023-05-11T18:45:59.000+0300",
+    "updated_date": "2023-05-11T18:45:59.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-262506",
+    "summary": "Parts of beds render through the alternative recipe GUI in the recipe book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-10T16:38:55.000+0300",
+    "resolution_date": "2023-05-16T13:13:50.000+0300",
+    "updated_date": "2023-05-16T13:13:50.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-262471",
+    "summary": "Random skylight underwater where it shouldn't be, that cuts off at the chunk border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-09T02:38:57.000+0300",
+    "resolution_date": "2023-05-16T10:47:20.000+0300",
+    "updated_date": "2023-05-16T10:47:20.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-262446",
+    "summary": "Text within buttons renders above the semi-transparent black lines at the edges of menus",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-08T15:45:44.000+0300",
+    "resolution_date": "2023-05-15T12:41:19.000+0300",
+    "updated_date": "2023-05-15T12:41:19.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-262445",
+    "summary": "The text cursor no longer renders above text",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-08T15:22:57.000+0300",
+    "resolution_date": "2023-05-15T12:41:19.000+0300",
+    "updated_date": "2023-05-15T12:41:19.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-262441",
+    "summary": "Baby sniffers stand a bit too far away from players that are tempting them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-08T12:24:12.000+0300",
+    "resolution_date": "2023-05-15T12:31:20.000+0300",
+    "updated_date": "2023-05-15T12:31:20.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-262440",
+    "summary": "Sniffers can sniff while in love and pathfinding to their lover",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-08T11:45:26.000+0300",
+    "resolution_date": "2023-05-15T12:31:20.000+0300",
+    "updated_date": "2023-05-15T12:31:20.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-262355",
+    "summary": "Death messages for falling from climbable blocks do not work",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-04T23:02:09.000+0300",
+    "resolution_date": "2023-05-16T12:20:39.000+0300",
+    "updated_date": "2023-05-16T12:20:39.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-262311",
+    "summary": "The \"telemetry.event.game_load_times.description\" string is missing an article before the word \"execution\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-03T19:43:18.000+0300",
+    "resolution_date": "2023-05-16T10:35:12.000+0300",
+    "updated_date": "2023-05-16T10:35:12.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-262310",
+    "summary": "Telemetry description strings consist of inconsistent concluding punctuation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-05-03T19:27:32.000+0300",
+    "resolution_date": "2023-05-16T10:35:10.000+0300",
+    "updated_date": "2023-05-16T10:35:10.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-262213",
+    "summary": "Baby sniffer's head is smaller on the first frame of existing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-04-30T06:20:36.000+0300",
+    "resolution_date": "2023-05-16T14:25:48.000+0300",
+    "updated_date": "2023-05-16T14:25:48.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-262181",
+    "summary": "NBSP is a valid invisible character that can be used to rename items to have blank names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-04-28T22:38:27.000+0300",
+    "resolution_date": "2023-05-16T13:13:50.000+0300",
+    "updated_date": "2023-05-19T20:16:40.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-262135",
+    "summary": "Recipe book GUI is positioned incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-04-26T22:52:45.000+0300",
+    "resolution_date": "2023-05-15T12:41:20.000+0300",
+    "updated_date": "2023-05-15T14:55:37.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-262106",
+    "summary": "Smithing recipe must have template to work",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-04-26T01:59:53.000+0300",
+    "resolution_date": "2023-05-16T11:19:18.000+0300",
+    "updated_date": "2023-05-16T11:19:18.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-262033",
+    "summary": "The command block GUI remains open when the said command block is destroyed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-04-21T17:18:24.000+0300",
+    "resolution_date": "2023-05-15T16:08:40.000+0300",
+    "updated_date": "2023-05-15T16:08:40.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-261988",
+    "summary": "Inconsistency with Mangrove Roots and Leaves in the Creative Tab",
+    "labels": [
+      "creative-inventory",
+      "creative-inventory-contents",
+      "creative-tab-sorting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-04-20T17:54:33.000+0300",
+    "resolution_date": "2023-05-16T12:04:40.000+0300",
+    "updated_date": "2023-05-16T12:04:40.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-261816",
+    "summary": "Most two block tall flowers do not block enchanting tables / are part of #minecraft:replaceable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-04-12T16:02:23.000+0300",
+    "resolution_date": "2023-05-15T12:41:20.000+0300",
+    "updated_date": "2023-05-15T12:41:20.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-261433",
+    "summary": "Shield doesn't block TNT explosion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-30T02:45:17.000+0300",
+    "resolution_date": "2023-05-15T12:41:21.000+0300",
+    "updated_date": "2023-05-15T14:53:47.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-261349",
+    "summary": "Chiseled Bookshelf won't rotate when placed as part of a structure",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-26T12:20:37.000+0300",
+    "resolution_date": "2023-05-16T11:26:53.000+0300",
+    "updated_date": "2023-05-16T19:52:05.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-261233",
+    "summary": "Minecart movement is not reliably detected by sculk sensors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-23T01:59:48.000+0200",
+    "resolution_date": "2023-05-11T14:55:19.000+0300",
+    "updated_date": "2023-05-17T11:43:38.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-261080",
+    "summary": "Player can fall through scaffolding when loading a world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Player",
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-18T21:28:26.000+0200",
+    "resolution_date": "2023-05-16T12:28:22.000+0300",
+    "updated_date": "2023-05-16T12:28:22.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-261024",
+    "summary": "/execute if loaded does not guarantee entities are loaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-16T00:50:58.000+0200",
+    "resolution_date": "2023-05-15T16:26:10.000+0300",
+    "updated_date": "2023-05-15T16:26:10.000+0300",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-260716",
+    "summary": "Some words within \"/fill\", \"/fillbiome\", and \"/clone\" command feedback messages are always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-02T19:30:58.000+0200",
+    "resolution_date": "2023-05-16T10:35:14.000+0300",
+    "updated_date": "2023-05-16T10:35:14.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260715",
+    "summary": "Some words within \"/bossbar\" command feedback messages are always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-02T19:19:17.000+0200",
+    "resolution_date": "2023-05-16T10:35:14.000+0300",
+    "updated_date": "2023-05-16T10:35:14.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260713",
+    "summary": "Some words within \"/team\" command feedback messages are always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-02T19:11:08.000+0200",
+    "resolution_date": "2023-05-16T10:35:15.000+0300",
+    "updated_date": "2023-05-16T10:35:15.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260712",
+    "summary": "Some words within \"/scoreboard\" command feedback messages are always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-02T18:58:20.000+0200",
+    "resolution_date": "2023-05-16T10:35:15.000+0300",
+    "updated_date": "2023-05-16T10:35:15.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260711",
+    "summary": "Some words within \"/datapack list\" command feedback messages are always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-03-02T18:14:31.000+0200",
+    "resolution_date": "2023-05-16T10:35:16.000+0300",
+    "updated_date": "2023-05-16T10:35:16.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260602",
+    "summary": "'data modify from string' index failure does not return 0 for 'execute store success'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-02-27T04:56:33.000+0200",
+    "resolution_date": "2023-05-12T15:57:33.000+0300",
+    "updated_date": "2023-05-12T15:57:33.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-260468",
+    "summary": "Wither rose is not grouped with other small flowers in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2023-02-23T06:16:05.000+0200",
+    "resolution_date": "2023-05-16T12:04:40.000+0300",
+    "updated_date": "2023-05-16T12:04:40.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-258461",
+    "summary": "The \"Detect structure size and position:\" string displayed within the structure block GUI is improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-12-11T14:24:36.000+0200",
+    "resolution_date": "2023-05-16T10:35:11.000+0300",
+    "updated_date": "2023-05-16T10:35:11.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-258360",
+    "summary": "Horse armor loses its NBT data when equipped on horses via right-clicking",
+    "labels": [
+      "horse",
+      "horse_armor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-12-08T03:34:25.000+0200",
+    "resolution_date": "2023-05-16T14:25:50.000+0300",
+    "updated_date": "2023-05-16T14:25:50.000+0300",
+    "watches": 15,
+    "votes": 19
+  },
+  {
+    "id": "MC-257512",
+    "summary": "Dead tube coral in creative inventory is in wrong order",
+    "labels": [
+      "coral",
+      "creative-inventory",
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-11-12T20:54:57.000+0200",
+    "resolution_date": "2023-05-16T12:04:41.000+0300",
+    "updated_date": "2023-05-16T12:04:41.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-257370",
+    "summary": "Buckets of fish are not sorted in the same order as the fish items",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-11-09T21:46:08.000+0200",
+    "resolution_date": "2023-05-16T12:04:41.000+0300",
+    "updated_date": "2023-05-16T12:04:41.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-257052",
+    "summary": "You cannot double-click on languages within the \"Language\" menu to select them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-10-30T21:58:59.000+0200",
+    "resolution_date": "2023-05-15T12:41:21.000+0300",
+    "updated_date": "2023-05-15T12:41:21.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-256833",
+    "summary": "Ridable entities that can be steered build up fall damage when on climbable blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-10-24T03:51:02.000+0300",
+    "resolution_date": "2023-05-15T09:35:00.000+0300",
+    "updated_date": "2023-05-15T09:35:00.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-252408",
+    "summary": "Chat restriction strings consist of inconsistent concluding punctuation",
+    "labels": [
+      "punctuation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-06-02T13:10:33.000+0300",
+    "resolution_date": "2023-05-16T10:35:11.000+0300",
+    "updated_date": "2023-05-16T10:35:11.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-252216",
+    "summary": "65540: Invalid scancode -1 logged in key bind menu when an option is unbound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-05-26T04:51:28.000+0300",
+    "resolution_date": "2023-05-15T11:41:21.000+0300",
+    "updated_date": "2023-05-15T11:41:21.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-250197",
+    "summary": "Glass bottles are inconsistently referred to throughout some advancement description strings",
+    "labels": [
+      "advancement-description"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2022-04-14T15:29:35.000+0300",
+    "resolution_date": "2023-05-16T10:35:13.000+0300",
+    "updated_date": "2023-05-16T10:35:13.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-237960",
+    "summary": "New potion effect GUI doesn't work when using Programmer Art",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2021-09-30T02:06:45.000+0300",
+    "resolution_date": "2023-05-10T17:58:39.000+0300",
+    "updated_date": "2023-05-10T17:58:39.000+0300",
+    "watches": 4,
+    "votes": 13
+  },
+  {
+    "id": "MC-226344",
+    "summary": "Changing the \"Owner\" tag of a projectile doesn't affect the outcome of the projectile unless the world is reloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2021-05-26T09:09:16.000+0300",
+    "resolution_date": "2023-05-15T16:26:10.000+0300",
+    "updated_date": "2023-05-15T16:26:10.000+0300",
+    "watches": 17,
+    "votes": 26
+  },
+  {
+    "id": "MC-224976",
+    "summary": "NativeImage.setPixelRGBA throws exception with message getPixelRGBA",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2021-05-06T02:17:28.000+0300",
+    "resolution_date": "2023-05-16T10:35:12.000+0300",
+    "updated_date": "2023-05-16T10:35:12.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-220096",
+    "summary": "Graphics warning button(s) improperly capitalized",
+    "labels": [
+      "capitalization",
+      "en_us.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2021-03-19T00:13:53.000+0200",
+    "resolution_date": "2023-05-16T10:35:13.000+0300",
+    "updated_date": "2023-05-16T10:35:13.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-175504",
+    "summary": "Single quotation marks are not supported in NBT paths",
+    "labels": [
+      "nbt-path"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2020-03-20T19:28:15.000+0200",
+    "resolution_date": "2023-05-15T16:26:09.000+0300",
+    "updated_date": "2023-05-15T16:26:09.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-165562",
+    "summary": "Command suggestion report \"incorrect argument\" when cursor is at the start of a node without suggestions",
+    "labels": [
+      "command",
+      "tab-completion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2019-11-14T01:49:51.000+0200",
+    "resolution_date": "2023-05-15T12:09:06.000+0300",
+    "updated_date": "2023-05-15T12:09:06.000+0300",
+    "watches": 21,
+    "votes": 40
+  },
+  {
+    "id": "MC-159633",
+    "summary": "Command feedback messages are unnecessarily created during function execution",
+    "labels": [
+      "function"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2019-08-24T09:55:13.000+0300",
+    "resolution_date": "2023-05-15T16:26:09.000+0300",
+    "updated_date": "2023-05-15T16:26:09.000+0300",
+    "watches": 12,
+    "votes": 28
+  },
+  {
+    "id": "MC-132076",
+    "summary": "Lowercase Letters  in controls menu + \"Not Bound\" is missing",
+    "labels": [
+      "lwjgl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2018-06-26T17:55:40.000+0300",
+    "resolution_date": "2023-05-15T11:41:21.000+0300",
+    "updated_date": "2023-05-15T11:41:21.000+0300",
+    "watches": 14,
+    "votes": 19
+  },
+  {
+    "id": "MC-124327",
+    "summary": "Changing the name of an item and then emptying the text field in an anvil doesn't make the rename unavailable, keeps last non-empty name on output item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2018-01-16T01:23:30.000+0200",
+    "resolution_date": "2023-05-16T14:25:46.000+0300",
+    "updated_date": "2023-05-18T05:02:25.000+0300",
+    "watches": 16,
+    "votes": 30
+  },
+  {
+    "id": "MC-1310",
+    "summary": "Dispensed boats and rafts get stuck inside of dispensers used to place them",
+    "labels": [
+      "boat",
+      "dispenser"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 15w47a",
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2012-10-30T15:35:54.000+0200",
+    "resolution_date": "2023-05-16T11:11:39.000+0300",
+    "updated_date": "2023-05-16T11:11:39.000+0300",
+    "watches": 18,
+    "votes": 30
+  }
+]

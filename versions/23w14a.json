@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "MC-261547",
+    "summary": "Suspicious Sand on Java Edition can be replaced with Sculk by a Sculk Catalyst, unlike in Bedrock Edition or its gravel counterpart",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-04-02T19:53:54.000+0300",
+    "resolution_date": "2023-04-05T10:49:31.000+0300",
+    "updated_date": "2023-04-05T10:49:31.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-261503",
+    "summary": "Ravager cannot destroy pitcher crop",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-04-01T10:27:12.000+0300",
+    "resolution_date": "2023-04-05T11:35:03.000+0300",
+    "updated_date": "2023-04-05T11:35:03.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-261487",
+    "summary": "Z-fighting occurs on the backs of sniffers' heads",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-31T20:52:20.000+0300",
+    "resolution_date": "2023-04-04T12:37:23.000+0300",
+    "updated_date": "2023-04-04T12:37:23.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-261423",
+    "summary": "Pitcher pod crop with a block on top consumes bone meal despite being unable to grow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-29T21:29:39.000+0300",
+    "resolution_date": "2023-04-05T12:20:00.000+0300",
+    "updated_date": "2023-04-05T12:20:00.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-261365",
+    "summary": "Players being hurt is not detected by a calibrated sculk sensor set to 7",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-26T22:53:07.000+0300",
+    "resolution_date": "2023-04-05T13:54:48.000+0300",
+    "updated_date": "2023-04-05T13:54:48.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-261356",
+    "summary": "Sculk shriekers and wardens aren't triggered by vibrations emitted by a resonating amethyst block",
+    "labels": [
+      "block-event",
+      "sculk-shrieker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-26T18:04:11.000+0300",
+    "resolution_date": "2023-04-04T17:41:17.000+0300",
+    "updated_date": "2023-04-04T17:41:17.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-261346",
+    "summary": "Sniffers have no egg laying sound, despite laying them like Chickens",
+    "labels": [
+      "egg",
+      "sniffer",
+      "sniffer_egg",
+      "sound",
+      "sounds"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-26T07:16:16.000+0300",
+    "resolution_date": "2023-03-30T12:45:13.000+0300",
+    "updated_date": "2023-03-30T12:45:13.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-261304",
+    "summary": "Cyan dye crafting recipes are not grouped",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-24T08:57:02.000+0200",
+    "resolution_date": "2023-04-04T16:01:37.000+0300",
+    "updated_date": "2023-04-04T16:01:37.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-261298",
+    "summary": "Pitcher plant is not next to other two tall plants in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-24T06:50:59.000+0200",
+    "resolution_date": "2023-04-03T16:10:51.000+0300",
+    "updated_date": "2023-04-03T16:10:51.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-261297",
+    "summary": "Pitcher plant doesn't craft into two dyes, which is inconsistent with other two block tall flowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-24T06:47:26.000+0200",
+    "resolution_date": "2023-03-31T10:32:15.000+0300",
+    "updated_date": "2023-03-31T20:47:43.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-261255",
+    "summary": "Amethyst Block isn't in \"Redstone\" tab in creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-23T10:22:29.000+0200",
+    "resolution_date": "2023-04-04T17:41:17.000+0300",
+    "updated_date": "2023-04-04T17:41:17.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-261253",
+    "summary": "Sculk sensor no longer triggers the advancement \"Sneak 100\" by just sneaking ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-23T09:53:50.000+0200",
+    "resolution_date": "2023-04-05T13:54:48.000+0300",
+    "updated_date": "2023-04-05T13:54:48.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-261235",
+    "summary": "Sign editing GUI forcibly closing does not save entered text in some cases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Save Data"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-23T02:29:06.000+0200",
+    "resolution_date": "2023-04-05T10:42:23.000+0300",
+    "updated_date": "2023-04-05T10:42:23.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-261226",
+    "summary": "Calibrated sculk sensors have to be 'hard' powered by redstone from the side",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T23:15:01.000+0200",
+    "resolution_date": "2023-04-04T17:41:18.000+0300",
+    "updated_date": "2023-04-04T17:41:18.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-261222",
+    "summary": "Unsneaking while standing still for a long time or after moving while sneaking triggers sculk sensor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T22:51:31.000+0200",
+    "resolution_date": "2023-04-08T01:58:17.000+0300",
+    "updated_date": "2023-04-08T01:58:17.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-261208",
+    "summary": "Pitcher Plant has unused bottom texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T21:33:44.000+0200",
+    "resolution_date": "2023-03-30T11:48:56.000+0300",
+    "updated_date": "2023-05-11T00:04:15.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-261201",
+    "summary": "Pitcher plant can be replaced by the use of placed blocks, which is not consistent with other tall flowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T20:46:53.000+0200",
+    "resolution_date": "2023-04-05T14:22:14.000+0300",
+    "updated_date": "2023-04-05T14:22:14.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-261198",
+    "summary": "Calibrated sculk sensors don't glow like original sculk sensors",
+    "labels": [
+      "calibrated_sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T20:29:51.000+0200",
+    "resolution_date": "2023-04-04T17:41:16.000+0300",
+    "updated_date": "2023-04-04T17:41:16.000+0300",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-261197",
+    "summary": "Players can edit signs in adventure mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T20:21:33.000+0200",
+    "resolution_date": "2023-04-05T10:42:21.000+0300",
+    "updated_date": "2023-04-05T10:42:21.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-261196",
+    "summary": "Torchflowers and pitcher plants can't burn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T20:19:56.000+0200",
+    "resolution_date": "2023-03-31T10:32:16.000+0300",
+    "updated_date": "2023-05-08T21:29:20.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-261189",
+    "summary": "Inconsistent naming of block states for sniffer and turtle eggs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T19:48:02.000+0200",
+    "resolution_date": "2023-03-30T16:37:45.000+0300",
+    "updated_date": "2023-03-30T16:37:45.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-261187",
+    "summary": "Entities will often spin while pathfinding on top of sniffer eggs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T19:45:43.000+0200",
+    "resolution_date": "2023-03-30T16:30:20.000+0300",
+    "updated_date": "2023-03-30T16:30:20.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-261186",
+    "summary": "Entities don't recognize sniffer eggs as obstacles when pathfinding",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T19:44:24.000+0200",
+    "resolution_date": "2023-03-30T16:37:46.000+0300",
+    "updated_date": "2023-03-30T16:37:46.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-261183",
+    "summary": "Sniffer egg sound events are listed under \"entity\" instead of \"block\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T19:37:10.000+0200",
+    "resolution_date": "2023-03-30T12:45:14.000+0300",
+    "updated_date": "2023-04-09T16:59:03.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-261179",
+    "summary": "Attempting to interact with a waxed sign plays a sound but displays no subtitle",
+    "labels": [
+      "Signs",
+      "sound",
+      "subtitles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T19:18:42.000+0200",
+    "resolution_date": "2023-04-05T10:42:22.000+0300",
+    "updated_date": "2023-04-05T17:11:22.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-261176",
+    "summary": "Pitchers don't maintain the farmland used to grow it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T19:04:11.000+0200",
+    "resolution_date": "2023-04-05T14:22:14.000+0300",
+    "updated_date": "2023-04-05T14:22:14.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-261174",
+    "summary": "Suspicious gravel is not part of the #overworld_carver_replaceables tag, causing carvers to not cut through it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T18:55:04.000+0200",
+    "resolution_date": "2023-03-31T09:34:14.000+0300",
+    "updated_date": "2023-03-31T09:34:14.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-261172",
+    "summary": "Pitcher crop hitboxes don't change in size according to their age",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T18:51:59.000+0200",
+    "resolution_date": "2023-03-31T10:32:14.000+0300",
+    "updated_date": "2023-03-31T10:32:14.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-261171",
+    "summary": "You can't plant bamboo on suspicious gravel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T18:51:35.000+0200",
+    "resolution_date": "2023-03-31T09:34:14.000+0300",
+    "updated_date": "2023-03-31T09:34:14.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-261167",
+    "summary": "Suspicious gravel does not have an assigned tool",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-22T18:40:11.000+0200",
+    "resolution_date": "2023-03-30T17:37:01.000+0300",
+    "updated_date": "2023-03-30T17:37:01.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-261029",
+    "summary": "Progress bar for uploading a world to Realms is much larger than normal",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-16T04:14:31.000+0200",
+    "resolution_date": "2023-04-05T20:03:05.000+0300",
+    "updated_date": "2023-04-06T14:00:39.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-261020",
+    "summary": "Double-clicking on a Realm to join it no longer works",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-15T15:53:42.000+0200",
+    "resolution_date": "2023-04-05T20:01:26.000+0300",
+    "updated_date": "2023-04-06T14:51:43.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-260992",
+    "summary": "Cannot return to title screen from Realms screen (except using ESC)",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-14T20:45:40.000+0200",
+    "resolution_date": "2023-04-05T20:02:38.000+0300",
+    "updated_date": "2023-04-19T17:37:29.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-260810",
+    "summary": "Villagers can't pick up torchflower seeds, despite being able to farm torchflowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-03-08T15:58:29.000+0200",
+    "resolution_date": "2023-03-31T10:32:15.000+0300",
+    "updated_date": "2023-04-06T06:48:48.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-260779",
+    "summary": "Sniffers can dig into blocks outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a",
+      "23w14a"
+    ],
+    "creation_date": "2023-03-05T17:00:48.000+0200",
+    "resolution_date": "2023-04-03T08:53:59.000+0300",
+    "updated_date": "2023-04-11T04:38:04.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-260778",
+    "summary": "Sniffer tries to sniff out blocks outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a",
+      "23w14a"
+    ],
+    "creation_date": "2023-03-05T17:00:45.000+0200",
+    "resolution_date": "2023-03-31T10:48:11.000+0300",
+    "updated_date": "2023-04-11T04:38:03.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-260527",
+    "summary": "The coordinates of the sniffer  \"minecraft:sniffer_explored_positions\" tag do not check the dimension",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-24T20:37:35.000+0200",
+    "resolution_date": "2023-04-03T15:20:55.000+0300",
+    "updated_date": "2023-04-03T15:20:55.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-260478",
+    "summary": "Torchflower crop hitboxes don't change in size according to their age",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-23T15:04:08.000+0200",
+    "resolution_date": "2023-03-31T10:32:17.000+0300",
+    "updated_date": "2023-03-31T10:32:17.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-260467",
+    "summary": "Torchflower is not grouped with other small flowers in the creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-23T06:15:18.000+0200",
+    "resolution_date": "2023-03-31T10:32:16.000+0300",
+    "updated_date": "2023-03-31T10:32:16.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-260459",
+    "summary": "Baby sniffers don't sound high pitched when sniffing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-23T01:46:00.000+0200",
+    "resolution_date": "2023-03-30T12:45:13.000+0300",
+    "updated_date": "2023-03-30T12:45:13.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-260401",
+    "summary": "When Brush is broken in offhand, the broken Particle is the Item in mainhand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-21T11:14:40.000+0200",
+    "resolution_date": "2023-03-30T10:11:23.000+0300",
+    "updated_date": "2023-03-30T10:11:23.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-260348",
+    "summary": "Sniffers will never dig in normal mud despite being a \"sniffer_diggable\" block",
+    "labels": [
+      "mud",
+      "sniffer",
+      "sniffer_diggable"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-19T07:34:48.000+0200",
+    "resolution_date": "2023-04-05T11:12:45.000+0300",
+    "updated_date": "2023-04-05T11:12:45.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-260347",
+    "summary": "Falling suspicious sand does not break when reopening the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-19T05:03:58.000+0200",
+    "resolution_date": "2023-03-30T10:11:23.000+0300",
+    "updated_date": "2023-03-30T10:11:23.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-260240",
+    "summary": "Sniffers that are in love sometimes don't attempt to approach one another to breed",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a",
+      "23w14a"
+    ],
+    "creation_date": "2023-02-16T17:45:11.000+0200",
+    "resolution_date": "2023-04-04T13:53:12.000+0300",
+    "updated_date": "2023-04-04T13:53:12.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-260233",
+    "summary": "Suspicious Sand has no assigned tool",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-16T16:52:47.000+0200",
+    "resolution_date": "2023-04-06T02:16:49.000+0300",
+    "updated_date": "2023-04-06T02:16:49.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-260202",
+    "summary": "The sound of using the brush isn't affected by blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-16T10:44:12.000+0200",
+    "resolution_date": "2023-03-30T10:11:22.000+0300",
+    "updated_date": "2023-04-06T01:05:19.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260152",
+    "summary": "Sculk sensors are not activated by sniffers digging",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-16T01:11:35.000+0200",
+    "resolution_date": "2023-04-05T11:27:59.000+0300",
+    "updated_date": "2023-04-08T01:26:47.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-260105",
+    "summary": "The name tags of sniffers are partly inside their models",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-15T21:13:55.000+0200",
+    "resolution_date": "2023-03-31T10:39:37.000+0300",
+    "updated_date": "2023-05-20T12:12:14.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-260042",
+    "summary": "Cannot waterlog a decorated pot by using a water bucket or dispenser",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-15T18:27:39.000+0200",
+    "resolution_date": "2023-03-31T09:34:14.000+0300",
+    "updated_date": "2023-03-31T10:28:16.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-260036",
+    "summary": "Can't plant cactus and sugar cane on suspicious sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-15T18:21:02.000+0200",
+    "resolution_date": "2023-03-31T09:34:13.000+0300",
+    "updated_date": "2023-04-05T18:11:15.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-259873",
+    "summary": "Skeleton/Zombie Horse's chests are outdated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-02-10T00:42:08.000+0200",
+    "resolution_date": "2023-03-30T14:49:37.000+0300",
+    "updated_date": "2023-03-30T14:49:37.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-258939",
+    "summary": "Non-atomic cached state can cause multithreaded crashes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-01-04T01:27:47.000+0200",
+    "resolution_date": "2023-04-05T10:11:49.000+0300",
+    "updated_date": "2023-04-05T10:11:49.000+0300",
+    "watches": 10,
+    "votes": 10
+  },
+  {
+    "id": "MC-256688",
+    "summary": "Birch wall hanging sign uses \"snare\" instrument when placed under note block, instead of \"bass\" as other hanging signs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-10-20T17:09:44.000+0300",
+    "resolution_date": "2023-04-05T21:01:03.000+0300",
+    "updated_date": "2023-04-05T21:01:03.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-256540",
+    "summary": "The top texture of the camel's front left leg contains some redundant gray pixels",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-10-19T18:18:11.000+0300",
+    "resolution_date": "2023-03-30T14:49:36.000+0300",
+    "updated_date": "2023-05-10T14:58:45.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-256419",
+    "summary": "Incomplete commands run through aliases don't produce errors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-10-16T15:32:01.000+0300",
+    "resolution_date": "2023-04-03T17:06:17.000+0300",
+    "updated_date": "2023-05-27T14:50:53.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-254588",
+    "summary": "Miscolored pixel on slowness effect icon",
+    "labels": [
+      "slowness"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-07-26T08:05:18.000+0300",
+    "resolution_date": "2023-04-04T14:20:13.000+0300",
+    "updated_date": "2023-04-04T14:20:13.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-252099",
+    "summary": "Incorrect texture mapping in potted mangrove propagule (mirror effect)",
+    "labels": [
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-05-23T15:49:13.000+0300",
+    "resolution_date": "2023-04-04T14:20:11.000+0300",
+    "updated_date": "2023-04-04T14:20:11.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-251538",
+    "summary": "Desert villager missing some pixels for the sandals",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-05-09T11:26:29.000+0300",
+    "resolution_date": "2023-03-30T17:36:57.000+0300",
+    "updated_date": "2023-03-30T17:36:57.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-251537",
+    "summary": "Desert (zombie) villager has solid-color on inner of arm, unlike other villagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-05-09T11:16:47.000+0300",
+    "resolution_date": "2023-03-30T17:36:57.000+0300",
+    "updated_date": "2023-03-30T17:36:57.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-251536",
+    "summary": "Desert zombie villager feet still mismatch the sides of the feet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-05-09T11:14:11.000+0300",
+    "resolution_date": "2023-03-30T17:36:58.000+0300",
+    "updated_date": "2023-03-30T17:36:58.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-249514",
+    "summary": "Button UV appears to be upside-down",
+    "labels": [
+      "incorrect-uv"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-03-25T22:54:07.000+0200",
+    "resolution_date": "2023-03-30T17:36:56.000+0300",
+    "updated_date": "2023-03-30T17:36:56.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-249047",
+    "summary": "The minecraft:ui.button.click sound isn't played when joining realms through double-clicking on them",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Sound",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2022-03-14T16:36:40.000+0200",
+    "resolution_date": "2023-04-05T20:01:33.000+0300",
+    "updated_date": "2023-04-06T14:51:43.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-246459",
+    "summary": "Drowned have some transparent pixels within their inner body texture",
+    "labels": [
+      "drowned"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-12-26T21:57:23.000+0200",
+    "resolution_date": "2023-03-30T17:36:58.000+0300",
+    "updated_date": "2023-03-30T17:36:58.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-241850",
+    "summary": "Miscolored pixels on double chest",
+    "labels": [
+      "chest",
+      "mismatching-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-11-18T08:02:57.000+0200",
+    "resolution_date": "2023-04-12T11:39:27.000+0300",
+    "updated_date": "2023-04-12T11:39:27.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-241347",
+    "summary": "Purple glazed terracotta still uses old sword design",
+    "labels": [
+      "glazed_terracotta",
+      "inconsistency",
+      "inconsistent-textures",
+      "mismatching-textures",
+      "outdated-textures",
+      "sword"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-11-13T01:42:04.000+0200",
+    "resolution_date": "2023-04-08T02:00:28.000+0300",
+    "updated_date": "2023-04-08T02:00:28.000+0300",
+    "watches": 5,
+    "votes": 16
+  },
+  {
+    "id": "MC-241314",
+    "summary": "Filled cauldrons' bottom faces are still culled when they should not be",
+    "labels": [
+      "unneccessary-cullface"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-11-12T19:57:46.000+0200",
+    "resolution_date": "2023-03-30T17:36:59.000+0300",
+    "updated_date": "2023-03-30T17:36:59.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-237556",
+    "summary": "Legs of black cat model are white at the top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-09-24T14:43:26.000+0300",
+    "resolution_date": "2023-03-30T14:49:36.000+0300",
+    "updated_date": "2023-03-30T14:49:36.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-236117",
+    "summary": "Music disc texture isn't centered properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-09-07T23:28:00.000+0300",
+    "resolution_date": "2023-04-12T11:39:17.000+0300",
+    "updated_date": "2023-04-12T11:39:17.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-230792",
+    "summary": "Cat's tail shows Z-Fighting",
+    "labels": [
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-07-01T00:56:50.000+0300",
+    "resolution_date": "2023-03-30T17:36:55.000+0300",
+    "updated_date": "2023-03-30T17:36:55.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-224648",
+    "summary": "Pressed buttons placed on painting can cause z-fighting ",
+    "labels": [
+      "button",
+      "painting",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-05-01T21:47:09.000+0300",
+    "resolution_date": "2023-04-12T12:57:42.000+0300",
+    "updated_date": "2023-04-12T12:57:42.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-224433",
+    "summary": "Clouds texture contains semi-transparent background",
+    "labels": [
+      "clouds",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-04-28T22:01:23.000+0300",
+    "resolution_date": "2023-03-30T17:36:56.000+0300",
+    "updated_date": "2023-03-30T17:36:56.000+0300",
+    "watches": 3,
+    "votes": 12
+  },
+  {
+    "id": "MC-212271",
+    "summary": "Glow squid and squid show Z-fighting",
+    "labels": [
+      "glow_squid",
+      "squid",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-01-21T05:38:58.000+0200",
+    "resolution_date": "2023-03-30T17:36:59.000+0300",
+    "updated_date": "2023-04-15T09:45:00.000+0300",
+    "watches": 6,
+    "votes": 17
+  },
+  {
+    "id": "MC-203406",
+    "summary": "Kelp and seagrass models appear to reference biome tints despite not using any",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2020-11-03T03:15:32.000+0200",
+    "resolution_date": "2023-04-04T14:20:12.000+0300",
+    "updated_date": "2023-04-04T14:20:12.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-203399",
+    "summary": "Hoppers use the side texture on the bottom",
+    "labels": [
+      "hopper"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2020-11-03T02:46:45.000+0200",
+    "resolution_date": "2023-03-30T17:37:00.000+0300",
+    "updated_date": "2023-03-30T17:37:00.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-176309",
+    "summary": "Illusioner has a few misplaced pixels left in their texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5",
+      "23w14a"
+    ],
+    "creation_date": "2020-03-26T16:16:44.000+0200",
+    "resolution_date": "2023-04-04T14:20:11.000+0300",
+    "updated_date": "2023-05-15T19:56:33.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-165773",
+    "summary": "/execute run does not cause syntax error when arguments are missing",
+    "labels": [
+      "/execute",
+      "/execute-run"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2019-11-17T02:28:34.000+0200",
+    "resolution_date": "2023-04-03T17:06:18.000+0300",
+    "updated_date": "2023-04-03T17:06:18.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-155084",
+    "summary": "Horses' armor, reins, and bridles experience z-fighting",
+    "labels": [
+      "entity-model",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2019-06-24T11:50:09.000+0300",
+    "resolution_date": "2023-04-04T14:20:10.000+0300",
+    "updated_date": "2023-04-15T09:45:27.000+0300",
+    "watches": 15,
+    "votes": 29
+  },
+  {
+    "id": "MC-138358",
+    "summary": "Levers on top of item frames Z-fighting with blocks in item frames",
+    "labels": [
+      "item_frame",
+      "lever",
+      "z-fighting",
+      "z-fighting-hitbox-zone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2018-10-28T18:34:40.000+0200",
+    "resolution_date": "2023-04-04T14:20:12.000+0300",
+    "updated_date": "2023-04-04T14:20:12.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-2474",
+    "summary": "Transparent blocks placed between bookshelves and enchanting tables negate bonuses received from bookshelves",
+    "labels": [
+      "enchanting_table"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2012-11-08T03:24:31.000+0200",
+    "resolution_date": "2023-04-03T09:43:37.000+0300",
+    "updated_date": "2023-04-05T19:03:43.000+0300",
+    "watches": 20,
+    "votes": 33
+  }
+]

@@ -897,7 +897,8 @@
     "id": "MC-199662",
     "summary": "Extra pixels in cocoa pod textures as of Texture Update",
     "labels": [
-      "development-leftovers"
+      "development-leftovers",
+      "unused-pixels"
     ],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -910,7 +911,7 @@
     ],
     "creation_date": "2020-09-05T20:56:35.000+0300",
     "resolution_date": "2021-11-18T16:12:58.000+0200",
-    "updated_date": "2021-11-20T22:09:33.000+0200",
+    "updated_date": "2023-05-15T19:56:32.000+0300",
     "watches": 6,
     "votes": 6
   },
@@ -1085,6 +1086,26 @@
     "updated_date": "2021-11-18T16:12:53.000+0200",
     "watches": 4,
     "votes": 8
+  },
+  {
+    "id": "MC-176309",
+    "summary": "Illusioner has a few misplaced pixels left in their texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18 Pre-release 5",
+      "23w14a"
+    ],
+    "creation_date": "2020-03-26T16:16:44.000+0200",
+    "resolution_date": "2023-04-04T14:20:11.000+0300",
+    "updated_date": "2023-05-15T19:56:33.000+0300",
+    "watches": 10,
+    "votes": 14
   },
   {
     "id": "MC-170557",

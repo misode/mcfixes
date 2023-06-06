@@ -176,6 +176,26 @@
     "votes": 5
   },
   {
+    "id": "MC-166260",
+    "summary": "Light from fire that has gone out lingers at the border of chunks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.16 Pre-release 2",
+      "23w17a"
+    ],
+    "creation_date": "2019-11-24T07:23:47.000+0200",
+    "resolution_date": "2023-04-27T01:18:07.000+0300",
+    "updated_date": "2023-04-27T01:18:07.000+0300",
+    "watches": 10,
+    "votes": 18
+  },
+  {
     "id": "MC-152001",
     "summary": "Zombie villages never spawn with baby zombie villagers",
     "labels": [],

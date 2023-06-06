@@ -198,6 +198,25 @@
     "votes": 2
   },
   {
+    "id": "MC-257272",
+    "summary": "Path is not normalized in the toast shown after exporting world generation settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w05a"
+    ],
+    "creation_date": "2022-11-06T18:19:28.000+0200",
+    "resolution_date": "2023-04-01T21:46:54.000+0300",
+    "updated_date": "2023-04-01T21:46:54.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-256664",
     "summary": "Camels play their walking animations after the \"NoAI\" NBT tag is applied to them",
     "labels": [

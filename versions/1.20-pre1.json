@@ -1,0 +1,724 @@
+[
+  {
+    "id": "MC-262424",
+    "summary": "Sprinting particles on the edges of blocks are still incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-07T21:06:20.000+0300",
+    "resolution_date": "2023-05-09T16:22:30.000+0300",
+    "updated_date": "2023-05-20T00:49:45.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-262363",
+    "summary": "Player can still gain a normal jump off of a honey block with precise timing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-05T06:26:06.000+0300",
+    "resolution_date": "2023-05-09T16:22:30.000+0300",
+    "updated_date": "2023-05-15T23:58:00.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-262351",
+    "summary": "Worldgen deadlock caused by supporting block checks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Crash",
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-04T19:22:44.000+0300",
+    "resolution_date": "2023-05-09T16:22:28.000+0300",
+    "updated_date": "2023-05-10T07:29:22.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-262317",
+    "summary": "Items don't respect properties of the block they are supported on",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-03T22:28:57.000+0300",
+    "resolution_date": "2023-05-09T16:22:29.000+0300",
+    "updated_date": "2023-05-09T16:22:29.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-262313",
+    "summary": "Nether won't load in upgraded worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-03T21:26:28.000+0300",
+    "resolution_date": "2023-05-10T08:39:28.000+0300",
+    "updated_date": "2023-05-11T04:48:53.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-262308",
+    "summary": "Entities do not stick to honey blocks pushed by pistons if their center isn't over the honey block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-03T18:59:01.000+0300",
+    "resolution_date": "2023-05-09T16:22:28.000+0300",
+    "updated_date": "2023-05-09T16:22:28.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-262304",
+    "summary": "The stepping_on predicate condition does not correctly succeed on trapdoors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-03T17:33:54.000+0300",
+    "resolution_date": "2023-05-09T16:22:29.000+0300",
+    "updated_date": "2023-05-09T16:22:29.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-262300",
+    "summary": "Menu text is now rendered in front of the Mojang Studios loading screen fade animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-03T17:18:14.000+0300",
+    "resolution_date": "2023-05-09T18:12:14.000+0300",
+    "updated_date": "2023-05-09T21:56:14.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-262296",
+    "summary": "Rabbits are no longer affected by jump boost",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-03T16:59:30.000+0300",
+    "resolution_date": "2023-05-10T13:35:14.000+0300",
+    "updated_date": "2023-05-10T13:35:14.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-262265",
+    "summary": "Changing resource pack that overrides a font crashes JVM",
+    "labels": [
+      "font",
+      "jvm-crash",
+      "resource-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-02T16:31:33.000+0300",
+    "resolution_date": "2023-05-09T10:31:58.000+0300",
+    "updated_date": "2023-05-09T10:31:58.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-262253",
+    "summary": "Music composers not listed in credits",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-05-02T06:14:00.000+0300",
+    "resolution_date": "2023-05-08T09:04:21.000+0300",
+    "updated_date": "2023-05-10T23:14:26.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-262208",
+    "summary": "In the credits, \"Lionbridge\" is misspelt in one place (no \"g\")",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-04-29T21:39:01.000+0300",
+    "resolution_date": "2023-05-08T09:04:20.000+0300",
+    "updated_date": "2023-05-08T09:04:20.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-262006",
+    "summary": "Melon and Pumpkin are in the default '#maintains_farmland' tag despite not maintain farmland",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2023-04-20T23:44:35.000+0300",
+    "resolution_date": "2023-05-09T18:12:14.000+0300",
+    "updated_date": "2023-05-09T18:12:14.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-257336",
+    "summary": "Some chiseled bookshelf interaction subtitles are improperly capitalized",
+    "labels": [
+      "capitalization",
+      "chiseled_bookshelf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2022-11-09T17:38:34.000+0200",
+    "resolution_date": "2023-05-08T12:22:16.000+0300",
+    "updated_date": "2023-05-08T12:22:16.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-256424",
+    "summary": "Game mode is sometimes referred to as \"gamemode\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2022-10-16T21:05:11.000+0300",
+    "resolution_date": "2023-05-08T12:22:13.000+0300",
+    "updated_date": "2023-05-08T12:22:13.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-250571",
+    "summary": "Gamerule description strings within the world creation menu consist of inconsistent concluding punctuation",
+    "labels": [
+      "punctuation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2022-04-23T14:32:24.000+0300",
+    "resolution_date": "2023-05-08T12:22:17.000+0300",
+    "updated_date": "2023-05-08T12:22:17.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-241736",
+    "summary": "Company names are still inconsistent and partly misspelled in the credits",
+    "labels": [
+      "credits",
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2021-11-17T10:19:42.000+0200",
+    "resolution_date": "2023-05-08T09:04:20.000+0300",
+    "updated_date": "2023-05-12T04:33:52.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-236606",
+    "summary": "Lightning bolt related string lacks capitalization",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2021-09-15T19:56:18.000+0300",
+    "resolution_date": "2023-05-08T12:22:14.000+0300",
+    "updated_date": "2023-05-08T12:22:14.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-226454",
+    "summary": "The \"Light as a Rabbit\" advancement description has no space after the ellipsis",
+    "labels": [
+      "grammar"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2021-05-27T17:37:34.000+0300",
+    "resolution_date": "2023-05-08T12:22:16.000+0300",
+    "updated_date": "2023-05-08T12:22:16.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-206548",
+    "summary": "Leash knot subtitles are not properly capitalized",
+    "labels": [
+      "capitalization",
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-11-25T18:02:32.000+0200",
+    "resolution_date": "2023-05-08T12:22:14.000+0300",
+    "updated_date": "2023-05-08T12:22:14.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-203039",
+    "summary": "Incorrect use of colon in options.hideMatchedNames.tooltip",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-10-28T17:42:55.000+0200",
+    "resolution_date": "2023-05-08T12:22:15.000+0300",
+    "updated_date": "2023-05-08T12:22:15.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-198202",
+    "summary": "Options background texture does not match dirt texture",
+    "labels": [
+      "outdated-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-08-17T00:08:23.000+0300",
+    "resolution_date": "2023-05-09T11:40:38.000+0300",
+    "updated_date": "2023-05-10T17:12:31.000+0300",
+    "watches": 9,
+    "votes": 32
+  },
+  {
+    "id": "MC-195825",
+    "summary": "\"datapacks\" string is inconsistent with \"data pack\" string in \"datapackFailure.title\" text",
+    "labels": [
+      "data-pack",
+      "datapackFailure.title",
+      "en_us.json",
+      "translation-string"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-07-23T01:15:31.000+0300",
+    "resolution_date": "2023-05-08T12:22:17.000+0300",
+    "updated_date": "2023-05-08T12:22:17.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-195781",
+    "summary": "The \"Include entities:\" string displayed within the structure block GUI is improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-07-22T19:27:14.000+0300",
+    "resolution_date": "2023-05-08T12:22:15.000+0300",
+    "updated_date": "2023-05-08T12:22:15.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-193749",
+    "summary": "Nether portals play the trigger sound again when the other dimension is loaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-07-05T23:16:03.000+0300",
+    "resolution_date": "2023-05-10T16:40:14.000+0300",
+    "updated_date": "2023-05-10T16:40:14.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-188595",
+    "summary": "\"gamemode\" string in F3 + N description is inconsistent with \"game mode\" string in F3 + F4 description",
+    "labels": [
+      "F3+N",
+      "game-mode-switcher",
+      "gamemode",
+      "inconsistent",
+      "string"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-06-11T09:23:20.000+0300",
+    "resolution_date": "2023-05-10T18:23:31.000+0300",
+    "updated_date": "2023-05-10T18:23:31.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-146582",
+    "summary": "When entering spectator mode while standing on the ground, the player moves down by 0.19051 blocks, which makes you fall down",
+    "labels": [
+      "spectator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2019-03-24T05:10:02.000+0200",
+    "resolution_date": "2023-05-09T17:55:16.000+0300",
+    "updated_date": "2023-05-09T17:55:16.000+0300",
+    "watches": 8,
+    "votes": 41
+  },
+  {
+    "id": "MC-123081",
+    "summary": "Placing an end crystal when entering The End prevents Ender Dragon from spawning",
+    "labels": [
+      "ender_crystal",
+      "ender_dragon",
+      "return-end-portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2017-12-10T10:10:23.000+0200",
+    "resolution_date": "2023-05-10T08:00:10.000+0300",
+    "updated_date": "2023-05-12T19:33:36.000+0300",
+    "watches": 26,
+    "votes": 45
+  },
+  {
+    "id": "MC-107224",
+    "summary": "World border death message states \"suffocated in a wall\"",
+    "labels": [
+      "death-message",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2016-09-23T01:44:59.000+0300",
+    "resolution_date": "2023-05-10T23:48:16.000+0300",
+    "updated_date": "2023-05-10T23:48:16.000+0300",
+    "watches": 12,
+    "votes": 28
+  },
+  {
+    "id": "MC-35078",
+    "summary": "Breaking animation is one frame off",
+    "labels": [
+      "animation",
+      "block",
+      "destroy",
+      "frame"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2013-10-12T18:30:32.000+0300",
+    "resolution_date": "2023-05-10T13:35:15.000+0300",
+    "updated_date": "2023-05-10T17:41:14.000+0300",
+    "watches": 22,
+    "votes": 44
+  },
+  {
+    "id": "MC-21520",
+    "summary": "Death message for /kill is \"<player> fell out of the world\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2013-07-03T19:46:06.000+0300",
+    "resolution_date": "2023-05-10T23:48:39.000+0300",
+    "updated_date": "2023-05-10T23:48:39.000+0300",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-18060",
+    "summary": "Several realms strings are untranslatable",
+    "labels": [
+      "mojang_internal_1",
+      "multiplayer",
+      "realms",
+      "translatability"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2013-06-15T21:47:26.000+0300",
+    "resolution_date": "2023-05-05T10:17:07.000+0300",
+    "updated_date": "2023-05-05T22:14:43.000+0300",
+    "watches": 20,
+    "votes": 37
+  },
+  {
+    "id": "MC-2215",
+    "summary": "Encoding errors in server.properties",
+    "labels": [
+      "encoding",
+      "server.properties",
+      "utf8"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2012-11-04T14:27:34.000+0200",
+    "resolution_date": "2023-05-09T10:31:58.000+0300",
+    "updated_date": "2023-05-09T10:31:58.000+0300",
+    "watches": 21,
+    "votes": 32
+  },
+  {
+    "id": "MC-180",
+    "summary": "When reaching the other side of a nether portal the animation plays forever until stepped out of",
+    "labels": [
+      "nether_portal",
+      "overlay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2012-10-24T23:29:21.000+0300",
+    "resolution_date": "2023-05-10T13:35:16.000+0300",
+    "updated_date": "2023-05-11T00:15:11.000+0300",
+    "watches": 30,
+    "votes": 108
+  }
+]

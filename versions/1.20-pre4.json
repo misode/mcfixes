@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-262760",
+    "summary": "The multiplayer selection screen turns blank after attempting to add a server and then canceling the process",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 4"
+    ],
+    "creation_date": "2023-05-19T16:16:32.000+0300",
+    "resolution_date": "2023-05-19T17:54:53.000+0300",
+    "updated_date": "2023-05-19T17:54:53.000+0300",
+    "watches": 4,
+    "votes": 4
+  }
+]

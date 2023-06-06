@@ -1,5 +1,28 @@
 [
   {
+    "id": "MC-261015",
+    "summary": "Parity Issue: Suspicious Sand does not generate in ruins in a lukewarm ocean compared to Bedrock",
+    "labels": [
+      "vanilla-parity",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2023-03-15T19:12:13.000+0200",
+    "resolution_date": "2023-06-06T17:24:30.000+0300",
+    "updated_date": "2023-06-06T17:24:30.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
     "id": "MC-260897",
     "summary": "Display entity's previous state of interpolation doesn't work as expected",
     "labels": [],
@@ -80,6 +103,26 @@
     "votes": 3
   },
   {
+    "id": "MC-260779",
+    "summary": "Sniffers can dig into blocks outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a",
+      "23w14a"
+    ],
+    "creation_date": "2023-03-05T17:00:48.000+0200",
+    "resolution_date": "2023-04-03T08:53:59.000+0300",
+    "updated_date": "2023-04-11T04:38:04.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
     "id": "MC-260778",
     "summary": "Sniffer tries to sniff out blocks outside the world border",
     "labels": [],
@@ -91,11 +134,11 @@
     "priority": "Normal",
     "fix_versions": [
       "23w12a",
-      "Future Update"
+      "23w14a"
     ],
     "creation_date": "2023-03-05T17:00:45.000+0200",
     "resolution_date": "2023-03-31T10:48:11.000+0300",
-    "updated_date": "2023-03-31T10:48:11.000+0300",
+    "updated_date": "2023-04-11T04:38:03.000+0300",
     "watches": 3,
     "votes": 8
   },
@@ -345,7 +388,7 @@
     ],
     "creation_date": "2023-02-17T20:49:45.000+0200",
     "resolution_date": "2023-03-15T12:05:29.000+0200",
-    "updated_date": "2023-03-15T12:05:29.000+0200",
+    "updated_date": "2023-05-13T20:37:58.000+0300",
     "watches": 4,
     "votes": 8
   },
@@ -387,6 +430,29 @@
     "updated_date": "2023-03-21T15:42:34.000+0200",
     "watches": 4,
     "votes": 7
+  },
+  {
+    "id": "MC-260240",
+    "summary": "Sniffers that are in love sometimes don't attempt to approach one another to breed",
+    "labels": [
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a",
+      "23w14a"
+    ],
+    "creation_date": "2023-02-16T17:45:11.000+0200",
+    "resolution_date": "2023-04-04T13:53:12.000+0300",
+    "updated_date": "2023-04-04T13:53:12.000+0300",
+    "watches": 2,
+    "votes": 8
   },
   {
     "id": "MC-260197",
@@ -608,7 +674,7 @@
     ],
     "creation_date": "2022-10-19T18:51:18.000+0300",
     "resolution_date": "2023-03-15T12:20:50.000+0200",
-    "updated_date": "2023-03-15T12:20:50.000+0200",
+    "updated_date": "2023-05-13T10:25:20.000+0300",
     "watches": 10,
     "votes": 9
   },
@@ -655,6 +721,27 @@
     "votes": 14
   },
   {
+    "id": "MC-209104",
+    "summary": "Flying with elytra while inside or near blocks produces their step sounds",
+    "labels": [
+      "elytra"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2020-12-20T21:10:23.000+0200",
+    "resolution_date": "2023-05-25T19:49:49.000+0300",
+    "updated_date": "2023-05-25T19:49:49.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
     "id": "MC-201647",
     "summary": "Entity riding an entity can cause location/coordinate desync",
     "labels": [],
@@ -693,6 +780,27 @@
     "resolution_date": "2023-03-22T10:30:12.000+0200",
     "updated_date": "2023-03-22T10:30:12.000+0200",
     "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-167957",
+    "summary": "Horizontally\u00a0fired rockets can create footstep sounds",
+    "labels": [
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2019-12-14T15:44:18.000+0200",
+    "resolution_date": "2023-05-06T18:06:13.000+0300",
+    "updated_date": "2023-05-06T18:06:13.000+0300",
+    "watches": 7,
     "votes": 10
   },
   {
@@ -744,5 +852,24 @@
     "updated_date": "2023-03-15T12:59:34.000+0200",
     "watches": 12,
     "votes": 33
+  },
+  {
+    "id": "MC-74955",
+    "summary": "Fences play sound when jumping and walking/sprinting beside them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2014-12-01T01:00:36.000+0200",
+    "resolution_date": "2023-05-03T18:32:49.000+0300",
+    "updated_date": "2023-05-03T18:32:49.000+0300",
+    "watches": 6,
+    "votes": 6
   }
 ]

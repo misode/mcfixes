@@ -133,7 +133,7 @@
     "creation_date": "2023-03-23T01:37:07.000+0200",
     "resolution_date": "2023-03-24T12:51:44.000+0200",
     "updated_date": "2023-03-24T12:51:44.000+0200",
-    "watches": 2,
+    "watches": 3,
     "votes": 3
   },
   {
@@ -370,6 +370,25 @@
     "votes": 4
   },
   {
+    "id": "MC-261164",
+    "summary": "Sniffer eggs don't block rain",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-22T18:23:32.000+0200",
+    "resolution_date": "2023-04-03T16:59:30.000+0300",
+    "updated_date": "2023-04-03T16:59:30.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-260974",
     "summary": "Aggressive mobs can't control \"vehicle\" mobs",
     "labels": [],
@@ -384,8 +403,8 @@
     ],
     "creation_date": "2023-03-13T17:08:59.000+0200",
     "resolution_date": "2023-03-27T09:54:59.000+0300",
-    "updated_date": "2023-03-27T09:54:59.000+0300",
-    "watches": 4,
+    "updated_date": "2023-05-13T08:28:01.000+0300",
+    "watches": 5,
     "votes": 3
   },
   {
@@ -403,9 +422,29 @@
     ],
     "creation_date": "2023-03-10T19:45:19.000+0200",
     "resolution_date": "2023-03-24T12:33:11.000+0200",
-    "updated_date": "2023-03-24T12:33:11.000+0200",
+    "updated_date": "2023-04-07T15:39:16.000+0300",
     "watches": 4,
     "votes": 5
+  },
+  {
+    "id": "MC-260874",
+    "summary": "Display entity chained interpolation has inconsistent behavior",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-03-09T22:06:00.000+0200",
+    "resolution_date": "2023-04-11T17:07:02.000+0300",
+    "updated_date": "2023-04-11T17:07:02.000+0300",
+    "watches": 9,
+    "votes": 16
   },
   {
     "id": "MC-260834",
@@ -665,7 +704,7 @@
     ],
     "creation_date": "2023-02-15T19:45:42.000+0200",
     "resolution_date": "2023-03-29T12:58:42.000+0300",
-    "updated_date": "2023-03-29T12:58:42.000+0300",
+    "updated_date": "2023-05-14T14:40:58.000+0300",
     "watches": 2,
     "votes": 7
   },
@@ -730,6 +769,25 @@
     "updated_date": "2023-03-24T12:33:11.000+0200",
     "watches": 5,
     "votes": 7
+  },
+  {
+    "id": "MC-259778",
+    "summary": "Placing a saddle on a Skeleton Trap stops the Skeleton Horse from moving",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2023-02-08T01:29:18.000+0200",
+    "resolution_date": "2023-04-09T15:42:21.000+0300",
+    "updated_date": "2023-04-09T15:42:21.000+0300",
+    "watches": 9,
+    "votes": 5
   },
   {
     "id": "MC-259364",

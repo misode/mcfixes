@@ -575,7 +575,7 @@
     "summary": "Bone mealing kelp creates a large field of particles, rather than only within the kelp's block space",
     "labels": [
       "incorrect-particle-generation",
-      "unneccessary-particles"
+      "unnecessary-particles"
     ],
     "status": "Resolved",
     "confirmation_status": "Unconfirmed",
@@ -588,7 +588,7 @@
     ],
     "creation_date": "2020-05-24T00:46:20.000+0300",
     "resolution_date": "2020-06-02T17:12:29.000+0300",
-    "updated_date": "2021-10-17T02:29:04.000+0300",
+    "updated_date": "2023-05-15T17:39:58.000+0300",
     "watches": 0,
     "votes": 0
   },
@@ -1177,7 +1177,7 @@
     ],
     "creation_date": "2020-03-20T00:08:44.000+0200",
     "resolution_date": "2020-06-03T16:40:00.000+0300",
-    "updated_date": "2020-06-15T20:14:21.000+0300",
+    "updated_date": "2023-05-13T13:34:27.000+0300",
     "watches": 1,
     "votes": 6
   },
@@ -1504,7 +1504,7 @@
     "creation_date": "2019-12-14T18:22:04.000+0200",
     "resolution_date": "2020-06-02T17:00:28.000+0300",
     "updated_date": "2021-10-17T02:30:25.000+0300",
-    "watches": 2,
+    "watches": 1,
     "votes": 5
   },
   {
@@ -1565,7 +1565,7 @@
     "creation_date": "2019-12-04T22:55:05.000+0200",
     "resolution_date": "2020-06-05T02:32:35.000+0300",
     "updated_date": "2020-06-05T02:46:26.000+0300",
-    "watches": 1,
+    "watches": 0,
     "votes": 6
   },
   {
@@ -1589,7 +1589,7 @@
     "creation_date": "2019-12-04T13:15:49.000+0200",
     "resolution_date": "2020-06-02T17:00:28.000+0300",
     "updated_date": "2021-10-17T02:30:31.000+0300",
-    "watches": 2,
+    "watches": 1,
     "votes": 5
   },
   {
@@ -1611,7 +1611,7 @@
     "creation_date": "2019-12-03T20:25:13.000+0200",
     "resolution_date": "2020-06-02T17:00:28.000+0300",
     "updated_date": "2021-02-23T17:53:51.000+0200",
-    "watches": 2,
+    "watches": 1,
     "votes": 5
   },
   {
@@ -1635,7 +1635,7 @@
     "creation_date": "2019-12-03T20:18:09.000+0200",
     "resolution_date": "2020-06-02T17:00:27.000+0300",
     "updated_date": "2021-10-17T02:30:40.000+0300",
-    "watches": 2,
+    "watches": 1,
     "votes": 4
   },
   {
@@ -1657,7 +1657,7 @@
     "creation_date": "2019-12-03T20:05:09.000+0200",
     "resolution_date": "2020-06-02T17:00:27.000+0300",
     "updated_date": "2021-02-23T17:54:25.000+0200",
-    "watches": 2,
+    "watches": 1,
     "votes": 3
   },
   {
@@ -1825,7 +1825,7 @@
     "creation_date": "2019-09-28T02:29:53.000+0300",
     "resolution_date": "2020-06-02T17:00:27.000+0300",
     "updated_date": "2021-10-17T02:33:53.000+0300",
-    "watches": 2,
+    "watches": 1,
     "votes": 3
   },
   {

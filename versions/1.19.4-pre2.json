@@ -449,7 +449,7 @@
     "creation_date": "2019-06-05T01:58:58.000+0300",
     "resolution_date": "2023-02-28T16:51:45.000+0200",
     "updated_date": "2023-02-28T16:51:45.000+0200",
-    "watches": 14,
+    "watches": 13,
     "votes": 43
   },
   {
@@ -478,5 +478,26 @@
     "updated_date": "2023-02-27T19:09:16.000+0200",
     "watches": 15,
     "votes": 49
+  },
+  {
+    "id": "MC-134612",
+    "summary": "Items held by passengers that attempt to move forward in boats and rafts are hidden",
+    "labels": [
+      "boat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 2"
+    ],
+    "creation_date": "2018-07-23T01:05:34.000+0300",
+    "resolution_date": "2023-04-04T17:37:10.000+0300",
+    "updated_date": "2023-04-04T17:37:10.000+0300",
+    "watches": 2,
+    "votes": 3
   }
 ]

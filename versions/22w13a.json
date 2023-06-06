@@ -502,27 +502,6 @@
     "votes": 7
   },
   {
-    "id": "MC-210485",
-    "summary": "Sculk sensors are not activated upon evokers summoning vexes",
-    "labels": [
-      "sculk_sensor"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Game Events"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "22w13a"
-    ],
-    "creation_date": "2021-01-04T13:05:39.000+0200",
-    "resolution_date": "2022-04-13T07:13:17.000+0300",
-    "updated_date": "2022-04-13T07:13:17.000+0300",
-    "watches": 2,
-    "votes": 5
-  },
-  {
     "id": "MC-210331",
     "summary": "Sculk sensors are not activated upon wandering traders drinking milk or witches drinking potions",
     "labels": [
