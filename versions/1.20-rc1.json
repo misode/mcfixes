@@ -19,6 +19,23 @@
     "votes": 8
   },
   {
+    "id": "MC-262325",
+    "summary": "Ice/Slime blocks don't give speed when landing towards the very edge of the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Release Candidate 1"
+    ],
+    "creation_date": "2023-05-04T02:26:13.000+0300",
+    "resolution_date": "2023-06-08T10:13:10.000+0300",
+    "updated_date": "2023-06-08T10:13:10.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
     "id": "MC-256477",
     "summary": "Knowledge books can't be placed in chiseled bookshelves",
     "labels": [],
