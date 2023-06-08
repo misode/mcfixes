@@ -638,6 +638,29 @@
     "votes": 10
   },
   {
+    "id": "MC-260992",
+    "summary": "Cannot return to title screen from Realms screen (except using ESC)",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w14a",
+      "1.20"
+    ],
+    "creation_date": "2023-03-14T20:45:40.000+0200",
+    "resolution_date": "2023-06-08T18:08:55.000+0300",
+    "updated_date": "2023-06-08T18:13:38.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
     "id": "MC-260810",
     "summary": "Villagers can't pick up torchflower seeds, despite being able to farm torchflowers",
     "labels": [],
