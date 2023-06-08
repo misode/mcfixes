@@ -1,1 +1,129 @@
-[]
+[
+  {
+    "id": "MC-234691",
+    "summary": "You can interact with the scroll bar in the realms \"Players\" menu despite not actually having your cursor held over it",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20"
+    ],
+    "creation_date": "2021-08-17T16:27:42.000+0300",
+    "resolution_date": "2023-06-08T04:34:32.000+0300",
+    "updated_date": "2023-06-08T04:34:32.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-234560",
+    "summary": "The \"Remove\" and \"Operator\" buttons in the realms \"Players\" menu still function despite no player within the list being selected",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20"
+    ],
+    "creation_date": "2021-08-15T17:11:22.000+0300",
+    "resolution_date": "2023-06-08T04:34:53.000+0300",
+    "updated_date": "2023-06-08T04:34:53.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-234407",
+    "summary": "The changes \"+\" icon in the realms world backups menu isn't visible when using small GUI scales",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20"
+    ],
+    "creation_date": "2021-08-13T16:57:27.000+0300",
+    "resolution_date": "2023-06-08T04:36:35.000+0300",
+    "updated_date": "2023-06-08T04:36:35.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-234404",
+    "summary": "The \"Restore\" and \"Changes\" buttons in the realms world backups menu can appear outside of the selection boxes",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20"
+    ],
+    "creation_date": "2021-08-13T16:13:03.000+0300",
+    "resolution_date": "2023-06-08T04:36:23.000+0300",
+    "updated_date": "2023-06-08T04:36:23.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-234191",
+    "summary": "Clicking on certain areas in the\u00a0realms world backups menu doesn't focus fields within the list",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20"
+    ],
+    "creation_date": "2021-08-10T22:19:58.000+0300",
+    "resolution_date": "2023-06-08T04:36:11.000+0300",
+    "updated_date": "2023-06-08T04:36:11.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-233966",
+    "summary": "You cannot use the scroll bar in the realms world backups menu by dragging it",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20"
+    ],
+    "creation_date": "2021-08-07T17:56:58.000+0300",
+    "resolution_date": "2023-06-08T04:35:56.000+0300",
+    "updated_date": "2023-06-08T04:35:56.000+0300",
+    "watches": 3,
+    "votes": 6
+  }
+]
