@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MC-263340",
+    "summary": "Incorrect Protochunk#setStatus call on chunk generate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.1 Release Candidate 1"
+    ],
+    "creation_date": "2023-06-09T07:08:44.000+0300",
+    "resolution_date": "2023-06-09T14:33:45.000+0300",
+    "updated_date": "2023-06-09T14:33:45.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-263296",
+    "summary": "Game softlocks after cancelling joining a server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.1 Release Candidate 1"
+    ],
+    "creation_date": "2023-06-08T12:11:50.000+0300",
+    "resolution_date": "2023-06-09T17:01:58.000+0300",
+    "updated_date": "2023-06-09T17:01:58.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-263245",
+    "summary": "Buttons in the \"Add Realm\" interface within the realms menu no longer render",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.1 Release Candidate 1"
+    ],
+    "creation_date": "2023-06-07T18:40:20.000+0300",
+    "resolution_date": "2023-06-09T12:44:43.000+0300",
+    "updated_date": "2023-06-09T12:44:43.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-263244",
+    "summary": "The realms invitation icon that appears on the realms button in the main menu is displayed incorrectly",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.1 Release Candidate 1"
+    ],
+    "creation_date": "2023-06-07T18:36:33.000+0300",
+    "resolution_date": "2023-06-09T12:25:54.000+0300",
+    "updated_date": "2023-06-09T12:25:54.000+0300",
+    "watches": 0,
+    "votes": 1
+  }
+]
