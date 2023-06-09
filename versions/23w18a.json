@@ -322,31 +322,6 @@
     "votes": 11
   },
   {
-    "id": "MC-221861",
-    "summary": "Light blocks have particles when fallen on, despite not having them in most other cases",
-    "labels": [
-      "invisible-blocks",
-      "invisible-blocks-not-invisible",
-      "light",
-      "unnecessary-particles",
-      "vanilla-parity"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Particles"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "23w18a"
-    ],
-    "creation_date": "2021-04-01T20:29:36.000+0300",
-    "resolution_date": "2023-05-29T13:32:06.000+0300",
-    "updated_date": "2023-06-01T15:48:31.000+0300",
-    "watches": 2,
-    "votes": 8
-  },
-  {
     "id": "MC-217447",
     "summary": "\"Walking\" on nether wart produces stone footstep sounds instead of nether wart sounds",
     "labels": [
