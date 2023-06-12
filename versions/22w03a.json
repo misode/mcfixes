@@ -817,6 +817,25 @@
     "votes": 8
   },
   {
+    "id": "MC-133703",
+    "summary": "Right hand shown for one tick after joining world, ignoring handedness",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w03a"
+    ],
+    "creation_date": "2018-07-16T23:55:29.000+0300",
+    "resolution_date": "2023-06-12T07:49:24.000+0300",
+    "updated_date": "2023-06-12T07:49:24.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
     "id": "MC-126772",
     "summary": "Underwater fog doesn't hide edge of chunks correctly at low render distances",
     "labels": [],
@@ -943,5 +962,34 @@
     "updated_date": "2023-01-28T14:30:44.000+0200",
     "watches": 11,
     "votes": 12
+  },
+  {
+    "id": "MC-9232",
+    "summary": "When loading a world, the held item from the previously loaded world is briefly visible",
+    "labels": [
+      "block",
+      "hand",
+      "held",
+      "hotbar",
+      "inventory",
+      "item",
+      "singleplayer",
+      "switches",
+      "world"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w03a"
+    ],
+    "creation_date": "2013-02-05T18:23:54.000+0200",
+    "resolution_date": "2023-06-12T07:48:26.000+0300",
+    "updated_date": "2023-06-12T07:48:26.000+0300",
+    "watches": 15,
+    "votes": 38
   }
 ]
