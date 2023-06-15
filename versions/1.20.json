@@ -168,5 +168,26 @@
     "updated_date": "2023-06-14T15:06:08.000+0300",
     "watches": 5,
     "votes": 12
+  },
+  {
+    "id": "MC-169037",
+    "summary": "Realms invitation button hover area is offset",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20"
+    ],
+    "creation_date": "2019-12-29T00:30:51.000+0200",
+    "resolution_date": "2023-06-15T15:45:32.000+0300",
+    "updated_date": "2023-06-15T15:45:32.000+0300",
+    "watches": 4,
+    "votes": 9
   }
 ]
