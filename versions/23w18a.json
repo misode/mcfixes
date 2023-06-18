@@ -429,6 +429,28 @@
     "votes": 17
   },
   {
+    "id": "MC-75721",
+    "summary": "Arrow buttons within the book GUI are rendered above tooltips",
+    "labels": [
+      "writeable_book",
+      "written_book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2014-12-24T14:00:58.000+0200",
+    "resolution_date": "2023-06-18T07:43:36.000+0300",
+    "updated_date": "2023-06-18T07:43:36.000+0300",
+    "watches": 16,
+    "votes": 28
+  },
+  {
     "id": "MC-48923",
     "summary": "Slime/magma cubes not affected by jump boost potion effect",
     "labels": [

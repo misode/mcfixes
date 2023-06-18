@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "MC-263247",
+    "summary": "Background contents are incorrectly hidden when clicking on the \"Add Realm\" button in the realms menu",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.1"
+    ],
+    "creation_date": "2023-06-07T18:47:30.000+0300",
+    "resolution_date": "2023-06-18T07:49:58.000+0300",
+    "updated_date": "2023-06-18T07:49:58.000+0300",
+    "watches": 1,
+    "votes": 1
+  }
+]
