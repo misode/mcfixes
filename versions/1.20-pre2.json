@@ -1036,6 +1036,29 @@
     "votes": 30
   },
   {
+    "id": "MC-117815",
+    "summary": "The sign GUI remains open when the said sign is destroyed",
+    "labels": [
+      "GUI",
+      "interface",
+      "sign"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2017-05-21T23:11:56.000+0300",
+    "resolution_date": "2023-06-27T12:07:16.000+0300",
+    "updated_date": "2023-06-27T12:07:16.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
     "id": "MC-1310",
     "summary": "Dispensed boats and rafts get stuck inside of dispensers used to place them",
     "labels": [

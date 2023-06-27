@@ -345,6 +345,28 @@
     "votes": 3
   },
   {
+    "id": "MC-212583",
+    "summary": "Sculk sensors are not activated upon walking inside of scaffolding that has air below it",
+    "labels": [
+      "scaffolding",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2021-01-23T17:42:41.000+0200",
+    "resolution_date": "2023-06-27T11:42:31.000+0300",
+    "updated_date": "2023-06-27T11:42:31.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-207290",
     "summary": "Sculk sensors don't detect vibrations while walking on the edge of a block",
     "labels": [

@@ -854,6 +854,28 @@
     "votes": 33
   },
   {
+    "id": "MC-117809",
+    "summary": "The sign GUI doesn't close when you get too far away from the said sign",
+    "labels": [
+      "hanging_sign",
+      "sign"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2017-05-21T20:42:08.000+0300",
+    "resolution_date": "2023-06-27T12:06:07.000+0300",
+    "updated_date": "2023-06-27T12:06:07.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-74955",
     "summary": "Fences play sound when jumping and walking/sprinting beside them",
     "labels": [],

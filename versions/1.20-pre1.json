@@ -451,6 +451,28 @@
     "votes": 32
   },
   {
+    "id": "MC-196428",
+    "summary": "The nausea effect resets its distortion severity when players' NBT data is reloaded",
+    "labels": [
+      "nausea",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-07-29T18:22:14.000+0300",
+    "resolution_date": "2023-06-27T11:43:39.000+0300",
+    "updated_date": "2023-06-27T11:43:40.000+0300",
+    "watches": 5,
+    "votes": 13
+  },
+  {
     "id": "MC-195825",
     "summary": "\"datapacks\" string is inconsistent with \"data pack\" string in \"datapackFailure.title\" text",
     "labels": [
