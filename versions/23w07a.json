@@ -666,6 +666,25 @@
     "votes": 12
   },
   {
+    "id": "MC-156814",
+    "summary": "Horses, donkeys and mules can enter boats as babies and then grow up inside of it, despite their adult variants not being able to enter it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2019-07-15T09:56:32.000+0300",
+    "resolution_date": "2023-07-03T17:15:43.000+0300",
+    "updated_date": "2023-07-03T17:15:43.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
     "id": "MC-134448",
     "summary": "Drowned animation glitch",
     "labels": [],
