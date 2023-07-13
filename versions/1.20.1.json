@@ -39,26 +39,5 @@
     "updated_date": "2023-06-27T10:40:14.000+0300",
     "watches": 3,
     "votes": 11
-  },
-  {
-    "id": "MC-209924",
-    "summary": "Sculk sensors are not activated upon using a spyglass",
-    "labels": [
-      "sculk_sensor"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Game Events"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "1.20.1"
-    ],
-    "creation_date": "2020-12-29T17:52:40.000+0200",
-    "resolution_date": "2023-07-12T15:12:35.000+0300",
-    "updated_date": "2023-07-12T15:21:35.000+0300",
-    "watches": 2,
-    "votes": 2
   }
 ]
