@@ -1,5 +1,24 @@
 [
   {
+    "id": "MC-241986",
+    "summary": "Navigating through world list with arrow keys is only possible after Tab was pressed twice",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4"
+    ],
+    "creation_date": "2021-11-19T19:37:55.000+0200",
+    "resolution_date": "2023-07-26T11:27:44.000+0300",
+    "updated_date": "2023-07-26T11:27:56.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-234894",
     "summary": "Buttons within the realms players menu aren't deselected when adjusting players' operator privileges",
     "labels": [
