@@ -1,0 +1,2014 @@
+[
+  {
+    "id": "MC-264468",
+    "summary": "GUI texture \"legacy_smithing.png\" still present in game files despite not being used anymore",
+    "labels": [
+      "gui",
+      "smithing_table",
+      "texture",
+      "unused-texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-07-29T03:13:45.000+0300",
+    "resolution_date": "2023-08-01T10:09:52.000+0300",
+    "updated_date": "2023-08-01T10:09:52.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-264467",
+    "summary": "GUI texture \"villager2.png\" contains unused sections",
+    "labels": [
+      "gui",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-07-29T03:00:25.000+0300",
+    "resolution_date": "2023-08-01T10:10:09.000+0300",
+    "updated_date": "2023-08-01T10:10:09.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-264356",
+    "summary": "Sniffers attached to a lead will dig in the same spot forever, ignoring \"explored positions\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-07-21T22:57:51.000+0300",
+    "resolution_date": "2023-07-28T11:03:57.000+0300",
+    "updated_date": "2023-07-28T11:03:57.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-263879",
+    "summary": "Open shulker boxes transmit redstone power",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-27T15:42:12.000+0300",
+    "resolution_date": "2023-06-29T13:40:33.000+0300",
+    "updated_date": "2023-06-29T13:40:33.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-263833",
+    "summary": "Minecraft is incorrectly assuming it is able to set the window icon on Wayland",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-25T18:34:42.000+0300",
+    "resolution_date": "2023-07-03T10:08:25.000+0300",
+    "updated_date": "2023-07-03T10:08:25.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-263430",
+    "summary": "Memory leak in TickingTracker",
+    "labels": [
+      "memory-leak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-11T18:40:23.000+0300",
+    "resolution_date": "2023-06-12T11:10:46.000+0300",
+    "updated_date": "2023-06-15T01:56:08.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-263387",
+    "summary": "The chat scroll bar no longer renders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-10T14:36:33.000+0300",
+    "resolution_date": "2023-07-03T10:08:24.000+0300",
+    "updated_date": "2023-07-03T10:08:24.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-263322",
+    "summary": "When a camel walks on suspicious sand, the sound produced is \"camel steps\" instead of \"camel sands\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-08T21:38:14.000+0300",
+    "resolution_date": "2023-07-07T13:07:43.000+0300",
+    "updated_date": "2023-07-07T13:07:43.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-263313",
+    "summary": "You cannot use the TAB key to initially create a realm",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-08T18:06:22.000+0300",
+    "resolution_date": "2023-07-12T16:20:40.000+0300",
+    "updated_date": "2023-07-12T16:20:40.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-263283",
+    "summary": "Loading a 1.12.2 structure block with signs on 1.20 removes the text",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-08T00:39:06.000+0300",
+    "resolution_date": "2023-06-08T16:37:05.000+0300",
+    "updated_date": "2023-06-08T16:37:05.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-263200",
+    "summary": "Entities riding baby sniffers render too high",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-05T14:01:04.000+0300",
+    "resolution_date": "2023-06-15T11:23:31.000+0300",
+    "updated_date": "2023-06-15T16:02:07.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-263126",
+    "summary": "Sponges no longer make a sound when absorbing water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-01T22:59:22.000+0300",
+    "resolution_date": "2023-07-26T15:47:31.000+0300",
+    "updated_date": "2023-07-26T15:47:32.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-263049",
+    "summary": "Camels indefinitely dash while in lava",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-30T04:16:45.000+0300",
+    "resolution_date": "2023-06-27T12:06:04.000+0300",
+    "updated_date": "2023-06-27T12:06:04.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-263011",
+    "summary": "Sniffers can sniff out and follow players from incredibly large distances",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-28T13:27:31.000+0300",
+    "resolution_date": "2023-06-30T16:09:29.000+0300",
+    "updated_date": "2023-06-30T16:09:29.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-262947",
+    "summary": "The \"Smithing with Style\" advancement doesn't grant experience upon completion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-25T17:32:06.000+0300",
+    "resolution_date": "2023-06-08T12:32:35.000+0300",
+    "updated_date": "2023-06-08T18:22:38.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-262804",
+    "summary": "Players' swimming animations are jittery for other players",
+    "labels": [
+      "choppy-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking",
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-20T17:04:27.000+0300",
+    "resolution_date": "2023-06-08T12:57:23.000+0300",
+    "updated_date": "2023-06-08T12:57:23.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-262766",
+    "summary": "NBSP is a valid invisible character that can be added into Book titles so that they have blank names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-19T18:08:24.000+0300",
+    "resolution_date": "2023-06-08T12:57:21.000+0300",
+    "updated_date": "2023-06-08T12:57:21.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-262751",
+    "summary": "Blank decorated pot's NBT depends on method used to obtain it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-19T03:20:07.000+0300",
+    "resolution_date": "2023-07-07T13:07:44.000+0300",
+    "updated_date": "2023-07-07T13:07:44.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-262720",
+    "summary": "One of the pink petals' stems has an incomplete model",
+    "labels": [
+      "model",
+      "pink_petals"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-17T02:49:47.000+0300",
+    "resolution_date": "2023-06-16T11:47:30.000+0300",
+    "updated_date": "2023-06-16T11:47:30.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-262638",
+    "summary": "When a \"Size:0\" slime and magma cube rides on some mobs the rendering position is too low",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-13T19:08:46.000+0300",
+    "resolution_date": "2023-06-15T11:23:31.000+0300",
+    "updated_date": "2023-06-15T11:23:31.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-262636",
+    "summary": "Mobs with passengers that are slimes or magma cubes can't move and don't function correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-13T18:15:05.000+0300",
+    "resolution_date": "2023-06-08T16:44:42.000+0300",
+    "updated_date": "2023-06-12T18:43:23.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-262620",
+    "summary": "Llamas and trader llamas need to be tamed in order to be ridden by the mob which is inconsistent with other rideable mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-13T10:43:16.000+0300",
+    "resolution_date": "2023-06-08T16:44:43.000+0300",
+    "updated_date": "2023-06-12T18:43:51.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-262615",
+    "summary": "Ridden camels need to be equipped with a saddle before they can be moved by mob control which is inconsistent with other rideable mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-13T09:58:54.000+0300",
+    "resolution_date": "2023-06-08T17:58:04.000+0300",
+    "updated_date": "2023-06-12T18:44:54.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-262613",
+    "summary": "Mobs can't control some rideable mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-13T09:34:48.000+0300",
+    "resolution_date": "2023-06-08T16:44:43.000+0300",
+    "updated_date": "2023-06-12T18:45:18.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-262442",
+    "summary": "Camels stand a bit too close to players that are tempting them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-08T13:24:17.000+0300",
+    "resolution_date": "2023-06-08T12:20:44.000+0300",
+    "updated_date": "2023-06-08T12:20:44.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-262436",
+    "summary": "Copying a pot in creative does not save NBT data",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-08T03:32:41.000+0300",
+    "resolution_date": "2023-07-07T13:07:45.000+0300",
+    "updated_date": "2023-07-07T13:07:45.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-262295",
+    "summary": "Warped and Crimson hanging signs uses their respective plank sounds, despite their stripped stems having unique sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-05-03T16:57:43.000+0300",
+    "resolution_date": "2023-06-28T18:28:13.000+0300",
+    "updated_date": "2023-06-28T18:28:13.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-262132",
+    "summary": "Pigstep music disc is in wrong location in the creative menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-04-26T22:13:53.000+0300",
+    "resolution_date": "2023-07-12T11:47:00.000+0300",
+    "updated_date": "2023-07-12T11:47:00.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-262108",
+    "summary": "Smithing table GUI issue with custom recipes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-04-26T02:11:48.000+0300",
+    "resolution_date": "2023-06-08T12:32:35.000+0300",
+    "updated_date": "2023-06-08T12:32:35.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-261965",
+    "summary": "The \"Glow and Behold!\" advancement is granted when interacting with empty signs while holding glow ink sacs, despite no glow ink sacs being consumed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-04-19T19:37:44.000+0300",
+    "resolution_date": "2023-07-07T13:07:42.000+0300",
+    "updated_date": "2023-07-14T20:19:13.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-261739",
+    "summary": "Bamboo raft next to visually half blocks z-fights",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-04-09T07:05:44.000+0300",
+    "resolution_date": "2023-06-27T12:03:50.000+0300",
+    "updated_date": "2023-06-27T12:03:50.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-261657",
+    "summary": "Sculk sensor range is still spherical, creating different outputs from within a given block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Game Events",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-04-06T08:45:35.000+0300",
+    "resolution_date": "2023-06-27T12:05:47.000+0300",
+    "updated_date": "2023-06-27T12:05:47.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-261611",
+    "summary": "Placing blocks against a waxed sign does not play the block's placement sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-04-05T17:12:41.000+0300",
+    "resolution_date": "2023-06-08T11:52:11.000+0300",
+    "updated_date": "2023-06-08T11:52:11.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-261440",
+    "summary": "Resizing the window makes it so you can't change names in anvils",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-30T11:27:08.000+0300",
+    "resolution_date": "2023-06-08T12:57:20.000+0300",
+    "updated_date": "2023-06-08T12:57:20.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-261427",
+    "summary": "Sculk sensors and calibrated sculk sensors don't detect totem of undying activating",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-29T23:37:46.000+0300",
+    "resolution_date": "2023-06-08T11:51:26.000+0300",
+    "updated_date": "2023-06-08T11:51:26.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-261420",
+    "summary": "Sculk sensor and calibrated sculk sensor don't detect a witch drinking a potion ",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-29T20:43:19.000+0300",
+    "resolution_date": "2023-06-08T11:52:11.000+0300",
+    "updated_date": "2023-06-08T11:52:11.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-261411",
+    "summary": "All Smithing Templates share the same translation key",
+    "labels": [
+      "resource-pack",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-29T17:46:15.000+0300",
+    "resolution_date": "2023-06-16T16:12:19.000+0300",
+    "updated_date": "2023-06-16T16:12:19.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-261369",
+    "summary": "Washed banner does not stack with blank banner",
+    "labels": [
+      "Banner",
+      "Loom",
+      "banner",
+      "banners",
+      "loom"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "Items",
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-27T01:55:25.000+0300",
+    "resolution_date": "2023-06-15T11:00:22.000+0300",
+    "updated_date": "2023-06-15T11:00:22.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-261182",
+    "summary": "Sign color looks different in world and in editing screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-22T19:35:41.000+0200",
+    "resolution_date": "2023-06-16T16:12:20.000+0300",
+    "updated_date": "2023-06-16T16:12:20.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-261123",
+    "summary": "item_display entity breaks certain mobs' AI when being used as a passenger",
+    "labels": [
+      "mob",
+      "mob-behavior"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-20T14:58:35.000+0200",
+    "resolution_date": "2023-06-08T17:20:47.000+0300",
+    "updated_date": "2023-06-08T17:22:09.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-260968",
+    "summary": "The narrator does not narrate the word \"Experimental\" in the world selection screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-13T03:42:04.000+0200",
+    "resolution_date": "2023-06-08T12:57:24.000+0300",
+    "updated_date": "2023-06-08T12:57:24.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-260675",
+    "summary": "Decorated pots render blank on the first frame after being placed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Networking",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-03-01T18:30:57.000+0200",
+    "resolution_date": "2023-07-26T15:47:32.000+0300",
+    "updated_date": "2023-07-26T15:47:32.000+0300",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-260604",
+    "summary": "Terrible loudness following consecutive use of /fill",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-27T05:38:25.000+0200",
+    "resolution_date": "2023-06-08T11:26:47.000+0300",
+    "updated_date": "2023-06-08T11:26:47.000+0300",
+    "watches": 9,
+    "votes": 13
+  },
+  {
+    "id": "MC-260490",
+    "summary": "Passenger's riding position is too low for non-default-sized mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-23T19:48:07.000+0200",
+    "resolution_date": "2023-06-15T11:23:30.000+0300",
+    "updated_date": "2023-06-15T11:23:30.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-260485",
+    "summary": "The \"/item\" command cannot remove items within chiseled bookshelves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-23T18:49:51.000+0200",
+    "resolution_date": "2023-06-08T15:28:49.000+0300",
+    "updated_date": "2023-06-08T15:28:49.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-260096",
+    "summary": "Decorated pots don't have creative mode tooltips",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-15T20:09:26.000+0200",
+    "resolution_date": "2023-07-07T13:07:43.000+0300",
+    "updated_date": "2023-07-07T13:07:43.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-260085",
+    "summary": "Particles are created when using a brush on a barrier",
+    "labels": [
+      "invisible-blocks",
+      "invisible-blocks-not-invisible"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-15T19:44:40.000+0200",
+    "resolution_date": "2023-06-09T11:01:29.000+0300",
+    "updated_date": "2023-06-09T11:01:29.000+0300",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-260058",
+    "summary": "Pick Block does not work properly for blank decorated pots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-15T18:58:02.000+0200",
+    "resolution_date": "2023-07-07T13:07:44.000+0300",
+    "updated_date": "2023-07-07T13:07:44.000+0300",
+    "watches": 0,
+    "votes": 6
+  },
+  {
+    "id": "MC-260054",
+    "summary": "Pink Petals hitbox does not adjust to contents",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-15T18:51:57.000+0200",
+    "resolution_date": "2023-06-27T12:05:03.000+0300",
+    "updated_date": "2023-08-02T18:42:10.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-259794",
+    "summary": "Armor enchanted with curse of binding cannot be swapped via right-clicking in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-08T18:23:02.000+0200",
+    "resolution_date": "2023-06-16T16:12:19.000+0300",
+    "updated_date": "2023-06-16T16:12:19.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259769",
+    "summary": "Firework explosions no longer deal knockback to entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-02-07T19:05:31.000+0200",
+    "resolution_date": "2023-06-08T12:57:24.000+0300",
+    "updated_date": "2023-06-08T12:57:24.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259452",
+    "summary": "Baby Camel's laying down/getting up sounds are not sped up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-01-26T02:21:10.000+0200",
+    "resolution_date": "2023-06-08T11:51:26.000+0300",
+    "updated_date": "2023-06-15T01:58:03.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-259401",
+    "summary": "Lapis lazuli icons in enchanting table and smithing table are inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-01-25T06:39:24.000+0200",
+    "resolution_date": "2023-07-12T11:47:01.000+0300",
+    "updated_date": "2023-07-12T11:47:01.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-259382",
+    "summary": "Message \"Failed to get element\" is logged repeatedly when giving yourself armor with invalid trimming pattern or material",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-01-24T22:55:25.000+0200",
+    "resolution_date": "2023-06-08T11:51:23.000+0300",
+    "updated_date": "2023-06-08T11:51:23.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-259152",
+    "summary": "Player's model displayed in inventory while sneaking differs between the versions ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-01-13T16:05:49.000+0200",
+    "resolution_date": "2023-06-08T12:49:27.000+0300",
+    "updated_date": "2023-06-08T12:49:27.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-258620",
+    "summary": "Piglins barter every 121 game ticks instead of every 120 game ticks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-12-19T12:15:28.000+0200",
+    "resolution_date": "2023-06-08T12:57:23.000+0300",
+    "updated_date": "2023-06-08T12:57:23.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-258379",
+    "summary": "Parity issue: The locations of camels' ears differ across platforms",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-08-19T12:44:29.000+0300",
+    "resolution_date": "2023-07-26T15:47:33.000+0300",
+    "updated_date": "2023-07-26T15:47:33.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-257628",
+    "summary": "Sculk sensors are not activated upon camels dashing",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-11-16T19:28:09.000+0200",
+    "resolution_date": "2023-06-08T11:52:13.000+0300",
+    "updated_date": "2023-06-08T11:52:13.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-257431",
+    "summary": "Bamboo fence gates utilize the wrong textures",
+    "labels": [
+      "bamboo_fence_gate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-11-10T15:48:33.000+0200",
+    "resolution_date": "2023-07-26T15:39:54.000+0300",
+    "updated_date": "2023-07-26T15:39:54.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-257342",
+    "summary": "You get slowed down when riding a camel in a 3 block tall area",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-11-09T18:17:54.000+0200",
+    "resolution_date": "2023-07-26T15:47:31.000+0300",
+    "updated_date": "2023-07-26T16:13:12.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-256690",
+    "summary": "Camels attempt to stand up when blocks are placed over them, causing them to take suffocation damage if blocks are at eye level",
+    "labels": [
+      "camel",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-10-20T17:44:12.000+0300",
+    "resolution_date": "2023-06-08T11:51:23.000+0300",
+    "updated_date": "2023-06-08T11:51:23.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-256675",
+    "summary": "Z-fighting occurs between the legs of the camel and the texture of the saddle when it is sitting",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-10-20T12:51:29.000+0300",
+    "resolution_date": "2023-07-26T15:47:33.000+0300",
+    "updated_date": "2023-07-26T15:47:33.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-256641",
+    "summary": "Bamboo fence and fence gate aren't grouped with the other fences and fence gates in the crafting table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-10-20T01:52:24.000+0300",
+    "resolution_date": "2023-06-08T11:52:13.000+0300",
+    "updated_date": "2023-06-08T11:52:13.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-256485",
+    "summary": "Camels that spawn within villages can spawn inside blocks",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-10-19T16:52:17.000+0300",
+    "resolution_date": "2023-06-08T11:51:24.000+0300",
+    "updated_date": "2023-06-08T11:51:24.000+0300",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-256482",
+    "summary": "Sculk sensors are not activated upon camels standing up or sitting down",
+    "labels": [
+      "camel",
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-10-19T16:47:03.000+0300",
+    "resolution_date": "2023-06-08T11:52:12.000+0300",
+    "updated_date": "2023-06-08T11:52:12.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-256466",
+    "summary": "Raft entities are named boats",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-10-19T16:21:57.000+0300",
+    "resolution_date": "2023-06-08T11:51:22.000+0300",
+    "updated_date": "2023-06-18T05:48:35.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-255967",
+    "summary": "Old chunks that would have Deep Dark biomes below Y=0 if generated newly doesn't completely generate; only Ancient Cities are spawned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-09-17T19:44:23.000+0300",
+    "resolution_date": "2023-06-30T15:10:29.000+0300",
+    "updated_date": "2023-06-30T15:10:29.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-254100",
+    "summary": "Iron golem spawn rate decreased",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-07-11T11:30:05.000+0300",
+    "resolution_date": "2023-06-08T12:57:22.000+0300",
+    "updated_date": "2023-06-08T12:57:22.000+0300",
+    "watches": 21,
+    "votes": 32
+  },
+  {
+    "id": "MC-252231",
+    "summary": "Warm Frog texture has inconsistent pixels",
+    "labels": [
+      "mob",
+      "rendering",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-05-26T21:38:37.000+0300",
+    "resolution_date": "2023-06-13T10:28:21.000+0300",
+    "updated_date": "2023-06-13T10:28:21.000+0300",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-249109",
+    "summary": "Sniffers, frogs, goats, and camels don't panic when attached to leads",
+    "labels": [
+      "camel",
+      "frog",
+      "goat",
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-03-16T19:58:46.000+0200",
+    "resolution_date": "2023-06-09T12:41:08.000+0300",
+    "updated_date": "2023-06-09T12:41:08.000+0300",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-242592",
+    "summary": "Texture map for the polar bear (polarbear.png) contain unused pixels",
+    "labels": [
+      "mismatching-textures",
+      "polar-bear",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-23T08:12:14.000+0200",
+    "resolution_date": "2023-06-13T10:28:23.000+0300",
+    "updated_date": "2023-06-13T10:28:23.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-242591",
+    "summary": "Texture maps for the Llama and Trader Llama (white/gray/creamy/brown.png) contain unused pixels",
+    "labels": [
+      "llama",
+      "mismatching-textures",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-23T08:04:26.000+0200",
+    "resolution_date": "2023-06-13T10:28:23.000+0300",
+    "updated_date": "2023-06-13T10:28:23.000+0300",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-242398",
+    "summary": "Texture maps for the sheep and sheep fur (sheep.png & sheep_fur.png) contain unused pixels",
+    "labels": [
+      "mismatching-textures",
+      "sheep",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-21T07:21:18.000+0200",
+    "resolution_date": "2023-06-13T10:28:24.000+0300",
+    "updated_date": "2023-06-13T10:28:24.000+0300",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-242397",
+    "summary": "Texture maps for cow, red & brown mooshroom (red/brown_mooshroom.png & cow.png) contain unused pixels",
+    "labels": [
+      "cow",
+      "mismatching-textures",
+      "mooshroom",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-21T07:13:59.000+0200",
+    "resolution_date": "2023-06-13T10:28:27.000+0300",
+    "updated_date": "2023-06-13T10:28:27.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-242396",
+    "summary": "Texture map for armor stand (wood.png) contains unused pixels",
+    "labels": [
+      "armor_stand",
+      "mismatching-textures",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-21T07:04:12.000+0200",
+    "resolution_date": "2023-06-13T10:28:22.000+0300",
+    "updated_date": "2023-06-13T10:28:22.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-242395",
+    "summary": "Texture map for the blaze (blaze.png) contains unused pixels ",
+    "labels": [
+      "blaze",
+      "mismatching-textures",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-21T06:55:41.000+0200",
+    "resolution_date": "2023-06-13T10:28:22.000+0300",
+    "updated_date": "2023-06-13T10:28:22.000+0300",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-242092",
+    "summary": "Texture map for magma cube (magmacube.png) has unused pixels",
+    "labels": [
+      "magma_cube",
+      "mismatching-textures",
+      "texture",
+      "unused-pixels"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-20T10:29:30.000+0200",
+    "resolution_date": "2023-06-13T10:28:21.000+0300",
+    "updated_date": "2023-06-13T10:28:21.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-242076",
+    "summary": "The skeleton of a spider jockey sits \"inside\" of spider model rather than on top of the spider",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-11-20T06:27:17.000+0200",
+    "resolution_date": "2023-07-26T10:14:35.000+0300",
+    "updated_date": "2023-07-26T10:14:35.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-237333",
+    "summary": "Cake, banners and paintings cannot be placed on chorus flowers, despite being able to support them",
+    "labels": [
+      "chorus_flower",
+      "placement-and-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-09-21T21:31:35.000+0300",
+    "resolution_date": "2023-08-02T18:12:29.000+0300",
+    "updated_date": "2023-08-02T18:15:18.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-232840",
+    "summary": "Baby zombie legs clip through heads of mobs they are riding",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-07-22T10:11:01.000+0300",
+    "resolution_date": "2023-06-15T11:23:29.000+0300",
+    "updated_date": "2023-06-15T11:23:29.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-230732",
+    "summary": "Minecraft local difficulty setting is calculated/displayed wrongly when running a world in a server",
+    "labels": [
+      "multiplayer",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-06-30T14:16:53.000+0300",
+    "resolution_date": "2023-06-08T12:57:20.000+0300",
+    "updated_date": "2023-06-08T12:57:20.000+0300",
+    "watches": 14,
+    "votes": 22
+  },
+  {
+    "id": "MC-228420",
+    "summary": "World not loading / falling through the world when joining a server / travelling between dimensions / respawning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-06-10T20:21:26.000+0300",
+    "resolution_date": "2023-07-31T11:38:55.000+0300",
+    "updated_date": "2023-07-31T11:38:55.000+0300",
+    "watches": 32,
+    "votes": 66
+  },
+  {
+    "id": "MC-215768",
+    "summary": "Sculk sensors do not detect turtles clearing away sand",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-02-17T01:00:42.000+0200",
+    "resolution_date": "2023-06-08T11:52:12.000+0300",
+    "updated_date": "2023-06-08T11:52:12.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-190815",
+    "summary": "Shulker boxes don't conduct redstone when open, but don't trigger redstone updates when opened",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-06-21T09:36:06.000+0300",
+    "resolution_date": "2023-06-29T13:40:34.000+0300",
+    "updated_date": "2023-06-29T13:40:34.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-181190",
+    "summary": "The discount for curing a villager is multiplied if the villager is reinfected and cured again",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-04-28T06:21:54.000+0300",
+    "resolution_date": "2023-07-26T18:16:39.000+0300",
+    "updated_date": "2023-07-29T00:57:30.000+0300",
+    "watches": 34,
+    "votes": 33
+  },
+  {
+    "id": "MC-164080",
+    "summary": "Entities riding on Ghast are partially or fully inside it",
+    "labels": [
+      "command",
+      "endermite",
+      "ghast",
+      "jockey"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2019-10-19T01:07:35.000+0300",
+    "resolution_date": "2023-06-15T11:23:29.000+0300",
+    "updated_date": "2023-06-15T11:23:29.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-147766",
+    "summary": "Shift key stays pressed until press any other key",
+    "labels": [
+      "shift",
+      "text-field"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2019-04-10T19:08:12.000+0300",
+    "resolution_date": "2023-07-27T10:18:47.000+0300",
+    "updated_date": "2023-07-27T10:18:47.000+0300",
+    "watches": 11,
+    "votes": 19
+  },
+  {
+    "id": "MC-140646",
+    "summary": "Text fields don't scroll while selecting text with Shift",
+    "labels": [
+      "controls",
+      "selecting",
+      "shift",
+      "text",
+      "text-field"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2018-12-05T22:06:05.000+0200",
+    "resolution_date": "2023-06-08T12:57:21.000+0300",
+    "updated_date": "2023-07-30T00:00:20.000+0300",
+    "watches": 33,
+    "votes": 81
+  },
+  {
+    "id": "MC-122547",
+    "summary": "Barriers can produce fall particles",
+    "labels": [
+      "block",
+      "falling",
+      "particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2017-11-26T20:39:44.000+0200",
+    "resolution_date": "2023-06-09T11:01:29.000+0300",
+    "updated_date": "2023-06-12T18:50:10.000+0300",
+    "watches": 18,
+    "votes": 31
+  },
+  {
+    "id": "MC-122296",
+    "summary": "Horizontal scrolling does not work on Mac [Magic Mouse]",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2017-11-23T13:22:46.000+0200",
+    "resolution_date": "2023-07-07T14:13:38.000+0300",
+    "updated_date": "2023-07-07T14:13:38.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-121772",
+    "summary": "Can't scroll while holding SHIFT on macOS",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2017-11-10T12:50:51.000+0200",
+    "resolution_date": "2023-07-07T14:13:35.000+0300",
+    "updated_date": "2023-07-07T14:13:35.000+0300",
+    "watches": 57,
+    "votes": 115
+  },
+  {
+    "id": "MC-93320",
+    "summary": "Water freezes even if randomTickSpeed is 0",
+    "labels": [
+      "/gamerule",
+      "freeze",
+      "randomTickSpeed",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2015-11-25T16:36:20.000+0200",
+    "resolution_date": "2023-06-30T10:43:00.000+0300",
+    "updated_date": "2023-06-30T14:10:38.000+0300",
+    "watches": 15,
+    "votes": 24
+  },
+  {
+    "id": "MC-85582",
+    "summary": "Entity models in the inventory can render outside the boundaries of the black box",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2015-08-09T01:44:52.000+0300",
+    "resolution_date": "2023-06-08T12:49:28.000+0300",
+    "updated_date": "2023-06-08T12:49:28.000+0300",
+    "watches": 14,
+    "votes": 11
+  },
+  {
+    "id": "MC-80876",
+    "summary": "Entity riding vehicle has always same offset",
+    "labels": [
+      "hitbox",
+      "offset",
+      "riding",
+      "vehicle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2015-05-31T14:45:33.000+0300",
+    "resolution_date": "2023-06-15T11:23:30.000+0300",
+    "updated_date": "2023-06-15T11:23:30.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-69387",
+    "summary": "The \"/item\" command cannot replace items within jukeboxes",
+    "labels": [
+      "/item",
+      "container",
+      "jukebox"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2014-08-25T16:09:13.000+0300",
+    "resolution_date": "2023-06-08T15:30:58.000+0300",
+    "updated_date": "2023-06-08T15:30:58.000+0300",
+    "watches": 4,
+    "votes": 0
+  },
+  {
+    "id": "MC-67532",
+    "summary": "Bottom 2 rows of pixels in selected hotbar slot texture don't appear in game",
+    "labels": [
+      "resource-pack-support",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2014-08-15T16:40:31.000+0300",
+    "resolution_date": "2023-07-05T14:34:37.000+0300",
+    "updated_date": "2023-07-05T14:34:37.000+0300",
+    "watches": 28,
+    "votes": 55
+  },
+  {
+    "id": "MC-29371",
+    "summary": "Several buttons and icons use the old tooltip design upon being hovered over",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2013-08-29T23:02:43.000+0300",
+    "resolution_date": "2023-07-03T10:08:24.000+0300",
+    "updated_date": "2023-07-03T10:08:24.000+0300",
+    "watches": 9,
+    "votes": 14
+  }
+]
