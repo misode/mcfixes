@@ -1205,6 +1205,26 @@
     "votes": 4
   },
   {
+    "id": "MC-256696",
+    "summary": "Player sneaks client-side while riding a camel in a three-block high space",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-10-20T19:23:55.000+0300",
+    "resolution_date": "2023-08-02T20:04:06.000+0300",
+    "updated_date": "2023-08-02T20:04:06.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
     "id": "MC-256690",
     "summary": "Camels attempt to stand up when blocks are placed over them, causing them to take suffocation damage if blocks are at eye level",
     "labels": [
@@ -1390,6 +1410,25 @@
     "updated_date": "2023-06-13T10:28:21.000+0300",
     "watches": 8,
     "votes": 12
+  },
+  {
+    "id": "MC-249776",
+    "summary": "Players sneak client-side while riding boat chests under hoppers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-04-01T00:17:07.000+0300",
+    "resolution_date": "2023-08-02T20:05:43.000+0300",
+    "updated_date": "2023-08-02T20:05:43.000+0300",
+    "watches": 2,
+    "votes": 3
   },
   {
     "id": "MC-249109",
@@ -1744,6 +1783,28 @@
     "updated_date": "2023-07-29T00:57:30.000+0300",
     "watches": 34,
     "votes": 33
+  },
+  {
+    "id": "MC-169530",
+    "summary": "Player sneaks client-side when riding a pig in a two block high tunnel",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-01-06T19:05:29.000+0200",
+    "resolution_date": "2023-08-02T20:05:56.000+0300",
+    "updated_date": "2023-08-02T20:05:56.000+0300",
+    "watches": 4,
+    "votes": 9
   },
   {
     "id": "MC-164080",
