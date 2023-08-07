@@ -1845,6 +1845,25 @@
     "votes": 33
   },
   {
+    "id": "MC-173057",
+    "summary": "Text field can scroll when auto completing, so that you do not see what you auto completed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-02-24T18:09:11.000+0200",
+    "resolution_date": "2023-08-07T15:07:25.000+0300",
+    "updated_date": "2023-08-07T15:07:25.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
     "id": "MC-169530",
     "summary": "Player sneaks client-side when riding a pig in a two block high tunnel",
     "labels": [
