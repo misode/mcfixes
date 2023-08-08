@@ -1433,6 +1433,27 @@
     "votes": 12
   },
   {
+    "id": "MC-250985",
+    "summary": "Unused recipe book button in crafting and inventory texture",
+    "labels": [
+      "unused-texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-04-28T02:14:52.000+0300",
+    "resolution_date": "2023-08-08T17:33:13.000+0300",
+    "updated_date": "2023-08-08T17:33:13.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
     "id": "MC-249776",
     "summary": "Players sneak client-side while riding boat chests under hoppers",
     "labels": [],
@@ -1664,6 +1685,75 @@
     "votes": 11
   },
   {
+    "id": "MC-237429",
+    "summary": "Flashing hunger background texture is unused",
+    "labels": [
+      "hud-status-icons",
+      "icons.png",
+      "unused-texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-09-23T13:52:21.000+0300",
+    "resolution_date": "2023-08-08T17:32:55.000+0300",
+    "updated_date": "2023-08-08T17:32:55.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-237428",
+    "summary": "Flashing hunger icon texture is unused",
+    "labels": [
+      "hud-status-icons",
+      "icons.png",
+      "unused-texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-09-23T13:48:23.000+0300",
+    "resolution_date": "2023-08-08T17:32:37.000+0300",
+    "updated_date": "2023-08-08T17:32:37.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-237427",
+    "summary": "Horse flashing heart background texture is unused",
+    "labels": [
+      "hud-status-icons",
+      "icons.png",
+      "unused-texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-09-23T13:29:02.000+0300",
+    "resolution_date": "2023-08-08T17:32:21.000+0300",
+    "updated_date": "2023-08-08T17:32:21.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
     "id": "MC-237333",
     "summary": "Cake, banners and paintings cannot be placed on chorus flowers, despite being able to support them",
     "labels": [
@@ -1685,6 +1775,29 @@
     "updated_date": "2023-08-02T18:15:18.000+0300",
     "watches": 1,
     "votes": 6
+  },
+  {
+    "id": "MC-237326",
+    "summary": "Horse flashing heart texture is unused",
+    "labels": [
+      "hud-status-icons",
+      "icons.png",
+      "unused-texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-09-21T19:31:49.000+0300",
+    "resolution_date": "2023-08-08T17:32:02.000+0300",
+    "updated_date": "2023-08-08T17:32:02.000+0300",
+    "watches": 5,
+    "votes": 12
   },
   {
     "id": "MC-232840",
