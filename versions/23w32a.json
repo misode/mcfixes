@@ -1,0 +1,348 @@
+[
+  {
+    "id": "MC-264689",
+    "summary": "High Contrast resource pack makes extra pixels appear at a full bossbar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-06T15:50:34.000+0300",
+    "resolution_date": "2023-08-09T15:01:13.000+0300",
+    "updated_date": "2023-08-09T15:01:13.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-264687",
+    "summary": "The capes and skins of the hosts of LAN worlds don't render for other players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-06T14:45:57.000+0300",
+    "resolution_date": "2023-08-09T14:51:00.000+0300",
+    "updated_date": "2023-08-09T16:33:21.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-264664",
+    "summary": "High contrast slider indicators in menus missing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-05T14:57:30.000+0300",
+    "resolution_date": "2023-08-09T13:07:25.000+0300",
+    "updated_date": "2023-08-09T13:07:25.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-264610",
+    "summary": "The game hangs if \"border\" in button.png.mcmeta is changed to half of \"width\" or greater and you try to open the Game Menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-04T05:02:37.000+0300",
+    "resolution_date": "2023-08-09T15:01:15.000+0300",
+    "updated_date": "2023-08-09T15:01:15.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-264576",
+    "summary": "Bossbar gets visually stretched instead of cut off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-03T01:27:52.000+0300",
+    "resolution_date": "2023-08-04T12:18:42.000+0300",
+    "updated_date": "2023-08-07T14:56:17.000+0300",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-264565",
+    "summary": "\"bundle\" folder in the sprites directory with only an mcmeta file",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-02T21:32:06.000+0300",
+    "resolution_date": "2023-08-04T12:18:41.000+0300",
+    "updated_date": "2023-08-04T12:18:41.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-264557",
+    "summary": "The file names for the food full and half sprites for both normal and hunger are backwards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-02T20:10:35.000+0300",
+    "resolution_date": "2023-08-04T12:18:42.000+0300",
+    "updated_date": "2023-08-05T22:24:57.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-264548",
+    "summary": "A strange error appears in the log file with Minecraft 23w31a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-08-02T18:15:03.000+0300",
+    "resolution_date": "2023-08-09T15:01:11.000+0300",
+    "updated_date": "2023-08-09T15:01:11.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-264260",
+    "summary": "Furnace GUI is displayed incorrectly when modifying block data",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-07-17T01:21:16.000+0300",
+    "resolution_date": "2023-08-09T15:01:09.000+0300",
+    "updated_date": "2023-08-09T15:01:09.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-264092",
+    "summary": "Functions execute commands out of order when containing /say",
+    "labels": [
+      "command",
+      "execution",
+      "function"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-07-07T19:51:20.000+0300",
+    "resolution_date": "2023-08-09T14:50:51.000+0300",
+    "updated_date": "2023-08-09T18:02:30.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-263338",
+    "summary": "Armor Trim texture overhangs Turtle Helmet shape",
+    "labels": [
+      "item",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-06-09T03:17:23.000+0300",
+    "resolution_date": "2023-08-09T14:50:52.000+0300",
+    "updated_date": "2023-08-09T14:50:52.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-262591",
+    "summary": "Camels emit mob interaction vibrations instead of item consumption vibrations when eating cactus",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-05-12T17:03:53.000+0300",
+    "resolution_date": "2023-08-04T11:44:36.000+0300",
+    "updated_date": "2023-08-04T11:44:36.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-259982",
+    "summary": "Wild and eye armor trims display \"floating\" pixels when applied on the chainmail helmet",
+    "labels": [
+      "armor",
+      "helmet"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2023-02-13T16:47:32.000+0200",
+    "resolution_date": "2023-08-09T14:50:51.000+0300",
+    "updated_date": "2023-08-09T14:50:51.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-253137",
+    "summary": "The game output console is logged with errors regarding missing signatures from property textures when joining LAN worlds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2022-06-16T00:49:23.000+0300",
+    "resolution_date": "2023-08-09T14:51:00.000+0300",
+    "updated_date": "2023-08-09T14:51:00.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-177110",
+    "summary": "Mob stepping sounds are inconsistently subtitled",
+    "labels": [
+      "reused-subtitle",
+      "sound-testing-zone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2020-04-02T20:10:47.000+0300",
+    "resolution_date": "2023-08-09T12:29:20.000+0300",
+    "updated_date": "2023-08-09T12:29:20.000+0300",
+    "watches": 7,
+    "votes": 20
+  },
+  {
+    "id": "MC-135339",
+    "summary": "Host's skin is not visible to other players in a LAN world if the host has not opened any world before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2018-07-31T18:23:49.000+0300",
+    "resolution_date": "2023-08-09T14:51:01.000+0300",
+    "updated_date": "2023-08-09T16:33:21.000+0300",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-61041",
+    "summary": "\"CustomPotionEffects\", \"ActiveEffects\", and \"Effects\" NBT tags still use numeral IDs",
+    "labels": [
+      "ActiveEffects",
+      "CustomPotionEffects",
+      "Effects"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 18w21a",
+      "23w32a"
+    ],
+    "creation_date": "2014-07-09T19:10:04.000+0300",
+    "resolution_date": "2023-08-09T18:00:19.000+0300",
+    "updated_date": "2023-08-09T18:00:19.000+0300",
+    "watches": 16,
+    "votes": 41
+  }
+]
