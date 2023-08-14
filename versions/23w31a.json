@@ -2304,5 +2304,26 @@
     "updated_date": "2023-07-03T10:08:24.000+0300",
     "watches": 9,
     "votes": 14
+  },
+  {
+    "id": "MC-25088",
+    "summary": "Health Boost completely reset if applied again",
+    "labels": [
+      "health_boost"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2013-07-11T02:27:41.000+0300",
+    "resolution_date": "2023-08-14T14:26:29.000+0300",
+    "updated_date": "2023-08-14T14:26:29.000+0300",
+    "watches": 17,
+    "votes": 30
   }
 ]
