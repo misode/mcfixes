@@ -1,5 +1,25 @@
 [
   {
+    "id": "MC-264829",
+    "summary": "Text Filter on signs doesn't hide if fully filtered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Dedicated Server",
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-08-13T20:40:32.000+0300",
+    "resolution_date": "2023-08-14T10:36:15.000+0300",
+    "updated_date": "2023-08-14T10:36:15.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
     "id": "MC-264468",
     "summary": "GUI texture \"legacy_smithing.png\" still present in game files despite not being used anymore",
     "labels": [
