@@ -39,5 +39,24 @@
     "updated_date": "2023-06-27T10:40:14.000+0300",
     "watches": 3,
     "votes": 11
+  },
+  {
+    "id": "MC-207393",
+    "summary": "Sculk sensor can detect \"GameEvent.STEP\" before \"GameEvent.HIT_GROUND\" causing an inconsistent redstone signal output of either 1 or 5 depending on the circumstance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.1"
+    ],
+    "creation_date": "2020-12-03T06:55:44.000+0200",
+    "resolution_date": "2023-08-15T11:58:00.000+0300",
+    "updated_date": "2023-08-15T11:58:00.000+0300",
+    "watches": 9,
+    "votes": 12
   }
 ]
