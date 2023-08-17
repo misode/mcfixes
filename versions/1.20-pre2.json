@@ -870,6 +870,28 @@
     "votes": 13
   },
   {
+    "id": "MC-228529",
+    "summary": "Tutorial keybind components are lowercase",
+    "labels": [
+      "GUI",
+      "JSON"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2021-06-11T15:35:49.000+0300",
+    "resolution_date": "2023-08-18T00:20:36.000+0300",
+    "updated_date": "2023-08-18T00:20:37.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-226344",
     "summary": "Changing the \"Owner\" tag of a projectile doesn't affect the outcome of the projectile unless the world is reloaded",
     "labels": [],
@@ -1034,6 +1056,29 @@
     "updated_date": "2023-05-18T05:02:25.000+0300",
     "watches": 16,
     "votes": 30
+  },
+  {
+    "id": "MC-121433",
+    "summary": "Non English letters are lower case in controls setting, while English are upper case",
+    "labels": [
+      "controls",
+      "lwjgl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 17w45a",
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2017-10-28T12:36:14.000+0300",
+    "resolution_date": "2023-08-18T00:19:51.000+0300",
+    "updated_date": "2023-08-18T00:19:51.000+0300",
+    "watches": 9,
+    "votes": 13
   },
   {
     "id": "MC-117815",
