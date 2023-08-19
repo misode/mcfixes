@@ -1,0 +1,456 @@
+[
+  {
+    "id": "MC-264773",
+    "summary": "There's a misplaced label in the network traffic graph, overlapping minimum B/s rate text",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2023-08-10T18:52:24.000+0300",
+    "resolution_date": "2023-08-11T10:04:08.000+0300",
+    "updated_date": "2023-08-11T10:31:18.000+0300",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-264753",
+    "summary": "Eye armor trim on chainmail helmets now has absolutely no effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2023-08-10T02:06:43.000+0300",
+    "resolution_date": "2023-08-14T15:59:07.000+0300",
+    "updated_date": "2023-08-15T10:19:18.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-264746",
+    "summary": "Armor trims no longer render their second layer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2023-08-09T23:09:40.000+0300",
+    "resolution_date": "2023-08-14T15:59:07.000+0300",
+    "updated_date": "2023-08-14T15:59:07.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-264743",
+    "summary": "The \"Debug\" line on the debug screen that shows which debug graphs are enabled doesn't mention the ping and network traffic chart",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug",
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2023-08-09T21:39:15.000+0300",
+    "resolution_date": "2023-08-11T10:13:20.000+0300",
+    "updated_date": "2023-08-14T16:45:31.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-264741",
+    "summary": "Unequip vibration only works in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2023-08-09T21:05:14.000+0300",
+    "resolution_date": "2023-08-18T10:13:28.000+0300",
+    "updated_date": "2023-08-18T10:13:28.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-257909",
+    "summary": "Zoglins, hoglins, and pandas can still attack players riding camels",
+    "labels": [
+      "camel",
+      "hoglin",
+      "panda",
+      "zoglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2022-11-26T19:19:04.000+0200",
+    "resolution_date": "2023-08-14T15:43:21.000+0300",
+    "updated_date": "2023-08-14T15:43:21.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-256652",
+    "summary": "Endermen are almost unable to attack Players on a Camel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2022-10-20T03:23:25.000+0300",
+    "resolution_date": "2023-08-18T08:15:51.000+0300",
+    "updated_date": "2023-08-18T08:15:51.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-227338",
+    "summary": "Vindicators have insane range when riding a ravager",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2021-06-04T01:34:45.000+0300",
+    "resolution_date": "2023-08-17T18:37:30.000+0300",
+    "updated_date": "2023-08-17T22:08:49.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-217629",
+    "summary": "Tripwire hooks use stone sounds, rather than wood",
+    "labels": [
+      "incorrect-block-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2021-03-03T19:08:17.000+0200",
+    "resolution_date": "2023-08-17T13:23:47.000+0300",
+    "updated_date": "2023-08-17T15:00:08.000+0300",
+    "watches": 11,
+    "votes": 12
+  },
+  {
+    "id": "MC-217628",
+    "summary": "Levers use wood sounds rather than stone",
+    "labels": [
+      "incorrect-block-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2021-03-03T19:04:08.000+0200",
+    "resolution_date": "2023-08-17T13:23:46.000+0300",
+    "updated_date": "2023-08-17T15:00:11.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-214126",
+    "summary": "Bees don't pollinate themselves with spore blossoms or chorus flowers",
+    "labels": [
+      "bee",
+      "chorus_flower",
+      "spore_blossom",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2021-02-05T00:54:09.000+0200",
+    "resolution_date": "2023-08-17T12:41:01.000+0300",
+    "updated_date": "2023-08-17T12:41:01.000+0300",
+    "watches": 14,
+    "votes": 27
+  },
+  {
+    "id": "MC-200484",
+    "summary": "Jukeboxes use stone sounds despite being composed predominantly of wood",
+    "labels": [
+      "incorrect-block-sound",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2020-09-18T00:08:58.000+0300",
+    "resolution_date": "2023-08-17T13:23:46.000+0300",
+    "updated_date": "2023-08-17T15:00:14.000+0300",
+    "watches": 13,
+    "votes": 18
+  },
+  {
+    "id": "MC-197473",
+    "summary": "Renamed block entities don't stack properly",
+    "labels": [
+      "RepairCost",
+      "block-entity",
+      "chest",
+      "command",
+      "inventory"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2020-08-08T22:49:05.000+0300",
+    "resolution_date": "2023-08-16T17:45:37.000+0300",
+    "updated_date": "2023-08-16T17:45:37.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-182820",
+    "summary": "Repeaters and comparators use wood sounds for placing/breaking despite being made mostly of stone",
+    "labels": [
+      "incorrect-block-sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2020-05-07T00:33:04.000+0300",
+    "resolution_date": "2023-08-16T12:56:56.000+0300",
+    "updated_date": "2023-08-17T15:00:17.000+0300",
+    "watches": 11,
+    "votes": 20
+  },
+  {
+    "id": "MC-181109",
+    "summary": "Grindstone adds RepairCost: 0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2020-04-27T19:56:06.000+0300",
+    "resolution_date": "2023-08-16T17:45:37.000+0300",
+    "updated_date": "2023-08-16T17:45:37.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-125046",
+    "summary": "\"RepairCost\" NBT tag is created on any renamed item using anvils which can cause items to not stack properly",
+    "labels": [
+      "RepairCost"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2018-02-10T20:26:47.000+0200",
+    "resolution_date": "2023-08-16T17:45:36.000+0300",
+    "updated_date": "2023-08-16T17:45:36.000+0300",
+    "watches": 9,
+    "votes": 23
+  },
+  {
+    "id": "MC-122645",
+    "summary": "Narrator hotkey cannot be customized or disabled",
+    "labels": [
+      "controls-not-configurable"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2017-11-28T05:31:12.000+0200",
+    "resolution_date": "2023-08-16T14:41:51.000+0300",
+    "updated_date": "2023-08-16T14:41:51.000+0300",
+    "watches": 29,
+    "votes": 76
+  },
+  {
+    "id": "MC-118616",
+    "summary": "The sounds of magma cubes and slimes aren't controlled by the \"Hostile Creatures\" sound slider",
+    "labels": [
+      "magma_cube",
+      "slime"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2017-06-12T05:26:11.000+0300",
+    "resolution_date": "2023-08-17T12:41:00.000+0300",
+    "updated_date": "2023-08-17T12:41:00.000+0300",
+    "watches": 18,
+    "votes": 33
+  },
+  {
+    "id": "MC-112133",
+    "summary": "Eating chorus fruit does not reset fall distance",
+    "labels": [
+      "chorus_fruit",
+      "distance-fallen",
+      "fall-damage"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2017-01-01T19:16:02.000+0200",
+    "resolution_date": "2023-08-17T12:41:00.000+0300",
+    "updated_date": "2023-08-17T16:25:54.000+0300",
+    "watches": 13,
+    "votes": 30
+  },
+  {
+    "id": "MC-96409",
+    "summary": "Creepers can't blow up the boat and boat with chest they ride, when it is on the land",
+    "labels": [
+      "boat",
+      "creeper",
+      "explosion",
+      "horse",
+      "land",
+      "llama",
+      "ride"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2016-01-31T16:20:14.000+0200",
+    "resolution_date": "2023-08-18T08:00:59.000+0300",
+    "updated_date": "2023-08-18T08:00:59.000+0300",
+    "watches": 12,
+    "votes": 19
+  },
+  {
+    "id": "MC-2310",
+    "summary": "Wrong attack radius calculation damages/kills entities through blocks and corners",
+    "labels": [
+      "attack",
+      "damage",
+      "kill"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2012-11-05T11:19:57.000+0200",
+    "resolution_date": "2023-08-14T15:43:21.000+0300",
+    "updated_date": "2023-08-19T19:44:45.000+0300",
+    "watches": 105,
+    "votes": 243
+  }
+]
