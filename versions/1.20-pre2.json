@@ -892,6 +892,28 @@
     "votes": 3
   },
   {
+    "id": "MC-227890",
+    "summary": "If you are falling with leather boots through powder snow, you still fall through",
+    "labels": [
+      "leather_boots",
+      "powder_snow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20 Pre-release 2"
+    ],
+    "creation_date": "2021-06-08T21:54:32.000+0300",
+    "resolution_date": "2023-08-21T16:31:57.000+0300",
+    "updated_date": "2023-08-21T16:32:03.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
     "id": "MC-226344",
     "summary": "Changing the \"Owner\" tag of a projectile doesn't affect the outcome of the projectile unless the world is reloaded",
     "labels": [],
