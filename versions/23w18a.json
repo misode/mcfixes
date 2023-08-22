@@ -282,6 +282,25 @@
     "votes": 16
   },
   {
+    "id": "MC-244307",
+    "summary": "Dark Chunks when exploring since 1.18",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2021-12-04T03:49:48.000+0200",
+    "resolution_date": "2023-08-22T12:20:01.000+0300",
+    "updated_date": "2023-08-22T12:20:01.000+0300",
+    "watches": 12,
+    "votes": 17
+  },
+  {
     "id": "MC-242105",
     "summary": "When landing on some non-full blocks while touching a thin block, impact particles use the thin block's texture",
     "labels": [],
