@@ -268,6 +268,25 @@
     "votes": 21
   },
   {
+    "id": "MC-74984",
+    "summary": "Client continues to connect to server after canceling on 'Connecting to server' screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 5"
+    ],
+    "creation_date": "2014-12-01T22:42:26.000+0200",
+    "resolution_date": "2023-08-22T17:55:56.000+0300",
+    "updated_date": "2023-08-22T17:56:26.000+0300",
+    "watches": 36,
+    "votes": 67
+  },
+  {
     "id": "MC-572",
     "summary": "Anvils sometimes destroy items when falling on them even if they aren't placed successfully",
     "labels": [
