@@ -203,6 +203,27 @@
     "votes": 9
   },
   {
+    "id": "MC-217627",
+    "summary": "Spore blossoms are not part of the #minecraft:flowers tag",
+    "labels": [
+      "block-missing-from-block-tag"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2021-03-03T18:58:04.000+0200",
+    "resolution_date": "2023-08-22T14:10:12.000+0300",
+    "updated_date": "2023-08-22T14:10:12.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-214126",
     "summary": "Bees don't pollinate themselves with spore blossoms or chorus flowers",
     "labels": [

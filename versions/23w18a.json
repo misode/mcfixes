@@ -428,6 +428,25 @@
     "votes": 9
   },
   {
+    "id": "MC-199952",
+    "summary": "Skylight does not propagate across certain chunk borders upon world generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w18a"
+    ],
+    "creation_date": "2020-09-10T20:43:57.000+0300",
+    "resolution_date": "2023-08-22T14:01:09.000+0300",
+    "updated_date": "2023-08-22T14:03:46.000+0300",
+    "watches": 14,
+    "votes": 17
+  },
+  {
     "id": "MC-158154",
     "summary": "Players can bounce on beds even when not directly touching it",
     "labels": [],
