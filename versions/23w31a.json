@@ -1563,54 +1563,6 @@
     "votes": 10
   },
   {
-    "id": "MC-242591",
-    "summary": "Texture maps for the Llama and Trader Llama (white/gray/creamy/brown.png) contain unused pixels",
-    "labels": [
-      "llama",
-      "mismatching-textures",
-      "texture",
-      "unused-pixels"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Textures and models"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "23w31a"
-    ],
-    "creation_date": "2021-11-23T08:04:26.000+0200",
-    "resolution_date": "2023-06-13T10:28:23.000+0300",
-    "updated_date": "2023-08-24T00:27:35.000+0300",
-    "watches": 6,
-    "votes": 14
-  },
-  {
-    "id": "MC-242398",
-    "summary": "Texture maps for the sheep and sheep fur (sheep.png & sheep_fur.png) contain unused pixels",
-    "labels": [
-      "mismatching-textures",
-      "sheep",
-      "texture",
-      "unused-pixels"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Textures and models"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "23w31a"
-    ],
-    "creation_date": "2021-11-21T07:21:18.000+0200",
-    "resolution_date": "2023-06-13T10:28:24.000+0300",
-    "updated_date": "2023-08-24T00:27:35.000+0300",
-    "watches": 6,
-    "votes": 13
-  },
-  {
     "id": "MC-242397",
     "summary": "Texture maps for cow, red & brown mooshroom (red/brown_mooshroom.png & cow.png) contain unused pixels",
     "labels": [
