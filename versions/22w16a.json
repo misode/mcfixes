@@ -661,6 +661,27 @@
     "votes": 3
   },
   {
+    "id": "MC-237106",
+    "summary": "JVM crash in atio6axx.dll at org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V",
+    "labels": [
+      "jvm-crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2021-09-19T03:49:50.000+0300",
+    "resolution_date": "2023-08-29T18:05:29.000+0300",
+    "updated_date": "2023-08-29T18:05:29.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
     "id": "MC-228049",
     "summary": "Axolotl can't pathfind through open doors",
     "labels": [],
