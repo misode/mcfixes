@@ -702,6 +702,27 @@
     "votes": 10
   },
   {
+    "id": "MC-214619",
+    "summary": "Sculk sensors cannot detect application of ink sacs to signs",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2021-02-09T14:23:05.000+0200",
+    "resolution_date": "2023-08-29T17:12:09.000+0300",
+    "updated_date": "2023-08-29T17:12:10.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-213936",
     "summary": "\"Minecart moving\" event does not trigger the right vibration frequency",
     "labels": [],
@@ -719,6 +740,25 @@
     "updated_date": "2023-03-31T21:53:15.000+0300",
     "watches": 8,
     "votes": 14
+  },
+  {
+    "id": "MC-212278",
+    "summary": "Sculk sensors do not detect signs being dyed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w12a"
+    ],
+    "creation_date": "2021-01-21T07:24:35.000+0200",
+    "resolution_date": "2023-08-29T17:08:31.000+0300",
+    "updated_date": "2023-08-29T17:08:31.000+0300",
+    "watches": 3,
+    "votes": 5
   },
   {
     "id": "MC-209104",
