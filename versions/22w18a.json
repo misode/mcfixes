@@ -690,6 +690,27 @@
     "votes": 33
   },
   {
+    "id": "MC-229295",
+    "summary": "JVM crash when starting Minecraft (java.util.jar.Attributes.read)",
+    "labels": [
+      "jvm-crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w18a"
+    ],
+    "creation_date": "2021-06-16T16:13:10.000+0300",
+    "resolution_date": "2023-08-29T18:18:10.000+0300",
+    "updated_date": "2023-08-29T18:18:11.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
     "id": "MC-207935",
     "summary": "Simultaneous vibrations don't trigger as expected",
     "labels": [],
