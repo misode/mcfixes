@@ -38,6 +38,25 @@
     "votes": 0
   },
   {
+    "id": "MC-264918",
+    "summary": "When you destroy the chorus stem, the chorus flower drops out",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-18T11:24:26.000+0300",
+    "resolution_date": "2023-08-30T17:06:28.000+0300",
+    "updated_date": "2023-08-30T17:06:28.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-264917",
     "summary": "Entry list gradients render below content",
     "labels": [],
