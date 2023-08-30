@@ -175,6 +175,30 @@
     "votes": 3
   },
   {
+    "id": "MC-264092",
+    "summary": "Functions execute commands out of order when containing /say",
+    "labels": [
+      "command",
+      "execution",
+      "function"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w32a",
+      "Future Update"
+    ],
+    "creation_date": "2023-07-07T19:51:20.000+0300",
+    "resolution_date": "2023-08-30T10:45:11.000+0300",
+    "updated_date": "2023-08-30T10:45:11.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
     "id": "MC-262591",
     "summary": "Camels emit mob interaction vibrations instead of item consumption vibrations when eating cactus",
     "labels": [],
