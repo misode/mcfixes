@@ -1,0 +1,458 @@
+[
+  {
+    "id": "MC-264947",
+    "summary": "Torches generated on end fountain don't emit light",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-20T01:49:41.000+0300",
+    "resolution_date": "2023-08-28T16:23:03.000+0300",
+    "updated_date": "2023-08-28T16:23:03.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-264920",
+    "summary": "Some buttons within the \"Report Player\" menu are improperly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-18T14:22:34.000+0300",
+    "resolution_date": "2023-08-30T13:00:43.000+0300",
+    "updated_date": "2023-08-30T13:00:43.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-264917",
+    "summary": "Entry list gradients render below content",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-18T09:59:21.000+0300",
+    "resolution_date": "2023-08-30T13:00:44.000+0300",
+    "updated_date": "2023-08-30T13:00:44.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-264915",
+    "summary": "Some mobs can still attack you through blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-18T06:44:31.000+0300",
+    "resolution_date": "2023-08-22T15:08:13.000+0300",
+    "updated_date": "2023-08-25T21:40:22.000+0300",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-264899",
+    "summary": "Narrator is not capitalized in the Narrator Hotkey tooltip",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-17T18:45:00.000+0300",
+    "resolution_date": "2023-08-30T13:00:44.000+0300",
+    "updated_date": "2023-08-30T13:00:44.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-264897",
+    "summary": "Shift-clicking to unequip armor bypasses vibrations in survival",
+    "labels": [
+      "sculk_sensor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-17T18:34:35.000+0300",
+    "resolution_date": "2023-08-30T12:35:19.000+0300",
+    "updated_date": "2023-08-30T12:35:19.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-264750",
+    "summary": "Effects are lost when updating to 23w32a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-10T00:10:40.000+0300",
+    "resolution_date": "2023-08-30T10:45:10.000+0300",
+    "updated_date": "2023-08-30T10:45:10.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-264698",
+    "summary": "The absorption effect is lost when reloading the world",
+    "labels": [
+      "absorption"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-07T06:04:35.000+0300",
+    "resolution_date": "2023-08-30T13:17:45.000+0300",
+    "updated_date": "2023-08-30T13:17:45.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-264686",
+    "summary": "Z-fighting occurs on the backs of bamboo chest rafts",
+    "labels": [
+      "bamboo_chest_raft",
+      "chest_boat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-06T13:35:37.000+0300",
+    "resolution_date": "2023-08-30T12:35:20.000+0300",
+    "updated_date": "2023-08-30T12:35:20.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-264619",
+    "summary": "Strings for returning to menus and loading lists are inconsistently spelled and capitalized",
+    "labels": [
+      "capitalization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-04T12:19:44.000+0300",
+    "resolution_date": "2023-08-30T13:00:43.000+0300",
+    "updated_date": "2023-08-30T13:00:43.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-264566",
+    "summary": "Force loaded chunks reset when changing versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-02T21:50:00.000+0300",
+    "resolution_date": "2023-08-29T10:47:34.000+0300",
+    "updated_date": "2023-08-29T10:47:34.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-264561",
+    "summary": "Some new strings introduced in 23w31a are missing articles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-02T20:43:42.000+0300",
+    "resolution_date": "2023-08-30T13:00:42.000+0300",
+    "updated_date": "2023-08-30T13:00:42.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-264559",
+    "summary": "Grammar error in \"Added pack(s) contain symbolic links\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-02T20:25:40.000+0300",
+    "resolution_date": "2023-08-30T13:00:42.000+0300",
+    "updated_date": "2023-08-30T13:00:42.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-264558",
+    "summary": "The word \"reconfiguring\" is spelled as \"reconfiging\" within the \"connect.reconfiging\" translation key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-08-02T20:25:03.000+0300",
+    "resolution_date": "2023-08-30T11:25:31.000+0300",
+    "updated_date": "2023-08-30T11:25:31.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-264092",
+    "summary": "Functions execute commands out of order when containing /say",
+    "labels": [
+      "command",
+      "execution",
+      "function"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w32a",
+      "23w35a"
+    ],
+    "creation_date": "2023-07-07T19:51:20.000+0300",
+    "resolution_date": "2023-08-30T10:45:11.000+0300",
+    "updated_date": "2023-08-30T10:45:11.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-261951",
+    "summary": "Dragon/piglin head does not move when placed on a jukebox that is playing a record",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-04-18T21:49:19.000+0300",
+    "resolution_date": "2023-08-30T12:35:20.000+0300",
+    "updated_date": "2023-08-30T12:35:20.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-259860",
+    "summary": "Sitting camels that have passengers continuously look up and down for other players",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-02-09T19:26:52.000+0200",
+    "resolution_date": "2023-08-29T16:03:37.000+0300",
+    "updated_date": "2023-08-29T16:03:37.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-259475",
+    "summary": "The rotation of controlling passengers on sitting camels is sometimes restricted while adjusting your rotation slowly",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2023-01-26T18:40:42.000+0200",
+    "resolution_date": "2023-08-29T16:03:37.000+0300",
+    "updated_date": "2023-08-29T16:03:37.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-256737",
+    "summary": "Sniffers, frogs, goats, and camels prioritize pathfinding to their lover when fed over panicking when being damaged",
+    "labels": [
+      "camel",
+      "frog",
+      "goat",
+      "sniffer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2022-10-21T17:28:26.000+0300",
+    "resolution_date": "2023-08-29T16:03:36.000+0300",
+    "updated_date": "2023-08-29T16:03:36.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-256549",
+    "summary": "Baby camels that aren't moving face in the direction of their adults when pathfinding to players that are tempting them",
+    "labels": [
+      "camel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2022-10-19T18:49:39.000+0300",
+    "resolution_date": "2023-08-29T16:03:36.000+0300",
+    "updated_date": "2023-08-29T16:03:36.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-242385",
+    "summary": "Inconsistency on the buffer size calculation in the chunk packet data",
+    "labels": [
+      "chunk",
+      "chunksection",
+      "code-included",
+      "inconsistency",
+      "protocol",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2021-11-21T04:54:02.000+0200",
+    "resolution_date": "2023-08-30T11:25:31.000+0300",
+    "updated_date": "2023-08-30T11:25:31.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-229121",
+    "summary": "JVM crash in jdk.internal.loader.NativeLibraries.load",
+    "labels": [
+      "jvm-crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2021-06-15T15:48:05.000+0300",
+    "resolution_date": "2023-08-29T16:42:06.000+0300",
+    "updated_date": "2023-08-29T16:42:06.000+0300",
+    "watches": 12,
+    "votes": 8
+  }
+]
