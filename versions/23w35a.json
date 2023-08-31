@@ -473,5 +473,27 @@
     "updated_date": "2023-08-29T16:42:06.000+0300",
     "watches": 12,
     "votes": 8
+  },
+  {
+    "id": "MC-86918",
+    "summary": "Ender dragon and piglin heads are not activated when powered by comparators",
+    "labels": [
+      "dragon_head",
+      "piglin_head"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2015-08-21T19:04:25.000+0300",
+    "resolution_date": "2023-08-31T11:20:29.000+0300",
+    "updated_date": "2023-08-31T11:20:29.000+0300",
+    "watches": 8,
+    "votes": 17
   }
 ]
