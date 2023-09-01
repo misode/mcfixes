@@ -253,6 +253,31 @@
     "votes": 22
   },
   {
+    "id": "MC-150183",
+    "summary": "Iron golems produce walking particles for barrier blocks",
+    "labels": [
+      "barrier",
+      "block",
+      "invisible-blocks",
+      "iron_golem",
+      "particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2019-04-28T18:33:34.000+0300",
+    "resolution_date": "2023-09-01T16:05:06.000+0300",
+    "updated_date": "2023-09-01T16:05:06.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
     "id": "MC-135809",
     "summary": "Armor stands with Marker tag can still activate pressure plates",
     "labels": [
