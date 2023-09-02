@@ -247,6 +247,25 @@
     "votes": 0
   },
   {
+    "id": "MC-263203",
+    "summary": "Tadpoles riding striders are rendered inside of them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-06-05T15:51:30.000+0300",
+    "resolution_date": "2023-09-03T01:40:50.000+0300",
+    "updated_date": "2023-09-03T01:40:51.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
     "id": "MC-263200",
     "summary": "Entities riding baby sniffers render too high",
     "labels": [],
