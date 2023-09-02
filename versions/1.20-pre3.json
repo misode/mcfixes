@@ -215,6 +215,31 @@
     "votes": 4
   },
   {
+    "id": "MC-221864",
+    "summary": "Iron golems produce walking particles for light blocks",
+    "labels": [
+      "invisible-blocks",
+      "invisible-blocks-not-invisible",
+      "iron_golem",
+      "light",
+      "unnecessary-particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2021-04-01T20:40:41.000+0300",
+    "resolution_date": "2023-09-02T22:59:21.000+0300",
+    "updated_date": "2023-09-02T22:59:21.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
     "id": "MC-181280",
     "summary": "Incorrect textures can sometimes be displayed",
     "labels": [],
