@@ -1717,6 +1717,25 @@
     "votes": 11
   },
   {
+    "id": "MC-238793",
+    "summary": "Excessive chunks sent to client with low render distance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2021-10-11T23:08:37.000+0300",
+    "resolution_date": "2023-09-04T15:14:06.000+0300",
+    "updated_date": "2023-09-04T15:14:06.000+0300",
+    "watches": 16,
+    "votes": 38
+  },
+  {
     "id": "MC-237429",
     "summary": "Flashing hunger background texture is unused",
     "labels": [
