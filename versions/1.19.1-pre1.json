@@ -382,5 +382,26 @@
     "updated_date": "2022-07-11T09:58:10.000+0300",
     "watches": 6,
     "votes": 16
+  },
+  {
+    "id": "MC-198679",
+    "summary": "Enchanted armor pieces worn by entities lose their enchantment glint if the player is in a far distance",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19.1 Pre-release 1"
+    ],
+    "creation_date": "2020-08-22T14:43:03.000+0300",
+    "resolution_date": "2023-09-06T18:43:42.000+0300",
+    "updated_date": "2023-09-06T18:43:42.000+0300",
+    "watches": 1,
+    "votes": 3
   }
 ]

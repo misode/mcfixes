@@ -765,6 +765,28 @@
     "votes": 11
   },
   {
+    "id": "MC-210887",
+    "summary": "Game launch crashes on Linux with Unicode home folder/username",
+    "labels": [
+      "crash",
+      "unicode"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w16a"
+    ],
+    "creation_date": "2021-01-08T08:33:19.000+0200",
+    "resolution_date": "2023-09-06T18:42:04.000+0300",
+    "updated_date": "2023-09-06T18:42:04.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
     "id": "MC-189897",
     "summary": "Game hangs while loading world saves when entering the singleplayer world selection menu",
     "labels": [],
