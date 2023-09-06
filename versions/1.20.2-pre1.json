@@ -662,6 +662,25 @@
     "votes": 9
   },
   {
+    "id": "MC-193457",
+    "summary": "Dropper/Dispenser 'Triggered' block state not updating without player interaction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-03T23:33:47.000+0300",
+    "resolution_date": "2023-09-06T17:53:11.000+0300",
+    "updated_date": "2023-09-06T18:06:21.000+0300",
+    "watches": 10,
+    "votes": 16
+  },
+  {
     "id": "MC-177172",
     "summary": "Dash in villager/trader UI is hardcoded / untranslatable",
     "labels": [
@@ -785,7 +804,7 @@
     ],
     "creation_date": "2014-08-31T16:59:29.000+0300",
     "resolution_date": "2023-09-05T10:31:24.000+0300",
-    "updated_date": "2023-09-06T12:46:28.000+0300",
+    "updated_date": "2023-09-06T18:06:21.000+0300",
     "watches": 21,
     "votes": 5
   }
