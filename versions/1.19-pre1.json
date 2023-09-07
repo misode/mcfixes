@@ -928,6 +928,25 @@
     "votes": 7
   },
   {
+    "id": "MC-202319",
+    "summary": "Dedicated server text filter does not apply to all messages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.19 Pre-release 1"
+    ],
+    "creation_date": "2020-10-18T02:50:26.000+0300",
+    "resolution_date": "2023-09-07T10:03:35.000+0300",
+    "updated_date": "2023-09-07T10:04:56.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
     "id": "MC-134892",
     "summary": "PacketBuffer.writeString's max length is in bytes, while readString is in characters",
     "labels": [
