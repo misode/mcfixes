@@ -793,6 +793,25 @@
     "votes": 4
   },
   {
+    "id": "MC-142590",
+    "summary": "StackOverflowError when using /stop with player logged in",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "22w03a"
+    ],
+    "creation_date": "2019-01-18T02:24:38.000+0200",
+    "resolution_date": "2023-09-07T16:26:24.000+0300",
+    "updated_date": "2023-09-07T16:26:24.000+0300",
+    "watches": 12,
+    "votes": 15
+  },
+  {
     "id": "MC-135989",
     "summary": "Kicked for flying using trident with Riptide enchantment",
     "labels": [
