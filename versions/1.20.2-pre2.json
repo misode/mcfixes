@@ -1,0 +1,390 @@
+[
+  {
+    "id": "MC-265280",
+    "summary": "Mobs sometimes become invisible when you join a singleplayer world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-07T05:01:15.000+0300",
+    "resolution_date": "2023-09-07T16:20:32.000+0300",
+    "updated_date": "2023-09-07T16:21:53.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-265276",
+    "summary": "Fire under naturally generated end crystals does not always emit light correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-06T23:17:58.000+0300",
+    "resolution_date": "2023-09-07T14:19:24.000+0300",
+    "updated_date": "2023-09-07T14:19:24.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-265264",
+    "summary": "trade_rebalance tags are not in the trade_rebalance pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-06T10:26:14.000+0300",
+    "resolution_date": "2023-09-07T11:56:52.000+0300",
+    "updated_date": "2023-09-07T11:56:52.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-265263",
+    "summary": "Ender Pearl vanishes client side when enderPearlsVanishOnDeath is false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-06T10:15:58.000+0300",
+    "resolution_date": "2023-09-06T15:14:17.000+0300",
+    "updated_date": "2023-09-06T16:03:51.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-265262",
+    "summary": "Revoked recipes remain in the recipe book until relogging",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-06T09:36:33.000+0300",
+    "resolution_date": "2023-09-06T17:52:24.000+0300",
+    "updated_date": "2023-09-07T01:02:01.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-265260",
+    "summary": "Boats and rafts when placed turn south",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-06T05:45:00.000+0300",
+    "resolution_date": "2023-09-06T11:24:56.000+0300",
+    "updated_date": "2023-09-06T11:24:56.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-265253",
+    "summary": "Fullscreen Resolution value is untranslatable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-06T00:42:44.000+0300",
+    "resolution_date": "2023-09-07T14:27:31.000+0300",
+    "updated_date": "2023-09-07T14:27:31.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-265245",
+    "summary": "Crafting book search doesn't find anything when a space is included in the search",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-05T22:24:24.000+0300",
+    "resolution_date": "2023-09-06T17:52:10.000+0300",
+    "updated_date": "2023-09-06T17:52:10.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-265244",
+    "summary": "Macro arguments entered as floats are converted to scientific notation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-05T22:05:43.000+0300",
+    "resolution_date": "2023-09-06T15:47:18.000+0300",
+    "updated_date": "2023-09-06T15:47:18.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-265243",
+    "summary": "Uncraftable variants of a craftable recipe are shown as craftable now",
+    "labels": [
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-05T19:47:03.000+0300",
+    "resolution_date": "2023-09-06T17:52:17.000+0300",
+    "updated_date": "2023-09-06T17:52:17.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-265241",
+    "summary": "Recipe book search no longer finds relevant items in languages where compound words are not separated",
+    "labels": [
+      "recipe-book",
+      "search"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-05T19:29:31.000+0300",
+    "resolution_date": "2023-09-06T17:52:03.000+0300",
+    "updated_date": "2023-09-06T20:20:26.000+0300",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-265237",
+    "summary": "Recipe book search no longer finds anything containing non-English characters",
+    "labels": [
+      "recipe-book",
+      "search"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-09-05T19:07:47.000+0300",
+    "resolution_date": "2023-09-06T17:51:55.000+0300",
+    "updated_date": "2023-09-06T17:51:55.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-264759",
+    "summary": "Narrator narrates incorrect tab action in command block suggestions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-08-10T05:18:50.000+0300",
+    "resolution_date": "2023-09-07T14:11:25.000+0300",
+    "updated_date": "2023-09-07T14:11:25.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-262754",
+    "summary": "Change in AbstractScrollWidget breaks MultiLineEditBox click-to-move-cursor behaviour",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-05-19T07:57:24.000+0300",
+    "resolution_date": "2023-09-07T14:19:23.000+0300",
+    "updated_date": "2023-09-07T14:19:23.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-261119",
+    "summary": "Accessibility button in the Welcome screen needs its own string",
+    "labels": [
+      "accessibility",
+      "translatability"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-03-20T02:25:09.000+0200",
+    "resolution_date": "2023-09-07T14:27:31.000+0300",
+    "updated_date": "2023-09-07T14:27:31.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-249702",
+    "summary": "Server crash when attempting to start a server with malformatted banned-ips.json",
+    "labels": [
+      "banned-ips.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2022-03-30T22:54:21.000+0300",
+    "resolution_date": "2023-09-07T14:19:22.000+0300",
+    "updated_date": "2023-09-07T17:38:41.000+0300",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-235762",
+    "summary": "Screenshots wider than 16384 pixels causes a crash / java.lang.OutOfMemoryError: Out of stack space",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2021-09-02T02:43:56.000+0300",
+    "resolution_date": "2023-09-07T14:19:23.000+0300",
+    "updated_date": "2023-09-07T14:19:23.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-206182",
+    "summary": "Cannot tab out of console text field of command block",
+    "labels": [
+      "command_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2020-11-20T21:21:55.000+0200",
+    "resolution_date": "2023-09-07T14:11:25.000+0300",
+    "updated_date": "2023-09-07T14:11:25.000+0300",
+    "watches": 9,
+    "votes": 8
+  },
+  {
+    "id": "MC-109346",
+    "summary": "Newly rendered players always look south until they move their head",
+    "labels": [
+      "client-side",
+      "facing",
+      "head",
+      "player",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2016-10-28T22:25:42.000+0300",
+    "resolution_date": "2023-09-06T10:35:29.000+0300",
+    "updated_date": "2023-09-06T10:35:29.000+0300",
+    "watches": 11,
+    "votes": 20
+  }
+]
