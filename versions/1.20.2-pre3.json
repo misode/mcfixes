@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MC-265335",
+    "summary": "Hoglins can't be bred",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.2 Pre-Release 3"
+    ],
+    "creation_date": "2023-09-10T08:06:30.000+0300",
+    "resolution_date": "2023-09-12T11:53:11.000+0300",
+    "updated_date": "2023-09-12T11:53:11.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-265296",
+    "summary": "Player sits lower in minecarts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-Release 3"
+    ],
+    "creation_date": "2023-09-07T19:29:07.000+0300",
+    "resolution_date": "2023-09-11T18:16:09.000+0300",
+    "updated_date": "2023-09-11T18:16:09.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-264564",
+    "summary": "Record attribute is stripped from records with no components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-Release 3"
+    ],
+    "creation_date": "2023-08-02T21:17:13.000+0300",
+    "resolution_date": "2023-09-12T10:42:28.000+0300",
+    "updated_date": "2023-09-12T10:42:28.000+0300",
+    "watches": 7,
+    "votes": 8
+  }
+]
