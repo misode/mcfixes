@@ -1,0 +1,40 @@
+[
+  {
+    "id": "MC-265289",
+    "summary": "Error in log: java.lang.IllegalStateException: onTrackingStart called during navigation iteration",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-Release 4"
+    ],
+    "creation_date": "2023-09-07T17:59:05.000+0300",
+    "resolution_date": "2023-09-13T16:48:16.000+0300",
+    "updated_date": "2023-09-13T16:48:16.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-265239",
+    "summary": "Error in logs: java.lang.IllegalStateException: recursive call to sendBlockUpdated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Pre-Release 4"
+    ],
+    "creation_date": "2023-09-05T19:23:25.000+0300",
+    "resolution_date": "2023-09-13T16:48:16.000+0300",
+    "updated_date": "2023-09-13T16:48:16.000+0300",
+    "watches": 2,
+    "votes": 0
+  }
+]
