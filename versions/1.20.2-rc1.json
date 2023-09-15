@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MC-265388",
+    "summary": "Mobs now sit too high in minecarts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Minecart",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.2 Release Candidate 1"
+    ],
+    "creation_date": "2023-09-14T00:19:41.000+0300",
+    "resolution_date": "2023-09-14T14:41:51.000+0300",
+    "updated_date": "2023-09-14T14:41:51.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-265238",
+    "summary": "trade_rebalance loot tables have a wrong type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.2 Release Candidate 1"
+    ],
+    "creation_date": "2023-09-05T19:21:28.000+0300",
+    "resolution_date": "2023-09-14T12:09:50.000+0300",
+    "updated_date": "2023-09-14T12:09:50.000+0300",
+    "watches": 5,
+    "votes": 4
+  }
+]
