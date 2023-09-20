@@ -1512,6 +1512,25 @@
     "votes": 5
   },
   {
+    "id": "MC-249893",
+    "summary": "Authlib: MinecraftSessionService#fillProfileProperties doesn't check if server returns an error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-04-05T07:55:29.000+0300",
+    "resolution_date": "2023-09-20T15:32:58.000+0300",
+    "updated_date": "2023-09-20T15:32:58.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-249776",
     "summary": "Players sneak client-side while riding boat chests under hoppers",
     "labels": [],
