@@ -478,6 +478,25 @@
     "votes": 15
   },
   {
+    "id": "MC-241823",
+    "summary": "The \"Server Difficulty\" field scales to the window size improperly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w46a"
+    ],
+    "creation_date": "2021-11-18T01:48:16.000+0200",
+    "resolution_date": "2023-09-26T17:18:33.000+0300",
+    "updated_date": "2023-09-26T17:18:33.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
     "id": "MC-234904",
     "summary": "You cannot hold the TAB key to navigate between buttons quickly in the \"Data Packs\" menu",
     "labels": [],
