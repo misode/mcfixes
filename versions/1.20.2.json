@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "MC-182686",
+    "summary": "Realms connection screen elements are vertically off-center",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.2"
+    ],
+    "creation_date": "2020-05-06T12:34:32.000+0300",
+    "resolution_date": "2023-09-28T20:41:49.000+0300",
+    "updated_date": "2023-09-28T20:41:50.000+0300",
+    "watches": 4,
+    "votes": 2
+  }
+]

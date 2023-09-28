@@ -510,6 +510,25 @@
     "votes": 13
   },
   {
+    "id": "MC-137296",
+    "summary": "Killing newly /given items creates ghost items in player inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2018-10-16T15:42:05.000+0300",
+    "resolution_date": "2023-09-28T20:33:26.000+0300",
+    "updated_date": "2023-09-28T20:33:26.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-131290",
     "summary": "Enchantments are saved as shorts, but are loaded as and function with integer values",
     "labels": [
