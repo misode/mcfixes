@@ -1574,6 +1574,25 @@
     "votes": 13
   },
   {
+    "id": "MC-249104",
+    "summary": "The frog's legs are not visible in the boat or minecart",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-03-16T19:49:24.000+0200",
+    "resolution_date": "2023-09-29T18:02:03.000+0300",
+    "updated_date": "2023-09-29T18:03:33.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
     "id": "MC-245930",
     "summary": "GUI texture files have hidden transparent remnants",
     "labels": [
