@@ -1575,7 +1575,7 @@
   },
   {
     "id": "MC-249104",
-    "summary": "The frog's legs are not visible in the boat or minecart",
+    "summary": "The frog's legs are not visible in the minecart",
     "labels": [],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -1588,7 +1588,7 @@
     ],
     "creation_date": "2022-03-16T19:49:24.000+0200",
     "resolution_date": "2023-09-29T18:02:03.000+0300",
-    "updated_date": "2023-09-29T18:03:33.000+0300",
+    "updated_date": "2023-09-29T18:48:30.000+0300",
     "watches": 5,
     "votes": 8
   },
