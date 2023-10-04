@@ -1,0 +1,381 @@
+[
+  {
+    "id": "MC-265519",
+    "summary": "Game minimizes when certain areas of the screen are clicked on Mac in fullscreen mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-09-22T17:41:15.000+0300",
+    "resolution_date": "2023-10-03T16:44:02.000+0300",
+    "updated_date": "2023-10-03T16:44:02.000+0300",
+    "watches": 11,
+    "votes": 9
+  },
+  {
+    "id": "MC-265462",
+    "summary": "Sending resource pack during play phase shows loading terrain screen for a long time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-09-19T02:23:02.000+0300",
+    "resolution_date": "2023-10-02T18:33:41.000+0300",
+    "updated_date": "2023-10-02T18:33:41.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-265353",
+    "summary": "Clocks and Compasses in Item Display Entities don't show correct time/direction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-09-11T11:42:24.000+0300",
+    "resolution_date": "2023-10-02T12:20:09.000+0300",
+    "updated_date": "2023-10-02T12:20:09.000+0300",
+    "watches": 4,
+    "votes": 13
+  },
+  {
+    "id": "MC-264748",
+    "summary": "GLX._initGlfw Treats Pointer as a String",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-08-09T23:30:51.000+0300",
+    "resolution_date": "2023-09-21T19:51:39.000+0300",
+    "updated_date": "2023-09-21T19:51:39.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-263123",
+    "summary": "Mending incorrectly calculates overflow after full repair",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-06-01T19:24:43.000+0300",
+    "resolution_date": "2023-09-27T18:35:40.000+0300",
+    "updated_date": "2023-09-27T18:35:40.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-261303",
+    "summary": "Decorated pots have an unused \"cracked\" block state",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-03-24T07:58:31.000+0200",
+    "resolution_date": "2023-09-27T13:11:37.000+0300",
+    "updated_date": "2023-09-27T17:40:11.000+0300",
+    "watches": 5,
+    "votes": 0
+  },
+  {
+    "id": "MC-255173",
+    "summary": "Nether portal teleportation is inaccurate at large coordinate values",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2022-08-12T19:05:23.000+0300",
+    "resolution_date": "2023-09-25T17:15:26.000+0300",
+    "updated_date": "2023-09-26T08:23:20.000+0300",
+    "watches": 7,
+    "votes": 19
+  },
+  {
+    "id": "MC-254850",
+    "summary": "An operator can kick a host of a LAN world",
+    "labels": [
+      "host",
+      "kick",
+      "lan-world",
+      "operator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2022-08-02T02:16:50.000+0300",
+    "resolution_date": "2023-10-03T10:46:10.000+0300",
+    "updated_date": "2023-10-03T10:46:10.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-253819",
+    "summary": "Bells don't rotate correctly when loaded by structure/jigsaw blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2022-07-02T19:15:05.000+0300",
+    "resolution_date": "2023-09-27T15:39:36.000+0300",
+    "updated_date": "2023-09-27T15:39:36.000+0300",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-236946",
+    "summary": "Shield attack vector is normalized incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2021-09-17T19:39:44.000+0300",
+    "resolution_date": "2023-09-22T10:40:01.000+0300",
+    "updated_date": "2023-09-22T10:40:01.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-227255",
+    "summary": "Beehives and bee nests do not rotate/mirror correctly in structure blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2021-06-03T10:10:36.000+0300",
+    "resolution_date": "2023-09-27T15:39:36.000+0300",
+    "updated_date": "2023-09-27T15:39:36.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-221558",
+    "summary": "Light particles aren't shown if particles are set to minimal",
+    "labels": [
+      "light"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2021-03-31T20:27:32.000+0300",
+    "resolution_date": "2023-09-27T15:39:37.000+0300",
+    "updated_date": "2023-09-27T15:39:37.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-172398",
+    "summary": "Fire texture renders according to the player's rotation in the player inventory",
+    "labels": [
+      "fire",
+      "inventory",
+      "player",
+      "rendering",
+      "rotation",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2020-02-15T20:15:32.000+0200",
+    "resolution_date": "2023-09-26T18:11:25.000+0300",
+    "updated_date": "2023-09-26T18:11:25.000+0300",
+    "watches": 12,
+    "votes": 41
+  },
+  {
+    "id": "MC-114761",
+    "summary": "Area effect cloud applies effect to dying mob",
+    "labels": [
+      "area_effect_cloud",
+      "dying",
+      "effect",
+      "lingering_potion"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2017-03-24T19:51:05.000+0200",
+    "resolution_date": "2023-09-28T11:09:27.000+0300",
+    "updated_date": "2023-09-30T10:08:38.000+0300",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-109101",
+    "summary": "Shields do not block damage while the player faces straight up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2016-10-24T08:30:09.000+0300",
+    "resolution_date": "2023-09-22T10:40:00.000+0300",
+    "updated_date": "2023-09-22T10:40:00.000+0300",
+    "watches": 14,
+    "votes": 21
+  },
+  {
+    "id": "MC-78314",
+    "summary": "(Marker) Armor stands create bubbles in water",
+    "labels": [
+      "armor",
+      "armor-stand",
+      "armor_stand",
+      "bubble",
+      "eye-level",
+      "hitbox",
+      "marker",
+      "underwater"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2015-03-03T16:38:22.000+0200",
+    "resolution_date": "2023-09-26T18:03:08.000+0300",
+    "updated_date": "2023-09-26T18:03:08.000+0300",
+    "watches": 19,
+    "votes": 32
+  },
+  {
+    "id": "MC-50647",
+    "summary": "Slime mob spawners spawn slimes only in slime chunks",
+    "labels": [
+      "chunk",
+      "slime",
+      "spawner"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2014-03-09T01:22:58.000+0200",
+    "resolution_date": "2023-09-25T16:35:45.000+0300",
+    "updated_date": "2023-09-25T16:35:45.000+0300",
+    "watches": 20,
+    "votes": 20
+  },
+  {
+    "id": "MC-47607",
+    "summary": "Barrier particles aren't shown if particles are set to minimal",
+    "labels": [
+      "barrier"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2014-02-06T20:15:01.000+0200",
+    "resolution_date": "2023-09-27T15:39:37.000+0300",
+    "updated_date": "2023-09-27T15:39:37.000+0300",
+    "watches": 8,
+    "votes": 11
+  }
+]
