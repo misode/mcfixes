@@ -1,5 +1,24 @@
 [
   {
+    "id": "MC-265589",
+    "summary": "Brigadier exception can be repeatedly logged if command has invalid syntax",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-09-29T07:52:38.000+0300",
+    "resolution_date": "2023-10-05T10:14:25.000+0300",
+    "updated_date": "2023-10-05T10:14:25.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
     "id": "MC-265519",
     "summary": "Game minimizes when certain areas of the screen are clicked on Mac in fullscreen mode",
     "labels": [],
