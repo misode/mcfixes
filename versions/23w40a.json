@@ -115,25 +115,6 @@
     "votes": 4
   },
   {
-    "id": "MC-261303",
-    "summary": "Decorated pots have an unused \"cracked\" block state",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Block states"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "23w40a"
-    ],
-    "creation_date": "2023-03-24T07:58:31.000+0200",
-    "resolution_date": "2023-09-27T13:11:37.000+0300",
-    "updated_date": "2023-09-27T17:40:11.000+0300",
-    "watches": 5,
-    "votes": 0
-  },
-  {
     "id": "MC-255173",
     "summary": "Nether portal teleportation is inaccurate at large coordinate values",
     "labels": [],
@@ -303,26 +284,6 @@
     "updated_date": "2023-09-30T10:08:38.000+0300",
     "watches": 9,
     "votes": 11
-  },
-  {
-    "id": "MC-109101",
-    "summary": "Shields do not block damage while the player faces straight up",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Combat",
-      "Player"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "23w40a"
-    ],
-    "creation_date": "2016-10-24T08:30:09.000+0300",
-    "resolution_date": "2023-09-22T10:40:00.000+0300",
-    "updated_date": "2023-09-22T10:40:00.000+0300",
-    "watches": 14,
-    "votes": 21
   },
   {
     "id": "MC-78314",
