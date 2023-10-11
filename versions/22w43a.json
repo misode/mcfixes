@@ -654,6 +654,25 @@
     "votes": 8
   },
   {
+    "id": "MC-239212",
+    "summary": "Vector3f#normalize treats small lengths the same as 0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2021-10-17T18:10:34.000+0300",
+    "resolution_date": "2023-10-11T10:21:18.000+0300",
+    "updated_date": "2023-10-11T10:21:19.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-222407",
     "summary": "Endermen holding big dripleaf stems don't drop big dripleaves upon being killed",
     "labels": [],
