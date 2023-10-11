@@ -115,6 +115,25 @@
     "votes": 4
   },
   {
+    "id": "MC-261303",
+    "summary": "Decorated pots have an unused \"cracked\" block state",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-03-24T07:58:31.000+0200",
+    "resolution_date": "2023-10-11T10:12:08.000+0300",
+    "updated_date": "2023-10-11T10:12:08.000+0300",
+    "watches": 7,
+    "votes": 1
+  },
+  {
     "id": "MC-255173",
     "summary": "Nether portal teleportation is inaccurate at large coordinate values",
     "labels": [],
