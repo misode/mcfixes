@@ -1,0 +1,574 @@
+[
+  {
+    "id": "MC-265656",
+    "summary": "Pumpkins can no longer be sheared",
+    "labels": [
+      "pumpkin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-10-05T00:45:09.000+0300",
+    "resolution_date": "2023-10-11T10:56:16.000+0300",
+    "updated_date": "2023-10-11T10:56:16.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-265647",
+    "summary": "Shield arm position is incorrect while in a boat",
+    "labels": [
+      "shield"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-10-04T20:29:45.000+0300",
+    "resolution_date": "2023-10-10T15:56:02.000+0300",
+    "updated_date": "2023-10-10T15:56:02.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-265516",
+    "summary": "The \"Cancel\" button within some realms menus can be deselected using keyboard navigation despite it being the only element within the said menu",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-09-22T14:50:06.000+0300",
+    "resolution_date": "2023-10-10T17:22:49.000+0300",
+    "updated_date": "2023-10-10T17:22:49.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-264880",
+    "summary": "GUI slider uses new texture with programmer art",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-08-16T20:56:09.000+0300",
+    "resolution_date": "2023-10-11T10:02:57.000+0300",
+    "updated_date": "2023-10-11T16:03:34.000+0300",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-264710",
+    "summary": "\"/execute if function\" always fails and \"/execute unless function\" always succeeds if run from a function",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-08-08T02:23:44.000+0300",
+    "resolution_date": "2023-10-11T11:52:50.000+0300",
+    "updated_date": "2023-10-11T11:52:50.000+0300",
+    "watches": 18,
+    "votes": 24
+  },
+  {
+    "id": "MC-264699",
+    "summary": "Functions return the output of commands only if the command doesn't start with return run",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-08-07T06:38:14.000+0300",
+    "resolution_date": "2023-10-11T11:52:58.000+0300",
+    "updated_date": "2023-10-11T11:52:58.000+0300",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-264595",
+    "summary": "Return command cannot run function when inside another function",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-08-03T15:57:30.000+0300",
+    "resolution_date": "2023-10-11T11:53:08.000+0300",
+    "updated_date": "2023-10-11T11:53:08.000+0300",
+    "watches": 22,
+    "votes": 31
+  },
+  {
+    "id": "MC-263660",
+    "summary": "\"Sign wobbles\" subtitle is the same for signs and hanging signs, causing translation issues",
+    "labels": [
+      "translatability"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-06-19T00:27:10.000+0300",
+    "resolution_date": "2023-10-09T16:32:45.000+0300",
+    "updated_date": "2023-10-09T16:32:45.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-263575",
+    "summary": "When an item is extracted from suspicious sand/gravel, gravity does not work on this block",
+    "labels": [
+      "block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-06-15T22:00:09.000+0300",
+    "resolution_date": "2023-10-09T16:32:43.000+0300",
+    "updated_date": "2023-10-09T16:32:43.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-262105",
+    "summary": "Entities can block brushing actions when players look very close to their hitboxes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-04-26T01:08:24.000+0300",
+    "resolution_date": "2023-10-09T16:32:44.000+0300",
+    "updated_date": "2023-10-09T16:32:45.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-261682",
+    "summary": "Brushing can continue when block goes out of range",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-04-07T11:08:11.000+0300",
+    "resolution_date": "2023-10-09T16:32:44.000+0300",
+    "updated_date": "2023-10-09T16:32:44.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-260576",
+    "summary": "Incomplete 'execute summon' command still runs",
+    "labels": [
+      "brigadier",
+      "execute",
+      "summon"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-02-26T14:44:49.000+0200",
+    "resolution_date": "2023-10-11T11:53:39.000+0300",
+    "updated_date": "2023-10-11T11:53:39.000+0300",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-257786",
+    "summary": "The game takes a long time to process players leaving realms groups or accepting or declining realms invitations",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2022-11-20T20:59:26.000+0200",
+    "resolution_date": "2023-10-11T11:32:38.000+0300",
+    "updated_date": "2023-10-11T11:32:38.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-249408",
+    "summary": "Boats with Chests lose their name when placed",
+    "labels": [
+      "boat-with-chest",
+      "name",
+      "nbt",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2022-03-24T20:12:25.000+0200",
+    "resolution_date": "2023-10-09T15:09:54.000+0300",
+    "updated_date": "2023-10-10T10:56:03.000+0300",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-236501",
+    "summary": "Renamed minecarts and boats don't show their name tag in the world",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2021-09-13T14:04:33.000+0300",
+    "resolution_date": "2023-10-09T15:09:54.000+0300",
+    "updated_date": "2023-10-10T14:28:59.000+0300",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-236341",
+    "summary": "You can feed hay bales to adult donkeys, horses or mules, but hand animation and animal eating animation/sounds are not played",
+    "labels": [
+      "animation",
+      "donkey",
+      "feeding",
+      "hand-animation",
+      "hay_bale",
+      "horse",
+      "mule",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Player Animation",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2021-09-11T20:43:23.000+0300",
+    "resolution_date": "2023-10-11T18:38:52.000+0300",
+    "updated_date": "2023-10-11T18:38:52.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-234323",
+    "summary": "Performance issue with text parsing",
+    "labels": [
+      "Optimization",
+      "Rendering",
+      "Text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2021-08-12T18:16:39.000+0300",
+    "resolution_date": "2023-10-09T11:46:23.000+0300",
+    "updated_date": "2023-10-09T11:46:23.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-233276",
+    "summary": "You can feed adult donkeys, horses, llamas or mules with maximum Temper value, and hand animation is not played",
+    "labels": [
+      "animation",
+      "donkey",
+      "feeding",
+      "hand-animation",
+      "horse",
+      "llama",
+      "mule",
+      "sound",
+      "temper"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2021-07-28T16:16:42.000+0300",
+    "resolution_date": "2023-10-09T16:32:41.000+0300",
+    "updated_date": "2023-10-10T15:00:07.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-198113",
+    "summary": "Incomplete commands do not prevent functions from loading ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2020-08-15T22:59:51.000+0300",
+    "resolution_date": "2023-10-11T11:53:47.000+0300",
+    "updated_date": "2023-10-11T11:53:47.000+0300",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-189227",
+    "summary": "First time tutorial uses old textures ",
+    "labels": [
+      "outdated-textures",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2020-06-13T03:46:48.000+0300",
+    "resolution_date": "2023-10-11T14:35:04.000+0300",
+    "updated_date": "2023-10-11T14:35:04.000+0300",
+    "watches": 8,
+    "votes": 28
+  },
+  {
+    "id": "MC-143269",
+    "summary": "Nested intermediate functions are skipped when maxCommandChainLength commands are already queued",
+    "labels": [
+      "/function",
+      "maxCommandChainLength"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2019-01-28T15:02:56.000+0200",
+    "resolution_date": "2023-10-11T11:53:29.000+0300",
+    "updated_date": "2023-10-11T11:53:29.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-143266",
+    "summary": "Nested function calls reevaluate maxCommandChainLength before queueing commands",
+    "labels": [
+      "/function",
+      "maxCommandChainLength"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2019-01-28T13:58:20.000+0200",
+    "resolution_date": "2023-10-11T11:53:18.000+0300",
+    "updated_date": "2023-10-11T16:02:11.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-118403",
+    "summary": "Vexes summoned by evoker do not have evoker team applied",
+    "labels": [
+      "vex"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2017-06-08T04:35:44.000+0300",
+    "resolution_date": "2023-10-05T10:47:04.000+0300",
+    "updated_date": "2023-10-06T00:13:44.000+0300",
+    "watches": 12,
+    "votes": 18
+  },
+  {
+    "id": "MC-81656",
+    "summary": "Field determining whether or not a wither skull is blue is not saved to and read from NBT",
+    "labels": [
+      "wither",
+      "wither_skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2015-06-21T17:29:34.000+0300",
+    "resolution_date": "2023-10-11T14:35:04.000+0300",
+    "updated_date": "2023-10-11T16:01:19.000+0300",
+    "watches": 9,
+    "votes": 19
+  },
+  {
+    "id": "MC-50319",
+    "summary": "Player owned projectiles lose their player ownership when exiting portals",
+    "labels": [
+      "end_portal",
+      "owner",
+      "player",
+      "portal",
+      "projectile"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2014-03-06T21:32:21.000+0200",
+    "resolution_date": "2023-10-10T15:41:36.000+0300",
+    "updated_date": "2023-10-11T16:21:45.000+0300",
+    "watches": 23,
+    "votes": 52
+  },
+  {
+    "id": "MC-16937",
+    "summary": "Shooting an arrow into the nether portal can hurt anybody when PvP is disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2013-05-31T13:30:40.000+0300",
+    "resolution_date": "2023-10-10T15:41:37.000+0300",
+    "updated_date": "2023-10-10T15:41:37.000+0300",
+    "watches": 8,
+    "votes": 19
+  }
+]
