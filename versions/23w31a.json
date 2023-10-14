@@ -2069,6 +2069,29 @@
     "votes": 9
   },
   {
+    "id": "MC-164176",
+    "summary": "Player ping indicator uses the same textures as the server list ping indicator",
+    "labels": [
+      "resource-pack-support",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2019-10-20T12:06:52.000+0300",
+    "resolution_date": "2023-10-14T12:33:21.000+0300",
+    "updated_date": "2023-10-14T12:33:21.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
     "id": "MC-164080",
     "summary": "Entities riding on Ghast are partially or fully inside it",
     "labels": [

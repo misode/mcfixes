@@ -1240,6 +1240,26 @@
     "votes": 70
   },
   {
+    "id": "MC-183428",
+    "summary": "Loading powered hopper from structure block to unpowered location creates ghost block hopper",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2020-05-11T00:21:31.000+0300",
+    "resolution_date": "2023-10-14T12:31:24.000+0300",
+    "updated_date": "2023-10-14T12:31:24.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-132200",
     "summary": "Ghost block hoppers appear if summoned by command to powered location",
     "labels": [],
