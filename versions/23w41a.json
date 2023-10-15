@@ -1,5 +1,24 @@
 [
   {
+    "id": "MC-265814",
+    "summary": "Minecart with TNT explodes or just dies depending on the type of explosion that hits it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-10-14T01:52:37.000+0300",
+    "resolution_date": "2023-10-15T14:28:13.000+0300",
+    "updated_date": "2023-10-15T14:38:55.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
     "id": "MC-265656",
     "summary": "Pumpkins can no longer be sheared",
     "labels": [
