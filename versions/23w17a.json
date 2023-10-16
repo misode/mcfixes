@@ -451,6 +451,25 @@
     "votes": 9
   },
   {
+    "id": "MC-213712",
+    "summary": "\"Ideographic Space\" Unicode character is not displayed correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-02-03T12:05:17.000+0200",
+    "resolution_date": "2023-10-16T17:02:04.000+0300",
+    "updated_date": "2023-10-16T17:02:05.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-199446",
     "summary": "Characters \ufe17 (U+FE17) and \ufe18 (U+FE18) are swapped in game",
     "labels": [],
