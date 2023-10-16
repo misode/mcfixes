@@ -736,6 +736,30 @@
     "votes": 4
   },
   {
+    "id": "MC-261502",
+    "summary": "Prompting resource pack disappears if player dies before installing or disconnecting",
+    "labels": [
+      "player",
+      "server",
+      "server-resource-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking",
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2023-04-01T09:46:27.000+0300",
+    "resolution_date": "2023-10-16T23:19:19.000+0300",
+    "updated_date": "2023-10-16T23:19:19.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
     "id": "MC-261440",
     "summary": "Resizing the window makes it so you can't change names in anvils",
     "labels": [],
@@ -1466,6 +1490,26 @@
     "updated_date": "2023-06-08T12:57:22.000+0300",
     "watches": 21,
     "votes": 32
+  },
+  {
+    "id": "MC-253797",
+    "summary": "Resource pack rejection prints component instead of username",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-07-02T08:26:54.000+0300",
+    "resolution_date": "2023-10-16T23:23:21.000+0300",
+    "updated_date": "2023-10-16T23:23:21.000+0300",
+    "watches": 1,
+    "votes": 1
   },
   {
     "id": "MC-252231",

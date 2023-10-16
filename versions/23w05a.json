@@ -443,6 +443,25 @@
     "votes": 6
   },
   {
+    "id": "MC-184822",
+    "summary": "Custom world import settings accepts JSON despite missing keys",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w05a"
+    ],
+    "creation_date": "2020-05-20T23:00:43.000+0300",
+    "resolution_date": "2023-10-16T23:17:42.000+0300",
+    "updated_date": "2023-10-16T23:17:43.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-147711",
     "summary": "Drowned no longer have a different swimming animation",
     "labels": [
