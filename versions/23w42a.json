@@ -323,6 +323,51 @@
     "votes": 4
   },
   {
+    "id": "MC-225365",
+    "summary": "Pointed dripstone can be destroyed by tridents in adventure mode",
+    "labels": [
+      "pointed_dripstone",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w42a"
+    ],
+    "creation_date": "2021-05-12T17:55:25.000+0300",
+    "resolution_date": "2023-10-18T19:44:28.000+0300",
+    "updated_date": "2023-10-18T19:44:28.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-225364",
+    "summary": "Chorus flowers can be destroyed by projectiles in adventure mode",
+    "labels": [
+      "chorus_flower"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w42a"
+    ],
+    "creation_date": "2021-05-12T17:51:37.000+0300",
+    "resolution_date": "2023-10-18T19:44:51.000+0300",
+    "updated_date": "2023-10-18T19:44:51.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-223774",
     "summary": "Firework Rockets can't be used to break Chorus Flowers",
     "labels": [],
