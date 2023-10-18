@@ -904,6 +904,25 @@
     "votes": 35
   },
   {
+    "id": "MC-136492",
+    "summary": "Loading a rotated structure with item frames will make ground and ceiling item frames appear to face a diffrent direction than they actaully are",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w45a"
+    ],
+    "creation_date": "2018-08-26T18:15:39.000+0300",
+    "resolution_date": "2023-10-18T12:10:22.000+0300",
+    "updated_date": "2023-10-18T12:10:22.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
     "id": "MC-135552",
     "summary": "Dead Entities are saved to chunk",
     "labels": [],

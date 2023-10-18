@@ -350,6 +350,30 @@
     "votes": 3
   },
   {
+    "id": "MC-226084",
+    "summary": "Pistons spawned from command block don't have pushing animation",
+    "labels": [
+      "command",
+      "command-block",
+      "piston",
+      "redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-05-22T14:27:33.000+0300",
+    "resolution_date": "2023-10-18T12:08:45.000+0300",
+    "updated_date": "2023-10-18T12:08:45.000+0300",
+    "watches": 4,
+    "votes": 0
+  },
+  {
     "id": "MC-225816",
     "summary": "Hanging Roots appear large when an item entity ",
     "labels": [],
