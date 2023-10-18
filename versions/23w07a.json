@@ -40,6 +40,27 @@
     "votes": 3
   },
   {
+    "id": "MC-259915",
+    "summary": "Item display position interpolation not working",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a",
+      "23w31a"
+    ],
+    "creation_date": "2023-02-11T07:55:00.000+0200",
+    "resolution_date": "2023-10-18T14:38:16.000+0300",
+    "updated_date": "2023-10-18T14:38:16.000+0300",
+    "watches": 28,
+    "votes": 45
+  },
+  {
     "id": "MC-259819",
     "summary": "Z-fighting on the text of text displays",
     "labels": [

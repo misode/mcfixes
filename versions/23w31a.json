@@ -1087,6 +1087,27 @@
     "votes": 5
   },
   {
+    "id": "MC-259915",
+    "summary": "Item display position interpolation not working",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w07a",
+      "23w31a"
+    ],
+    "creation_date": "2023-02-11T07:55:00.000+0200",
+    "resolution_date": "2023-10-18T14:38:16.000+0300",
+    "updated_date": "2023-10-18T14:38:16.000+0300",
+    "watches": 28,
+    "votes": 45
+  },
+  {
     "id": "MC-259794",
     "summary": "Armor enchanted with curse of binding cannot be swapped via right-clicking in creative mode",
     "labels": [],
