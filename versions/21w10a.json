@@ -800,6 +800,26 @@
     "votes": 22
   },
   {
+    "id": "MC-190674",
+    "summary": "Shift clicking banners out of loom causes ghost items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-06-20T13:05:00.000+0300",
+    "resolution_date": "2023-10-19T13:04:16.000+0300",
+    "updated_date": "2023-10-19T13:04:16.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
     "id": "MC-186864",
     "summary": "Leather armour can appear white",
     "labels": [
