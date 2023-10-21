@@ -441,6 +441,25 @@
     "votes": 7
   },
   {
+    "id": "MC-180350",
+    "summary": "Long pack names and world descriptions don't stop with \"...\" in some menus",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2020-04-24T03:36:08.000+0300",
+    "resolution_date": "2023-10-21T08:09:49.000+0300",
+    "updated_date": "2023-10-21T08:09:49.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
     "id": "MC-158767",
     "summary": "Sleeping beside lava wakes player in lava",
     "labels": [],
