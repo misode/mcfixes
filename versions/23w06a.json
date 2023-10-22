@@ -940,6 +940,29 @@
     "votes": 29
   },
   {
+    "id": "MC-188738",
+    "summary": "Armor stand pose are inconsistent when placed or summoned, even when using the Pose NBT Tag",
+    "labels": [
+      "armor_stand",
+      "inconsistency",
+      "pose"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-06-11T23:32:41.000+0300",
+    "resolution_date": "2023-10-22T12:11:44.000+0300",
+    "updated_date": "2023-10-22T12:11:44.000+0300",
+    "watches": 8,
+    "votes": 15
+  },
+  {
     "id": "MC-182699",
     "summary": "Various humanoid mobs show z-fighting on their legs",
     "labels": [
