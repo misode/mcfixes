@@ -779,6 +779,25 @@
     "votes": 7
   },
   {
+    "id": "MC-201111",
+    "summary": "Spectating mobs that has shaders with fabulous graphics makes the screen dark if the mob is in a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2020-09-27T12:09:34.000+0300",
+    "resolution_date": "2023-10-24T09:20:34.000+0300",
+    "updated_date": "2023-10-24T09:20:35.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-194675",
     "summary": "While spectating a creeper, enderman, spider or cave spider, UI elements are rendered completely white",
     "labels": [
