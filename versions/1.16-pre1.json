@@ -866,6 +866,25 @@
     "votes": 2
   },
   {
+    "id": "MC-180738",
+    "summary": "Upgrading a stack of diamond equipment on a smithing table destroyes the rest of the diamond equipment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 1"
+    ],
+    "creation_date": "2020-04-25T16:59:43.000+0300",
+    "resolution_date": "2023-10-24T17:37:24.000+0300",
+    "updated_date": "2023-10-24T17:40:01.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
     "id": "MC-180111",
     "summary": "Hoglins angered for reasons other than being attacked by the player ignore placed repellents.",
     "labels": [
