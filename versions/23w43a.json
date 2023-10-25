@@ -1,0 +1,371 @@
+[
+  {
+    "id": "MC-265961",
+    "summary": "Inconsistent pixels near light on the crafter's side",
+    "labels": [
+      "crafter"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-20T05:32:04.000+0300",
+    "resolution_date": "2023-10-24T12:16:45.000+0300",
+    "updated_date": "2023-10-24T12:16:45.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-265939",
+    "summary": "The \"No pending invites!\" text within the realms invitation menu cannot be narrated or selected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-19T16:28:36.000+0300",
+    "resolution_date": "2023-10-25T09:48:50.000+0300",
+    "updated_date": "2023-10-25T09:48:50.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-265938",
+    "summary": "Elements within the list in the \"Changes From Last Backup\" realms menu cannot be selected via the mouse cursor",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-19T16:17:08.000+0300",
+    "resolution_date": "2023-10-25T09:48:50.000+0300",
+    "updated_date": "2023-10-25T09:48:50.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-265901",
+    "summary": "Comparator sometimes doesn't update when crafting with the Crafter",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T21:26:49.000+0300",
+    "resolution_date": "2023-10-25T11:52:16.000+0300",
+    "updated_date": "2023-10-25T11:52:16.000+0300",
+    "watches": 20,
+    "votes": 52
+  },
+  {
+    "id": "MC-265899",
+    "summary": "The translation for \"gamerule.commandModificationBlockLimit\" is in title case instead of sentence case",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T21:15:55.000+0300",
+    "resolution_date": "2023-10-19T10:55:10.000+0300",
+    "updated_date": "2023-10-19T10:55:10.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-265896",
+    "summary": "Additional lines appear on the crafter's face when it crafts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T20:48:15.000+0300",
+    "resolution_date": "2023-10-24T12:17:02.000+0300",
+    "updated_date": "2023-10-24T12:17:02.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-265891",
+    "summary": "Placing items into the crafter output slot deletes them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T19:49:19.000+0300",
+    "resolution_date": "2023-10-23T12:10:53.000+0300",
+    "updated_date": "2023-10-23T12:10:53.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-265886",
+    "summary": "The built-in update_1_21 pack contains duplicate files from the vanilla pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T19:10:55.000+0300",
+    "resolution_date": "2023-10-25T14:24:49.000+0300",
+    "updated_date": "2023-10-25T14:24:49.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-265885",
+    "summary": "Extra space in the word \"cannot\" in selectWorld.incompatible.description",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T19:08:38.000+0300",
+    "resolution_date": "2023-10-19T10:55:09.000+0300",
+    "updated_date": "2023-10-19T10:55:09.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-265884",
+    "summary": "The word \"occurred\" is misspelled as \"occured\" within the \"recover_world.message\" string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T18:52:25.000+0300",
+    "resolution_date": "2023-10-19T10:55:09.000+0300",
+    "updated_date": "2023-10-19T14:02:36.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-265880",
+    "summary": "The subtitle for Crafters crafting something uses inconsistent tense",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T18:38:18.000+0300",
+    "resolution_date": "2023-10-23T12:10:54.000+0300",
+    "updated_date": "2023-10-23T12:10:54.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-265874",
+    "summary": "Right-clicking and keyboard input can disable or enable slots in the crafter",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Input",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T18:18:15.000+0300",
+    "resolution_date": "2023-10-23T12:10:54.000+0300",
+    "updated_date": "2023-10-23T12:10:54.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-265872",
+    "summary": "The word \"available\" is misspelled as \"availible\" within the \"recover_world.no_fallback\" string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-10-18T18:08:35.000+0300",
+    "resolution_date": "2023-10-19T10:55:08.000+0300",
+    "updated_date": "2023-10-19T14:03:23.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-263309",
+    "summary": "You can configure your realm before it has been created by using the TAB key",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-06-08T17:53:35.000+0300",
+    "resolution_date": "2023-10-25T09:48:51.000+0300",
+    "updated_date": "2023-10-25T09:48:51.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-263272",
+    "summary": "You cannot click on an area to set a value within the spawn protection slider in the realms world options menu",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-06-07T21:18:35.000+0300",
+    "resolution_date": "2023-10-25T09:48:52.000+0300",
+    "updated_date": "2023-10-25T09:48:52.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-263263",
+    "summary": "The operator buttons intersect the scroll bar within the realms player menu",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2023-06-07T20:17:28.000+0300",
+    "resolution_date": "2023-10-25T09:48:52.000+0300",
+    "updated_date": "2023-10-25T09:48:52.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-257786",
+    "summary": "The game takes a long time to process players leaving realms groups or accepting or declining realms invitations",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a",
+      "23w43a"
+    ],
+    "creation_date": "2022-11-20T20:59:26.000+0200",
+    "resolution_date": "2023-10-25T09:48:51.000+0300",
+    "updated_date": "2023-10-25T09:48:51.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-1981",
+    "summary": "All arrow types lose their name/NBT data when shot and picked up",
+    "labels": [
+      "anvil",
+      "arrow",
+      "display-Name",
+      "item-renaming",
+      "shooting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2012-11-02T23:31:58.000+0200",
+    "resolution_date": "2023-10-25T11:42:44.000+0300",
+    "updated_date": "2023-10-25T11:42:44.000+0300",
+    "watches": 31,
+    "votes": 79
+  }
+]
