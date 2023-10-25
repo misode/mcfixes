@@ -285,6 +285,29 @@
     "votes": 7
   },
   {
+    "id": "MC-257786",
+    "summary": "The game takes a long time to process players leaving realms groups or accepting or declining realms invitations",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w41a",
+      "Future Update"
+    ],
+    "creation_date": "2022-11-20T20:59:26.000+0200",
+    "resolution_date": "2023-10-25T09:48:51.000+0300",
+    "updated_date": "2023-10-25T09:48:51.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
     "id": "MC-249408",
     "summary": "Boats with Chests lose their name when placed",
     "labels": [
