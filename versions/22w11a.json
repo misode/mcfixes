@@ -470,6 +470,25 @@
     "votes": 55
   },
   {
+    "id": "MC-159349",
+    "summary": "Bottom half of door is missing when an entity is passing through while placing it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w11a"
+    ],
+    "creation_date": "2019-08-22T16:47:23.000+0300",
+    "resolution_date": "2023-10-26T13:43:01.000+0300",
+    "updated_date": "2023-10-26T13:43:02.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
     "id": "MC-158668",
     "summary": "Vex continue to attack their target after it has been killed",
     "labels": [],
