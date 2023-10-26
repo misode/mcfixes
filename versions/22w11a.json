@@ -550,6 +550,25 @@
     "votes": 26
   },
   {
+    "id": "MC-132428",
+    "summary": "Client-side block model (of fences, iron bars, walls ...) is not updated when placement is cancelled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w11a"
+    ],
+    "creation_date": "2018-06-30T18:41:14.000+0300",
+    "resolution_date": "2023-10-26T08:32:05.000+0300",
+    "updated_date": "2023-10-26T08:32:05.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
     "id": "MC-127885",
     "summary": "The textures on the spider models aren't mirrored properly",
     "labels": [

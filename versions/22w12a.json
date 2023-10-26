@@ -467,6 +467,25 @@
     "votes": 15
   },
   {
+    "id": "MC-201626",
+    "summary": "Taking saddle off of a horse makes the horse move",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w12a"
+    ],
+    "creation_date": "2020-10-06T09:47:18.000+0300",
+    "resolution_date": "2023-10-26T08:35:22.000+0300",
+    "updated_date": "2023-10-26T08:35:22.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-197854",
     "summary": "Cannot use Ctrl+Backspace to delete entire words in Edit sign GUI",
     "labels": [],
