@@ -365,6 +365,26 @@
     "votes": 20
   },
   {
+    "id": "MC-169201",
+    "summary": "Missing \"rolls\" in loot tables causes NullPointerException",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2019-12-31T17:19:38.000+0200",
+    "resolution_date": "2023-10-26T18:45:14.000+0300",
+    "updated_date": "2023-10-26T18:45:30.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
     "id": "MC-135339",
     "summary": "Host's skin is not visible to other players in a LAN world if the host has not opened any world before",
     "labels": [],

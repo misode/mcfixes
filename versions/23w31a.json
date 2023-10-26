@@ -2134,6 +2134,28 @@
     "votes": 9
   },
   {
+    "id": "MC-169464",
+    "summary": "Scoreboard slots are not case-sensitive",
+    "labels": [
+      "/scoreboard",
+      "/scoreboard-objectives"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-01-05T08:31:41.000+0200",
+    "resolution_date": "2023-10-26T18:41:08.000+0300",
+    "updated_date": "2023-10-26T18:45:32.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-164176",
     "summary": "Player ping indicator uses the same textures as the server list ping indicator",
     "labels": [
