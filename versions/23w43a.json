@@ -343,6 +343,48 @@
     "votes": 3
   },
   {
+    "id": "MC-234567",
+    "summary": "The \"minecraft:ui.button.click\" sound isn't played when interacting with the spawn protection slider in the realms world options menu",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2021-08-15T19:26:56.000+0300",
+    "resolution_date": "2023-10-26T13:08:44.000+0300",
+    "updated_date": "2023-10-26T13:08:48.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-234472",
+    "summary": "The right side of the selection box is cut off by the scroll bar in the realms \"Players\" menu",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w43a"
+    ],
+    "creation_date": "2021-08-14T15:36:17.000+0300",
+    "resolution_date": "2023-10-26T12:54:14.000+0300",
+    "updated_date": "2023-10-26T12:54:22.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-1981",
     "summary": "All arrow types lose their name/NBT data when shot and picked up",
     "labels": [
