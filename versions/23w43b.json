@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-266143",
+    "summary": "Watchdog crashes server on startup if JMX-Monitoring is enabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w43b"
+    ],
+    "creation_date": "2023-10-26T15:29:12.000+0300",
+    "resolution_date": "2023-10-27T16:51:07.000+0300",
+    "updated_date": "2023-10-27T16:51:07.000+0300",
+    "watches": 2,
+    "votes": 0
+  }
+]
