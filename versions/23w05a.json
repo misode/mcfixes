@@ -462,6 +462,25 @@
     "votes": 2
   },
   {
+    "id": "MC-184642",
+    "summary": "Game Mode in creating new world gets locked after switching its World Type from Debug Mode to Normal.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w05a"
+    ],
+    "creation_date": "2020-05-20T16:53:53.000+0300",
+    "resolution_date": "2023-10-27T14:17:27.000+0300",
+    "updated_date": "2023-10-27T14:17:27.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-147711",
     "summary": "Drowned no longer have a different swimming animation",
     "labels": [
