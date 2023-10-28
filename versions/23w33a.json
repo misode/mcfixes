@@ -335,6 +335,25 @@
     "votes": 9
   },
   {
+    "id": "MC-173643",
+    "summary": "Zombies don't attack villager when elevated below them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w33a"
+    ],
+    "creation_date": "2020-03-03T01:14:54.000+0200",
+    "resolution_date": "2023-10-28T14:13:51.000+0300",
+    "updated_date": "2023-10-28T14:13:52.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
     "id": "MC-125046",
     "summary": "\"RepairCost\" NBT tag is created on any renamed item using anvils which can cause items to not stack properly",
     "labels": [
