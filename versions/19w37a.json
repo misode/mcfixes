@@ -195,6 +195,25 @@
     "votes": 2
   },
   {
+    "id": "MC-159182",
+    "summary": "Breaking boats in a world converted from alpha to beta to release 1.8 to release modern versions doesn't drop the boat.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w37a"
+    ],
+    "creation_date": "2019-08-19T10:15:49.000+0300",
+    "resolution_date": "2023-10-28T14:13:28.000+0300",
+    "updated_date": "2023-10-28T14:13:28.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
     "id": "MC-158853",
     "summary": "Chests missing after converting and loading old map from 1.7.10",
     "labels": [],
