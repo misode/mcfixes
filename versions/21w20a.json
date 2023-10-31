@@ -1565,6 +1565,25 @@
     "votes": 3
   },
   {
+    "id": "MC-1429",
+    "summary": "When beacon power level is changed, the GUI doesn't update until closed and reopened",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w20a"
+    ],
+    "creation_date": "2012-10-31T10:25:20.000+0200",
+    "resolution_date": "2023-10-31T18:48:45.000+0200",
+    "updated_date": "2023-10-31T18:48:46.000+0200",
+    "watches": 15,
+    "votes": 23
+  },
+  {
     "id": "MC-610",
     "summary": "Grass / Flowers / Snow are placed incorrectly in newly created chunks",
     "labels": [
