@@ -813,6 +813,28 @@
     "votes": 103
   },
   {
+    "id": "MC-124596",
+    "summary": "name selector parameter does not work for children of text components",
+    "labels": [
+      "selector",
+      "text-component"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w17a"
+    ],
+    "creation_date": "2018-01-27T19:47:42.000+0200",
+    "resolution_date": "2023-11-01T13:34:22.000+0200",
+    "updated_date": "2023-11-01T13:34:22.000+0200",
+    "watches": 7,
+    "votes": 8
+  },
+  {
     "id": "MC-120572",
     "summary": "/recipe crashes the game",
     "labels": [
