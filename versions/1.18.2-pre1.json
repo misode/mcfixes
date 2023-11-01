@@ -141,6 +141,25 @@
     "votes": 7
   },
   {
+    "id": "MC-193709",
+    "summary": "When looking exactly to the positive X direction you don't take kinetic damage when gliding with an elytra against a wall",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2020-07-05T18:31:19.000+0300",
+    "resolution_date": "2023-11-01T03:50:08.000+0200",
+    "updated_date": "2023-11-01T03:50:08.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
     "id": "MC-187911",
     "summary": "minecraft:endcity structure has no underscore while end_city_treasure does",
     "labels": [],
