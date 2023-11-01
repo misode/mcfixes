@@ -662,6 +662,25 @@
     "votes": 9
   },
   {
+    "id": "MC-201166",
+    "summary": "A summoned minecart can stay visually tilted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.2 Pre-release 1"
+    ],
+    "creation_date": "2020-09-28T07:31:42.000+0300",
+    "resolution_date": "2023-11-01T04:57:34.000+0200",
+    "updated_date": "2023-11-01T04:57:34.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-193457",
     "summary": "Dropper/Dispenser 'Triggered' block state not updating without player interaction",
     "labels": [],
