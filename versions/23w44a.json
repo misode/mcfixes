@@ -1,0 +1,263 @@
+[
+  {
+    "id": "MC-266215",
+    "summary": "The pivot point of the head of the new bats is different from that of Bedrock's",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-29T16:06:53.000+0200",
+    "resolution_date": "2023-10-31T16:55:23.000+0200",
+    "updated_date": "2023-10-31T16:55:23.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-266197",
+    "summary": "The \"Transfer Now\" button in the realms menu cannot be selected via keyboard navigation",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-28T16:22:15.000+0300",
+    "resolution_date": "2023-11-01T08:18:24.000+0200",
+    "updated_date": "2023-11-01T09:12:04.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-266147",
+    "summary": "Copper Door item texture is inconsistent with the block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-26T16:09:40.000+0300",
+    "resolution_date": "2023-10-31T16:45:32.000+0200",
+    "updated_date": "2023-10-31T16:45:32.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-266117",
+    "summary": "Chiseled copper cannot be stonecut from cut copper blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-26T01:30:11.000+0300",
+    "resolution_date": "2023-11-01T13:01:46.000+0200",
+    "updated_date": "2023-11-01T13:01:46.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-266112",
+    "summary": "New Bat's ears are lower than the official render and Bedrock's",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-26T00:49:06.000+0300",
+    "resolution_date": "2023-10-31T16:55:24.000+0200",
+    "updated_date": "2023-10-31T16:55:24.000+0200",
+    "watches": 4,
+    "votes": 13
+  },
+  {
+    "id": "MC-266105",
+    "summary": "Bat head upside down when spawned while ticks are frozen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-25T23:48:46.000+0300",
+    "resolution_date": "2023-10-31T16:55:24.000+0200",
+    "updated_date": "2023-10-31T16:55:24.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-266086",
+    "summary": "Tuff bricks do not properly align with other bricks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-25T20:22:10.000+0300",
+    "resolution_date": "2023-10-31T15:18:42.000+0200",
+    "updated_date": "2023-10-31T15:18:42.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-266084",
+    "summary": "Top of copper doors include an open part of the window",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-25T20:18:38.000+0300",
+    "resolution_date": "2023-11-01T11:23:35.000+0200",
+    "updated_date": "2023-11-01T11:23:35.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-266064",
+    "summary": "Footsteps on Polished Tuff create missing subtitle",
+    "labels": [
+      "block",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-25T19:02:32.000+0300",
+    "resolution_date": "2023-11-01T12:03:03.000+0200",
+    "updated_date": "2023-11-01T12:03:03.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-266053",
+    "summary": "Subtitles for opening or closing a copper trapdoor display raw translation string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-25T18:14:51.000+0300",
+    "resolution_date": "2023-10-30T12:47:57.000+0200",
+    "updated_date": "2023-10-30T12:47:57.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-266052",
+    "summary": "Subtitles for turning copper bulb on or off display raw translation string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-25T18:07:33.000+0300",
+    "resolution_date": "2023-10-30T12:57:02.000+0200",
+    "updated_date": "2023-10-30T12:57:02.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-265805",
+    "summary": "Executing a tail-recursive function consumes memory resources linearly with recursion depth",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2023-10-13T13:04:30.000+0300",
+    "resolution_date": "2023-10-30T11:25:17.000+0200",
+    "updated_date": "2023-10-30T11:25:17.000+0200",
+    "watches": 9,
+    "votes": 10
+  },
+  {
+    "id": "MC-219293",
+    "summary": "When teleporting via Chorus Fruit, the burping and teleporting sounds play at the wrong location",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2021-03-13T01:20:51.000+0200",
+    "resolution_date": "2023-11-01T08:10:07.000+0200",
+    "updated_date": "2023-11-01T08:10:07.000+0200",
+    "watches": 5,
+    "votes": 5
+  }
+]
