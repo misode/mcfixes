@@ -1,0 +1,388 @@
+[
+  {
+    "id": "MC-266289",
+    "summary": "Could not save data raids.dat and random_sequences.dat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids",
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-11-01T18:46:33.000+0200",
+    "resolution_date": "2023-11-02T11:17:37.000+0200",
+    "updated_date": "2023-11-06T13:08:18.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-266287",
+    "summary": "Can't load .dat and .nbt files (server list & saved hotbar)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-11-01T18:36:09.000+0200",
+    "resolution_date": "2023-11-02T11:17:37.000+0200",
+    "updated_date": "2023-11-07T20:35:39.000+0200",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-266256",
+    "summary": "Accessibility button in the Welcome screen still needs its own string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-30T17:27:20.000+0200",
+    "resolution_date": "2023-11-06T10:29:11.000+0200",
+    "updated_date": "2023-11-06T10:29:11.000+0200",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-266248",
+    "summary": "No error message when granting/revoking an advancement that is already granted/revoked",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Advancements",
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-30T08:45:20.000+0200",
+    "resolution_date": "2023-11-07T14:17:57.000+0200",
+    "updated_date": "2023-11-07T14:17:57.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-266096",
+    "summary": "Mobs can spawn on oxidized or waxed copper grates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-25T21:47:05.000+0300",
+    "resolution_date": "2023-11-02T16:42:19.000+0200",
+    "updated_date": "2023-11-02T16:42:19.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-266091",
+    "summary": "Copper Bulbs do not cull faces correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-25T20:55:18.000+0300",
+    "resolution_date": "2023-11-02T16:42:20.000+0200",
+    "updated_date": "2023-11-02T16:42:20.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-266090",
+    "summary": "Light can pass through copper bulbs",
+    "labels": [
+      "copper_bulb"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-25T20:52:42.000+0300",
+    "resolution_date": "2023-11-02T16:42:20.000+0200",
+    "updated_date": "2023-11-02T16:42:20.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-266063",
+    "summary": "Copper Doors and Trapdoors make generic metal sounds when placing",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-25T18:50:04.000+0300",
+    "resolution_date": "2023-11-08T12:25:18.000+0200",
+    "updated_date": "2023-11-08T12:25:18.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-266056",
+    "summary": "Mobs suffocate inside most copper grate block variants",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-25T18:26:18.000+0300",
+    "resolution_date": "2023-11-02T16:42:19.000+0200",
+    "updated_date": "2023-11-02T16:42:19.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-266054",
+    "summary": "Side Water texture on Copper bulbs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-25T18:15:37.000+0300",
+    "resolution_date": "2023-11-02T16:42:21.000+0200",
+    "updated_date": "2023-11-05T19:47:04.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-265875",
+    "summary": "Compasses, Clocks and Recovery Compasses work normally within the output slot of the crafter",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-18T18:29:28.000+0300",
+    "resolution_date": "2023-11-07T14:26:16.000+0200",
+    "updated_date": "2023-11-07T14:26:16.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-265747",
+    "summary": "Punching a TNT Minecart in creative mode drops the minecart",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-11T18:52:21.000+0300",
+    "resolution_date": "2023-11-03T10:25:10.000+0200",
+    "updated_date": "2023-11-03T10:25:10.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-265702",
+    "summary": "Text components in commands accept malformed JSON",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2023-10-08T17:02:38.000+0300",
+    "resolution_date": "2023-11-07T14:26:17.000+0200",
+    "updated_date": "2023-11-07T14:26:17.000+0200",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-255244",
+    "summary": "NBT link/reference when using /fill",
+    "labels": [
+      "block",
+      "command"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2022-08-16T00:55:27.000+0300",
+    "resolution_date": "2023-11-07T14:26:15.000+0200",
+    "updated_date": "2023-11-07T14:26:15.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-186797",
+    "summary": "Functioning clock and compasses in crafting output slot",
+    "labels": [
+      "clock",
+      "compass",
+      "recovery_compass"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2020-06-01T01:39:44.000+0300",
+    "resolution_date": "2023-11-07T14:26:16.000+0200",
+    "updated_date": "2023-11-07T14:26:16.000+0200",
+    "watches": 16,
+    "votes": 22
+  },
+  {
+    "id": "MC-177446",
+    "summary": "\"RootVehicle\" tag in playerdata entry is not upgraded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2020-04-05T01:37:53.000+0300",
+    "resolution_date": "2023-11-07T14:26:15.000+0200",
+    "updated_date": "2023-11-07T14:26:15.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-169969",
+    "summary": "The back faces of spawners do not render",
+    "labels": [
+      "missing-planes",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2020-01-17T05:57:17.000+0200",
+    "resolution_date": "2023-11-08T17:11:23.000+0200",
+    "updated_date": "2023-11-08T17:11:23.000+0200",
+    "watches": 12,
+    "votes": 23
+  },
+  {
+    "id": "MC-136904",
+    "summary": "\"execute store score\" does not store 0 when subcommand is \"advancement\" and fails",
+    "labels": [
+      "/advancement",
+      "/execute-store"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2018-09-15T22:24:27.000+0300",
+    "resolution_date": "2023-11-08T17:19:34.000+0200",
+    "updated_date": "2023-11-08T17:19:34.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-131646",
+    "summary": "Drowned spawners only work in biomes where drowned spawn",
+    "labels": [
+      "drowned",
+      "location",
+      "spawner"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2018-06-19T01:52:40.000+0300",
+    "resolution_date": "2023-11-07T15:50:17.000+0200",
+    "updated_date": "2023-11-07T15:50:17.000+0200",
+    "watches": 10,
+    "votes": 19
+  }
+]
