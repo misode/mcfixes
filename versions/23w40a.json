@@ -1,5 +1,25 @@
 [
   {
+    "id": "MC-266196",
+    "summary": "Signs and hanging signs become non-editable by right-click after modifying one line message to an empty text string with a specific color",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-10-28T15:36:41.000+0300",
+    "resolution_date": "2023-11-10T12:25:58.000+0200",
+    "updated_date": "2023-11-10T12:25:58.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
     "id": "MC-265589",
     "summary": "Brigadier exception can be repeatedly logged if command has invalid syntax",
     "labels": [],
