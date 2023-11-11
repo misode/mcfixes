@@ -1240,6 +1240,25 @@
     "votes": 70
   },
   {
+    "id": "MC-184076",
+    "summary": "Tutorial pop-ups become inverted when viewing the credits",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.19.4 Pre-release 1"
+    ],
+    "creation_date": "2020-05-15T17:12:20.000+0300",
+    "resolution_date": "2023-11-11T22:01:44.000+0200",
+    "updated_date": "2023-11-11T22:01:44.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-183428",
     "summary": "Loading powered hopper from structure block to unpowered location creates ghost block hopper",
     "labels": [],
