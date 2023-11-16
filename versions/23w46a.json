@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MC-266622",
+    "summary": "Wind Charges can't switch levers off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-11-11T22:11:41.000+0200",
+    "resolution_date": "2023-11-14T16:53:18.000+0200",
+    "updated_date": "2023-11-14T16:53:18.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-266538",
+    "summary": "Trial spawners can be replaced by lava pools and other features",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-11-09T16:20:15.000+0200",
+    "resolution_date": "2023-11-14T10:58:19.000+0200",
+    "updated_date": "2023-11-14T10:58:19.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-266459",
+    "summary": "The hitboxes and models of wind charges are misaligned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-11-08T18:48:36.000+0200",
+    "resolution_date": "2023-11-14T16:53:17.000+0200",
+    "updated_date": "2023-11-14T16:53:17.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-266455",
+    "summary": "Breeze spawn eggs are in the incorrect place in the creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-11-08T18:38:52.000+0200",
+    "resolution_date": "2023-11-14T16:53:16.000+0200",
+    "updated_date": "2023-11-16T02:15:16.000+0200",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-266445",
+    "summary": "Breeze mob doesn't count to Monster Hunter",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-11-08T18:06:10.000+0200",
+    "resolution_date": "2023-11-14T16:53:16.000+0200",
+    "updated_date": "2023-11-16T18:31:39.000+0200",
+    "watches": 8,
+    "votes": 16
+  },
+  {
+    "id": "MC-266437",
+    "summary": "Wind charge subtitles are improperly capitalized",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-11-08T17:51:34.000+0200",
+    "resolution_date": "2023-11-14T16:53:17.000+0200",
+    "updated_date": "2023-11-14T16:53:17.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-266190",
+    "summary": "Tuff blockset color palette is inconsistent with itself",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-28T06:37:34.000+0300",
+    "resolution_date": "2023-11-13T17:29:57.000+0200",
+    "updated_date": "2023-11-15T11:48:36.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-266148",
+    "summary": "Some Crafting recipes for the new copper blocks appear when Experiment is disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-26T16:17:21.000+0300",
+    "resolution_date": "2023-11-13T11:54:23.000+0200",
+    "updated_date": "2023-11-13T11:54:23.000+0200",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-266120",
+    "summary": "Some advancements for 1.21 block recipes are in the regular datapack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-26T02:08:45.000+0300",
+    "resolution_date": "2023-11-16T14:52:46.000+0200",
+    "updated_date": "2023-11-16T14:52:46.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-266099",
+    "summary": "Spectating an entity that takes damage makes the camera shake",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-25T22:12:11.000+0300",
+    "resolution_date": "2023-11-16T14:37:07.000+0200",
+    "updated_date": "2023-11-16T14:37:07.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-266076",
+    "summary": "Copper Grates can't be waterlogged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-25T19:57:05.000+0300",
+    "resolution_date": "2023-11-16T11:18:09.000+0200",
+    "updated_date": "2023-11-16T11:18:09.000+0200",
+    "watches": 11,
+    "votes": 11
+  },
+  {
+    "id": "MC-265950",
+    "summary": "Crafters will stack items when outputting into chiseled bookshelf",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-19T21:54:58.000+0300",
+    "resolution_date": "2023-11-16T15:35:40.000+0200",
+    "updated_date": "2023-11-16T15:35:40.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-265910",
+    "summary": "Crafter block has a one game tick cooldown",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-19T00:08:04.000+0300",
+    "resolution_date": "2023-11-16T12:41:35.000+0200",
+    "updated_date": "2023-11-16T12:41:35.000+0200",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-265873",
+    "summary": "Narrator Hotkey description mentions the wrong modifier key on macOS",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-18T18:18:10.000+0300",
+    "resolution_date": "2023-11-09T07:40:01.000+0200",
+    "updated_date": "2023-11-09T07:40:01.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-265662",
+    "summary": "\"Cannot kick server owner in LAN game\" message when trying to kick yourself from non-LAN singleplayer world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-05T05:08:09.000+0300",
+    "resolution_date": "2023-11-16T11:32:32.000+0200",
+    "updated_date": "2023-11-16T11:32:32.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-259321",
+    "summary": "Spawner counts related entities against MaxNearbyEntities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-01-23T02:10:45.000+0200",
+    "resolution_date": "2023-11-08T18:07:10.000+0200",
+    "updated_date": "2023-11-09T00:14:38.000+0200",
+    "watches": 9,
+    "votes": 9
+  },
+  {
+    "id": "MC-163943",
+    "summary": "Read-only scores can be mutated by swapping",
+    "labels": [
+      "scoreboard"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2019-10-17T09:41:26.000+0300",
+    "resolution_date": "2023-11-16T18:40:40.000+0200",
+    "updated_date": "2023-11-16T18:40:40.000+0200",
+    "watches": 5,
+    "votes": 9
+  }
+]
