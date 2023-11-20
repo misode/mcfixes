@@ -1,0 +1,296 @@
+[
+  {
+    "id": "MC-266729",
+    "summary": "Unformatted objects in scoreboard error messages",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-16T19:58:38.000+0200",
+    "resolution_date": "2023-11-20T15:31:38.000+0200",
+    "updated_date": "2023-11-20T15:31:38.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-266724",
+    "summary": "scoreboard players reset <targets> <objective> no longer works",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-16T18:36:34.000+0200",
+    "resolution_date": "2023-11-20T15:31:38.000+0200",
+    "updated_date": "2023-11-20T15:31:38.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-266723",
+    "summary": "Monsters Hunted advancement requires killing a Breeze even when they're disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-16T18:28:09.000+0200",
+    "resolution_date": "2023-11-20T14:47:30.000+0200",
+    "updated_date": "2023-11-20T14:47:30.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-266656",
+    "summary": "The interpolation of particle, entity and block entity transforms is disrupted when pausing the game in singleplayer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-13T03:29:01.000+0200",
+    "resolution_date": "2023-11-20T13:06:49.000+0200",
+    "updated_date": "2023-11-20T13:06:49.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-266571",
+    "summary": "Breezes won't attack while under the effects of levitation status",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-10T13:41:23.000+0200",
+    "resolution_date": "2023-11-17T10:57:45.000+0200",
+    "updated_date": "2023-11-17T13:06:20.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-266563",
+    "summary": "End Crystals and TNT Minecarts that explode without a source entity deal no damage at all",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-10T03:19:51.000+0200",
+    "resolution_date": "2023-11-20T15:39:45.000+0200",
+    "updated_date": "2023-11-20T15:39:45.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-266507",
+    "summary": "Number of block drops from TNT explosions is capped to 16",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-09T03:49:43.000+0200",
+    "resolution_date": "2023-11-20T12:12:53.000+0200",
+    "updated_date": "2023-11-20T12:12:53.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-266472",
+    "summary": "Charged creeper / wither armor is rendered incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-08T20:10:02.000+0200",
+    "resolution_date": "2023-11-20T10:59:17.000+0200",
+    "updated_date": "2023-11-20T10:59:17.000+0200",
+    "watches": 9,
+    "votes": 6
+  },
+  {
+    "id": "MC-266468",
+    "summary": "Breeze cannot attack in deep water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-08T19:49:43.000+0200",
+    "resolution_date": "2023-11-17T10:57:44.000+0200",
+    "updated_date": "2023-11-17T14:03:55.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-266456",
+    "summary": "Breezes in minecarts or boats are passive",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-08T18:39:14.000+0200",
+    "resolution_date": "2023-11-17T10:57:44.000+0200",
+    "updated_date": "2023-11-17T10:57:44.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-265929",
+    "summary": "Ctrl+Backspacing a word with non-BMP characters in an edit box deletes additional characters",
+    "labels": [
+      "gui",
+      "gui-textbox"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-10-19T11:37:21.000+0300",
+    "resolution_date": "2023-11-17T15:32:41.000+0200",
+    "updated_date": "2023-11-20T14:12:47.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-265927",
+    "summary": "Edit box length restrictions can result in unpaired surrogate characters",
+    "labels": [
+      "gui",
+      "gui-textbox"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2023-10-19T11:08:32.000+0300",
+    "resolution_date": "2023-11-17T15:32:41.000+0200",
+    "updated_date": "2023-11-20T14:12:19.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-251126",
+    "summary": "Server resource pack is not redownloaded when a hash mismatch is detected with the previously downloaded version",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2022-04-29T23:00:12.000+0300",
+    "resolution_date": "2023-11-20T17:16:48.000+0200",
+    "updated_date": "2023-11-20T17:16:48.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-164316",
+    "summary": "Resource pack update by a hash doesn't work",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-10-22T22:09:38.000+0300",
+    "resolution_date": "2023-11-20T17:16:41.000+0200",
+    "updated_date": "2023-11-20T17:16:41.000+0200",
+    "watches": 21,
+    "votes": 55
+  },
+  {
+    "id": "MC-142160",
+    "summary": "pausedTickDelta updated when the game is unpaused rather than paused",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2019-01-12T20:38:02.000+0200",
+    "resolution_date": "2023-11-20T13:06:49.000+0200",
+    "updated_date": "2023-11-20T13:06:49.000+0200",
+    "watches": 4,
+    "votes": 6
+  }
+]

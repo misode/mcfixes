@@ -216,6 +216,26 @@
     "votes": 12
   },
   {
+    "id": "MC-247421",
+    "summary": "Console spam: \"Error starting SoundSystem. Turning off sounds & music\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2022-01-02T12:28:23.000+0200",
+    "resolution_date": "2023-11-20T18:31:43.000+0200",
+    "updated_date": "2023-11-20T18:33:07.000+0200",
+    "watches": 13,
+    "votes": 16
+  },
+  {
     "id": "MC-236946",
     "summary": "Shield attack vector is normalized incorrectly",
     "labels": [],
