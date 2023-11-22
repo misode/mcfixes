@@ -1,0 +1,257 @@
+[
+  {
+    "id": "MC-266890",
+    "summary": "The minecraft:grass item does not get upgraded to minecraft:short_grass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-20T21:13:57.000+0200",
+    "resolution_date": "2023-11-21T11:25:55.000+0200",
+    "updated_date": "2023-11-21T11:25:55.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-266886",
+    "summary": "Backspace in Anvil no longer works when renaming an item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-20T19:16:24.000+0200",
+    "resolution_date": "2023-11-21T11:17:37.000+0200",
+    "updated_date": "2023-11-22T13:56:57.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-266728",
+    "summary": "The \"styled\" number format uses the resource location \"result\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Dedicated Server",
+      "Save Data"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-16T19:48:31.000+0200",
+    "resolution_date": "2023-11-22T12:23:36.000+0200",
+    "updated_date": "2023-11-22T12:23:36.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-266516",
+    "summary": "Arrows on fire set breezes on fire, despite being deflected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-09T08:02:15.000+0200",
+    "resolution_date": "2023-11-21T09:48:43.000+0200",
+    "updated_date": "2023-11-21T09:48:43.000+0200",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-266496",
+    "summary": "Wind Charge can not break Decorated Pots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-09T01:46:09.000+0200",
+    "resolution_date": "2023-11-21T11:34:01.000+0200",
+    "updated_date": "2023-11-21T11:34:01.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-266439",
+    "summary": "Decorated pots with loot table desync item consumption if it cannot be inserted in the pot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-08T17:54:25.000+0200",
+    "resolution_date": "2023-11-21T15:02:22.000+0200",
+    "updated_date": "2023-11-22T00:29:47.000+0200",
+    "watches": 11,
+    "votes": 16
+  },
+  {
+    "id": "MC-266380",
+    "summary": "Rain texture doesn't loop correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-05T09:40:09.000+0200",
+    "resolution_date": "2023-11-22T12:05:48.000+0200",
+    "updated_date": "2023-11-22T12:05:48.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-266206",
+    "summary": "Renamed arrows are reffered as just \"Arrow\" in the death message",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-29T03:11:29.000+0300",
+    "resolution_date": "2023-11-21T11:08:41.000+0200",
+    "updated_date": "2023-11-21T11:08:41.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-266075",
+    "summary": "\"Player teleports\" not shown in subtitles when an ender pearl lands far from the thrower",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-25T19:48:53.000+0300",
+    "resolution_date": "2023-11-21T16:06:55.000+0200",
+    "updated_date": "2023-11-21T16:53:49.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-265788",
+    "summary": "The \"Start free Snapshot Realm\" element can be selected or remain selected causing its tooltip to erroneously be visible when other interfaces are open",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-12T14:52:30.000+0300",
+    "resolution_date": "2023-11-22T12:14:05.000+0200",
+    "updated_date": "2023-11-22T12:14:05.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-265772",
+    "summary": "A command with multiple redirect modifiers can ignore \"maxCommandChainLength\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-12T01:29:46.000+0300",
+    "resolution_date": "2023-11-22T12:14:04.000+0200",
+    "updated_date": "2023-11-22T12:14:04.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-265426",
+    "summary": "Certain inputs pressed whilst in F3+Esc Pause will be carried out after game is unpaused",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Input"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-09-15T22:01:34.000+0300",
+    "resolution_date": "2023-11-22T11:26:02.000+0200",
+    "updated_date": "2023-11-22T11:26:02.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-265291",
+    "summary": "Command suggestions within the command block interface don't disappear when the console command field is unselected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-09-07T18:16:37.000+0300",
+    "resolution_date": "2023-11-22T12:14:05.000+0200",
+    "updated_date": "2023-11-22T12:14:05.000+0200",
+    "watches": 4,
+    "votes": 2
+  }
+]
