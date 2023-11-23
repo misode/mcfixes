@@ -197,6 +197,30 @@
     "votes": 1
   },
   {
+    "id": "MC-265776",
+    "summary": "Interacting with Decorated Pots in spawn protection can create ghost items",
+    "labels": [
+      "Realms",
+      "decorated_pot",
+      "spawn-protection"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Dedicated Server",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-12T03:24:23.000+0300",
+    "resolution_date": "2023-11-23T13:02:13.000+0200",
+    "updated_date": "2023-11-23T13:02:13.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
     "id": "MC-265772",
     "summary": "A command with multiple redirect modifiers can ignore \"maxCommandChainLength\"",
     "labels": [],
