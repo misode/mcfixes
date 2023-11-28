@@ -117,6 +117,25 @@
     "votes": 4
   },
   {
+    "id": "MC-266236",
+    "summary": "Held button on copper bulb doesn't change state",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w46a"
+    ],
+    "creation_date": "2023-10-30T00:32:33.000+0200",
+    "resolution_date": "2023-11-28T15:41:12.000+0200",
+    "updated_date": "2023-11-28T15:41:12.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-266190",
     "summary": "Tuff blockset color palette is inconsistent with itself",
     "labels": [],
