@@ -1,0 +1,43 @@
+[
+  {
+    "id": "MC-267062",
+    "summary": "Server list ping icon doesn't display tooltip",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 4"
+    ],
+    "creation_date": "2023-11-28T02:15:45.000+0200",
+    "resolution_date": "2023-11-28T15:00:17.000+0200",
+    "updated_date": "2023-11-28T15:00:17.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-266968",
+    "summary": "/return executed within an advancement reward function globally discards all subsequent commands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.3 Pre-Release 4"
+    ],
+    "creation_date": "2023-11-24T10:11:08.000+0200",
+    "resolution_date": "2023-11-28T15:09:37.000+0200",
+    "updated_date": "2023-11-28T15:13:12.000+0200",
+    "watches": 3,
+    "votes": 2
+  }
+]
