@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-267185",
+    "summary": "Decorated pots can delete items when reloading the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.4 Release Candidate 1"
+    ],
+    "creation_date": "2023-12-06T03:10:18.000+0200",
+    "resolution_date": "2023-12-06T16:01:44.000+0200",
+    "updated_date": "2023-12-06T16:01:44.000+0200",
+    "watches": 3,
+    "votes": 4
+  }
+]
