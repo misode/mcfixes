@@ -116,6 +116,46 @@
     "votes": 6
   },
   {
+    "id": "MC-266145",
+    "summary": "Copper Trapdoors are not part of the #trapdoors item tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 3",
+      "Future Update"
+    ],
+    "creation_date": "2023-10-26T15:53:49.000+0300",
+    "resolution_date": "2023-12-07T11:29:27.000+0200",
+    "updated_date": "2023-12-07T11:29:27.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-266144",
+    "summary": "Copper Doors are not part of the #doors item tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 3",
+      "Future Update"
+    ],
+    "creation_date": "2023-10-26T15:51:52.000+0300",
+    "resolution_date": "2023-12-07T11:29:28.000+0200",
+    "updated_date": "2023-12-07T11:29:28.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
     "id": "MC-266122",
     "summary": "Copper trapdoors are not in the #trapdoors block tag",
     "labels": [],
