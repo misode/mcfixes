@@ -1711,7 +1711,7 @@
   },
   {
     "id": "MC-242396",
-    "summary": "Texture map for armor stand (wood.png) contains unused pixels",
+    "summary": "Unused pixels in wood.png UV texture map for armor stands ",
     "labels": [
       "armor_stand",
       "mismatching-textures",
@@ -1729,8 +1729,8 @@
     ],
     "creation_date": "2021-11-21T07:04:12.000+0200",
     "resolution_date": "2023-06-13T10:28:22.000+0300",
-    "updated_date": "2023-11-03T03:13:03.000+0200",
-    "watches": 7,
+    "updated_date": "2023-12-13T04:37:50.000+0200",
+    "watches": 8,
     "votes": 13
   },
   {
