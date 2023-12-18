@@ -20,26 +20,6 @@
     "votes": 2
   },
   {
-    "id": "MC-267193",
-    "summary": "A function with /return fail run in chat doesn't indicate failure",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Community Consensus",
-    "categories": [
-      "Commands",
-      "Data Packs"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "23w51a"
-    ],
-    "creation_date": "2023-12-06T18:15:00.000+0200",
-    "resolution_date": "2023-12-13T10:22:26.000+0200",
-    "updated_date": "2023-12-18T19:48:04.000+0200",
-    "watches": 3,
-    "votes": 2
-  },
-  {
     "id": "MC-266999",
     "summary": "Crafter's tooltip buttons can still be visible to players on spectator mode",
     "labels": [],
