@@ -432,6 +432,26 @@
     "votes": 10
   },
   {
+    "id": "MC-234681",
+    "summary": "Tai Viet characters is not supported",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2021-08-17T12:10:33.000+0300",
+    "resolution_date": "2023-12-18T05:44:48.000+0200",
+    "updated_date": "2023-12-18T05:47:10.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
     "id": "MC-225742",
     "summary": "When light emitting blocks generate as ores, they do not emit light",
     "labels": [],
