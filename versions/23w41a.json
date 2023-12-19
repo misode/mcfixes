@@ -262,6 +262,25 @@
     "votes": 5
   },
   {
+    "id": "MC-261395",
+    "summary": "When in mcfunction files, the /damage command does not trigger player_hurt_entity and player_killed_entity advancements the correct number of times",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w41a"
+    ],
+    "creation_date": "2023-03-28T20:57:12.000+0300",
+    "resolution_date": "2023-12-19T12:44:13.000+0200",
+    "updated_date": "2023-12-19T12:44:13.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
     "id": "MC-260576",
     "summary": "Incomplete 'execute summon' command still runs",
     "labels": [
