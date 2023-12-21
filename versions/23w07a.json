@@ -606,6 +606,25 @@
     "votes": 4
   },
   {
+    "id": "MC-214810",
+    "summary": "Cats remain sitting when damaged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2021-02-10T20:37:56.000+0200",
+    "resolution_date": "2023-12-21T13:41:54.000+0200",
+    "updated_date": "2023-12-21T13:41:55.000+0200",
+    "watches": 10,
+    "votes": 8
+  },
+  {
     "id": "MC-209409",
     "summary": "Sitting cats sink in water",
     "labels": [
