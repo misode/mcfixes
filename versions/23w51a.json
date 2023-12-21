@@ -84,6 +84,28 @@
     "votes": 2
   },
   {
+    "id": "MC-266909",
+    "summary": "Breezes don't have smooth transitions to their idle states when they stop moving",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2023-11-21T13:43:07.000+0200",
+    "resolution_date": "2023-12-21T13:04:49.000+0200",
+    "updated_date": "2023-12-21T13:04:50.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-266879",
     "summary": "Clouds, entity hitboxes, block outlines, specially rendered blocks, and enchantment glints, render through the insides of breezes' eyes and eyebrows",
     "labels": [

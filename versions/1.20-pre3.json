@@ -240,6 +240,34 @@
     "votes": 7
   },
   {
+    "id": "MC-210461",
+    "summary": "Fall damage sound plays when you get levitation right before you hit the ground",
+    "labels": [
+      "client-side",
+      "fall",
+      "fall-damage",
+      "levitation",
+      "precision",
+      "sound",
+      "sound-event",
+      "timing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2021-01-04T07:12:09.000+0200",
+    "resolution_date": "2023-12-21T12:29:58.000+0200",
+    "updated_date": "2023-12-21T12:29:58.000+0200",
+    "watches": 3,
+    "votes": 0
+  },
+  {
     "id": "MC-181280",
     "summary": "Incorrect textures can sometimes be displayed",
     "labels": [],
