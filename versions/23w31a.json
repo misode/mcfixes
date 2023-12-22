@@ -2334,6 +2334,29 @@
     "votes": 115
   },
   {
+    "id": "MC-93820",
+    "summary": "Rain filling cauldrons is not affected by randomTickSpeed",
+    "labels": [
+      "cauldron",
+      "rain",
+      "randomTickSpeed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2015-12-04T19:02:28.000+0200",
+    "resolution_date": "2023-12-22T16:50:27.000+0200",
+    "updated_date": "2023-12-22T16:50:27.000+0200",
+    "watches": 9,
+    "votes": 20
+  },
+  {
     "id": "MC-93320",
     "summary": "Water freezes even if randomTickSpeed is 0",
     "labels": [
