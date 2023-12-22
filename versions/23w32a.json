@@ -404,6 +404,32 @@
     "votes": 16
   },
   {
+    "id": "MC-80938",
+    "summary": "Non-default BurnTime, CookTime and CookTimeTotal values of furnace can cause GUI to be displayed incorrectly",
+    "labels": [
+      "BurnTime",
+      "CookTime",
+      "CookTimeTotal",
+      "GUI",
+      "display",
+      "furnace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2015-06-03T03:05:33.000+0300",
+    "resolution_date": "2023-12-22T14:56:55.000+0200",
+    "updated_date": "2023-12-22T14:56:55.000+0200",
+    "watches": 11,
+    "votes": 12
+  },
+  {
     "id": "MC-61041",
     "summary": "\"CustomPotionEffects\", \"ActiveEffects\", and \"Effects\" NBT tags still use numeral IDs",
     "labels": [
