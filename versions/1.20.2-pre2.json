@@ -278,6 +278,25 @@
     "votes": 3
   },
   {
+    "id": "MC-261751",
+    "summary": "Villagers agree with you if you take away an item you were going to trade with them by clicking an unavailable trade.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.2 Pre-release 2"
+    ],
+    "creation_date": "2023-04-09T20:47:34.000+0300",
+    "resolution_date": "2023-12-24T12:31:47.000+0200",
+    "updated_date": "2023-12-24T12:31:47.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
     "id": "MC-261119",
     "summary": "Accessibility button in the Welcome screen needs its own string",
     "labels": [
