@@ -20,6 +20,28 @@
     "votes": 2
   },
   {
+    "id": "MC-267133",
+    "summary": "Breezes can't attack or move when there is no land around them and they are on the same height block as the player",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2023-12-02T10:52:44.000+0200",
+    "resolution_date": "2023-12-24T07:41:47.000+0200",
+    "updated_date": "2023-12-24T07:42:14.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-266999",
     "summary": "Crafter's tooltip buttons can still be visible to players on spectator mode",
     "labels": [],
