@@ -508,6 +508,25 @@
     "votes": 10
   },
   {
+    "id": "MC-157020",
+    "summary": "/fill fails when removing large amounts of blocks under redstone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w11a"
+    ],
+    "creation_date": "2019-07-18T03:44:12.000+0300",
+    "resolution_date": "2023-12-30T17:26:23.000+0200",
+    "updated_date": "2023-12-30T17:26:23.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
     "id": "MC-148795",
     "summary": "Ghost blocks can occasionally be created when placing scaffolding too quickly",
     "labels": [],
