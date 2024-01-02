@@ -961,26 +961,6 @@
     "votes": 7
   },
   {
-    "id": "MC-187372",
-    "summary": "There is no space between fps limit/vsync and graphics level in the debug screen",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Debug",
-      "UI"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "23w51a"
-    ],
-    "creation_date": "2020-06-04T22:39:43.000+0300",
-    "resolution_date": "2023-12-12T11:22:50.000+0200",
-    "updated_date": "2023-12-20T17:06:36.000+0200",
-    "watches": 7,
-    "votes": 10
-  },
-  {
     "id": "MC-187267",
     "summary": "Title text renders in front of sidebar",
     "labels": [
