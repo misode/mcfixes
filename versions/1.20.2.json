@@ -1,5 +1,27 @@
 [
   {
+    "id": "MC-234780",
+    "summary": "Buttons in the realms reset world menu are not selected in order when using the TAB key",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.2"
+    ],
+    "creation_date": "2021-08-18T20:22:52.000+0300",
+    "resolution_date": "2024-01-04T16:01:55.000+0200",
+    "updated_date": "2024-01-04T16:01:55.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
     "id": "MC-182686",
     "summary": "Realms connection screen elements are vertically off-center",
     "labels": [
