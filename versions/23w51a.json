@@ -20,6 +20,26 @@
     "votes": 2
   },
   {
+    "id": "MC-267193",
+    "summary": "A function with /return fail run in chat doesn't indicate failure",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2023-12-06T18:15:00.000+0200",
+    "resolution_date": "2024-01-08T12:32:00.000+0200",
+    "updated_date": "2024-01-08T12:50:14.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-267133",
     "summary": "Breezes can't attack or move when there is no land around them and they are on the same height block as the player",
     "labels": [
