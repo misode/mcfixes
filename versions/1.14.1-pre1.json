@@ -964,6 +964,30 @@
     "votes": 16
   },
   {
+    "id": "MC-101424",
+    "summary": "Mobs are able to track players/other mobs through diagonally placed blocks",
+    "labels": [
+      "diagonal-block",
+      "mobs",
+      "track",
+      "tracking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 1.14.1 Pre-Release 1"
+    ],
+    "creation_date": "2016-04-29T21:24:46.000+0300",
+    "resolution_date": "2024-01-11T22:28:44.000+0200",
+    "updated_date": "2024-01-11T22:28:45.000+0200",
+    "watches": 10,
+    "votes": 17
+  },
+  {
     "id": "MC-44793",
     "summary": "Tamed wolf can't sit on slime blocks",
     "labels": [
