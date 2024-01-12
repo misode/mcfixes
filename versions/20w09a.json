@@ -1029,6 +1029,25 @@
     "votes": 3
   },
   {
+    "id": "MC-135106",
+    "summary": "Upwards bubble columns allow for infinite flight in survival at y\u2265256",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w09a"
+    ],
+    "creation_date": "2018-07-28T06:32:03.000+0300",
+    "resolution_date": "2024-01-12T18:16:34.000+0200",
+    "updated_date": "2024-01-12T18:16:35.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
     "id": "MC-111726",
     "summary": "Minecart dismount position always above the minecart, even if there's space next to it",
     "labels": [
