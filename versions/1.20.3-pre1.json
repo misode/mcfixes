@@ -256,6 +256,25 @@
     "votes": 7
   },
   {
+    "id": "MC-173434",
+    "summary": "Server resource pack download is inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2020-02-29T15:04:43.000+0200",
+    "resolution_date": "2024-01-13T17:56:43.000+0200",
+    "updated_date": "2024-01-13T17:56:44.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
     "id": "MC-164316",
     "summary": "Resource pack update by a hash doesn't work",
     "labels": [],
