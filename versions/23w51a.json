@@ -639,6 +639,26 @@
     "votes": 2
   },
   {
+    "id": "MC-263641",
+    "summary": "Boss bar text no longer renders behind potion effect icons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2023-06-18T14:05:00.000+0300",
+    "resolution_date": "2024-01-16T14:28:02.000+0200",
+    "updated_date": "2024-01-16T14:46:31.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-263256",
     "summary": "Chat renders on top of TAB, blocking information",
     "labels": [],
