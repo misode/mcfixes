@@ -1007,6 +1007,29 @@
     "votes": 7
   },
   {
+    "id": "MC-193460",
+    "summary": "Inconsistent layering of sidebar and debug screen (F3) text",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug",
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2020-07-03T23:48:52.000+0300",
+    "resolution_date": "2024-01-16T12:50:57.000+0200",
+    "updated_date": "2024-01-16T12:50:57.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-187372",
     "summary": "There is no space between fps limit/vsync and graphics level in the debug screen",
     "labels": [],
