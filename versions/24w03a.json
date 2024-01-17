@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "MC-267809",
+    "summary": "The word \"armor\" within the Wolf Armor subtitle strings is improperly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2024-01-09T01:49:44.000+0200",
+    "resolution_date": "2024-01-17T17:36:18.000+0200",
+    "updated_date": "2024-01-17T17:36:18.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-267726",
+    "summary": "Applying bone meal to blocks underwater no longer produces any particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2024-01-04T15:58:43.000+0200",
+    "resolution_date": "2024-01-05T13:25:17.000+0200",
+    "updated_date": "2024-01-05T13:25:17.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267725",
+    "summary": "Players' experience levels no longer render above the health and hunger bars",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2024-01-04T15:35:58.000+0200",
+    "resolution_date": "2024-01-16T18:04:36.000+0200",
+    "updated_date": "2024-01-16T18:04:36.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267708",
+    "summary": "The wither's skull projectile attacks do not account for the scale attribute",
+    "labels": [
+      "attribute",
+      "projectile",
+      "scale",
+      "wither"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2024-01-02T21:49:06.000+0200",
+    "resolution_date": "2024-01-16T18:04:41.000+0200",
+    "updated_date": "2024-01-16T18:04:41.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-267707",
+    "summary": "Wither particles do not account for scale attribute",
+    "labels": [
+      "attribute",
+      "particle",
+      "scale",
+      "wither"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2024-01-02T21:35:34.000+0200",
+    "resolution_date": "2024-01-16T18:04:40.000+0200",
+    "updated_date": "2024-01-16T18:04:40.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-267706",
+    "summary": "Evoker and illusioner summon particles do not account for scale attribute",
+    "labels": [
+      "attribute",
+      "command",
+      "evoker",
+      "particle",
+      "scale"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2024-01-02T21:15:21.000+0200",
+    "resolution_date": "2024-01-16T18:04:41.000+0200",
+    "updated_date": "2024-01-16T18:04:41.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-267588",
+    "summary": "The hand animation is no longer played when putting items inside decorated pots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-25T17:02:51.000+0200",
+    "resolution_date": "2024-01-09T14:18:12.000+0200",
+    "updated_date": "2024-01-09T14:18:12.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-267565",
+    "summary": "Low scale attribute lets you breathe underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-24T15:55:54.000+0200",
+    "resolution_date": "2024-01-16T18:04:43.000+0200",
+    "updated_date": "2024-01-16T18:04:43.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-267538",
+    "summary": "Putting placeable blocks inside decorated pots also places them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-23T11:22:47.000+0200",
+    "resolution_date": "2024-01-15T10:22:57.000+0200",
+    "updated_date": "2024-01-15T10:22:57.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-267536",
+    "summary": "The sides of wolf armor have inconsistent pixels",
+    "labels": [
+      "wolf_armor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-23T07:26:56.000+0200",
+    "resolution_date": "2024-01-17T17:27:11.000+0200",
+    "updated_date": "2024-01-17T17:27:11.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-267497",
+    "summary": "Baby armadillos do not sound high pitched when curling up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-21T18:05:41.000+0200",
+    "resolution_date": "2024-01-08T13:41:57.000+0200",
+    "updated_date": "2024-01-08T13:41:57.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-267479",
+    "summary": "Inventory view model scales with generic.scale",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-20T20:46:53.000+0200",
+    "resolution_date": "2024-01-16T18:04:38.000+0200",
+    "updated_date": "2024-01-16T18:04:38.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-267470",
+    "summary": "The regeneration effect granted from beacons is no longer applied to players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-20T14:01:59.000+0200",
+    "resolution_date": "2024-01-16T18:04:35.000+0200",
+    "updated_date": "2024-01-16T18:04:35.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-267465",
+    "summary": "1.20.3 upload error: \"Cannot invoke \"ctt.c()\" because \"this.b\" is null\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-06T00:39:49.000+0200",
+    "resolution_date": "2024-01-03T14:27:24.000+0200",
+    "updated_date": "2024-01-10T04:52:59.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-267456",
+    "summary": "Changes to item_used_on_block advancement criteria breaks previous functionality",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-19T23:35:42.000+0200",
+    "resolution_date": "2024-01-03T12:43:42.000+0200",
+    "updated_date": "2024-01-03T12:43:42.000+0200",
+    "watches": 32,
+    "votes": 91
+  },
+  {
+    "id": "MC-267454",
+    "summary": "Baby striders are visually the same size as normal striders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-19T21:56:52.000+0200",
+    "resolution_date": "2024-01-03T11:43:39.000+0200",
+    "updated_date": "2024-01-04T22:08:57.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-267435",
+    "summary": "Baby armadillos do not follow parents consistently or closely",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-19T06:55:26.000+0200",
+    "resolution_date": "2024-01-03T12:52:52.000+0200",
+    "updated_date": "2024-01-03T12:52:52.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-267434",
+    "summary": "Upside-down mobs with big scale attribute are displayed above hitbox",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-19T06:30:14.000+0200",
+    "resolution_date": "2024-01-16T18:04:38.000+0200",
+    "updated_date": "2024-01-16T18:04:38.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-267428",
+    "summary": "Phantom wing particles do not account for scale attribute",
+    "labels": [
+      "attribute",
+      "particle",
+      "phantom",
+      "scale"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-19T00:28:11.000+0200",
+    "resolution_date": "2024-01-16T18:04:39.000+0200",
+    "updated_date": "2024-01-16T18:04:39.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-267427",
+    "summary": "Rendering offset of sleeping entities does not account for scale attribute",
+    "labels": [
+      "attribute",
+      "rendering",
+      "scale",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-19T00:15:49.000+0200",
+    "resolution_date": "2024-01-16T18:04:37.000+0200",
+    "updated_date": "2024-01-16T18:04:37.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-267422",
+    "summary": "Attribute entity_interaction_range is classified as 'generic', but has no effect on mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T23:40:57.000+0200",
+    "resolution_date": "2024-01-03T11:43:40.000+0200",
+    "updated_date": "2024-01-03T11:43:40.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-267420",
+    "summary": "Boat placement ignores custom \"block_interaction_range\" attribute",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T23:26:01.000+0200",
+    "resolution_date": "2024-01-03T11:43:37.000+0200",
+    "updated_date": "2024-01-03T11:43:37.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-267418",
+    "summary": "Warden sonic boom attack doesn't account for the scale attribute",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T23:06:33.000+0200",
+    "resolution_date": "2024-01-16T18:04:42.000+0200",
+    "updated_date": "2024-01-16T18:04:42.000+0200",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-267417",
+    "summary": "Suffocation overlay shown when on solid almost-full blocks at scale < .06",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T22:56:48.000+0200",
+    "resolution_date": "2024-01-16T18:04:44.000+0200",
+    "updated_date": "2024-01-16T18:12:45.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267416",
+    "summary": "Particles created from Slimes do not account for the scale attribute",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T22:53:28.000+0200",
+    "resolution_date": "2024-01-03T11:43:38.000+0200",
+    "updated_date": "2024-01-03T20:23:52.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-267413",
+    "summary": "Feeding an armadillo a spider eye doesn't cancel eating it",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T22:14:33.000+0200",
+    "resolution_date": "2024-01-03T12:52:50.000+0200",
+    "updated_date": "2024-01-03T12:52:50.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267406",
+    "summary": "Armadillos with their \"Silent\" NBT tag set to \"1b\" still play their landing and rolling up sounds",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T21:12:51.000+0200",
+    "resolution_date": "2024-01-03T12:52:48.000+0200",
+    "updated_date": "2024-01-03T12:52:48.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-267405",
+    "summary": "Scared armadillo can move when having a passenger",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T21:11:10.000+0200",
+    "resolution_date": "2024-01-03T12:52:51.000+0200",
+    "updated_date": "2024-01-03T12:52:51.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267404",
+    "summary": "Scared armadillo pushed into boat is scared of player riding the boat",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T21:04:26.000+0200",
+    "resolution_date": "2024-01-03T11:19:28.000+0200",
+    "updated_date": "2024-01-03T11:19:28.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-267402",
+    "summary": "Head of armadillo in boat is twitching when turning the boat",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T20:52:32.000+0200",
+    "resolution_date": "2024-01-03T13:02:03.000+0200",
+    "updated_date": "2024-01-03T13:02:03.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-267398",
+    "summary": "Armadillos don't play a roll out sound after finishing hiding",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T20:08:12.000+0200",
+    "resolution_date": "2024-01-03T12:52:47.000+0200",
+    "updated_date": "2024-01-03T12:52:47.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-267397",
+    "summary": "Armadillos and baby armadillos stand a bit too far away from players that are tempting them",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T19:58:35.000+0200",
+    "resolution_date": "2024-01-03T12:52:52.000+0200",
+    "updated_date": "2024-01-03T12:52:52.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-267395",
+    "summary": "Armadillos panic when receiving fall damage",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T19:44:05.000+0200",
+    "resolution_date": "2024-01-03T12:52:48.000+0200",
+    "updated_date": "2024-01-03T12:52:48.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-267392",
+    "summary": "Armadillos are scared of players in spectator mode",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T19:20:41.000+0200",
+    "resolution_date": "2024-01-03T12:52:49.000+0200",
+    "updated_date": "2024-01-16T11:58:18.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-267389",
+    "summary": "Armadillos don't always stand in close proximity to one another when breeding",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T19:13:05.000+0200",
+    "resolution_date": "2024-01-03T12:52:49.000+0200",
+    "updated_date": "2024-01-03T12:52:49.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-267388",
+    "summary": "The subtitle for brushing armadillos is inconsistent with other item usage subtitles",
+    "labels": [
+      "armadillo",
+      "incorrect-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T19:11:23.000+0200",
+    "resolution_date": "2024-01-03T12:52:54.000+0200",
+    "updated_date": "2024-01-03T12:52:54.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-267385",
+    "summary": "Attribute entity_interaction_range is capped by block_interaction_range",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T18:46:12.000+0200",
+    "resolution_date": "2024-01-03T11:43:36.000+0200",
+    "updated_date": "2024-01-07T00:46:39.000+0200",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-267384",
+    "summary": "Unused duplicate wolf armor sound events",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T18:41:00.000+0200",
+    "resolution_date": "2024-01-03T13:18:14.000+0200",
+    "updated_date": "2024-01-03T13:18:14.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-267383",
+    "summary": "Can't place water and lava with extended attribute \"block_interaction_range\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T17:59:46.000+0200",
+    "resolution_date": "2024-01-03T11:43:37.000+0200",
+    "updated_date": "2024-01-03T11:43:37.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-267380",
+    "summary": "Cannot open inventories beyond default block reach",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T17:30:45.000+0200",
+    "resolution_date": "2024-01-03T11:43:38.000+0200",
+    "updated_date": "2024-01-17T19:44:25.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-267379",
+    "summary": "Applying bone meal to rooted dirt no longer produces any particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T17:30:13.000+0200",
+    "resolution_date": "2024-01-02T11:38:02.000+0200",
+    "updated_date": "2024-01-04T15:59:28.000+0200",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-267378",
+    "summary": "Armor stand interaction points do not change with scale",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T17:26:58.000+0200",
+    "resolution_date": "2024-01-16T18:04:36.000+0200",
+    "updated_date": "2024-01-16T18:04:36.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-267377",
+    "summary": "Applying bone meal to mangrove leaves no longer produces any particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T17:26:44.000+0200",
+    "resolution_date": "2024-01-02T11:38:02.000+0200",
+    "updated_date": "2024-01-04T15:59:28.000+0200",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-267371",
+    "summary": "Shulkers hitbox doesn't scale with generic.scale",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T17:04:35.000+0200",
+    "resolution_date": "2024-01-03T11:43:40.000+0200",
+    "updated_date": "2024-01-09T12:23:06.000+0200",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-267367",
+    "summary": "Wolf armor flashes red when the wolf takes damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T16:53:57.000+0200",
+    "resolution_date": "2024-01-03T12:52:53.000+0200",
+    "updated_date": "2024-01-03T12:52:53.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267366",
+    "summary": "You cannot use Spider Eyes on Baby Armadillos to age them up",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-18T16:46:25.000+0200",
+    "resolution_date": "2024-01-03T12:52:51.000+0200",
+    "updated_date": "2024-01-03T12:52:51.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-267149",
+    "summary": "Crafter top face has an inverted UV texture map",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-03T17:21:25.000+0200",
+    "resolution_date": "2024-01-04T17:17:35.000+0200",
+    "updated_date": "2024-01-04T17:17:35.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-267104",
+    "summary": "The bottom face textures of breezes' rods are incorrect and don't match with surrounding colors",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-11-30T17:48:09.000+0200",
+    "resolution_date": "2024-01-05T11:40:15.000+0200",
+    "updated_date": "2024-01-05T11:40:15.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-267086",
+    "summary": "Compass does not indicate spawn point correctly when game is frozen with /tick",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-11-29T18:23:04.000+0200",
+    "resolution_date": "2024-01-08T13:50:29.000+0200",
+    "updated_date": "2024-01-08T13:50:29.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-267045",
+    "summary": "Some tick strings are missing articles and are unclear",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-11-27T12:50:41.000+0200",
+    "resolution_date": "2024-01-08T13:50:28.000+0200",
+    "updated_date": "2024-01-08T13:50:28.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267044",
+    "summary": "Tick status strings contain inconsistent word usage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-11-27T12:13:26.000+0200",
+    "resolution_date": "2024-01-08T13:50:28.000+0200",
+    "updated_date": "2024-01-08T13:50:28.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-266078",
+    "summary": "The output of Crafting and Stonecutting Copper Grates is inconsistent with each other",
+    "labels": [
+      "copper_grate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-10-25T19:57:58.000+0300",
+    "resolution_date": "2024-01-15T15:41:49.000+0200",
+    "updated_date": "2024-01-17T15:12:44.000+0200",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-265749",
+    "summary": "Tooltips flash when the values of buttons or fields are changed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-10-11T19:00:42.000+0300",
+    "resolution_date": "2024-01-16T18:04:34.000+0200",
+    "updated_date": "2024-01-16T18:04:34.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-265520",
+    "summary": "Switching connection protocols sometimes produces errors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-09-22T18:42:23.000+0300",
+    "resolution_date": "2024-01-16T11:48:56.000+0200",
+    "updated_date": "2024-01-16T11:48:56.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-265273",
+    "summary": "The tab list in create world screen does not indicate it's tab-focused by highlight or rendering borders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-09-06T17:07:44.000+0300",
+    "resolution_date": "2024-01-04T14:23:00.000+0200",
+    "updated_date": "2024-01-04T14:23:00.000+0200",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-261596",
+    "summary": "Crafting Table search keyboard shortcut not working",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-04-05T05:23:21.000+0300",
+    "resolution_date": "2024-01-04T14:22:59.000+0200",
+    "updated_date": "2024-01-04T14:22:59.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-260889",
+    "summary": "Players can use water buckets and lava buckets on blocks that are out of reach",
+    "labels": [
+      "lava_bucket",
+      "water_bucket"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-03-10T15:42:55.000+0200",
+    "resolution_date": "2024-01-03T11:58:08.000+0200",
+    "updated_date": "2024-01-03T11:58:08.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-187372",
+    "summary": "There is no space between fps limit/vsync and graphics level in the debug screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w51a",
+      "24w03a"
+    ],
+    "creation_date": "2020-06-04T22:39:43.000+0300",
+    "resolution_date": "2024-01-02T14:19:41.000+0200",
+    "updated_date": "2024-01-02T14:19:41.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-171981",
+    "summary": "Map of fuel times is created anew every time an item is placed in a furnace, instead of being cached",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2020-02-13T00:05:57.000+0200",
+    "resolution_date": "2024-01-02T14:27:42.000+0200",
+    "updated_date": "2024-01-02T14:27:42.000+0200",
+    "watches": 7,
+    "votes": 17
+  },
+  {
+    "id": "MC-155857",
+    "summary": "Team command doesn't affect illagers and witches' AI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2019-07-02T22:43:16.000+0300",
+    "resolution_date": "2023-12-20T17:41:16.000+0200",
+    "updated_date": "2023-12-27T16:01:10.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-153160",
+    "summary": "Villagers don't auto-fill items if NBT data doesn't match",
+    "labels": [
+      "nbt",
+      "trading",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Village system"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2019-05-27T22:54:35.000+0300",
+    "resolution_date": "2024-01-09T16:40:00.000+0200",
+    "updated_date": "2024-01-09T16:40:00.000+0200",
+    "watches": 5,
+    "votes": 9
+  }
+]
