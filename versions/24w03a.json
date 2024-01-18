@@ -1218,28 +1218,5 @@
     "updated_date": "2023-12-27T16:01:10.000+0200",
     "watches": 2,
     "votes": 4
-  },
-  {
-    "id": "MC-153160",
-    "summary": "Villagers don't auto-fill items if NBT data doesn't match",
-    "labels": [
-      "nbt",
-      "trading",
-      "villager"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Village system"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "24w03a"
-    ],
-    "creation_date": "2019-05-27T22:54:35.000+0300",
-    "resolution_date": "2024-01-09T16:40:00.000+0200",
-    "updated_date": "2024-01-09T16:40:00.000+0200",
-    "watches": 5,
-    "votes": 9
   }
 ]
