@@ -1,0 +1,105 @@
+[
+  {
+    "id": "MC-267935",
+    "summary": "Items on top of soul sand or mud will be rendered black",
+    "labels": [
+      "block",
+      "item",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w03b"
+    ],
+    "creation_date": "2024-01-18T08:53:24.000+0200",
+    "resolution_date": "2024-01-18T13:26:28.000+0200",
+    "updated_date": "2024-01-18T13:26:28.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-267927",
+    "summary": "The hitboxes of magma cubes are too large",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w03b"
+    ],
+    "creation_date": "2024-01-18T00:23:07.000+0200",
+    "resolution_date": "2024-01-18T13:26:27.000+0200",
+    "updated_date": "2024-01-19T00:53:41.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-267918",
+    "summary": "The game crashes when opening the configure realms menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w03b"
+    ],
+    "creation_date": "2024-01-17T17:39:00.000+0200",
+    "resolution_date": "2024-01-18T12:19:54.000+0200",
+    "updated_date": "2024-01-18T12:35:56.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-266577",
+    "summary": "Some trial spawners in trial chambers spawn mobs without persistence",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03b"
+    ],
+    "creation_date": "2023-11-10T20:41:19.000+0200",
+    "resolution_date": "2024-01-18T10:55:03.000+0200",
+    "updated_date": "2024-01-18T10:55:03.000+0200",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-266032",
+    "summary": "Attempting to copy a \"Copy of a copy\" book in a Crafter behaves incorrectly",
+    "labels": [
+      "crafter"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03b"
+    ],
+    "creation_date": "2023-10-23T22:18:30.000+0300",
+    "resolution_date": "2024-01-18T11:04:25.000+0200",
+    "updated_date": "2024-01-18T11:04:25.000+0200",
+    "watches": 4,
+    "votes": 6
+  }
+]
