@@ -101,5 +101,24 @@
     "updated_date": "2024-01-18T11:04:25.000+0200",
     "watches": 4,
     "votes": 6
+  },
+  {
+    "id": "MC-229680",
+    "summary": "Chest, Trapped Chest, Ender Chest and Barrels stop functioning when moving far away whilst in the GUI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03b"
+    ],
+    "creation_date": "2021-06-20T06:08:28.000+0300",
+    "resolution_date": "2024-01-20T14:34:52.000+0200",
+    "updated_date": "2024-01-20T14:34:52.000+0200",
+    "watches": 13,
+    "votes": 19
   }
 ]
