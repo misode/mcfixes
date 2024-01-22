@@ -1842,6 +1842,26 @@
     "votes": 3
   },
   {
+    "id": "MC-167113",
+    "summary": "Snow Golem take damage from block that aren't technically in it's head",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a"
+    ],
+    "creation_date": "2019-12-05T04:32:24.000+0200",
+    "resolution_date": "2024-01-22T20:12:03.000+0200",
+    "updated_date": "2024-01-22T20:12:04.000+0200",
+    "watches": 5,
+    "votes": 32
+  },
+  {
     "id": "MC-165846",
     "summary": "Pufferfish can take suffocation damage when bloating",
     "labels": [],
