@@ -139,6 +139,32 @@
     "votes": 17
   },
   {
+    "id": "MC-249136",
+    "summary": "Freeze/server-side lag spike sometimes occurs when attempting to locate a buried treasure or opening/breaking a chest containing a map",
+    "labels": [
+      "buried-treasure-map",
+      "lag-spike",
+      "map",
+      "shipwreck"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps",
+      "Performance",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w04a"
+    ],
+    "creation_date": "2022-03-16T21:21:33.000+0200",
+    "resolution_date": "2024-01-24T20:19:46.000+0200",
+    "updated_date": "2024-01-24T20:19:47.000+0200",
+    "watches": 33,
+    "votes": 57
+  },
+  {
     "id": "MC-232489",
     "summary": "Retrieving a plant from a flower pot ignores inventory contents",
     "labels": [
