@@ -59,6 +59,25 @@
     "votes": 11
   },
   {
+    "id": "MC-239084",
+    "summary": "Item pickup animation is darker than the actual item model",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w05a"
+    ],
+    "creation_date": "2021-10-16T04:37:21.000+0300",
+    "resolution_date": "2024-02-01T17:43:33.000+0200",
+    "updated_date": "2024-02-01T17:43:33.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
     "id": "MC-225170",
     "summary": "Normal matrix scaling broken in some situations",
     "labels": [
