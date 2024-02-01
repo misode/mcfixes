@@ -43,6 +43,25 @@
     "votes": 6
   },
   {
+    "id": "MC-228486",
+    "summary": "Cannot switch to other windows using Cmd+Tab on macOS",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w05b"
+    ],
+    "creation_date": "2021-06-11T07:20:15.000+0300",
+    "resolution_date": "2024-02-01T23:20:35.000+0200",
+    "updated_date": "2024-02-01T23:20:35.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-118857",
     "summary": "Effect amplifier is read/written as byte from NBT despite being stored as an integer",
     "labels": [
