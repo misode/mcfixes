@@ -561,6 +561,25 @@
     "votes": 11
   },
   {
+    "id": "MC-111702",
+    "summary": "Memory leak with complex json text while chat is open",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "20w30a"
+    ],
+    "creation_date": "2016-12-21T11:19:14.000+0200",
+    "resolution_date": "2024-02-02T21:05:53.000+0200",
+    "updated_date": "2024-02-02T21:05:53.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
     "id": "MC-93024",
     "summary": "Bow From Skeleton Traps enchanted twice with the same enchantment",
     "labels": [

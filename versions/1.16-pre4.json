@@ -436,6 +436,33 @@
     "votes": 23
   },
   {
+    "id": "MC-118217",
+    "summary": "Custom text color for advancement title in hover text is overwritten by advancement type default one",
+    "labels": [
+      "advancement",
+      "advancement-announcement",
+      "color",
+      "formatting",
+      "hoverEvent",
+      "text-component"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 4"
+    ],
+    "creation_date": "2017-06-03T16:01:30.000+0300",
+    "resolution_date": "2024-02-02T21:04:47.000+0200",
+    "updated_date": "2024-02-02T21:04:47.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
     "id": "MC-88491",
     "summary": "Projectiles hit the player, snowman and witch who threw them at certain angles or close to the entities",
     "labels": [
