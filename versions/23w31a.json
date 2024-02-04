@@ -2314,6 +2314,26 @@
     "votes": 13
   },
   {
+    "id": "MC-121884",
+    "summary": "Server->Client custom payload packets can leak resources",
+    "labels": [
+      "memory-leak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "Minecraft 18w01a",
+      "23w31a"
+    ],
+    "creation_date": "2017-11-12T04:52:15.000+0200",
+    "resolution_date": "2024-02-04T18:24:54.000+0200",
+    "updated_date": "2024-02-04T18:24:56.000+0200",
+    "watches": 7,
+    "votes": 15
+  },
+  {
     "id": "MC-121772",
     "summary": "Can't scroll while holding SHIFT on macOS",
     "labels": [],
