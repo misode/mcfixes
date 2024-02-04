@@ -1199,6 +1199,25 @@
     "votes": 7
   },
   {
+    "id": "MC-219967",
+    "summary": "IndexOutOfBoundsException occurs instead of a \"Bad packet id\" message",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2021-03-18T06:27:56.000+0200",
+    "resolution_date": "2024-02-04T18:04:40.000+0200",
+    "updated_date": "2024-02-04T18:04:41.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-187372",
     "summary": "There is no space between fps limit/vsync and graphics level in the debug screen",
     "labels": [],
