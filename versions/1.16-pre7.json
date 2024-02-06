@@ -419,6 +419,28 @@
     "votes": 4
   },
   {
+    "id": "MC-160704",
+    "summary": "Acute accent is rendered too small",
+    "labels": [
+      "font",
+      "unicode"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.16 Pre-release 7"
+    ],
+    "creation_date": "2019-09-07T22:36:30.000+0300",
+    "resolution_date": "2024-02-06T20:10:05.000+0200",
+    "updated_date": "2024-02-06T20:10:05.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
     "id": "MC-156442",
     "summary": "Some Latin and Armenian ligatures are not included in the Minecraft font",
     "labels": [
