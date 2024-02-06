@@ -800,6 +800,28 @@
     "votes": 28
   },
   {
+    "id": "MC-80110",
+    "summary": "Villager item count graphical bug",
+    "labels": [
+      "trading",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w41a"
+    ],
+    "creation_date": "2015-05-05T18:29:30.000+0300",
+    "resolution_date": "2024-02-06T17:29:08.000+0200",
+    "updated_date": "2024-02-06T17:29:08.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
     "id": "MC-35920",
     "summary": "Some translucent parts of entities make translucent blocks, block entities and some entities invisible (depending on loading order)",
     "labels": [
