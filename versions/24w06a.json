@@ -1,0 +1,268 @@
+[
+  {
+    "id": "MC-268189",
+    "summary": "\"block.vault.fall\" uses placeholder sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2024-01-31T22:44:02.000+0200",
+    "resolution_date": "2024-02-02T12:51:53.000+0200",
+    "updated_date": "2024-02-02T12:51:53.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-268179",
+    "summary": "Horse armor and wolf armor disappear when right-clicking in the air",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2024-01-31T20:59:57.000+0200",
+    "resolution_date": "2024-02-05T19:10:22.000+0200",
+    "updated_date": "2024-02-05T19:10:22.000+0200",
+    "watches": 7,
+    "votes": 6
+  },
+  {
+    "id": "MC-268096",
+    "summary": "Singleplayer client discards synced biome tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2024-01-26T18:02:39.000+0200",
+    "resolution_date": "2024-02-05T16:34:56.000+0200",
+    "updated_date": "2024-02-05T16:34:56.000+0200",
+    "watches": 9,
+    "votes": 7
+  },
+  {
+    "id": "MC-268091",
+    "summary": "\"Shuniji\", \"Dragon Fish\" and \"Axolotl\" no longer play underwater",
+    "labels": [
+      "music",
+      "underwater"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2024-01-26T12:44:36.000+0200",
+    "resolution_date": "2024-02-07T12:07:49.000+0200",
+    "updated_date": "2024-02-07T12:07:49.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-268065",
+    "summary": "Armadillos with no AI roll up after being attacked",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2024-01-24T18:23:15.000+0200",
+    "resolution_date": "2024-02-07T10:56:02.000+0200",
+    "updated_date": "2024-02-07T10:56:02.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-267940",
+    "summary": "Armadillo's scute drop timer is not saved to data",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2024-01-18T12:33:50.000+0200",
+    "resolution_date": "2024-02-07T10:56:02.000+0200",
+    "updated_date": "2024-02-07T10:56:02.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-267917",
+    "summary": "Baby armadillos don't make an eating sound when feeding them spider eyes",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2024-01-17T17:24:39.000+0200",
+    "resolution_date": "2024-02-07T11:11:37.000+0200",
+    "updated_date": "2024-02-07T11:11:37.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-267512",
+    "summary": "Invulnerable ghasts can be killed with reflected fireballs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2023-12-22T01:48:16.000+0200",
+    "resolution_date": "2024-02-05T14:31:12.000+0200",
+    "updated_date": "2024-02-05T14:31:12.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-264684",
+    "summary": "Too long macro silently fails",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2023-08-06T12:46:24.000+0300",
+    "resolution_date": "2024-02-05T14:55:14.000+0200",
+    "updated_date": "2024-02-05T15:11:55.000+0200",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-261846",
+    "summary": "Japanese language uses a Chinese font",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2023-04-14T02:03:39.000+0300",
+    "resolution_date": "2024-02-06T14:54:53.000+0200",
+    "updated_date": "2024-02-07T02:40:44.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-259142",
+    "summary": "Hoppers with barrel facing downwards on top picking up item",
+    "labels": [
+      "Hopper",
+      "barrel"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2023-01-16T17:33:34.000+0200",
+    "resolution_date": "2024-02-06T17:00:29.000+0200",
+    "updated_date": "2024-02-06T17:00:29.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-193202",
+    "summary": "Tamed wolf health resets when NBT is loaded (e.g. relog)",
+    "labels": [
+      "command",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2020-07-02T07:37:59.000+0300",
+    "resolution_date": "2024-02-07T11:26:28.000+0200",
+    "updated_date": "2024-02-07T11:26:28.000+0200",
+    "watches": 20,
+    "votes": 25
+  },
+  {
+    "id": "MC-72151",
+    "summary": "Snow Golem's snowballs damage wolves instead of pushing them",
+    "labels": [
+      "damage",
+      "snow_golem",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2014-09-20T22:02:02.000+0300",
+    "resolution_date": "2024-02-07T12:16:57.000+0200",
+    "updated_date": "2024-02-07T12:16:57.000+0200",
+    "watches": 17,
+    "votes": 35
+  }
+]
