@@ -242,6 +242,28 @@
     "votes": 10
   },
   {
+    "id": "MC-257516",
+    "summary": "\"Fox teleports\" sound plays for both Players and Friendly Creatures sound categories",
+    "labels": [
+      "chorus_fruit",
+      "fox"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w44a"
+    ],
+    "creation_date": "2022-11-12T22:33:31.000+0200",
+    "resolution_date": "2024-02-11T22:40:39.000+0200",
+    "updated_date": "2024-02-11T22:40:40.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-219293",
     "summary": "When teleporting via Chorus Fruit, the burping and teleporting sounds play at the wrong location",
     "labels": [],
