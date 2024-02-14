@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MC-268451",
+    "summary": "Hoppers can't pull honey bottles from bee hives or bee nests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-10T04:07:02.000+0200",
+    "resolution_date": "2024-02-12T10:28:03.000+0200",
+    "updated_date": "2024-02-12T18:08:59.000+0200",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-268426",
+    "summary": "Wind charges shot from breezes no longer explode and instead are deleted upon hitting breezes after being deflected",
+    "labels": [
+      "breeze",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-09T14:57:17.000+0200",
+    "resolution_date": "2024-02-14T11:26:52.000+0200",
+    "updated_date": "2024-02-14T11:26:52.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268418",
+    "summary": "Pre-1.9 chunks get regenerated seemingly randomly when upgrading",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-08T22:30:19.000+0200",
+    "resolution_date": "2024-02-13T10:32:11.000+0200",
+    "updated_date": "2024-02-13T10:32:11.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268389",
+    "summary": "Fall damage is conserved between game modes with Wind Charge",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-08T06:43:44.000+0200",
+    "resolution_date": "2024-02-13T09:33:41.000+0200",
+    "updated_date": "2024-02-13T09:33:41.000+0200",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-268383",
+    "summary": "Wind Charges negate all fall damage that does not occur below the hit point, regardless of whether the fall was caused by the charge or not",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-08T04:24:28.000+0200",
+    "resolution_date": "2024-02-13T09:33:39.000+0200",
+    "updated_date": "2024-02-13T16:05:50.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-268368",
+    "summary": "Wind charge bounces cause fall damage after exiting water",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T23:16:53.000+0200",
+    "resolution_date": "2024-02-13T09:33:40.000+0200",
+    "updated_date": "2024-02-13T09:33:40.000+0200",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-268362",
+    "summary": "Blocks which typically negate fall damage fail to do so from falls after using wind charges",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T21:46:40.000+0200",
+    "resolution_date": "2024-02-13T09:33:40.000+0200",
+    "updated_date": "2024-02-13T09:33:40.000+0200",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-268355",
+    "summary": "Tick freeze lets chunk tickets expire",
+    "labels": [
+      "tick-command"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T19:38:00.000+0200",
+    "resolution_date": "2024-02-14T14:14:35.000+0200",
+    "updated_date": "2024-02-14T14:14:35.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268353",
+    "summary": "Tick Freeze randomizes next AI tick type",
+    "labels": [
+      "tick-command"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T19:14:37.000+0200",
+    "resolution_date": "2024-02-14T14:14:34.000+0200",
+    "updated_date": "2024-02-14T14:14:34.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-268349",
+    "summary": "Hopper minecarts with a full block above them no longer search for item entities to pick up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T19:08:53.000+0200",
+    "resolution_date": "2024-02-13T10:49:59.000+0200",
+    "updated_date": "2024-02-14T17:34:50.000+0200",
+    "watches": 21,
+    "votes": 39
+  },
+  {
+    "id": "MC-268344",
+    "summary": "Breezes are not affected by the looting enchantment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T18:29:31.000+0200",
+    "resolution_date": "2024-02-14T11:35:42.000+0200",
+    "updated_date": "2024-02-14T12:18:32.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-268342",
+    "summary": "Breeze can be damaged by wind charge",
+    "labels": [
+      "breeze",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T18:20:16.000+0200",
+    "resolution_date": "2024-02-14T11:26:51.000+0200",
+    "updated_date": "2024-02-14T11:26:51.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-268339",
+    "summary": "\"Japanese\" is misspelled as \"Japanse\" in options.japaneseGlyphVariants.tooltip",
+    "labels": [
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-02-07T18:09:12.000+0200",
+    "resolution_date": "2024-02-08T11:06:26.000+0200",
+    "updated_date": "2024-02-10T02:56:51.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-268080",
+    "summary": "When the projectiles are reflected from the breeze, the projectiles will deflect in the opposite direction in Bedrock, but in Java they will always deflect downward",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour",
+      "Parity",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-01-25T10:47:20.000+0200",
+    "resolution_date": "2024-02-13T11:15:25.000+0200",
+    "updated_date": "2024-02-13T11:15:25.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-267955",
+    "summary": "Breezes that are not moving cannot deflect non-arrow and non-trident projectiles",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-01-18T18:56:11.000+0200",
+    "resolution_date": "2024-02-14T18:56:06.000+0200",
+    "updated_date": "2024-02-14T18:56:06.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-267866",
+    "summary": "Panda slimeball drop is hardcoded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-01-13T17:09:14.000+0200",
+    "resolution_date": "2024-02-14T12:53:10.000+0200",
+    "updated_date": "2024-02-14T12:53:10.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-267732",
+    "summary": "/place jigsaw still caps max depth at 7",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2024-01-04T20:57:12.000+0200",
+    "resolution_date": "2024-02-07T19:25:44.000+0200",
+    "updated_date": "2024-02-07T19:25:44.000+0200",
+    "watches": 6,
+    "votes": 1
+  },
+  {
+    "id": "MC-266570",
+    "summary": "Wind charges can't go through non solid blocks",
+    "labels": [
+      "breeze",
+      "breeze_wind_charge",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Parity",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w07a"
+    ],
+    "creation_date": "2023-11-10T13:26:07.000+0200",
+    "resolution_date": "2024-02-12T13:01:44.000+0200",
+    "updated_date": "2024-02-14T19:01:45.000+0200",
+    "watches": 9,
+    "votes": 12
+  }
+]
