@@ -824,5 +824,27 @@
     "updated_date": "2023-04-26T17:55:35.000+0300",
     "watches": 41,
     "votes": 71
+  },
+  {
+    "id": "MC-30954",
+    "summary": "Chat pop-ups being displayed when chat disappears",
+    "labels": [
+      "chat",
+      "offset"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w45a"
+    ],
+    "creation_date": "2013-09-13T10:16:44.000+0300",
+    "resolution_date": "2024-02-20T13:25:58.000+0200",
+    "updated_date": "2024-02-20T13:25:58.000+0200",
+    "watches": 6,
+    "votes": 8
   }
 ]
