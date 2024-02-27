@@ -2035,6 +2035,29 @@
     "votes": 11
   },
   {
+    "id": "MC-203232",
+    "summary": "endermites hitbox is so little it doesn't comes above the boat when sitting in one.",
+    "labels": [
+      "HItbox",
+      "boat",
+      "endermite"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-10-31T17:00:05.000+0200",
+    "resolution_date": "2024-02-27T10:22:08.000+0200",
+    "updated_date": "2024-02-27T10:22:09.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-202432",
     "summary": "Absorption effect does not go away even after the hearts are gone",
     "labels": [],
