@@ -186,6 +186,25 @@
     "votes": 1
   },
   {
+    "id": "MC-267956",
+    "summary": "Attack indicator is not displayed when holding a Diamond or Netherite Hoe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2024-01-18T19:08:38.000+0200",
+    "resolution_date": "2024-02-28T18:17:19.000+0200",
+    "updated_date": "2024-02-28T18:17:19.000+0200",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-267500",
     "summary": "Attribute modifier on an item with the first and/or last 2 integers of the UUID being 0 are non-functional",
     "labels": [],
@@ -345,5 +364,29 @@
     "updated_date": "2024-02-27T11:29:46.000+0200",
     "watches": 4,
     "votes": 7
+  },
+  {
+    "id": "MC-19893",
+    "summary": "options_background.png is incorrectly displayed upside down in the credits after beating the dragon",
+    "labels": [
+      "background",
+      "credits",
+      "upside-down"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2013-06-30T15:29:29.000+0300",
+    "resolution_date": "2024-02-28T18:18:12.000+0200",
+    "updated_date": "2024-02-28T19:05:48.000+0200",
+    "watches": 11,
+    "votes": 13
   }
 ]
