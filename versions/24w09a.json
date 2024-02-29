@@ -318,6 +318,25 @@
     "votes": 1
   },
   {
+    "id": "MC-248076",
+    "summary": "Specific type of Firework Rockets won't stack with each other after use",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2022-01-10T17:33:10.000+0200",
+    "resolution_date": "2024-02-29T23:52:59.000+0200",
+    "updated_date": "2024-02-29T23:53:29.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-226775",
     "summary": "Extinguishing candle shows inaccurate subtitle",
     "labels": [
