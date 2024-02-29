@@ -243,26 +243,6 @@
     "votes": 3
   },
   {
-    "id": "MC-259284",
-    "summary": "Severe performance issues with inventories with lots of data",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Community Consensus",
-    "categories": [
-      "Inventory",
-      "Performance"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "24w09a"
-    ],
-    "creation_date": "2023-01-21T11:12:09.000+0200",
-    "resolution_date": "2024-02-27T11:29:47.000+0200",
-    "updated_date": "2024-02-28T21:47:00.000+0200",
-    "watches": 5,
-    "votes": 2
-  },
-  {
     "id": "MC-257119",
     "summary": "Lodestone Compass does not stack after dropping and destroying the Lodestone",
     "labels": [],
@@ -340,6 +320,29 @@
     "updated_date": "2024-02-22T10:53:29.000+0200",
     "watches": 7,
     "votes": 34
+  },
+  {
+    "id": "MC-148480",
+    "summary": "Putting two identical enchanted books in a grindstone will output one book",
+    "labels": [
+      "enchanted_book",
+      "grindstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2019-04-17T02:56:23.000+0300",
+    "resolution_date": "2024-02-29T11:50:37.000+0200",
+    "updated_date": "2024-02-29T11:50:37.000+0200",
+    "watches": 4,
+    "votes": 8
   },
   {
     "id": "MC-118890",
