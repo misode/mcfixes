@@ -61,6 +61,25 @@
     "votes": 2
   },
   {
+    "id": "MC-268509",
+    "summary": "The tooltip in the Saved Hotbars disappears in 24w06a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2024-02-12T05:48:49.000+0200",
+    "resolution_date": "2024-02-29T14:39:44.000+0200",
+    "updated_date": "2024-02-29T14:39:44.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-268350",
     "summary": "Wind Charges never despawn",
     "labels": [
