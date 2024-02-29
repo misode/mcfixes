@@ -101,6 +101,26 @@
     "votes": 10
   },
   {
+    "id": "MC-268345",
+    "summary": "Changing the value of \"Japanese Glyph Variants\" causes tooltip to flash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2024-02-07T18:40:06.000+0200",
+    "resolution_date": "2024-02-29T21:48:25.000+0200",
+    "updated_date": "2024-02-29T21:48:25.000+0200",
+    "watches": 0,
+    "votes": 4
+  },
+  {
     "id": "MC-268236",
     "summary": "Search field in the social interactions menu not focused by default",
     "labels": [],
