@@ -860,6 +860,29 @@
     "votes": 10
   },
   {
+    "id": "MC-216071",
+    "summary": "Splash text resets if you hit escape on the Multiplayer menu, but not the Singleplayer menu",
+    "labels": [
+      "menu",
+      "splashscreen",
+      "splashtexts"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2021-02-18T20:17:46.000+0200",
+    "resolution_date": "2024-03-01T15:43:31.000+0200",
+    "updated_date": "2024-03-01T15:44:15.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-198963",
     "summary": "Chat text renders in front of player names in player list",
     "labels": [
