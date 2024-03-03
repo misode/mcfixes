@@ -2078,6 +2078,31 @@
     "votes": 16
   },
   {
+    "id": "MC-192307",
+    "summary": "Accessibility icon does not support semi-transparent pixel",
+    "labels": [
+      "gui-button",
+      "resource-pack",
+      "transparency"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-06-27T15:24:56.000+0300",
+    "resolution_date": "2024-03-04T00:38:29.000+0200",
+    "updated_date": "2024-03-04T00:38:29.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-190815",
     "summary": "Shulker boxes don't conduct redstone when open, but don't trigger redstone updates when opened",
     "labels": [],
