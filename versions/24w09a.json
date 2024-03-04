@@ -282,23 +282,6 @@
     "votes": 3
   },
   {
-    "id": "MC-257119",
-    "summary": "Lodestone Compass does not stack after dropping and destroying the Lodestone",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [],
-    "priority": "Low",
-    "fix_versions": [
-      "24w09a"
-    ],
-    "creation_date": "2022-11-02T18:47:29.000+0200",
-    "resolution_date": "2024-02-27T11:29:47.000+0200",
-    "updated_date": "2024-02-27T11:29:47.000+0200",
-    "watches": 4,
-    "votes": 2
-  },
-  {
     "id": "MC-251042",
     "summary": "Third-party warning buttons are not positioned well in non-English languages",
     "labels": [],
