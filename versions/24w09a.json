@@ -282,6 +282,27 @@
     "votes": 3
   },
   {
+    "id": "MC-251509",
+    "summary": "Patterned banners not stacking properly / banner loses \"banner\" ID when mined",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items",
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2022-05-08T18:41:28.000+0300",
+    "resolution_date": "2024-03-05T14:16:25.000+0200",
+    "updated_date": "2024-03-05T14:16:25.000+0200",
+    "watches": 8,
+    "votes": 11
+  },
+  {
     "id": "MC-251042",
     "summary": "Third-party warning buttons are not positioned well in non-English languages",
     "labels": [],
