@@ -629,6 +629,27 @@
     "votes": 7
   },
   {
+    "id": "MC-189692",
+    "summary": "Dying by other means than mobs when knocked back by a bee sting does not mention the bee in the death message",
+    "labels": [
+      "death-message"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2020-06-14T22:20:40.000+0300",
+    "resolution_date": "2024-03-05T17:23:45.000+0200",
+    "updated_date": "2024-03-05T17:23:45.000+0200",
+    "watches": 6,
+    "votes": 9
+  },
+  {
     "id": "MC-187458",
     "summary": "World outline on the menu screen rendered complete white when clicking away",
     "labels": [],
