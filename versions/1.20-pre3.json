@@ -287,6 +287,25 @@
     "votes": 61
   },
   {
+    "id": "MC-170468",
+    "summary": "World icons can get messed up when a world's icon is reset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20 Pre-release 3"
+    ],
+    "creation_date": "2020-01-27T16:20:19.000+0200",
+    "resolution_date": "2024-03-05T20:53:16.000+0200",
+    "updated_date": "2024-03-05T20:53:16.000+0200",
+    "watches": 6,
+    "votes": 14
+  },
+  {
     "id": "MC-152258",
     "summary": "Riding an entity with slow falling will not stop fall damage",
     "labels": [],
