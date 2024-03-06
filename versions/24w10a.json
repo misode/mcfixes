@@ -1,0 +1,574 @@
+[
+  {
+    "id": "MC-269091",
+    "summary": "AttributeModifiers NBT with missing fields is not upgraded correctly to components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-03-04T18:04:31.000+0200",
+    "resolution_date": "2024-03-06T12:03:58.000+0200",
+    "updated_date": "2024-03-06T12:03:58.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-269066",
+    "summary": "Item modifier cannot remove `custom_name`",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-03-03T15:31:15.000+0200",
+    "resolution_date": "2024-03-06T12:03:55.000+0200",
+    "updated_date": "2024-03-06T12:03:55.000+0200",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-269062",
+    "summary": "Bundles with \"Bundle Contents\" component removed return after right clicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-03-03T13:15:26.000+0200",
+    "resolution_date": "2024-03-06T12:03:55.000+0200",
+    "updated_date": "2024-03-06T12:03:55.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-269005",
+    "summary": "Player heads from previous versions cause game crash and/or are converted incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash",
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-03-02T02:51:05.000+0200",
+    "resolution_date": "2024-03-06T12:03:53.000+0200",
+    "updated_date": "2024-03-06T12:03:53.000+0200",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-268971",
+    "summary": "Lodestone compass stops being a lodestone compass after breaking its tracked lodestone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-03-01T11:02:10.000+0200",
+    "resolution_date": "2024-03-06T12:03:56.000+0200",
+    "updated_date": "2024-03-06T12:03:56.000+0200",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-268921",
+    "summary": "Arrows lose particles after unloading world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-29T19:23:39.000+0200",
+    "resolution_date": "2024-03-06T12:03:56.000+0200",
+    "updated_date": "2024-03-06T12:03:56.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-268904",
+    "summary": "Suspicious stew not giving effects",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-29T13:08:07.000+0200",
+    "resolution_date": "2024-03-05T14:19:36.000+0200",
+    "updated_date": "2024-03-06T15:47:17.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-268897",
+    "summary": "Cannot select entities who have any itemstack with the count being 1.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-29T08:01:34.000+0200",
+    "resolution_date": "2024-03-06T12:03:54.000+0200",
+    "updated_date": "2024-03-06T12:03:54.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-268879",
+    "summary": "Having a high damage value breaks and crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-29T01:44:33.000+0200",
+    "resolution_date": "2024-03-05T14:19:34.000+0200",
+    "updated_date": "2024-03-05T14:19:34.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-268877",
+    "summary": "Beehives/bee nests in inventory lose honey level after converting to 24w09a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-29T01:24:02.000+0200",
+    "resolution_date": "2024-03-05T14:19:37.000+0200",
+    "updated_date": "2024-03-05T14:19:37.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-268864",
+    "summary": "An item modifier with a duplicate item stack component prevents the entire data pack from (re)loading, rather than ignoring that one specific item modifier",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-29T00:05:11.000+0200",
+    "resolution_date": "2024-03-05T14:19:38.000+0200",
+    "updated_date": "2024-03-06T15:48:00.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268856",
+    "summary": "Loading shulker box/bundle with a single 'invalid' item in it renders the whole component invalid",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T22:38:31.000+0200",
+    "resolution_date": "2024-03-05T14:19:34.000+0200",
+    "updated_date": "2024-03-05T14:19:34.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-268853",
+    "summary": "Unable to load paintings for any variants",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T22:22:17.000+0200",
+    "resolution_date": "2024-03-05T14:19:35.000+0200",
+    "updated_date": "2024-03-05T14:19:35.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-268851",
+    "summary": "Crossbows don't make a firing sound",
+    "labels": [
+      "Crossbow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Sound"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T22:17:52.000+0200",
+    "resolution_date": "2024-03-06T12:03:57.000+0200",
+    "updated_date": "2024-03-06T12:03:57.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-268850",
+    "summary": "Attribute Modifier: Not updated when switching items in hotbar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T22:09:06.000+0200",
+    "resolution_date": "2024-03-05T14:19:33.000+0200",
+    "updated_date": "2024-03-05T14:19:33.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-268845",
+    "summary": "Items with can_break/can_place_on components update every time the inventory is changed in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T21:16:09.000+0200",
+    "resolution_date": "2024-03-06T12:03:57.000+0200",
+    "updated_date": "2024-03-06T12:03:57.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-268842",
+    "summary": "Crash when saving world with painting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T20:42:06.000+0200",
+    "resolution_date": "2024-03-05T14:19:35.000+0200",
+    "updated_date": "2024-03-05T14:19:35.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-268834",
+    "summary": "Vault texture is inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T19:57:28.000+0200",
+    "resolution_date": "2024-03-01T11:51:23.000+0200",
+    "updated_date": "2024-03-01T11:51:23.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268830",
+    "summary": "Effect Particles appear when specifying no particles using /effect command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T19:55:06.000+0200",
+    "resolution_date": "2024-03-05T14:19:36.000+0200",
+    "updated_date": "2024-03-05T14:19:36.000+0200",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-268824",
+    "summary": "Disenchanted books from grindstone don't stack with books that were in the inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T19:23:18.000+0200",
+    "resolution_date": "2024-03-05T14:19:30.000+0200",
+    "updated_date": "2024-03-05T14:19:30.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-268813",
+    "summary": "Crash when spawning item with can_break/can_place_on component containing unknown/invalid tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T18:59:24.000+0200",
+    "resolution_date": "2024-03-05T14:19:38.000+0200",
+    "updated_date": "2024-03-05T14:19:38.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-268801",
+    "summary": "Shulker boxes in saved hotbars inconsistently update to item components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T18:09:57.000+0200",
+    "resolution_date": "2024-03-05T14:20:01.000+0200",
+    "updated_date": "2024-03-05T23:00:56.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-268800",
+    "summary": "All tools have 4 attack damage, and 1.6 attack speed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-28T18:07:35.000+0200",
+    "resolution_date": "2024-03-05T14:19:33.000+0200",
+    "updated_date": "2024-03-06T17:10:26.000+0200",
+    "watches": 27,
+    "votes": 45
+  },
+  {
+    "id": "MC-268462",
+    "summary": "Saturation suspicious stew now grants 7 seconds of effect instead of 7 ticks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-10T16:37:30.000+0200",
+    "resolution_date": "2024-03-05T14:19:32.000+0200",
+    "updated_date": "2024-03-05T14:19:32.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-268392",
+    "summary": "Setting gravity attribute to 0.0 kicks player for flying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Dedicated Server"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2024-02-08T07:44:15.000+0200",
+    "resolution_date": "2024-03-05T14:19:37.000+0200",
+    "updated_date": "2024-03-05T14:19:37.000+0200",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-217084",
+    "summary": "Player head NBT \"ExtraType\" is no longer saved but doesn't use DataFixerUpper upgrade path",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Datafixer"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2021-02-26T01:59:23.000+0200",
+    "resolution_date": "2024-03-06T12:03:54.000+0200",
+    "updated_date": "2024-03-06T12:03:54.000+0200",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-174496",
+    "summary": "Player heads lose their name after being placed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2020-03-11T20:16:50.000+0200",
+    "resolution_date": "2024-03-06T12:03:52.000+0200",
+    "updated_date": "2024-03-06T12:03:52.000+0200",
+    "watches": 26,
+    "votes": 43
+  },
+  {
+    "id": "MC-157133",
+    "summary": "Enchanted books with curses can be stacked using a grindstone",
+    "labels": [
+      "grindstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2019-07-19T18:10:22.000+0300",
+    "resolution_date": "2024-03-05T14:19:32.000+0200",
+    "updated_date": "2024-03-05T14:19:32.000+0200",
+    "watches": 13,
+    "votes": 19
+  },
+  {
+    "id": "MC-140397",
+    "summary": "When combining two enchanted unbreakable items, the result will be two stacked items",
+    "labels": [
+      "enchantment",
+      "grindstone",
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2018-12-01T10:26:45.000+0200",
+    "resolution_date": "2024-03-05T14:19:31.000+0200",
+    "updated_date": "2024-03-05T14:19:31.000+0200",
+    "watches": 13,
+    "votes": 16
+  }
+]
