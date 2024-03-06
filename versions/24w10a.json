@@ -174,25 +174,6 @@
     "votes": 3
   },
   {
-    "id": "MC-268877",
-    "summary": "Beehives/bee nests in inventory lose honey level after converting to 24w09a",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Plausible",
-    "categories": [
-      "Datafixer"
-    ],
-    "priority": "Important",
-    "fix_versions": [
-      "24w10a"
-    ],
-    "creation_date": "2024-02-29T01:24:02.000+0200",
-    "resolution_date": "2024-03-05T14:19:37.000+0200",
-    "updated_date": "2024-03-06T23:04:53.000+0200",
-    "watches": 1,
-    "votes": 1
-  },
-  {
     "id": "MC-268864",
     "summary": "An item modifier with a duplicate item stack component prevents the entire data pack from (re)loading, rather than ignoring that one specific item modifier",
     "labels": [],
