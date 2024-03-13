@@ -282,6 +282,25 @@
     "votes": 3
   },
   {
+    "id": "MC-262503",
+    "summary": "light_dirt_background.png and header_separator.png does not match options_background.png",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2023-05-10T16:20:34.000+0300",
+    "resolution_date": "2024-03-13T04:40:09.000+0200",
+    "updated_date": "2024-03-13T04:40:09.000+0200",
+    "watches": 5,
+    "votes": 12
+  },
+  {
     "id": "MC-251509",
     "summary": "Patterned banners not stacking properly / banner loses \"banner\" ID when mined",
     "labels": [],
