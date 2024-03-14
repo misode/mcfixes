@@ -490,6 +490,25 @@
     "votes": 5
   },
   {
+    "id": "MC-187746",
+    "summary": "Game rule buttons on \"Edit game rules\" screen are highlighted despite being covered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2020-06-06T03:08:52.000+0300",
+    "resolution_date": "2024-03-14T14:44:24.000+0200",
+    "updated_date": "2024-03-14T14:44:24.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
     "id": "MC-174496",
     "summary": "Player heads lose their name after being placed",
     "labels": [],
@@ -507,6 +526,25 @@
     "updated_date": "2024-03-06T12:03:52.000+0200",
     "watches": 25,
     "votes": 43
+  },
+  {
+    "id": "MC-167324",
+    "summary": "Multiple UI buttons can be highlighted at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2019-12-08T16:23:25.000+0200",
+    "resolution_date": "2024-03-14T14:44:34.000+0200",
+    "updated_date": "2024-03-14T14:44:34.000+0200",
+    "watches": 3,
+    "votes": 5
   },
   {
     "id": "MC-157133",
