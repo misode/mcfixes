@@ -1,0 +1,768 @@
+[
+  {
+    "id": "MC-269279",
+    "summary": "The \"Normal user\" button within the realms player menu is improperly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-11T12:55:19.000+0200",
+    "resolution_date": "2024-03-13T15:53:26.000+0200",
+    "updated_date": "2024-03-13T15:53:26.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-269136",
+    "summary": "Incorrect weapon.* command suggestions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-06T19:14:22.000+0200",
+    "resolution_date": "2024-03-13T10:40:36.000+0200",
+    "updated_date": "2024-03-13T10:40:36.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-269122",
+    "summary": "Editing signs causes background blur",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-06T16:34:23.000+0200",
+    "resolution_date": "2024-03-11T17:56:23.000+0200",
+    "updated_date": "2024-03-11T17:56:23.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-269081",
+    "summary": "Some Realms icons are rendered behind the button in the main menu, instead of not being rendered at all",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-04T00:21:15.000+0200",
+    "resolution_date": "2024-03-11T17:56:19.000+0200",
+    "updated_date": "2024-03-11T17:56:19.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-269077",
+    "summary": "Sign editing screen uses menu_background.png",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-03T23:29:29.000+0200",
+    "resolution_date": "2024-03-11T17:56:22.000+0200",
+    "updated_date": "2024-03-11T17:56:22.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-269032",
+    "summary": "Blur shader runs when menu blurriness is 0%",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Performance",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-03T00:26:06.000+0200",
+    "resolution_date": "2024-03-11T17:56:25.000+0200",
+    "updated_date": "2024-03-11T17:56:25.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-268967",
+    "summary": "Night vision does not work properly in high constrast mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-01T08:38:54.000+0200",
+    "resolution_date": "2024-03-11T17:56:21.000+0200",
+    "updated_date": "2024-03-11T17:56:21.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-268956",
+    "summary": "Command blocks, structure blocks and jigsaw blocks use menu_background.png",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-01T03:51:35.000+0200",
+    "resolution_date": "2024-03-11T17:56:23.000+0200",
+    "updated_date": "2024-03-11T17:56:23.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268953",
+    "summary": "Layout of gamerules screen breaks when toggling fullscreen mode or changing resolution",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-01T01:38:59.000+0200",
+    "resolution_date": "2024-03-11T17:56:20.000+0200",
+    "updated_date": "2024-03-11T17:56:20.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-268908",
+    "summary": "Trying to navigate to the Font Settings menu using the Tab key exits the language menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-29T14:47:15.000+0200",
+    "resolution_date": "2024-03-11T17:56:18.000+0200",
+    "updated_date": "2024-03-11T17:56:18.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-268902",
+    "summary": "Low FPS when blurred menu background is visible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-29T10:25:48.000+0200",
+    "resolution_date": "2024-03-11T17:56:26.000+0200",
+    "updated_date": "2024-03-11T17:56:26.000+0200",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-268862",
+    "summary": "Areas with no sky light are incredibly dark when using the \"High Contrast\" resource pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T22:59:15.000+0200",
+    "resolution_date": "2024-03-11T17:56:20.000+0200",
+    "updated_date": "2024-03-12T14:36:32.000+0200",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-268855",
+    "summary": "Typing /function then space closes the internal server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T22:31:54.000+0200",
+    "resolution_date": "2024-03-08T10:55:16.000+0200",
+    "updated_date": "2024-03-08T10:55:16.000+0200",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-268819",
+    "summary": "Programmer Art, High Contrast, other resource packs: top of \"Create New World\" screen is transparent/not black",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T19:08:35.000+0200",
+    "resolution_date": "2024-03-11T17:56:27.000+0200",
+    "updated_date": "2024-03-12T16:59:58.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-268816",
+    "summary": "Credits background texture no longer scrolls in Programmer Art and other such resource packs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T19:05:08.000+0200",
+    "resolution_date": "2024-03-11T17:56:22.000+0200",
+    "updated_date": "2024-03-11T17:56:22.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-268812",
+    "summary": "Dirt background is used in the pause menu and some other menus in Programmer Art; black background used in High Contrast resource pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T18:58:36.000+0200",
+    "resolution_date": "2024-03-11T17:56:27.000+0200",
+    "updated_date": "2024-03-11T17:56:27.000+0200",
+    "watches": 4,
+    "votes": 11
+  },
+  {
+    "id": "MC-268811",
+    "summary": "Clicking 'Done' for language settings is ineffective; changes apply after double-clicking the language option",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T18:57:13.000+0200",
+    "resolution_date": "2024-03-11T17:56:17.000+0200",
+    "updated_date": "2024-03-12T11:49:43.000+0200",
+    "watches": 7,
+    "votes": 12
+  },
+  {
+    "id": "MC-268805",
+    "summary": "panorama_overlay.png no longer works",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T18:25:14.000+0200",
+    "resolution_date": "2024-03-11T17:56:18.000+0200",
+    "updated_date": "2024-03-11T17:56:18.000+0200",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-268796",
+    "summary": "\"Saving world\" text is blurred when pausing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-28T17:35:03.000+0200",
+    "resolution_date": "2024-03-11T17:56:26.000+0200",
+    "updated_date": "2024-03-14T18:41:59.000+0200",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-268624",
+    "summary": "\"Saving world\" message is rendered behind pause menu background, instead of on top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-16T23:57:15.000+0200",
+    "resolution_date": "2024-03-14T18:25:44.000+0200",
+    "updated_date": "2024-03-14T18:41:59.000+0200",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-268582",
+    "summary": "Facing direction no longer affects shading of the first person arm",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-15T00:25:48.000+0200",
+    "resolution_date": "2024-03-08T10:55:17.000+0200",
+    "updated_date": "2024-03-08T10:55:17.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268408",
+    "summary": "Game crashes when a wind charge hits an entity after disabling update_1_21 data pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-08T16:08:44.000+0200",
+    "resolution_date": "2024-03-08T10:55:14.000+0200",
+    "updated_date": "2024-03-08T10:55:14.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-268405",
+    "summary": "Wind charges can move in unusual ways",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-08T15:32:24.000+0200",
+    "resolution_date": "2024-03-12T09:05:18.000+0200",
+    "updated_date": "2024-03-12T09:05:18.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-268282",
+    "summary": "Picking up lava, powder snow or water using a bucket can be desynced",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-02-04T12:45:35.000+0200",
+    "resolution_date": "2024-03-08T10:55:18.000+0200",
+    "updated_date": "2024-03-08T10:55:18.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-268110",
+    "summary": "Deleting world results in a file directory error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-01-27T16:35:41.000+0200",
+    "resolution_date": "2024-03-08T10:55:15.000+0200",
+    "updated_date": "2024-03-08T10:55:15.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-267930",
+    "summary": "No element is focused when opening the statistics screen using keyboard navigation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-01-18T04:53:19.000+0200",
+    "resolution_date": "2024-03-11T17:56:24.000+0200",
+    "updated_date": "2024-03-11T17:56:24.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-267923",
+    "summary": "The \"Done\" button doesn't always deselect when you close out of a Sign UI, making typing spaces difficult",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-01-17T21:13:06.000+0200",
+    "resolution_date": "2024-03-11T17:56:28.000+0200",
+    "updated_date": "2024-03-12T11:49:24.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-260921",
+    "summary": "Data is focused last on the statistics screen when using keyboard navigation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2023-03-11T17:58:43.000+0200",
+    "resolution_date": "2024-03-11T17:56:24.000+0200",
+    "updated_date": "2024-03-11T17:56:24.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-232560",
+    "summary": "Tamed wolf movement speed decreases when unleashed from a fence",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2021-07-19T05:07:56.000+0300",
+    "resolution_date": "2024-03-06T19:06:34.000+0200",
+    "updated_date": "2024-03-06T19:06:34.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-229919",
+    "summary": "Bees don't recognize beehives or bee nests with a campfire directly below and a block on top",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2021-06-22T19:41:49.000+0300",
+    "resolution_date": "2024-03-08T10:21:46.000+0200",
+    "updated_date": "2024-03-08T10:21:46.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-221754",
+    "summary": "Leashed wolves no longer attack when unleashed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2021-04-01T09:03:45.000+0300",
+    "resolution_date": "2024-03-06T19:06:34.000+0200",
+    "updated_date": "2024-03-06T19:06:34.000+0200",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-208528",
+    "summary": "Feeding tamed baby wolves and cats causes them to sit down/stand up",
+    "labels": [
+      "cat",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2020-12-16T00:27:42.000+0200",
+    "resolution_date": "2024-03-08T10:21:45.000+0200",
+    "updated_date": "2024-03-08T10:21:45.000+0200",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-186626",
+    "summary": "/weather not working in custom dimensions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2020-05-31T03:44:05.000+0300",
+    "resolution_date": "2024-03-12T10:34:23.000+0200",
+    "updated_date": "2024-03-12T10:34:23.000+0200",
+    "watches": 22,
+    "votes": 40
+  },
+  {
+    "id": "MC-173303",
+    "summary": "Leashed pets teleport to the player when reloaded",
+    "labels": [
+      "cat",
+      "chunk-loading",
+      "entity",
+      "lead",
+      "player",
+      "teleport",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2020-02-27T17:04:13.000+0200",
+    "resolution_date": "2024-03-06T19:06:33.000+0200",
+    "updated_date": "2024-03-06T19:06:33.000+0200",
+    "watches": 31,
+    "votes": 65
+  },
+  {
+    "id": "MC-172047",
+    "summary": "Wolves try to attack armor stands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2020-02-14T02:00:10.000+0200",
+    "resolution_date": "2024-03-06T19:06:32.000+0200",
+    "updated_date": "2024-03-06T19:06:32.000+0200",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-170000",
+    "summary": "Hand lighting / lighting of held items changes drastically in first-person mode when looking around",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2020-01-17T21:05:45.000+0200",
+    "resolution_date": "2024-03-08T10:55:16.000+0200",
+    "updated_date": "2024-03-08T10:55:16.000+0200",
+    "watches": 5,
+    "votes": 13
+  },
+  {
+    "id": "MC-168407",
+    "summary": "Bees can get stuck in a lantern",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2019-12-19T23:16:29.000+0200",
+    "resolution_date": "2024-03-08T10:21:47.000+0200",
+    "updated_date": "2024-03-08T10:21:47.000+0200",
+    "watches": 4,
+    "votes": 18
+  },
+  {
+    "id": "MC-165948",
+    "summary": "Bees can be lured into dangerous blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2019-11-21T16:51:24.000+0200",
+    "resolution_date": "2024-03-08T10:21:46.000+0200",
+    "updated_date": "2024-03-08T10:21:46.000+0200",
+    "watches": 11,
+    "votes": 13
+  },
+  {
+    "id": "MC-153329",
+    "summary": "Leashing an iron golem breaks its pathfinding until reloading the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2019-05-29T07:20:06.000+0300",
+    "resolution_date": "2024-03-06T19:06:35.000+0200",
+    "updated_date": "2024-03-06T19:06:35.000+0200",
+    "watches": 13,
+    "votes": 19
+  }
+]
