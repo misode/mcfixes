@@ -278,6 +278,27 @@
     "votes": 9
   },
   {
+    "id": "MC-231898",
+    "summary": "The structure block UI selection outline doesn't highlight the right side of certain focused fields",
+    "labels": [
+      "structure_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w32a"
+    ],
+    "creation_date": "2021-07-13T17:27:56.000+0300",
+    "resolution_date": "2024-03-14T14:09:38.000+0200",
+    "updated_date": "2024-03-14T14:09:39.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
     "id": "MC-219440",
     "summary": "Sculk sensors do not detect fire being put out by a water splash potion",
     "labels": [
