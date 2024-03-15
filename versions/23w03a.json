@@ -811,6 +811,31 @@
     "votes": 6
   },
   {
+    "id": "MC-147939",
+    "summary": "Selecting multiple buttons in command block and structure block",
+    "labels": [
+      "buttons",
+      "command_block",
+      "select",
+      "structure_block",
+      "tab"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2019-04-11T22:53:22.000+0300",
+    "resolution_date": "2024-03-15T11:12:41.000+0200",
+    "updated_date": "2024-03-15T11:12:41.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-146605",
     "summary": "Cannot (de-)select or reorder data and resource packs using the keyboard only",
     "labels": [],
