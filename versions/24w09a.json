@@ -504,6 +504,26 @@
     "votes": 34
   },
   {
+    "id": "MC-189484",
+    "summary": "Statistics screen Tab selection is not centered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2020-06-14T00:21:51.000+0300",
+    "resolution_date": "2024-03-16T23:38:33.000+0200",
+    "updated_date": "2024-03-16T23:38:39.000+0200",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-189211",
     "summary": "Water Taken from Cauldron statistic is slightly covered by the bottom of the screen's overlay",
     "labels": [],
