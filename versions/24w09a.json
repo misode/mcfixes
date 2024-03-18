@@ -566,6 +566,25 @@
     "votes": 8
   },
   {
+    "id": "MC-140565",
+    "summary": "Patrol leaders with banners can drop 2 different types of banners which don't stack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2018-12-04T20:38:10.000+0200",
+    "resolution_date": "2024-03-18T11:11:29.000+0200",
+    "updated_date": "2024-03-18T11:11:29.000+0200",
+    "watches": 8,
+    "votes": 29
+  },
+  {
     "id": "MC-118890",
     "summary": "Tipped arrows stuck in the ground never lose their effect",
     "labels": [
