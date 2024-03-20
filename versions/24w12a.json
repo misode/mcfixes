@@ -1,0 +1,571 @@
+[
+  {
+    "id": "MC-269513",
+    "summary": "Maces can break cobwebs",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-17T01:10:57.000+0200",
+    "resolution_date": "2024-03-18T10:41:50.000+0200",
+    "updated_date": "2024-03-18T12:15:27.000+0200",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-269457",
+    "summary": "Crash with set_lore item modifier setting more than 256 lores",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-15T15:40:16.000+0200",
+    "resolution_date": "2024-03-20T15:13:27.000+0200",
+    "updated_date": "2024-03-20T15:13:27.000+0200",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-269452",
+    "summary": "Crash when using item modifier with replace_section mode and very large size field",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-15T13:25:47.000+0200",
+    "resolution_date": "2024-03-20T15:13:30.000+0200",
+    "updated_date": "2024-03-20T15:13:30.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-269422",
+    "summary": "Carpet on powder snow no longer negates fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-15T04:41:17.000+0200",
+    "resolution_date": "2024-03-19T16:54:56.000+0200",
+    "updated_date": "2024-03-19T16:54:56.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-269419",
+    "summary": "Heavy Core cannot be waterlogged",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-15T03:27:45.000+0200",
+    "resolution_date": "2024-03-19T15:55:39.000+0200",
+    "updated_date": "2024-03-19T16:46:50.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-269409",
+    "summary": "Unable to execute /particle entity_effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-15T01:08:15.000+0200",
+    "resolution_date": "2024-03-20T11:14:38.000+0200",
+    "updated_date": "2024-03-20T11:14:38.000+0200",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-269401",
+    "summary": "The minecraft:set_written_book_pages item modifier is inconsistent with minecraft:set_name and minecraft:set_lore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-15T00:18:55.000+0200",
+    "resolution_date": "2024-03-20T15:13:26.000+0200",
+    "updated_date": "2024-03-20T15:13:26.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-269393",
+    "summary": "Game crashes when wind charge hits entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-14T22:44:09.000+0200",
+    "resolution_date": "2024-03-20T16:05:10.000+0200",
+    "updated_date": "2024-03-20T16:05:10.000+0200",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-269373",
+    "summary": "/datapack disable doesn't work",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-14T19:38:48.000+0200",
+    "resolution_date": "2024-03-20T16:05:09.000+0200",
+    "updated_date": "2024-03-20T16:05:09.000+0200",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-269361",
+    "summary": "Weird Wind Charge behavior when deflecting",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Networking",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-14T18:47:42.000+0200",
+    "resolution_date": "2024-03-19T16:52:41.000+0200",
+    "updated_date": "2024-03-19T16:52:56.000+0200",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-269356",
+    "summary": "Heavy Core cannot be oriented despite its blockstates suggesting otherwise",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-14T18:31:58.000+0200",
+    "resolution_date": "2024-03-18T10:35:46.000+0200",
+    "updated_date": "2024-03-18T12:15:22.000+0200",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-269354",
+    "summary": "The subtitle for the \"minecraft:item.mace.smash_air\" sound event displays as a raw translation string",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-14T18:28:25.000+0200",
+    "resolution_date": "2024-03-20T12:36:30.000+0200",
+    "updated_date": "2024-03-20T14:06:46.000+0200",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-269336",
+    "summary": "Crash with set_enchantments item modifier above level 255",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-14T06:44:43.000+0200",
+    "resolution_date": "2024-03-20T16:05:10.000+0200",
+    "updated_date": "2024-03-20T16:05:10.000+0200",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-269299",
+    "summary": "The red text within the \"Experiments\" menu cannot be narrated or selected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-12T15:32:25.000+0200",
+    "resolution_date": "2024-03-20T10:44:27.000+0200",
+    "updated_date": "2024-03-20T10:44:27.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-269280",
+    "summary": "The right side of incompatible resource or data packs isn't rendered correctly when the scroll bar is present",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-11T13:23:54.000+0200",
+    "resolution_date": "2024-03-20T10:44:28.000+0200",
+    "updated_date": "2024-03-20T10:44:28.000+0200",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-269268",
+    "summary": "components don't work on the smithing table",
+    "labels": [
+      "command",
+      "component",
+      "datapack",
+      "nbt",
+      "nbt-component",
+      "recipe",
+      "smithing_table"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-11T00:56:47.000+0200",
+    "resolution_date": "2024-03-20T15:13:28.000+0200",
+    "updated_date": "2024-03-20T15:13:29.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-269169",
+    "summary": "Wolf variant not present in advancement criteria",
+    "labels": [
+      "advancement",
+      "datapack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-07T13:55:09.000+0200",
+    "resolution_date": "2024-03-19T17:56:04.000+0200",
+    "updated_date": "2024-03-19T17:56:04.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-269085",
+    "summary": "Experience bar and jump bar render translucent pixels as opaque",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-04T05:24:25.000+0200",
+    "resolution_date": "2024-03-20T10:44:27.000+0200",
+    "updated_date": "2024-03-20T10:44:27.000+0200",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-268556",
+    "summary": "Wind charges go through non-full blocks instead of colliding",
+    "labels": [
+      "collision",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-02-14T18:25:15.000+0200",
+    "resolution_date": "2024-03-18T10:52:11.000+0200",
+    "updated_date": "2024-03-19T15:29:29.000+0200",
+    "watches": 13,
+    "votes": 27
+  },
+  {
+    "id": "MC-268510",
+    "summary": "Items with \"Unbreakable:1b\" NBT can no longer have the unbreaking enchant applied",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-02-12T06:59:19.000+0200",
+    "resolution_date": "2024-03-20T12:50:24.000+0200",
+    "updated_date": "2024-03-20T12:50:24.000+0200",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-268343",
+    "summary": "Breeze charge has laggy unnatural flightpaths when punched",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-02-07T18:25:36.000+0200",
+    "resolution_date": "2024-03-19T16:52:17.000+0200",
+    "updated_date": "2024-03-19T16:52:26.000+0200",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-268312",
+    "summary": "Impaling enchantment uses #aquatic tag instead of #sensitive_to_impaling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-02-05T17:47:22.000+0200",
+    "resolution_date": "2024-03-20T12:50:22.000+0200",
+    "updated_date": "2024-03-20T12:50:22.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-268311",
+    "summary": "Bane of arthropods enchantment uses #arthropods tag instead of #sensitive_to_bane_of_arthropods",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-02-05T17:23:17.000+0200",
+    "resolution_date": "2024-03-20T12:50:22.000+0200",
+    "updated_date": "2024-03-20T12:50:22.000+0200",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-268171",
+    "summary": "Some GUI textures can no longer be transparent in Minecraft",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-01-31T19:02:26.000+0200",
+    "resolution_date": "2024-03-20T17:07:20.000+0200",
+    "updated_date": "2024-03-20T17:07:20.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-268068",
+    "summary": "Pieces of text in the \"Reset World\" realm menu can intersect when using some resolutions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-01-24T19:55:09.000+0200",
+    "resolution_date": "2024-03-20T10:44:26.000+0200",
+    "updated_date": "2024-03-20T10:44:26.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-267943",
+    "summary": "Anvil exclusive enchantments can be obtained from enchanting tables",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-01-18T13:46:51.000+0200",
+    "resolution_date": "2024-03-20T12:50:23.000+0200",
+    "updated_date": "2024-03-20T17:11:51.000+0200",
+    "watches": 7,
+    "votes": 4
+  },
+  {
+    "id": "MC-267933",
+    "summary": "Silk Touch and Fortune enchanted books cannot be found in Creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-01-18T08:17:54.000+0200",
+    "resolution_date": "2024-03-20T12:50:21.000+0200",
+    "updated_date": "2024-03-20T12:50:21.000+0200",
+    "watches": 16,
+    "votes": 25
+  },
+  {
+    "id": "MC-267747",
+    "summary": "Click and hover events don't work when viewing chat while F1 is enabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-01-05T20:51:07.000+0200",
+    "resolution_date": "2024-03-20T10:44:25.000+0200",
+    "updated_date": "2024-03-20T10:44:25.000+0200",
+    "watches": 5,
+    "votes": 3
+  }
+]
