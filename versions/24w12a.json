@@ -567,5 +567,47 @@
     "updated_date": "2024-03-20T10:44:25.000+0200",
     "watches": 4,
     "votes": 3
+  },
+  {
+    "id": "MC-200987",
+    "summary": "Title in bossbar breaks HUD opacity",
+    "labels": [
+      "bossbar",
+      "hud",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2020-09-25T07:26:07.000+0300",
+    "resolution_date": "2024-03-20T20:40:06.000+0200",
+    "updated_date": "2024-03-20T20:40:06.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-200947",
+    "summary": "Large amount of unused space in map_icons.png texture file",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2020-09-24T19:42:50.000+0300",
+    "resolution_date": "2024-03-20T20:41:22.000+0200",
+    "updated_date": "2024-03-20T20:41:23.000+0200",
+    "watches": 7,
+    "votes": 9
   }
 ]
