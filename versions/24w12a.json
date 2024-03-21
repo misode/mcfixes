@@ -591,6 +591,25 @@
     "votes": 3
   },
   {
+    "id": "MC-251303",
+    "summary": "Transparent boss bars break when more than one is on screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2022-05-04T18:01:11.000+0300",
+    "resolution_date": "2024-03-21T18:21:49.000+0200",
+    "updated_date": "2024-03-21T18:21:49.000+0200",
+    "watches": 2,
+    "votes": 6
+  },
+  {
     "id": "MC-200987",
     "summary": "Title in bossbar breaks HUD opacity",
     "labels": [
