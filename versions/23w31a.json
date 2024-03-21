@@ -2402,6 +2402,29 @@
     "votes": 115
   },
   {
+    "id": "MC-103831",
+    "summary": "Creepers only deal half a heart of damage to nearby entities when exploding inside of boats",
+    "labels": [
+      "boat",
+      "creeper"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2016-06-19T03:45:41.000+0300",
+    "resolution_date": "2024-03-21T15:38:34.000+0200",
+    "updated_date": "2024-03-21T15:38:34.000+0200",
+    "watches": 12,
+    "votes": 16
+  },
+  {
     "id": "MC-93820",
     "summary": "Rain filling cauldrons is not affected by randomTickSpeed",
     "labels": [

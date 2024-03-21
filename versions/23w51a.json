@@ -883,6 +883,27 @@
     "votes": 10
   },
   {
+    "id": "MC-218811",
+    "summary": "Big dripleaves tilt when touched from the side",
+    "labels": [
+      "big_dripleaf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2021-03-10T22:34:28.000+0200",
+    "resolution_date": "2024-03-21T15:24:55.000+0200",
+    "updated_date": "2024-03-21T15:24:56.000+0200",
+    "watches": 5,
+    "votes": 4
+  },
+  {
     "id": "MC-216071",
     "summary": "Splash text resets if you hit escape on the Multiplayer menu, but not the Singleplayer menu",
     "labels": [
@@ -948,6 +969,26 @@
     "updated_date": "2023-12-15T10:04:23.000+0200",
     "watches": 3,
     "votes": 7
+  },
+  {
+    "id": "MC-198492",
+    "summary": "Players can be pushed into danger in situations where they wouldn't normally be damaged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2020-08-20T18:30:03.000+0300",
+    "resolution_date": "2024-03-21T15:27:56.000+0200",
+    "updated_date": "2024-03-21T15:27:57.000+0200",
+    "watches": 4,
+    "votes": 6
   },
   {
     "id": "MC-194948",
@@ -1243,6 +1284,28 @@
     "updated_date": "2023-12-05T19:00:17.000+0200",
     "watches": 10,
     "votes": 8
+  },
+  {
+    "id": "MC-171177",
+    "summary": "You can enter nether portals in creative mode by running against the frame of the portal",
+    "labels": [
+      "nether_portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2020-02-06T20:00:45.000+0200",
+    "resolution_date": "2024-03-21T15:25:24.000+0200",
+    "updated_date": "2024-03-21T15:25:25.000+0200",
+    "watches": 1,
+    "votes": 6
   },
   {
     "id": "MC-169389",
