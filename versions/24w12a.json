@@ -370,6 +370,28 @@
     "votes": 1
   },
   {
+    "id": "MC-268562",
+    "summary": "Wind charges deal no knockback within non-solid blocks",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-02-14T18:45:52.000+0200",
+    "resolution_date": "2024-03-21T02:40:31.000+0200",
+    "updated_date": "2024-03-21T02:40:31.000+0200",
+    "watches": 8,
+    "votes": 18
+  },
+  {
     "id": "MC-268556",
     "summary": "Wind charges go through non-full blocks instead of colliding",
     "labels": [
@@ -588,7 +610,7 @@
     "creation_date": "2020-09-25T07:26:07.000+0300",
     "resolution_date": "2024-03-20T20:40:06.000+0200",
     "updated_date": "2024-03-20T22:03:59.000+0200",
-    "watches": 5,
+    "watches": 4,
     "votes": 7
   },
   {
