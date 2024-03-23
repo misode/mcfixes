@@ -38,6 +38,25 @@
     "votes": 4
   },
   {
+    "id": "MC-269134",
+    "summary": "Baby wolves can no longer be fed to make them grow up faster",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2024-03-06T19:02:18.000+0200",
+    "resolution_date": "2024-03-23T16:42:46.000+0200",
+    "updated_date": "2024-03-23T16:42:47.000+0200",
+    "watches": 1,
+    "votes": 4
+  },
+  {
     "id": "MC-269122",
     "summary": "Editing signs causes background blur",
     "labels": [],
