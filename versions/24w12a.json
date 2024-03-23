@@ -121,6 +121,27 @@
     "votes": 7
   },
   {
+    "id": "MC-269403",
+    "summary": "Mace can mine any block at a higher speed than hand",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w12a"
+    ],
+    "creation_date": "2024-03-15T00:25:20.000+0200",
+    "resolution_date": "2024-03-23T12:25:47.000+0200",
+    "updated_date": "2024-03-23T12:25:47.000+0200",
+    "watches": 3,
+    "votes": 7
+  },
+  {
     "id": "MC-269401",
     "summary": "The minecraft:set_written_book_pages item modifier is inconsistent with minecraft:set_name and minecraft:set_lore",
     "labels": [],
@@ -216,7 +237,7 @@
     ],
     "creation_date": "2024-03-14T18:31:58.000+0200",
     "resolution_date": "2024-03-18T10:35:46.000+0200",
-    "updated_date": "2024-03-18T12:15:22.000+0200",
+    "updated_date": "2024-03-23T12:26:48.000+0200",
     "watches": 1,
     "votes": 3
   },
