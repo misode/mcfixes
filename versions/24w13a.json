@@ -1,0 +1,479 @@
+[
+  {
+    "id": "MC-269670",
+    "summary": "Game crash when giving bundle with hide tooltip",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-20T21:43:37.000+0200",
+    "resolution_date": "2024-03-27T11:27:13.000+0200",
+    "updated_date": "2024-03-27T11:27:13.000+0200",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-269659",
+    "summary": "Parrots can now be fed carrots to kill them instead of cookies",
+    "labels": [
+      "mob-behavior",
+      "parrot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-20T19:35:10.000+0200",
+    "resolution_date": "2024-03-26T10:01:58.000+0200",
+    "updated_date": "2024-03-26T10:01:58.000+0200",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-269656",
+    "summary": "Feeding parrots poison while holding mace grants Over-Overkill challenge",
+    "labels": [
+      "advancement",
+      "damage",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-20T19:28:35.000+0200",
+    "resolution_date": "2024-03-22T11:47:52.000+0200",
+    "updated_date": "2024-03-22T11:47:52.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-269649",
+    "summary": "Who Needs Rockets advancement is granted after launching yourself up 8 blocks instead of 7 blocks",
+    "labels": [
+      "advancement"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-20T18:58:38.000+0200",
+    "resolution_date": "2024-03-22T11:47:51.000+0200",
+    "updated_date": "2024-03-22T11:47:51.000+0200",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-269643",
+    "summary": "Waterlogged heavy core does not update water flow correctly",
+    "labels": [
+      "water-source"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-20T18:33:13.000+0200",
+    "resolution_date": "2024-03-21T11:02:27.000+0200",
+    "updated_date": "2024-03-27T11:53:30.000+0200",
+    "watches": 4,
+    "votes": 0
+  },
+  {
+    "id": "MC-269635",
+    "summary": "The game crashes when attempting to eat lily pads or frogspawn",
+    "labels": [
+      "food_component",
+      "frogspawn",
+      "lily_pad"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-20T18:19:01.000+0200",
+    "resolution_date": "2024-03-27T11:43:22.000+0200",
+    "updated_date": "2024-03-27T11:43:22.000+0200",
+    "watches": 7,
+    "votes": 7
+  },
+  {
+    "id": "MC-269628",
+    "summary": "Heavy cores delete water when placed into it",
+    "labels": [
+      "heavy_core"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-20T18:10:06.000+0200",
+    "resolution_date": "2024-03-22T12:52:55.000+0200",
+    "updated_date": "2024-03-22T12:52:55.000+0200",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-269427",
+    "summary": "Lingering potion particles are tinted black instead of the potion's color",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-15T06:17:29.000+0200",
+    "resolution_date": "2024-03-27T12:21:19.000+0200",
+    "updated_date": "2024-03-27T12:21:19.000+0200",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-269388",
+    "summary": "Mace falling damage increase is applied while using an elytra",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-14T22:11:13.000+0200",
+    "resolution_date": "2024-03-21T11:19:21.000+0200",
+    "updated_date": "2024-03-21T11:19:21.000+0200",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-269387",
+    "summary": "Mace sounds use the neutral sound category",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-14T21:59:42.000+0200",
+    "resolution_date": "2024-03-22T11:19:12.000+0200",
+    "updated_date": "2024-03-22T11:19:12.000+0200",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-269371",
+    "summary": "If the 'GUI Scale' option is on 'Auto', and if you try to scale it down using CTRL + mouse wheel, it shows as '-1'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-14T19:33:40.000+0200",
+    "resolution_date": "2024-03-27T10:05:46.000+0200",
+    "updated_date": "2024-03-27T10:05:46.000+0200",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-269342",
+    "summary": "The experimental features details menu is rendered incorrectly after resizing the game window",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-14T13:50:59.000+0200",
+    "resolution_date": "2024-03-27T10:05:45.000+0200",
+    "updated_date": "2024-03-27T10:05:45.000+0200",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-269143",
+    "summary": "Attribute modifiers cannot exclusively target the \"body\" slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-06T23:15:39.000+0200",
+    "resolution_date": "2024-03-26T12:22:31.000+0200",
+    "updated_date": "2024-03-26T12:22:31.000+0200",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-269015",
+    "summary": "Wind charges can destroy end crystals",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-03-02T13:27:18.000+0200",
+    "resolution_date": "2024-03-22T11:42:47.000+0200",
+    "updated_date": "2024-03-22T11:53:44.000+0200",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-268893",
+    "summary": "Comparators require a block update to function properly, and droppers/observers receive false state changes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-02-29T06:45:18.000+0200",
+    "resolution_date": "2024-03-25T18:26:58.000+0200",
+    "updated_date": "2024-03-27T11:52:27.000+0200",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-268882",
+    "summary": "Same Enchantments in an item components crashes the game",
+    "labels": [
+      "crash",
+      "enchantments",
+      "item",
+      "item-component"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-02-29T02:21:42.000+0200",
+    "resolution_date": "2024-03-27T15:05:45.000+0200",
+    "updated_date": "2024-03-27T15:05:45.000+0200",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-268716",
+    "summary": "Magma Cubes spawn even if there's only 2 blocks in height",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-02-22T14:30:14.000+0200",
+    "resolution_date": "2024-03-27T11:43:24.000+0200",
+    "updated_date": "2024-03-27T12:05:31.000+0200",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-268627",
+    "summary": "Slime spawns are incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-02-17T01:01:28.000+0200",
+    "resolution_date": "2024-03-27T11:43:23.000+0200",
+    "updated_date": "2024-03-27T11:43:23.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268578",
+    "summary": "Bogged mob sits wrong in boats",
+    "labels": [
+      "bogged"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2024-02-14T23:26:52.000+0200",
+    "resolution_date": "2024-03-21T12:06:15.000+0200",
+    "updated_date": "2024-03-21T12:06:15.000+0200",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-178410",
+    "summary": "Banners don't support the HideFlags tag when placed down as blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2020-04-12T23:14:46.000+0300",
+    "resolution_date": "2024-03-27T10:50:13.000+0200",
+    "updated_date": "2024-03-27T10:50:13.000+0200",
+    "watches": 7,
+    "votes": 15
+  },
+  {
+    "id": "MC-166361",
+    "summary": "GUI scale does not visually update when the option is changed using the keyboard and without the mouse",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2019-11-25T17:18:08.000+0200",
+    "resolution_date": "2024-03-27T10:05:46.000+0200",
+    "updated_date": "2024-03-27T10:05:46.000+0200",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-148057",
+    "summary": "Ominous banners generated in outposts show the pattern list",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2019-04-13T10:36:05.000+0300",
+    "resolution_date": "2024-03-27T10:50:12.000+0200",
+    "updated_date": "2024-03-27T10:50:12.000+0200",
+    "watches": 6,
+    "votes": 18
+  },
+  {
+    "id": "MC-123804",
+    "summary": "Explorer map and Ominous banner names appear in item frames, draw in italics, and can be removed with an anvil",
+    "labels": [
+      "explorer-map",
+      "item_frame",
+      "map"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2018-01-03T21:06:11.000+0200",
+    "resolution_date": "2024-03-27T10:50:12.000+0200",
+    "updated_date": "2024-03-27T10:50:12.000+0200",
+    "watches": 18,
+    "votes": 25
+  }
+]
