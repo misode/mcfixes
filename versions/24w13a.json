@@ -475,5 +475,34 @@
     "updated_date": "2024-03-27T10:50:12.000+0200",
     "watches": 18,
     "votes": 25
+  },
+  {
+    "id": "MC-94413",
+    "summary": "Breaking, placing and walking in tripwire (string) or cobweb play stone sounds",
+    "labels": [
+      "cobweb",
+      "destruction",
+      "incorrect-block-sound",
+      "placed",
+      "sound",
+      "stone",
+      "string",
+      "tripwire",
+      "walking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2015-12-17T16:35:25.000+0200",
+    "resolution_date": "2024-03-27T22:31:59.000+0200",
+    "updated_date": "2024-03-27T22:31:59.000+0200",
+    "watches": 10,
+    "votes": 22
   }
 ]
