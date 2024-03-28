@@ -612,6 +612,28 @@
     "votes": 3
   },
   {
+    "id": "MC-266467",
+    "summary": "Wind charges stutter when flying through the air",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a",
+      "Future Update"
+    ],
+    "creation_date": "2023-11-08T19:35:38.000+0200",
+    "resolution_date": "2024-03-28T13:34:24.000+0200",
+    "updated_date": "2024-03-28T13:34:24.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
     "id": "MC-251303",
     "summary": "Transparent boss bars break when more than one is on screen",
     "labels": [],
