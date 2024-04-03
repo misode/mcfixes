@@ -1,0 +1,504 @@
+[
+  {
+    "id": "MC-270187",
+    "summary": "Command block's nbt cannot copy before second save",
+    "labels": [
+      "command_block",
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-31T15:31:32.000+0300",
+    "resolution_date": "2024-04-03T10:36:21.000+0300",
+    "updated_date": "2024-04-03T14:00:27.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-270162",
+    "summary": "The game crashes when attempting to upgrade a world from version 1.12.2 and below ",
+    "labels": [
+      "crash",
+      "data-fixer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-30T19:50:30.000+0200",
+    "resolution_date": "2024-04-02T16:43:03.000+0300",
+    "updated_date": "2024-04-02T16:43:03.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270061",
+    "summary": "Ctrl + Pick Block does not copy Trial Spawner data correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-28T18:20:23.000+0200",
+    "resolution_date": "2024-04-03T10:36:22.000+0300",
+    "updated_date": "2024-04-03T10:36:22.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270003",
+    "summary": "Ominous banners are not \"pick block\"-ed properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-28T02:40:17.000+0200",
+    "resolution_date": "2024-04-03T10:36:21.000+0300",
+    "updated_date": "2024-04-03T10:36:21.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-269991",
+    "summary": "Dragon breath particles look wrong",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-27T23:48:48.000+0200",
+    "resolution_date": "2024-04-03T12:38:48.000+0300",
+    "updated_date": "2024-04-03T12:38:48.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-269983",
+    "summary": "Player Head Data is not evaluated when id is present",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-27T22:36:49.000+0200",
+    "resolution_date": "2024-04-03T13:05:22.000+0300",
+    "updated_date": "2024-04-03T13:05:22.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-269960",
+    "summary": "Ctrl + Pick block is not copying container data correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-27T20:27:43.000+0200",
+    "resolution_date": "2024-04-03T10:36:21.000+0300",
+    "updated_date": "2024-04-03T10:36:21.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-269716",
+    "summary": "Unable to craft the maximum possible allowed items using shift-click in the recipe book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-21T17:07:37.000+0200",
+    "resolution_date": "2024-04-02T15:50:40.000+0300",
+    "updated_date": "2024-04-02T15:50:40.000+0300",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-269700",
+    "summary": "Item count in \"/item replace\" is restricted to the default stack size",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-21T05:56:38.000+0200",
+    "resolution_date": "2024-04-03T13:05:20.000+0300",
+    "updated_date": "2024-04-03T13:05:20.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-269684",
+    "summary": "Commands accepting stack sizes are restricted to a maximum of 64",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-21T01:37:46.000+0200",
+    "resolution_date": "2024-04-03T13:05:19.000+0300",
+    "updated_date": "2024-04-03T13:05:19.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-269677",
+    "summary": "Filterable \"text\" field conflicts with text components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-21T00:12:18.000+0200",
+    "resolution_date": "2024-04-03T13:05:21.000+0300",
+    "updated_date": "2024-04-03T13:05:21.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-269596",
+    "summary": "EntityTag of existing items is not upgraded to entity_data component",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-20T02:57:13.000+0200",
+    "resolution_date": "2024-04-03T13:05:21.000+0300",
+    "updated_date": "2024-04-03T13:05:21.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-269553",
+    "summary": "Items with empty enchantments NBT tag do not upgrade as expected",
+    "labels": [
+      "data-fixer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-18T09:16:50.000+0200",
+    "resolution_date": "2024-04-03T13:05:19.000+0300",
+    "updated_date": "2024-04-03T13:05:19.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-269503",
+    "summary": "Goat horn default instrument is missing when using /give",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-16T18:08:14.000+0200",
+    "resolution_date": "2024-04-03T13:05:22.000+0300",
+    "updated_date": "2024-04-03T13:05:22.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-269482",
+    "summary": "The set_attributes function in loot tables no longer replaces default attribute modifiers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-16T02:07:34.000+0200",
+    "resolution_date": "2024-04-03T13:05:20.000+0300",
+    "updated_date": "2024-04-03T13:05:20.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-269446",
+    "summary": "\"Are you sure you want to quit?\" screen uses background blur",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-15T10:16:58.000+0200",
+    "resolution_date": "2024-04-02T10:45:52.000+0300",
+    "updated_date": "2024-04-02T10:45:52.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-269355",
+    "summary": "Heavy Core has no required tool",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Parity"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w12a",
+      "24w14a"
+    ],
+    "creation_date": "2024-03-14T18:31:10.000+0200",
+    "resolution_date": "2024-04-02T11:20:38.000+0300",
+    "updated_date": "2024-04-02T11:20:38.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-268945",
+    "summary": "Some interfaces instantly close when opened from long distances when players have their \"minecraft:player.block_interaction_range\" attribute set to high values",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-02-29T22:34:52.000+0200",
+    "resolution_date": "2024-04-03T13:05:23.000+0300",
+    "updated_date": "2024-04-03T13:05:23.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-268877",
+    "summary": "Beehives/bee nests in inventory lose honey level after converting to newer world version",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w10a",
+      "24w14a"
+    ],
+    "creation_date": "2024-02-29T01:24:02.000+0200",
+    "resolution_date": "2024-04-03T13:05:18.000+0300",
+    "updated_date": "2024-04-03T13:12:17.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-268727",
+    "summary": "Server disconnects the client when sending a keepalive packet while transitioning out of configuration phase",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-02-23T12:58:04.000+0200",
+    "resolution_date": "2024-03-28T11:55:24.000+0200",
+    "updated_date": "2024-03-28T11:55:24.000+0200",
+    "watches": 8,
+    "votes": 2
+  },
+  {
+    "id": "MC-268601",
+    "summary": "Breezes can deflect player-thrown wind charges",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-02-15T14:47:03.000+0200",
+    "resolution_date": "2024-04-03T17:30:19.000+0300",
+    "updated_date": "2024-04-03T17:30:52.000+0300",
+    "watches": 8,
+    "votes": 6
+  },
+  {
+    "id": "MC-268597",
+    "summary": "Hitting a breeze with a player reflected/dispensed wind charge causes it to become trapped within the breeze until it moves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-02-15T09:50:22.000+0200",
+    "resolution_date": "2024-03-28T15:17:55.000+0200",
+    "updated_date": "2024-03-28T15:17:55.000+0200",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268563",
+    "summary": "Snowballs, eggs, experience bottles, and ender pearls are destroyed instead of being deflected when hitting breezes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-02-14T18:58:34.000+0200",
+    "resolution_date": "2024-03-28T15:17:54.000+0200",
+    "updated_date": "2024-03-28T15:17:54.000+0200",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-266467",
+    "summary": "Wind charges stutter when flying through the air",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w12a",
+      "24w14a"
+    ],
+    "creation_date": "2023-11-08T19:35:38.000+0200",
+    "resolution_date": "2024-03-28T13:34:24.000+0200",
+    "updated_date": "2024-03-28T13:34:24.000+0200",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-80142",
+    "summary": "Power tag for wither skulls, small/dragon fireballs and wind charges is not synced correctly, leading to stuttering during flight",
+    "labels": [
+      "command",
+      "dragon_fireball",
+      "small_fireball",
+      "wind_charge",
+      "wither_skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2015-05-07T01:32:08.000+0300",
+    "resolution_date": "2024-03-28T13:34:25.000+0200",
+    "updated_date": "2024-03-28T13:34:25.000+0200",
+    "watches": 12,
+    "votes": 17
+  }
+]
