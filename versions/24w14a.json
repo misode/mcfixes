@@ -215,6 +215,25 @@
     "votes": 6
   },
   {
+    "id": "MC-269644",
+    "summary": "The game crashes when putting items with max stack sizes above 64 into bundles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w14a"
+    ],
+    "creation_date": "2024-03-20T18:41:28.000+0200",
+    "resolution_date": "2024-04-04T12:07:54.000+0300",
+    "updated_date": "2024-04-04T12:07:54.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
     "id": "MC-269596",
     "summary": "EntityTag of existing items is not upgraded to entity_data component",
     "labels": [],
