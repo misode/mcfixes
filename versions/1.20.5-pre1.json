@@ -1,0 +1,1116 @@
+[
+  {
+    "id": "MC-270475",
+    "summary": "Container component slot -1 crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-07T08:24:50.000+0300",
+    "resolution_date": "2024-04-10T11:41:53.000+0300",
+    "updated_date": "2024-04-10T11:41:53.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-270412",
+    "summary": "Wind charge item crash on non-experimental worlds.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-05T04:27:15.000+0300",
+    "resolution_date": "2024-04-09T14:07:20.000+0300",
+    "updated_date": "2024-04-09T14:07:20.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-270236",
+    "summary": "area_effect_cloud and lingering potions causing potion_contents.custom_color to be slightly transparent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-01T18:07:31.000+0300",
+    "resolution_date": "2024-04-10T11:04:03.000+0300",
+    "updated_date": "2024-04-10T11:04:03.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-270201",
+    "summary": "Fishing rod line does not account for the scale attribute in third-person",
+    "labels": [
+      "attribute",
+      "fishing-line",
+      "scale"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-31T21:34:02.000+0300",
+    "resolution_date": "2024-04-09T10:58:39.000+0300",
+    "updated_date": "2024-04-09T10:58:39.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-270161",
+    "summary": "Wind burst enchantment is significantly stronger on vehicle entities",
+    "labels": [
+      "boat",
+      "minecart",
+      "wind_burst"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-30T19:24:28.000+0200",
+    "resolution_date": "2024-04-04T16:10:07.000+0300",
+    "updated_date": "2024-04-07T15:03:15.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-270158",
+    "summary": "Wind Burst activates while mace is on cooldown",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-30T18:08:42.000+0200",
+    "resolution_date": "2024-04-08T17:23:41.000+0300",
+    "updated_date": "2024-04-10T17:12:06.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-270125",
+    "summary": "Wind Burst can be obtained from chest and fishing loot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-29T20:28:35.000+0200",
+    "resolution_date": "2024-04-10T10:48:18.000+0300",
+    "updated_date": "2024-04-10T10:48:18.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270119",
+    "summary": "The contents slot for the /item command does not function with shot arrows, tridents, and fireballs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-29T19:24:42.000+0200",
+    "resolution_date": "2024-04-09T10:58:38.000+0300",
+    "updated_date": "2024-04-09T10:58:38.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-270099",
+    "summary": "Killing a mob with Weaving effect places cobwebs even if mobGriefing is disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-29T08:05:23.000+0200",
+    "resolution_date": "2024-04-08T16:55:12.000+0300",
+    "updated_date": "2024-04-08T17:03:03.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-270094",
+    "summary": "Fletcher sells new tipped arrows without experimental features enabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-29T04:22:12.000+0200",
+    "resolution_date": "2024-04-04T15:00:25.000+0300",
+    "updated_date": "2024-04-04T15:00:25.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-270060",
+    "summary": "The glowing parts of trial spawner textures are inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T18:02:38.000+0200",
+    "resolution_date": "2024-04-04T16:02:35.000+0300",
+    "updated_date": "2024-04-04T18:54:18.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-270048",
+    "summary": "Vault textures are inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T14:36:17.000+0200",
+    "resolution_date": "2024-04-04T16:02:35.000+0300",
+    "updated_date": "2024-04-04T16:02:35.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-270009",
+    "summary": "Entities with the infested effect can spawn silverfish without actually being hurt",
+    "labels": [
+      "infestation_effect",
+      "silverfish"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T06:52:32.000+0200",
+    "resolution_date": "2024-04-08T16:55:12.000+0300",
+    "updated_date": "2024-04-08T17:03:03.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-270005",
+    "summary": "Mace smash attack can be done multiple times from a single fall",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T03:24:19.000+0200",
+    "resolution_date": "2024-04-04T16:40:40.000+0300",
+    "updated_date": "2024-04-04T16:40:40.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270004",
+    "summary": "Giving yourself an item with a Wind Burst enchantment level higher than 3, then hitting certain entities crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T03:14:56.000+0200",
+    "resolution_date": "2024-04-04T11:11:13.000+0300",
+    "updated_date": "2024-04-04T11:11:13.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-270001",
+    "summary": "The particle 'minecraft:item minecraft:air' crashes the client",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T02:31:35.000+0200",
+    "resolution_date": "2024-04-10T13:56:43.000+0300",
+    "updated_date": "2024-04-10T13:56:43.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-269999",
+    "summary": "Potions of Infestation, Oozing and Weaving can be obtained without experimental features enabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Data Packs",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T02:19:02.000+0200",
+    "resolution_date": "2024-04-08T14:43:22.000+0300",
+    "updated_date": "2024-04-08T14:43:22.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-269993",
+    "summary": "Hitting wind charges using mace with Wind Burst creates very high upwards momentum",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T00:03:33.000+0200",
+    "resolution_date": "2024-04-04T16:10:07.000+0300",
+    "updated_date": "2024-04-10T14:08:03.000+0300",
+    "watches": 10,
+    "votes": 4
+  },
+  {
+    "id": "MC-269980",
+    "summary": "Wind Burst enchantment triggers from normal attacks rather than smash attacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T22:17:17.000+0200",
+    "resolution_date": "2024-04-08T17:23:41.000+0300",
+    "updated_date": "2024-04-08T17:23:41.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-269977",
+    "summary": "Wind Burst enchantment is obtainable in Enchanting Table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T22:05:02.000+0200",
+    "resolution_date": "2024-04-10T10:48:18.000+0300",
+    "updated_date": "2024-04-10T10:48:18.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-269976",
+    "summary": "Wind Burst book available from villager trading",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T21:59:21.000+0200",
+    "resolution_date": "2024-04-10T10:48:19.000+0300",
+    "updated_date": "2024-04-10T10:48:19.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-269974",
+    "summary": "Mobs with the weaving effect, when dying, are unable to replace replaceable blocks with cobwebs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T21:52:38.000+0200",
+    "resolution_date": "2024-04-08T16:55:11.000+0300",
+    "updated_date": "2024-04-08T16:55:11.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-269963",
+    "summary": "Bad Omen is not removed when experimental features are disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T20:58:58.000+0200",
+    "resolution_date": "2024-04-08T12:23:22.000+0300",
+    "updated_date": "2024-04-08T12:23:22.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-269961",
+    "summary": "Non-player entities with the Weaving effect can't walk through Cobweb at normal speeds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T20:34:33.000+0200",
+    "resolution_date": "2024-04-08T16:55:12.000+0300",
+    "updated_date": "2024-04-08T17:03:03.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-269959",
+    "summary": "\"Not a list\" printed to console when loading into a world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T20:25:35.000+0200",
+    "resolution_date": "2024-04-05T12:56:22.000+0300",
+    "updated_date": "2024-04-05T12:56:22.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-269955",
+    "summary": "When flying in creative mode, hitting ender dragons with a mace enchanted with Wind Burst pushes the player upward, unlike when attacking other mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments",
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T20:02:20.000+0200",
+    "resolution_date": "2024-04-04T13:43:45.000+0300",
+    "updated_date": "2024-04-09T16:05:33.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-269954",
+    "summary": "Striking non-living entities with a mace enchanted with Wind Burst propels the player upward, even when they are flying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments",
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T19:57:23.000+0200",
+    "resolution_date": "2024-04-04T11:11:13.000+0300",
+    "updated_date": "2024-04-09T16:05:34.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-269949",
+    "summary": "New \"Raid Omen\" effect texture is using Programmer Art Evoker as base",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T19:32:30.000+0200",
+    "resolution_date": "2024-04-04T13:48:09.000+0300",
+    "updated_date": "2024-04-04T13:48:09.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-269948",
+    "summary": "The subtitle for the \"minecraft:event.mob_effect.raid_omen\" sound event displays as a raw translation string",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T19:21:52.000+0200",
+    "resolution_date": "2024-04-08T17:40:09.000+0300",
+    "updated_date": "2024-04-08T17:40:09.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-269947",
+    "summary": "Clicking spam with Mace causes very high damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T19:15:53.000+0200",
+    "resolution_date": "2024-04-04T16:40:41.000+0300",
+    "updated_date": "2024-04-04T16:40:41.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-269933",
+    "summary": "limit_count item modifier can create overstacked items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T16:46:47.000+0200",
+    "resolution_date": "2024-04-08T10:59:22.000+0300",
+    "updated_date": "2024-04-08T10:59:22.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-269765",
+    "summary": "Mace damage does not reset after a hit while still falling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-22T19:26:20.000+0200",
+    "resolution_date": "2024-04-04T16:40:40.000+0300",
+    "updated_date": "2024-04-04T16:40:40.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-269707",
+    "summary": "Brewing stand slots have artificial maximum stack size of 64",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-21T07:51:55.000+0200",
+    "resolution_date": "2024-04-09T10:58:38.000+0300",
+    "updated_date": "2024-04-09T10:58:38.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-269680",
+    "summary": "Game crashes when trying to save after modifying item stack to have a max_stack_size below its current stack size",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-21T01:17:01.000+0200",
+    "resolution_date": "2024-04-08T10:59:23.000+0300",
+    "updated_date": "2024-04-08T10:59:23.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-269610",
+    "summary": "Wind charges have the capability to harm the wither when it has reached half health or less",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-20T16:56:12.000+0200",
+    "resolution_date": "2024-04-10T10:32:37.000+0300",
+    "updated_date": "2024-04-10T10:32:37.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-269609",
+    "summary": "Wind charges can harm the ender dragon while it perches atop the end portal, unlike arrows and tridents.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-20T16:49:14.000+0200",
+    "resolution_date": "2024-04-10T10:25:00.000+0300",
+    "updated_date": "2024-04-10T10:25:00.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-269508",
+    "summary": "Player keeps vertical momentum when jumping when landing on the ground from sonic boom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-16T21:34:22.000+0200",
+    "resolution_date": "2024-04-08T18:01:49.000+0300",
+    "updated_date": "2024-04-08T18:01:49.000+0300",
+    "watches": 5,
+    "votes": 1
+  },
+  {
+    "id": "MC-269501",
+    "summary": "The text above the hotbar has no background, even when the \"Text Background\" setting is \"Everywhere\" in spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-16T16:27:40.000+0200",
+    "resolution_date": "2024-04-10T11:19:04.000+0300",
+    "updated_date": "2024-04-10T11:19:04.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-269496",
+    "summary": "You don't get any damage if you fight against the breeze in a minecart or in a boat",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-16T10:05:30.000+0200",
+    "resolution_date": "2024-04-10T10:40:29.000+0300",
+    "updated_date": "2024-04-10T10:40:29.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-269366",
+    "summary": "Mace doesn't break Decorated Pots unlike other tools",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-14T19:11:58.000+0200",
+    "resolution_date": "2024-04-04T10:43:32.000+0300",
+    "updated_date": "2024-04-04T10:43:32.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-269357",
+    "summary": "Flow and guster banner pattern descriptions display as raw translation strings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-14T18:34:51.000+0200",
+    "resolution_date": "2024-04-10T10:56:20.000+0300",
+    "updated_date": "2024-04-10T10:56:20.000+0300",
+    "watches": 1,
+    "votes": 8
+  },
+  {
+    "id": "MC-269320",
+    "summary": "Books with more than 100 pages get cut off when upgraded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-13T19:05:33.000+0200",
+    "resolution_date": "2024-04-08T11:00:12.000+0300",
+    "updated_date": "2024-04-08T11:00:12.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-269266",
+    "summary": "Area effect cloud particles from creeper explosions are incorrectly tinted",
+    "labels": [
+      "creeper"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-10T23:38:33.000+0200",
+    "resolution_date": "2024-04-08T12:12:22.000+0300",
+    "updated_date": "2024-04-08T12:12:22.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-269192",
+    "summary": "Breeze is not affected by the 'execute on target' command",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-08T08:36:49.000+0200",
+    "resolution_date": "2024-04-09T10:58:37.000+0300",
+    "updated_date": "2024-04-09T10:58:37.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-269191",
+    "summary": "Old villagers can't trade",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "Trading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-08T05:30:13.000+0200",
+    "resolution_date": "2024-04-05T20:23:50.000+0300",
+    "updated_date": "2024-04-05T20:23:50.000+0300",
+    "watches": 14,
+    "votes": 26
+  },
+  {
+    "id": "MC-268947",
+    "summary": "Flying cannot be initiated reliably when the minecraft:generic.gravity attribute is increased",
+    "labels": [
+      "attribute",
+      "fly",
+      "gravity",
+      "spacebar"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Input"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-02-29T22:45:24.000+0200",
+    "resolution_date": "2024-04-09T10:58:40.000+0300",
+    "updated_date": "2024-04-09T10:58:40.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-268346",
+    "summary": "Jump can be used with generic.jump_strength set to 0 resulting in a speed boost",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-02-07T18:40:11.000+0200",
+    "resolution_date": "2024-04-09T10:58:39.000+0300",
+    "updated_date": "2024-04-09T10:58:39.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-268000",
+    "summary": "The client crashes when using /give to give players a skull",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-01-20T13:58:41.000+0200",
+    "resolution_date": "2024-04-10T15:28:53.000+0300",
+    "updated_date": "2024-04-10T15:34:55.000+0300",
+    "watches": 9,
+    "votes": 7
+  },
+  {
+    "id": "MC-267934",
+    "summary": "Sending ClientboundTransferPacket followed by disconnect just kicks the player",
+    "labels": [
+      "packet",
+      "thread",
+      "transfer"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-01-18T08:26:27.000+0200",
+    "resolution_date": "2024-04-10T12:51:17.000+0300",
+    "updated_date": "2024-04-10T12:51:17.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-265390",
+    "summary": "Forceload Command provides wrong output",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2023-09-14T02:01:50.000+0300",
+    "resolution_date": "2024-04-10T11:33:15.000+0300",
+    "updated_date": "2024-04-10T11:33:15.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-264456",
+    "summary": "Entity targeted by frogs and axolotls can't be detected by /execute on target",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2023-07-28T17:16:35.000+0300",
+    "resolution_date": "2024-04-09T10:58:37.000+0300",
+    "updated_date": "2024-04-09T10:58:37.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-263315",
+    "summary": "Attack Target of hoglins/zoglins can't be detected by /execute on target",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2023-06-08T19:46:01.000+0300",
+    "resolution_date": "2024-04-09T10:58:37.000+0300",
+    "updated_date": "2024-04-09T10:58:37.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-207353",
+    "summary": "Ghast fireballs and wind charges can't be redirected in melee if the attack does 0 damage",
+    "labels": [
+      "effects",
+      "fireball",
+      "ghast",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2020-12-03T00:41:08.000+0200",
+    "resolution_date": "2024-04-04T12:46:06.000+0300",
+    "updated_date": "2024-04-04T12:46:06.000+0300",
+    "watches": 10,
+    "votes": 19
+  },
+  {
+    "id": "MC-188497",
+    "summary": "AngerTime and AngryAt cannot be set on summon",
+    "labels": [
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2020-06-10T21:54:39.000+0300",
+    "resolution_date": "2024-04-10T13:02:18.000+0300",
+    "updated_date": "2024-04-10T13:02:18.000+0300",
+    "watches": 12,
+    "votes": 22
+  },
+  {
+    "id": "MC-165435",
+    "summary": "Can't trigger flying mode in creative while standing in the middle of 2\u00d72 magma block bubble column",
+    "labels": [
+      "bubble_column",
+      "creative",
+      "fly",
+      "magma_block",
+      "player"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2019-11-11T15:30:21.000+0200",
+    "resolution_date": "2024-04-09T10:58:40.000+0300",
+    "updated_date": "2024-04-09T10:58:40.000+0300",
+    "watches": 2,
+    "votes": 8
+  }
+]
