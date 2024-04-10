@@ -38,6 +38,26 @@
     "votes": 1
   },
   {
+    "id": "MC-270387",
+    "summary": "Wind burst can launch the player when deflecting ghast fireballs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-04T20:06:20.000+0300",
+    "resolution_date": "2024-04-11T01:20:28.000+0300",
+    "updated_date": "2024-04-11T01:21:22.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
     "id": "MC-270236",
     "summary": "area_effect_cloud and lingering potions causing potion_contents.custom_color to be slightly transparent",
     "labels": [],
@@ -52,7 +72,7 @@
     ],
     "creation_date": "2024-04-01T18:07:31.000+0300",
     "resolution_date": "2024-04-10T11:04:03.000+0300",
-    "updated_date": "2024-04-10T11:04:03.000+0300",
+    "updated_date": "2024-04-11T01:22:02.000+0300",
     "watches": 2,
     "votes": 2
   },
@@ -101,27 +121,6 @@
     "resolution_date": "2024-04-04T16:10:07.000+0300",
     "updated_date": "2024-04-07T15:03:15.000+0300",
     "watches": 2,
-    "votes": 2
-  },
-  {
-    "id": "MC-270158",
-    "summary": "Wind Burst activates while mace is on cooldown",
-    "labels": [
-      "mace"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Community Consensus",
-    "categories": [
-      "Enchantments"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "1.20.5 Pre-Release 1"
-    ],
-    "creation_date": "2024-03-30T18:08:42.000+0200",
-    "resolution_date": "2024-04-08T17:23:41.000+0300",
-    "updated_date": "2024-04-11T00:20:08.000+0300",
-    "watches": 3,
     "votes": 2
   },
   {
@@ -456,25 +455,6 @@
     "updated_date": "2024-04-08T12:23:22.000+0300",
     "watches": 3,
     "votes": 5
-  },
-  {
-    "id": "MC-269961",
-    "summary": "Non-player entities with the Weaving effect can't walk through Cobweb at normal speeds",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Mob behaviour"
-    ],
-    "priority": "Important",
-    "fix_versions": [
-      "1.20.5 Pre-Release 1"
-    ],
-    "creation_date": "2024-03-27T20:34:33.000+0200",
-    "resolution_date": "2024-04-08T16:55:12.000+0300",
-    "updated_date": "2024-04-10T22:38:58.000+0300",
-    "watches": 6,
-    "votes": 6
   },
   {
     "id": "MC-269959",
