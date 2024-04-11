@@ -63,6 +63,26 @@
     "votes": 1
   },
   {
+    "id": "MC-270003",
+    "summary": "Ominous banners are not \"pick block\"-ed properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a",
+      "Future Update"
+    ],
+    "creation_date": "2024-03-28T02:40:17.000+0200",
+    "resolution_date": "2024-04-11T16:23:45.000+0300",
+    "updated_date": "2024-04-11T16:23:45.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
     "id": "MC-270002",
     "summary": "Area Effect Clouds produce white swirl particles as well as their expected particle type",
     "labels": [],
