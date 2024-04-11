@@ -1020,6 +1020,25 @@
     "votes": 6
   },
   {
+    "id": "MC-259574",
+    "summary": "Crash trading with a custom villager: java.lang.NullPointerException: Cannot invoke \"cdp.S_()\" because the return value of \"cdt.c()\" is null",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2023-01-30T21:37:04.000+0200",
+    "resolution_date": "2024-04-11T15:53:51.000+0300",
+    "updated_date": "2024-04-11T15:53:51.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-258939",
     "summary": "Non-atomic cached state can cause multithreaded crashes",
     "labels": [],
