@@ -397,7 +397,9 @@
   {
     "id": "MC-269085",
     "summary": "Experience bar and jump bar render translucent pixels as opaque",
-    "labels": [],
+    "labels": [
+      "translucency-nonfunctional"
+    ],
     "status": "Resolved",
     "confirmation_status": "Community Consensus",
     "categories": [
@@ -409,7 +411,7 @@
     ],
     "creation_date": "2024-03-04T05:24:25.000+0200",
     "resolution_date": "2024-03-20T10:44:27.000+0200",
-    "updated_date": "2024-04-12T18:05:20.000+0300",
+    "updated_date": "2024-04-12T22:38:56.000+0300",
     "watches": 2,
     "votes": 1
   },
