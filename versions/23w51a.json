@@ -1286,6 +1286,28 @@
     "votes": 8
   },
   {
+    "id": "MC-172898",
+    "summary": "Equiping armor in creative via right click causes it to disappear from the hotbar for a frame",
+    "labels": [
+      "animation-testing-corner"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2020-02-22T17:21:37.000+0200",
+    "resolution_date": "2024-04-15T16:25:43.000+0300",
+    "updated_date": "2024-04-15T16:25:43.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
     "id": "MC-171177",
     "summary": "You can enter nether portals in creative mode by running against the frame of the portal",
     "labels": [

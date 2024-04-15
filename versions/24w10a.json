@@ -609,5 +609,24 @@
     "updated_date": "2024-03-05T14:19:31.000+0200",
     "watches": 13,
     "votes": 16
+  },
+  {
+    "id": "MC-131636",
+    "summary": "One additional character at the end is allowed in JSON text components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w10a"
+    ],
+    "creation_date": "2018-06-18T21:39:35.000+0300",
+    "resolution_date": "2024-04-15T16:53:44.000+0300",
+    "updated_date": "2024-04-15T16:53:44.000+0300",
+    "watches": 4,
+    "votes": 14
   }
 ]
