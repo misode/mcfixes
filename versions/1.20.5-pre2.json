@@ -1,0 +1,953 @@
+[
+  {
+    "id": "MC-270767",
+    "summary": "Leather horse armor no longer prevents horses from freezing in powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-15T01:29:45.000+0300",
+    "resolution_date": "2024-04-15T12:15:47.000+0300",
+    "updated_date": "2024-04-15T12:15:47.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-270712",
+    "summary": "Cannot move while sneaking if attribute generic.step_height is set to 0",
+    "labels": [
+      "attribute",
+      "sneak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-13T05:59:36.000+0300",
+    "resolution_date": "2024-04-15T12:45:10.000+0300",
+    "updated_date": "2024-04-15T14:38:59.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-270679",
+    "summary": "Clicking on text with run_command can cause EncoderException and will exit to multiplayer menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-12T16:04:05.000+0300",
+    "resolution_date": "2024-04-15T11:40:16.000+0300",
+    "updated_date": "2024-04-15T11:40:16.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-270648",
+    "summary": "Wolf armor with the curse of binding enchantment cannot be removed from wolves using shears in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-11T21:48:46.000+0300",
+    "resolution_date": "2024-04-15T12:08:17.000+0300",
+    "updated_date": "2024-04-15T12:08:17.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-270610",
+    "summary": "Some new advancement titles are incorrectly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-11T04:27:50.000+0300",
+    "resolution_date": "2024-04-15T12:08:17.000+0300",
+    "updated_date": "2024-04-15T12:08:17.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270603",
+    "summary": "Crash updating world: ClassCastException: RegularImmutableList cannot be cast to class com.mojang.datafixers.util.Pair",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-11T00:23:13.000+0300",
+    "resolution_date": "2024-04-12T16:35:23.000+0300",
+    "updated_date": "2024-04-12T16:35:23.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-270590",
+    "summary": "Dropped items from creative mode get deleted when inventory is open",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-10T20:58:51.000+0300",
+    "resolution_date": "2024-04-12T12:13:20.000+0300",
+    "updated_date": "2024-04-15T01:00:36.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-270559",
+    "summary": "FreeType error: Unrecognized error: 0x62 (Loading glyph)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-10T02:13:33.000+0300",
+    "resolution_date": "2024-04-15T12:42:19.000+0300",
+    "updated_date": "2024-04-15T12:42:19.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-270413",
+    "summary": "A nbt copy of a block is ABSOLUTELY the same as the first nbt copy of the original and n (+nbt) display for tooltip of (a copy of)\u00d7n a block have an \"Items\" block data",
+    "labels": [
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-05T04:39:26.000+0300",
+    "resolution_date": "2024-04-11T15:57:15.000+0300",
+    "updated_date": "2024-04-13T00:32:44.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270265",
+    "summary": "Blur slider does not say \"OFF\" when set to 0%",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-01T22:45:45.000+0300",
+    "resolution_date": "2024-04-12T15:51:13.000+0300",
+    "updated_date": "2024-04-12T15:51:13.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-270262",
+    "summary": "You can see the world loading while in the process of entering it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-01T21:46:01.000+0300",
+    "resolution_date": "2024-04-12T17:29:21.000+0300",
+    "updated_date": "2024-04-12T17:29:21.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-270117",
+    "summary": "The calculation of fall damage for horses, donkeys, mules, zombie horses, skeleton horses, camels, llamas, trader llamas, and foxes disregards the minecraft:generic.safe_fall_distance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-29T19:03:34.000+0200",
+    "resolution_date": "2024-04-12T12:13:21.000+0300",
+    "updated_date": "2024-04-12T12:13:21.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270116",
+    "summary": "The minecraft:generic.fall_damage_multiplier attribute does not function for many mobs with nonstandard fall damage behaviour",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-29T19:03:33.000+0200",
+    "resolution_date": "2024-04-12T12:13:21.000+0300",
+    "updated_date": "2024-04-12T12:13:21.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-270049",
+    "summary": "Enchanting table buttons and level icons render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-28T14:55:56.000+0200",
+    "resolution_date": "2024-04-12T15:51:14.000+0300",
+    "updated_date": "2024-04-15T11:36:39.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-270003",
+    "summary": "Ominous banners are not \"pick block\"-ed properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w14a",
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-28T02:40:17.000+0200",
+    "resolution_date": "2024-04-11T16:23:45.000+0300",
+    "updated_date": "2024-04-11T16:23:45.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-269932",
+    "summary": "Item disappears when trying to trade using items with lower max stack count",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-27T15:31:54.000+0200",
+    "resolution_date": "2024-04-12T12:13:22.000+0300",
+    "updated_date": "2024-04-12T12:13:22.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-269802",
+    "summary": "Selecting a villager trade merges items with different components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-23T11:48:52.000+0200",
+    "resolution_date": "2024-04-11T15:57:16.000+0300",
+    "updated_date": "2024-04-11T15:57:16.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-269660",
+    "summary": "arguments.item.predicate.unknown quotes are different",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-20T19:39:26.000+0200",
+    "resolution_date": "2024-04-12T15:51:13.000+0300",
+    "updated_date": "2024-04-12T15:51:13.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-269619",
+    "summary": "Scroller in Telemetry Data screen renders translucent pixels as opaque, unlike elsewhere",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-20T17:34:35.000+0200",
+    "resolution_date": "2024-04-12T15:51:13.000+0300",
+    "updated_date": "2024-04-15T11:36:39.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-269472",
+    "summary": "Crash when table_bonus loot condition has empty chances list",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-15T19:08:34.000+0200",
+    "resolution_date": "2024-04-11T17:12:35.000+0300",
+    "updated_date": "2024-04-11T17:12:35.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-269415",
+    "summary": "set_fireworks \"mode\" is required even when \"explosions\" is optional",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-15T02:12:01.000+0200",
+    "resolution_date": "2024-04-12T16:35:23.000+0300",
+    "updated_date": "2024-04-12T16:35:23.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-269304",
+    "summary": "Horse armor renders incorrectly when worn by wolves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-12T16:54:31.000+0200",
+    "resolution_date": "2024-04-12T10:44:49.000+0300",
+    "updated_date": "2024-04-12T10:44:49.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-269300",
+    "summary": "The \"Alternatively, here's some we made earlier!\" text is positioned too close to the header separator",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-12T15:56:01.000+0200",
+    "resolution_date": "2024-04-12T15:51:12.000+0300",
+    "updated_date": "2024-04-12T15:51:12.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-269173",
+    "summary": "The server cannot send the client the system_chat packet containing deeply nested NBT data",
+    "labels": [
+      "StackOverflowError",
+      "chat",
+      "nbt",
+      "nest",
+      "packet",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-07T16:17:31.000+0200",
+    "resolution_date": "2024-04-11T15:57:17.000+0300",
+    "updated_date": "2024-04-11T15:57:17.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-269171",
+    "summary": "The client is disconnected when receiving the system_chat packet containing deeply nested NBT data",
+    "labels": [
+      "chat",
+      "client",
+      "disconnect",
+      "disconnection",
+      "nbt",
+      "nest",
+      "packet"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-07T14:01:50.000+0200",
+    "resolution_date": "2024-04-11T15:57:17.000+0300",
+    "updated_date": "2024-04-11T15:57:17.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-269161",
+    "summary": "Stonecutter does not support multiple recipes with the same result item type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-07T06:12:05.000+0200",
+    "resolution_date": "2024-04-11T15:57:19.000+0300",
+    "updated_date": "2024-04-11T15:57:19.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-269123",
+    "summary": "Enabling or disabling a resource pack that changes a shader will not affect that shader until the resource pack is reloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-06T16:41:23.000+0200",
+    "resolution_date": "2024-04-12T12:13:24.000+0300",
+    "updated_date": "2024-04-12T12:13:24.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-268984",
+    "summary": "Running /give command throws EncoderException",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-01T16:13:35.000+0200",
+    "resolution_date": "2024-04-11T15:57:16.000+0300",
+    "updated_date": "2024-04-15T10:40:08.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-268858",
+    "summary": "Buttons to enchant become enabled when placing wolf armor in an enchanting table",
+    "labels": [
+      "wolf_armor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-02-28T22:41:20.000+0200",
+    "resolution_date": "2024-04-12T10:44:50.000+0300",
+    "updated_date": "2024-04-12T22:12:19.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-268854",
+    "summary": "Firework explosions in items without a `Type` field are not correctly upgraded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Datafixer"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-02-28T22:28:08.000+0200",
+    "resolution_date": "2024-04-12T12:42:57.000+0300",
+    "updated_date": "2024-04-12T12:42:57.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268810",
+    "summary": "Ctrl+Picking chests still says (+NBT) even though NBT is replaced by components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-02-28T18:54:49.000+0200",
+    "resolution_date": "2024-04-12T15:51:14.000+0300",
+    "updated_date": "2024-04-12T17:16:54.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-268804",
+    "summary": "Wolves attacked while wearing wolf armor resets eating timer despite being at full health",
+    "labels": [
+      "wolf",
+      "wolf_armor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-02-28T18:20:16.000+0200",
+    "resolution_date": "2024-04-12T10:44:49.000+0300",
+    "updated_date": "2024-04-12T10:44:49.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-268347",
+    "summary": "Setting gravity higher than 0.84 allows you to jump up a block",
+    "labels": [
+      "attribute",
+      "gravity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-02-07T18:44:39.000+0200",
+    "resolution_date": "2024-04-12T10:37:06.000+0300",
+    "updated_date": "2024-04-12T10:37:06.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-268257",
+    "summary": "Equipping a carpet on a Llama doesn't play a sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-02-03T05:01:51.000+0200",
+    "resolution_date": "2024-04-12T10:44:50.000+0300",
+    "updated_date": "2024-04-12T10:44:50.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-268064",
+    "summary": "Armadillos that aren't rolled up can roll up during their death animation",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-01-24T18:12:21.000+0200",
+    "resolution_date": "2024-04-12T10:44:51.000+0300",
+    "updated_date": "2024-04-12T10:44:51.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268035",
+    "summary": "True Type Font when changing Language causes error with Rendering overlay",
+    "labels": [
+      "font",
+      "rendering",
+      "truetype",
+      "ttf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-01-22T04:31:46.000+0200",
+    "resolution_date": "2024-04-11T15:57:18.000+0300",
+    "updated_date": "2024-04-11T15:57:18.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-268015",
+    "summary": "Shulker bullets shot from shulkers don't account for the scale attribute",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-01-20T20:44:05.000+0200",
+    "resolution_date": "2024-04-12T12:13:24.000+0300",
+    "updated_date": "2024-04-12T12:13:24.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-267441",
+    "summary": "When a player's generic.step_height attribute is set to more than two, attempting to step atop of more than two blocks may fail if there are blocks higher up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-12-19T13:16:16.000+0200",
+    "resolution_date": "2024-04-12T10:37:05.000+0300",
+    "updated_date": "2024-04-12T10:37:05.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-267414",
+    "summary": "Scale attribute causes extreme TPS loss with the ender dragon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-12-18T22:30:58.000+0200",
+    "resolution_date": "2024-04-11T15:57:16.000+0300",
+    "updated_date": "2024-04-11T15:57:16.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-267381",
+    "summary": "Moving while sneaking is impossible with high generic.step_height attribute",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-12-18T17:46:31.000+0200",
+    "resolution_date": "2024-04-15T12:42:20.000+0300",
+    "updated_date": "2024-04-15T12:42:20.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-267352",
+    "summary": "Singleplayer worlds don't load the player.dat when the \"Player\" tag is absent from level.dat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-12-17T03:19:28.000+0200",
+    "resolution_date": "2024-04-11T15:57:15.000+0300",
+    "updated_date": "2024-04-11T15:57:15.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-266997",
+    "summary": "Sky light doesn't update when breaking a shulker box while its (closing) animation is playing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-25T06:09:11.000+0200",
+    "resolution_date": "2024-04-12T12:13:23.000+0300",
+    "updated_date": "2024-04-12T12:13:23.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-265741",
+    "summary": "Waterlogged barriers don't show up on maps",
+    "labels": [
+      "barrier"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-11T17:29:11.000+0300",
+    "resolution_date": "2024-04-12T16:13:05.000+0300",
+    "updated_date": "2024-04-12T16:13:05.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-265709",
+    "summary": "Stonecutter outputs are broken past the 32nd row in the GUI (server only)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-08T23:50:24.000+0300",
+    "resolution_date": "2024-04-12T16:13:05.000+0300",
+    "updated_date": "2024-04-12T16:13:05.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-265585",
+    "summary": "Waterlogged barriers do not diffuse sky light",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-09-29T00:24:13.000+0300",
+    "resolution_date": "2024-04-12T12:13:22.000+0300",
+    "updated_date": "2024-04-12T12:13:22.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-259355",
+    "summary": "Game crashes because /place sometimes does not check whether position is loaded and out of world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-01-24T17:45:48.000+0200",
+    "resolution_date": "2024-04-12T15:10:04.000+0300",
+    "updated_date": "2024-04-12T15:10:04.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-199973",
+    "summary": "Wet wolf is rendered too dark compared to past versions",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2020-09-11T01:56:56.000+0300",
+    "resolution_date": "2024-04-12T10:44:51.000+0300",
+    "updated_date": "2024-04-12T10:44:51.000+0300",
+    "watches": 8,
+    "votes": 21
+  }
+]
