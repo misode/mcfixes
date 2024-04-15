@@ -339,6 +339,25 @@
     "votes": 4
   },
   {
+    "id": "MC-269986",
+    "summary": "Inactive ominous trial spawner's top texture is mirrored",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-27T23:08:54.000+0200",
+    "resolution_date": "2024-04-15T11:32:23.000+0300",
+    "updated_date": "2024-04-15T11:32:23.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
     "id": "MC-269980",
     "summary": "Wind Burst enchantment triggers from normal attacks rather than smash attacks",
     "labels": [],

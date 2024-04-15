@@ -609,6 +609,29 @@
     "votes": 7
   },
   {
+    "id": "MC-109286",
+    "summary": "Default dirt page background not aligned properly",
+    "labels": [
+      "resource-pack-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2016-10-27T19:28:57.000+0300",
+    "resolution_date": "2024-04-15T11:31:38.000+0300",
+    "updated_date": "2024-04-15T11:31:38.000+0300",
+    "watches": 17,
+    "votes": 25
+  },
+  {
     "id": "MC-100016",
     "summary": "Singleplayer world selection screen is shown incorrectly when light_dirt_background.png and/or options_background.png are transparent",
     "labels": [
