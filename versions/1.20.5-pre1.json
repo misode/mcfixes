@@ -238,6 +238,30 @@
     "votes": 4
   },
   {
+    "id": "MC-270046",
+    "summary": "Mace's unique enchant is ineffective or no further effect if the level higher than max level, and causes error to be logged for wind burst",
+    "labels": [
+      "breach",
+      "density",
+      "mace",
+      "wind_burst"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-28T14:09:04.000+0200",
+    "resolution_date": "2024-04-16T17:47:36.000+0300",
+    "updated_date": "2024-04-16T17:47:37.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-270005",
     "summary": "Mace smash attack can be done multiple times from a single fall",
     "labels": [],
@@ -430,7 +454,7 @@
     ],
     "creation_date": "2024-03-27T21:52:38.000+0200",
     "resolution_date": "2024-04-08T16:55:11.000+0300",
-    "updated_date": "2024-04-11T01:08:04.000+0300",
+    "updated_date": "2024-04-16T17:48:43.000+0300",
     "watches": 3,
     "votes": 3
   },
