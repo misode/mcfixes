@@ -646,28 +646,6 @@
     "votes": 7
   },
   {
-    "id": "MC-268347",
-    "summary": "Setting gravity higher than 0.84 allows you to jump up a block",
-    "labels": [
-      "attribute",
-      "gravity"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Commands"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "1.20.5 Pre-Release 2"
-    ],
-    "creation_date": "2024-02-07T18:44:39.000+0200",
-    "resolution_date": "2024-04-12T10:37:06.000+0300",
-    "updated_date": "2024-04-12T10:37:06.000+0300",
-    "watches": 1,
-    "votes": 4
-  },
-  {
     "id": "MC-268257",
     "summary": "Equipping a carpet on a Llama doesn't play a sound",
     "labels": [],
@@ -751,26 +729,6 @@
     "updated_date": "2024-04-12T12:13:24.000+0300",
     "watches": 4,
     "votes": 3
-  },
-  {
-    "id": "MC-267441",
-    "summary": "When a player's generic.step_height attribute is set to more than two, attempting to step atop of more than two blocks may fail if there are blocks higher up",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Commands",
-      "Player"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "1.20.5 Pre-Release 2"
-    ],
-    "creation_date": "2023-12-19T13:16:16.000+0200",
-    "resolution_date": "2024-04-12T10:37:05.000+0300",
-    "updated_date": "2024-04-12T10:37:05.000+0300",
-    "watches": 5,
-    "votes": 6
   },
   {
     "id": "MC-267414",
