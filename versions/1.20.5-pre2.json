@@ -331,6 +331,50 @@
     "votes": 3
   },
   {
+    "id": "MC-269763",
+    "summary": "Scroller in Realms screen renders translucent pixels as opaque, unlike elsewhere",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-22T18:44:20.000+0200",
+    "resolution_date": "2024-04-16T15:28:36.000+0300",
+    "updated_date": "2024-04-16T15:28:36.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-269755",
+    "summary": "Scroller in Report Player screen renders translucent pixels as opaque, unlike elsewhere",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-22T14:44:28.000+0200",
+    "resolution_date": "2024-04-16T15:29:54.000+0300",
+    "updated_date": "2024-04-16T15:29:54.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-269660",
     "summary": "arguments.item.predicate.unknown quotes are different",
     "labels": [],
