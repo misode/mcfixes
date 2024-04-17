@@ -19,6 +19,28 @@
     "votes": 3
   },
   {
+    "id": "MC-270748",
+    "summary": "In the air(not flying), players behave the same as on the ground while sneaking if there is a block in the space equal to the hit height extending from {generic.step_height=n\u226610\u2192(n),n>10\u219210} blocks below ",
+    "labels": [
+      "attribute",
+      "sneak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-14T05:34:06.000+0300",
+    "resolution_date": "2024-04-17T14:49:46.000+0300",
+    "updated_date": "2024-04-17T14:49:46.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
     "id": "MC-270712",
     "summary": "Cannot move while sneaking if attribute generic.step_height is set to 0",
     "labels": [
