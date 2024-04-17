@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MC-270845",
+    "summary": "Summoned wind charges can no longer be redirected",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 4"
+    ],
+    "creation_date": "2024-04-17T02:29:27.000+0300",
+    "resolution_date": "2024-04-17T14:33:23.000+0300",
+    "updated_date": "2024-04-17T14:48:59.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-270838",
+    "summary": "Stationary fireballs can no longer be redirected",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 4"
+    ],
+    "creation_date": "2024-04-16T21:29:40.000+0300",
+    "resolution_date": "2024-04-17T12:06:43.000+0300",
+    "updated_date": "2024-04-17T14:48:59.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-270825",
+    "summary": "Certain simulation distance values cannot be saved visually",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 4"
+    ],
+    "creation_date": "2024-04-16T17:05:27.000+0300",
+    "resolution_date": "2024-04-17T14:32:27.000+0300",
+    "updated_date": "2024-04-17T14:32:27.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-270666",
+    "summary": "The game tries to spawn bogged without experimental feature \"update 1.21\" active (but failed)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Mob behaviour",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 4"
+    ],
+    "creation_date": "2024-04-12T10:02:51.000+0300",
+    "resolution_date": "2024-04-16T18:02:04.000+0300",
+    "updated_date": "2024-04-16T19:31:22.000+0300",
+    "watches": 2,
+    "votes": 0
+  }
+]
