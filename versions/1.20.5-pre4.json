@@ -78,5 +78,26 @@
     "updated_date": "2024-04-16T19:31:22.000+0300",
     "watches": 2,
     "votes": 0
+  },
+  {
+    "id": "MC-268571",
+    "summary": "Bogged is listed in biomes in vanilla datapack, not update_1_21",
+    "labels": [
+      "bogged"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 4"
+    ],
+    "creation_date": "2024-02-14T20:34:53.000+0200",
+    "resolution_date": "2024-04-17T21:12:57.000+0300",
+    "updated_date": "2024-04-17T21:12:57.000+0300",
+    "watches": 4,
+    "votes": 6
   }
 ]
