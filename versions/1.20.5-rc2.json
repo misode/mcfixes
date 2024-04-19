@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MC-270916",
+    "summary": "Villagers can sell experimental enchantments without the 1.21 experiment enabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Release Candidate 2"
+    ],
+    "creation_date": "2024-04-19T04:43:34.000+0300",
+    "resolution_date": "2024-04-19T11:58:40.000+0300",
+    "updated_date": "2024-04-19T13:24:26.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-270902",
+    "summary": "Game unpauses when credits are played via pause menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Release Candidate 2"
+    ],
+    "creation_date": "2024-04-18T20:35:43.000+0300",
+    "resolution_date": "2024-04-19T14:19:48.000+0300",
+    "updated_date": "2024-04-19T14:19:48.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270862",
+    "summary": "Firework Star item displays have inconsistent color updates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.20.5 Release Candidate 2"
+    ],
+    "creation_date": "2024-04-17T17:21:02.000+0300",
+    "resolution_date": "2024-04-19T11:23:42.000+0300",
+    "updated_date": "2024-04-19T11:23:42.000+0300",
+    "watches": 3,
+    "votes": 3
+  }
+]
