@@ -56,5 +56,24 @@
     "updated_date": "2023-09-12T10:42:28.000+0300",
     "watches": 7,
     "votes": 8
+  },
+  {
+    "id": "MC-255829",
+    "summary": "Villager trades air if it has a totem of undying trade and uses the held totem",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.2 Pre-Release 3"
+    ],
+    "creation_date": "2022-09-09T22:03:53.000+0300",
+    "resolution_date": "2024-04-19T22:42:01.000+0300",
+    "updated_date": "2024-04-19T22:42:01.000+0300",
+    "watches": 4,
+    "votes": 6
   }
 ]
