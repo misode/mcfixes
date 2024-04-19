@@ -585,6 +585,25 @@
     "votes": 29
   },
   {
+    "id": "MC-121621",
+    "summary": "Pick block on shulker boxes doesn't find placed and mined shulker boxes in inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2017-11-08T16:06:07.000+0200",
+    "resolution_date": "2024-04-19T21:34:10.000+0300",
+    "updated_date": "2024-04-19T21:34:10.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
     "id": "MC-118890",
     "summary": "Tipped arrows stuck in the ground never lose their effect",
     "labels": [
