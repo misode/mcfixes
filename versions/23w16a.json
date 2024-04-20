@@ -677,6 +677,25 @@
     "votes": 27
   },
   {
+    "id": "MC-128011",
+    "summary": "F3 toggles debug menu while viewing inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w16a"
+    ],
+    "creation_date": "2018-04-05T21:12:24.000+0300",
+    "resolution_date": "2024-04-20T23:01:44.000+0300",
+    "updated_date": "2024-04-20T23:01:44.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
     "id": "MC-117125",
     "summary": "Narrator still crashes on linux, flite installed",
     "labels": [],
