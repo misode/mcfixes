@@ -707,6 +707,29 @@
     "votes": 7
   },
   {
+    "id": "MC-117977",
+    "summary": "Advancement GUI doesn't have a close button",
+    "labels": [
+      "GUI",
+      "advancement"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2017-05-28T15:50:39.000+0300",
+    "resolution_date": "2024-04-21T23:03:03.000+0300",
+    "updated_date": "2024-04-21T23:03:03.000+0300",
+    "watches": 12,
+    "votes": 27
+  },
+  {
     "id": "MC-109286",
     "summary": "Default dirt page background not aligned properly",
     "labels": [
