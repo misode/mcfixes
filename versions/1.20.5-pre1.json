@@ -711,7 +711,7 @@
     ],
     "creation_date": "2024-03-20T16:49:14.000+0200",
     "resolution_date": "2024-04-10T10:25:00.000+0300",
-    "updated_date": "2024-04-11T07:35:28.000+0300",
+    "updated_date": "2024-04-21T21:08:48.000+0300",
     "watches": 1,
     "votes": 2
   },
@@ -1041,6 +1041,25 @@
     "updated_date": "2024-04-19T22:05:42.000+0300",
     "watches": 1,
     "votes": 3
+  },
+  {
+    "id": "MC-229209",
+    "summary": "Loot table function set_count doesn't work with unstackable items anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.5 Pre-Release 1"
+    ],
+    "creation_date": "2021-06-16T07:56:50.000+0300",
+    "resolution_date": "2024-04-21T20:37:21.000+0300",
+    "updated_date": "2024-04-21T20:37:21.000+0300",
+    "watches": 4,
+    "votes": 6
   },
   {
     "id": "MC-207353",
