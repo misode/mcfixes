@@ -392,6 +392,27 @@
     "votes": 6
   },
   {
+    "id": "MC-230256",
+    "summary": "NBT \"HideFlags\" does not hide \"Slot\" on minecraft:bundle",
+    "labels": [
+      "bundle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w13a"
+    ],
+    "creation_date": "2021-06-25T21:19:47.000+0300",
+    "resolution_date": "2024-04-21T20:03:49.000+0300",
+    "updated_date": "2024-04-21T20:03:49.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-178410",
     "summary": "Banners don't support the HideFlags tag when placed down as blocks",
     "labels": [],

@@ -483,6 +483,28 @@
     "votes": 6
   },
   {
+    "id": "MC-204947",
+    "summary": "Ctrl + Pick Block on placed ominous banners is not the same as Pick Block",
+    "labels": [
+      "ominous-banner",
+      "pick-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2020-11-10T17:15:33.000+0200",
+    "resolution_date": "2024-04-21T20:04:14.000+0300",
+    "updated_date": "2024-04-21T20:04:14.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
     "id": "MC-195572",
     "summary": "The fog from lava is much denser when having the Fire Resistance effect active compared to Bedrock Edition",
     "labels": [
@@ -602,6 +624,25 @@
     "updated_date": "2024-02-29T11:50:37.000+0200",
     "watches": 5,
     "votes": 8
+  },
+  {
+    "id": "MC-142372",
+    "summary": "Ctrl + Pick block on a campfire with food cooking updates the nbt during cook time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2019-01-16T19:57:11.000+0200",
+    "resolution_date": "2024-04-21T20:04:31.000+0300",
+    "updated_date": "2024-04-21T20:04:31.000+0300",
+    "watches": 2,
+    "votes": 19
   },
   {
     "id": "MC-140565",
