@@ -626,6 +626,29 @@
     "votes": 8
   },
   {
+    "id": "MC-143614",
+    "summary": "Campfire item with \"cooking\" NBT heavily shakes in hand/off-screen, when CTRL+pick-blocked",
+    "labels": [
+      "campfire",
+      "item-model",
+      "pick-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2019-02-02T22:56:37.000+0200",
+    "resolution_date": "2024-04-23T22:06:34.000+0300",
+    "updated_date": "2024-04-23T22:06:34.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
     "id": "MC-142372",
     "summary": "Ctrl + Pick block on a campfire with food cooking updates the nbt during cook time",
     "labels": [],
