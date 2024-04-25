@@ -360,6 +360,26 @@
     "votes": 12
   },
   {
+    "id": "MC-260867",
+    "summary": "Cannot focus entries on the pack selection screen using the mouse",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2023-03-09T18:54:57.000+0200",
+    "resolution_date": "2024-04-25T18:41:03.000+0300",
+    "updated_date": "2024-04-25T18:41:03.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
     "id": "MC-251509",
     "summary": "Patterned banners not stacking properly / banner loses \"banner\" ID when mined",
     "labels": [],
