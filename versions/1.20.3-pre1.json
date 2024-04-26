@@ -256,6 +256,30 @@
     "votes": 7
   },
   {
+    "id": "MC-185117",
+    "summary": "Narrator Disabled text in toast is no longer vertically centered",
+    "labels": [
+      "center",
+      "narrator",
+      "text",
+      "text-alignment"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 1"
+    ],
+    "creation_date": "2020-05-22T08:50:36.000+0300",
+    "resolution_date": "2024-04-26T16:10:09.000+0300",
+    "updated_date": "2024-04-26T16:10:10.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
     "id": "MC-173434",
     "summary": "Server resource pack download is inconsistent",
     "labels": [],
