@@ -1413,5 +1413,29 @@
     "updated_date": "2023-12-05T19:00:13.000+0200",
     "watches": 9,
     "votes": 12
+  },
+  {
+    "id": "MC-117955",
+    "summary": "Player teleports to the top when crushed by a piston head",
+    "labels": [
+      "piston",
+      "piston_head",
+      "player",
+      "teleport"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2017-05-27T07:54:22.000+0300",
+    "resolution_date": "2024-04-27T20:04:00.000+0300",
+    "updated_date": "2024-04-27T20:04:00.000+0300",
+    "watches": 1,
+    "votes": 8
   }
 ]
