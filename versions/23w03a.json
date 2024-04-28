@@ -257,6 +257,25 @@
     "votes": 4
   },
   {
+    "id": "MC-257028",
+    "summary": "Eating chorus fruit and looking down in a boat desynchronizes player position",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w03a"
+    ],
+    "creation_date": "2022-10-29T23:21:39.000+0300",
+    "resolution_date": "2024-04-28T05:52:17.000+0300",
+    "updated_date": "2024-04-28T05:52:29.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
     "id": "MC-256838",
     "summary": "The facing direction of the camel doesn't match",
     "labels": [],
