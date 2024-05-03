@@ -583,7 +583,7 @@
   },
   {
     "id": "MC-259987",
-    "summary": "Damage command at position applies knockback in random direction",
+    "summary": " Damage command only issues knockback if it was done by an entity ",
     "labels": [],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -596,7 +596,7 @@
     ],
     "creation_date": "2023-02-13T22:51:17.000+0200",
     "resolution_date": "2024-05-03T15:59:17.000+0300",
-    "updated_date": "2024-05-03T17:06:17.000+0300",
+    "updated_date": "2024-05-04T01:06:14.000+0300",
     "watches": 6,
     "votes": 5
   },
