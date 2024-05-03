@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "MC-271157",
+    "summary": "\"Telemetry is disabled\" tooltip does not get updated when the client locale changes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Internationalisation",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-26T13:06:56.000+0300",
+    "resolution_date": "2024-04-29T15:37:11.000+0300",
+    "updated_date": "2024-05-03T12:59:51.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-271039",
+    "summary": "Upgrading to 1.20.5 leads to the removal of all enchantments if item had the \"sweeping\" enchantment without namespace",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-22T21:38:25.000+0300",
+    "resolution_date": "2024-04-30T13:58:26.000+0300",
+    "updated_date": "2024-04-30T13:58:26.000+0300",
+    "watches": 8,
+    "votes": 5
+  },
+  {
+    "id": "MC-270977",
+    "summary": "Breezes don't make deflection sounds",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-20T23:43:17.000+0300",
+    "resolution_date": "2024-04-25T13:29:01.000+0300",
+    "updated_date": "2024-04-25T13:29:01.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-270974",
+    "summary": "Breeze wind charges can change activation blockstates of redstone components when mobGriefing is disabled",
+    "labels": [
+      "breeze",
+      "breeze_wind_charge",
+      "command",
+      "gamerule",
+      "mobGriefing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-20T22:19:03.000+0300",
+    "resolution_date": "2024-05-02T16:16:55.000+0300",
+    "updated_date": "2024-05-03T13:06:02.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-270934",
+    "summary": "Missing trial chamber structure minecraft:trial_chambers/chamber/addon/c6",
+    "labels": [
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-19T23:11:09.000+0300",
+    "resolution_date": "2024-04-25T13:40:42.000+0300",
+    "updated_date": "2024-04-25T13:40:42.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270849",
+    "summary": "Breeze can extinguish lit candles when mobGriefing is false",
+    "labels": [
+      "breeze",
+      "breeze_wind_charge",
+      "candle",
+      "lit",
+      "mobGriefing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-17T07:38:48.000+0300",
+    "resolution_date": "2024-05-02T16:16:55.000+0300",
+    "updated_date": "2024-05-02T16:16:55.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270791",
+    "summary": "Mace smash attack can knockback tamed mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-16T00:08:48.000+0300",
+    "resolution_date": "2024-04-24T11:58:02.000+0300",
+    "updated_date": "2024-04-25T19:53:30.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-270682",
+    "summary": "modify_contents item modifier can create overstacked items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-12T17:42:18.000+0300",
+    "resolution_date": "2024-04-29T19:14:51.000+0300",
+    "updated_date": "2024-04-29T19:14:51.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-270588",
+    "summary": "Hitting Wind Charges and Fireballs makes no sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-10T20:51:41.000+0300",
+    "resolution_date": "2024-04-29T18:14:34.000+0300",
+    "updated_date": "2024-04-29T18:14:34.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-270499",
+    "summary": "Riptide trident in off-hand applies mace effects in main hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-08T00:53:55.000+0300",
+    "resolution_date": "2024-04-24T09:25:26.000+0300",
+    "updated_date": "2024-04-24T09:25:26.000+0300",
+    "watches": 4,
+    "votes": 0
+  },
+  {
+    "id": "MC-270379",
+    "summary": "Buttons and Levers don't make sounds when toggled by Wind Charges",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-04T17:48:48.000+0300",
+    "resolution_date": "2024-04-29T18:14:33.000+0300",
+    "updated_date": "2024-04-29T18:14:33.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-270278",
+    "summary": "\"Who needs rockets?\" is granted at heights lower than 8 blocks when using slow falling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-02T06:53:27.000+0300",
+    "resolution_date": "2024-05-03T11:37:17.000+0300",
+    "updated_date": "2024-05-03T11:37:17.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-270216",
+    "summary": "Mace smash attack particles cannot be reduced with the Particles setting",
+    "labels": [
+      "mace-smash",
+      "particle",
+      "settings"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-04-01T03:27:40.000+0300",
+    "resolution_date": "2024-04-24T10:52:08.000+0300",
+    "updated_date": "2024-04-24T10:52:08.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270047",
+    "summary": "Axe Prioritizes Scraping Copper over Shield",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Items",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-28T14:14:23.000+0200",
+    "resolution_date": "2024-04-24T10:44:24.000+0300",
+    "updated_date": "2024-04-24T10:44:24.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-270031",
+    "summary": "Arrows spawned from ominous trial spawner can be picked up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-28T10:54:09.000+0200",
+    "resolution_date": "2024-04-25T16:42:00.000+0300",
+    "updated_date": "2024-04-25T16:42:00.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-270021",
+    "summary": "Drinking a single ominous bottle in survival doesn't grant bad omen with the correct amplifier",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-28T10:11:22.000+0200",
+    "resolution_date": "2024-04-29T11:15:44.000+0300",
+    "updated_date": "2024-04-29T11:15:44.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-269969",
+    "summary": "Using a normal trial key on the ominous vault grants Under Lock and Key advancement",
+    "labels": [
+      "ominous-vault"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-27T21:19:36.000+0200",
+    "resolution_date": "2024-05-03T11:37:16.000+0300",
+    "updated_date": "2024-05-03T11:37:16.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-269966",
+    "summary": "\"A Furious Cocktail\" Advancement does not require the new potion effects",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-27T21:10:40.000+0200",
+    "resolution_date": "2024-05-03T11:37:16.000+0300",
+    "updated_date": "2024-05-03T11:37:16.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-269958",
+    "summary": "New effects are not required for the \"How Did We Get Here?\" advancement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-27T20:17:55.000+0200",
+    "resolution_date": "2024-05-03T11:37:17.000+0300",
+    "updated_date": "2024-05-03T11:37:17.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-269881",
+    "summary": "Flow and Bolt Armor Trims don't grant \"Crafting a New Look\" advancement",
+    "labels": [
+      "Advancements",
+      "armor_trim"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-25T18:56:12.000+0200",
+    "resolution_date": "2024-05-02T14:48:19.000+0300",
+    "updated_date": "2024-05-02T14:48:19.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-268564",
+    "summary": "Entities receive knockback from incorrect directions when being hit by projectiles deflected by breezes",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-02-14T19:05:35.000+0200",
+    "resolution_date": "2024-05-02T11:45:19.000+0300",
+    "updated_date": "2024-05-02T14:25:44.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-268551",
+    "summary": "When a wind charge is fired from a dispenser, it makes a \"dispensed item\" sound instead of a \"Wind Charge flies\" sound",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-02-14T13:37:39.000+0200",
+    "resolution_date": "2024-04-29T18:14:33.000+0300",
+    "updated_date": "2024-04-29T18:14:33.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-268367",
+    "summary": "Arrows repeatedly bouncing off a breeze spam sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-02-07T22:59:59.000+0200",
+    "resolution_date": "2024-04-24T10:21:17.000+0300",
+    "updated_date": "2024-04-24T10:21:17.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-268347",
+    "summary": "Setting gravity higher than 0.84 allows you to jump up a block",
+    "labels": [
+      "attribute",
+      "gravity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2",
+      "24w18a"
+    ],
+    "creation_date": "2024-02-07T18:44:39.000+0200",
+    "resolution_date": "2024-04-24T10:28:59.000+0300",
+    "updated_date": "2024-04-30T21:45:22.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-267441",
+    "summary": "When a player's generic.step_height attribute is set to more than two, attempting to step atop of more than two blocks may fail if there are blocks higher up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2",
+      "24w18a"
+    ],
+    "creation_date": "2023-12-19T13:16:16.000+0200",
+    "resolution_date": "2024-04-24T10:28:58.000+0300",
+    "updated_date": "2024-04-24T10:28:58.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-267154",
+    "summary": "Using an Eye of Ender plays the minecraft:entity.ender_eye.launch sound event twice",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2023-12-03T23:26:25.000+0200",
+    "resolution_date": "2024-04-24T11:08:20.000+0300",
+    "updated_date": "2024-04-24T11:08:20.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-266556",
+    "summary": "Trial spawner cannot be activated in peaceful difficulty",
+    "labels": [
+      "mob-spawning"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2023-11-09T22:55:13.000+0200",
+    "resolution_date": "2024-04-24T11:39:27.000+0300",
+    "updated_date": "2024-04-24T11:39:27.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-261701",
+    "summary": "Lag spike when opening creative inventory for first time in world",
+    "labels": [
+      "Inventory",
+      "Lag-Spikes"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2023-04-07T22:30:07.000+0300",
+    "resolution_date": "2024-04-29T10:00:51.000+0300",
+    "updated_date": "2024-04-29T10:00:51.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-259987",
+    "summary": "Damage command only issues knockback if it was done by an entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2023-02-13T22:51:17.000+0200",
+    "resolution_date": "2024-05-03T15:59:17.000+0300",
+    "updated_date": "2024-05-03T15:59:17.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-258967",
+    "summary": "Entities receive knockback from splash potions based on the direction that the said entity was facing when throwing the potion",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2023-01-05T05:06:57.000+0200",
+    "resolution_date": "2024-05-02T11:45:21.000+0300",
+    "updated_date": "2024-05-02T14:28:24.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-258497",
+    "summary": "Parity issue: Fire Aspect enchant does not set fire to candles",
+    "labels": [
+      "candle",
+      "fire_aspect",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Enchantments",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2022-12-13T00:06:42.000+0200",
+    "resolution_date": "2024-04-30T11:48:05.000+0300",
+    "updated_date": "2024-04-30T11:48:05.000+0300",
+    "watches": 16,
+    "votes": 37
+  },
+  {
+    "id": "MC-253457",
+    "summary": "Cats and Ocelots are immune to Thorns damage",
+    "labels": [
+      "cat",
+      "ocelot",
+      "thorns"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2022-06-22T23:17:02.000+0300",
+    "resolution_date": "2024-04-30T11:48:04.000+0300",
+    "updated_date": "2024-04-30T11:48:04.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-248272",
+    "summary": "Enchantment::doPostHurt and Enchantment::doPostAttack are called twice for players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2022-01-26T14:44:07.000+0200",
+    "resolution_date": "2024-04-30T11:47:53.000+0300",
+    "updated_date": "2024-04-30T11:47:53.000+0300",
+    "watches": 11,
+    "votes": 9
+  },
+  {
+    "id": "MC-237063",
+    "summary": "Particles produced from using boots enchanted with soul speed are inconsistently displayed for other players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-09-18T20:36:40.000+0300",
+    "resolution_date": "2024-04-30T11:47:58.000+0300",
+    "updated_date": "2024-04-30T11:47:58.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-237057",
+    "summary": "The \"minecraft:particle.soul_escape\" sound is very rarely heard by other players when using boots enchanted with soul speed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-09-18T20:02:58.000+0300",
+    "resolution_date": "2024-04-30T11:47:58.000+0300",
+    "updated_date": "2024-04-30T11:47:59.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-234880",
+    "summary": "Llama's unaffected by Thorns",
+    "labels": [
+      "thorns"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Enchantments",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-08-20T07:54:10.000+0300",
+    "resolution_date": "2024-04-30T11:48:02.000+0300",
+    "updated_date": "2024-04-30T11:48:02.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-232770",
+    "summary": "Entities receive knockback from incorrect directions when being damaged by firework explosions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-07-21T15:55:55.000+0300",
+    "resolution_date": "2024-05-02T11:45:20.000+0300",
+    "updated_date": "2024-05-02T14:26:33.000+0300",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-225312",
+    "summary": "Evokers using evoker fangs are not affected by the Thorns enchantment",
+    "labels": [
+      "thorns"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-05-12T03:25:06.000+0300",
+    "resolution_date": "2024-04-30T11:48:02.000+0300",
+    "updated_date": "2024-04-30T11:48:02.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-224743",
+    "summary": "Jumping on soul sand uses durability of Soul Speed boots",
+    "labels": [
+      "jump",
+      "soul",
+      "soul-sand",
+      "speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-05-03T08:18:57.000+0300",
+    "resolution_date": "2024-04-30T11:47:56.000+0300",
+    "updated_date": "2024-04-30T11:47:56.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-223301",
+    "summary": "Goats not taking damage when attacking with Thorns armor equipped",
+    "labels": [
+      "goat",
+      "thorns"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-04-15T18:51:45.000+0300",
+    "resolution_date": "2024-04-30T11:48:03.000+0300",
+    "updated_date": "2024-05-01T04:42:08.000+0300",
+    "watches": 10,
+    "votes": 13
+  },
+  {
+    "id": "MC-215144",
+    "summary": "A re-created \"Default\" world has world type of \"Custom\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-02-11T23:42:35.000+0200",
+    "resolution_date": "2024-04-23T18:39:56.000+0300",
+    "updated_date": "2024-04-23T18:39:56.000+0300",
+    "watches": 12,
+    "votes": 19
+  },
+  {
+    "id": "MC-213349",
+    "summary": "Certain mobs that can melee can't use the Fire Aspect enchantment",
+    "labels": [
+      "CanPickUpLoot",
+      "attack",
+      "enchantment",
+      "fire_aspect",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-01-30T00:55:09.000+0200",
+    "resolution_date": "2024-04-30T11:47:55.000+0300",
+    "updated_date": "2024-04-30T11:47:55.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-200991",
+    "summary": "Soul Speed in minecart uses durability",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Hitboxes",
+      "Minecart"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-09-25T10:14:11.000+0300",
+    "resolution_date": "2024-04-30T11:47:57.000+0300",
+    "updated_date": "2024-04-30T11:47:57.000+0300",
+    "watches": 10,
+    "votes": 15
+  },
+  {
+    "id": "MC-200899",
+    "summary": "Players don't receive thorns damage when attacking entities wearing thorns armor with indirect sweeping attacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-09-24T02:49:06.000+0300",
+    "resolution_date": "2024-04-30T11:48:01.000+0300",
+    "updated_date": "2024-04-30T11:48:01.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-189365",
+    "summary": "Player can retain Soul Speed effect by bridging",
+    "labels": [
+      "player",
+      "soul_speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-06-13T15:52:48.000+0300",
+    "resolution_date": "2024-04-30T11:47:57.000+0300",
+    "updated_date": "2024-04-30T11:47:57.000+0300",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-188693",
+    "summary": "FOV doesn't change back when riding a mob after staying on Soul Sand with Soul Speed",
+    "labels": [
+      "soul_speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player",
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-06-11T21:38:10.000+0300",
+    "resolution_date": "2024-04-30T11:47:59.000+0300",
+    "updated_date": "2024-04-30T11:48:00.000+0300",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-182606",
+    "summary": "When sneak-walking with Soul Speed on a Soul Sand or Soul Soil block (most noticeably) adjacent to lava, too many soul particles spawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-05-06T01:30:47.000+0300",
+    "resolution_date": "2024-04-30T11:47:59.000+0300",
+    "updated_date": "2024-04-30T11:47:59.000+0300",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-177965",
+    "summary": "Putting on/taking off soul speed boots while standing on soul sand/soil does not properly give speed",
+    "labels": [
+      "soul_speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-04-09T04:58:07.000+0300",
+    "resolution_date": "2024-04-30T11:47:56.000+0300",
+    "updated_date": "2024-04-30T11:47:56.000+0300",
+    "watches": 8,
+    "votes": 10
+  },
+  {
+    "id": "MC-158245",
+    "summary": "Fire Aspect enchantment from mobs can set you on fire even when blocking with a shield",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2019-08-02T04:26:16.000+0300",
+    "resolution_date": "2024-04-30T11:47:54.000+0300",
+    "updated_date": "2024-04-30T11:47:54.000+0300",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-131637",
+    "summary": "The slowness effect is applied to entities when the bane of arthropods enchantment is held in the off hand",
+    "labels": [
+      "bane_of_arthropods",
+      "cave_spider",
+      "spider",
+      "weakness"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2018-06-18T21:47:18.000+0300",
+    "resolution_date": "2024-04-30T11:47:54.000+0300",
+    "updated_date": "2024-04-30T11:47:54.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-117361",
+    "summary": "Mob type specific damage enchantment (Smite, Bane of Arthropods) affects all nearby entities when hitting affected mob with Sweeping Edge",
+    "labels": [
+      "bane-of-arthropods",
+      "smite",
+      "sweeping",
+      "sweeping-edge",
+      "undead"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2017-05-12T05:45:05.000+0300",
+    "resolution_date": "2024-04-30T11:48:03.000+0300",
+    "updated_date": "2024-04-30T13:50:52.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-116643",
+    "summary": "Silk Touch cannot be combined with Looting or Luck of the Sea",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2017-04-26T06:39:49.000+0300",
+    "resolution_date": "2024-04-30T11:47:52.000+0300",
+    "updated_date": "2024-04-30T11:47:52.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-99411",
+    "summary": "Frost Walker ice only semi-affected by randomTickSpeed gamerule",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2016-03-10T20:01:49.000+0200",
+    "resolution_date": "2024-04-30T11:47:55.000+0300",
+    "updated_date": "2024-04-30T11:47:55.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-93669",
+    "summary": "The sweeping attack doesn't ignite other mobs when using the fire aspect enchantment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2015-12-03T00:45:54.000+0200",
+    "resolution_date": "2024-04-30T11:48:00.000+0300",
+    "updated_date": "2024-04-30T11:48:00.000+0300",
+    "watches": 13,
+    "votes": 32
+  },
+  {
+    "id": "MC-76104",
+    "summary": "Guardians are unaffected by Thorns enchantment",
+    "labels": [
+      "guardian",
+      "thorns"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2015-01-02T20:42:51.000+0200",
+    "resolution_date": "2024-04-30T11:48:01.000+0300",
+    "updated_date": "2024-04-30T11:48:01.000+0300",
+    "watches": 13,
+    "votes": 10
+  },
+  {
+    "id": "MC-59626",
+    "summary": "Arrows lose their Punch enchantment property when unloaded",
+    "labels": [
+      "arrow",
+      "enchantment",
+      "punch",
+      "unload"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Save Data"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2014-06-29T23:03:28.000+0300",
+    "resolution_date": "2024-04-30T11:48:04.000+0300",
+    "updated_date": "2024-04-30T11:48:04.000+0300",
+    "watches": 12,
+    "votes": 23
+  },
+  {
+    "id": "MC-44280",
+    "summary": "Entities don't receive knockback from projectiles fired from dispensers",
+    "labels": [
+      "dispenser",
+      "egg",
+      "knockback",
+      "snowball"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 16w02a",
+      "24w18a"
+    ],
+    "creation_date": "2014-01-07T23:52:06.000+0200",
+    "resolution_date": "2024-05-02T11:45:20.000+0300",
+    "updated_date": "2024-05-02T14:29:45.000+0300",
+    "watches": 20,
+    "votes": 46
+  }
+]
