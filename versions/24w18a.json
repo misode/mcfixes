@@ -1011,6 +1011,28 @@
     "votes": 10
   },
   {
+    "id": "MC-175729",
+    "summary": "Walking on the edge of underwater soul soil with Depth Strider and Soul Speed doesn't show soul particles",
+    "labels": [
+      "soul_speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-03-23T02:02:28.000+0200",
+    "resolution_date": "2024-05-06T23:08:11.000+0300",
+    "updated_date": "2024-05-06T23:08:11.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
     "id": "MC-158245",
     "summary": "Fire Aspect enchantment from mobs can set you on fire even when blocking with a shield",
     "labels": [],
