@@ -332,6 +332,25 @@
     "votes": 7
   },
   {
+    "id": "MC-269978",
+    "summary": "The centrial dispenser in eruption trial chamber is missing a water bucket",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-03-27T22:06:53.000+0200",
+    "resolution_date": "2024-05-07T00:56:46.000+0300",
+    "updated_date": "2024-05-07T00:56:46.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-269969",
     "summary": "Using a normal trial key on the ominous vault grants Under Lock and Key advancement",
     "labels": [
