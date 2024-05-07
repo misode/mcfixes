@@ -944,6 +944,30 @@
     "votes": 7
   },
   {
+    "id": "MC-193343",
+    "summary": "Soul Speed effect remains after switching to spectator mode",
+    "labels": [
+      "game-mode-switch",
+      "soul_speed",
+      "spectator"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2020-07-03T02:54:33.000+0300",
+    "resolution_date": "2024-05-07T10:31:46.000+0300",
+    "updated_date": "2024-05-07T10:31:46.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
     "id": "MC-189365",
     "summary": "Player can retain Soul Speed effect by bridging",
     "labels": [
