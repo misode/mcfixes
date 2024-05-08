@@ -1202,36 +1202,6 @@
     "votes": 32
   },
   {
-    "id": "MC-89883",
-    "summary": "Squid and glow squid collision error and rubberbanding",
-    "labels": [
-      "collision",
-      "collisionRule",
-      "land",
-      "rubberband",
-      "rubberbanding",
-      "squid",
-      "squids"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Collision",
-      "Entities",
-      "Networking"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "Minecraft 16w06a",
-      "24w18a"
-    ],
-    "creation_date": "2015-10-06T17:23:22.000+0300",
-    "resolution_date": "2024-05-05T10:54:08.000+0300",
-    "updated_date": "2024-05-05T10:54:08.000+0300",
-    "watches": 32,
-    "votes": 78
-  },
-  {
     "id": "MC-76104",
     "summary": "Guardians are unaffected by Thorns enchantment",
     "labels": [
