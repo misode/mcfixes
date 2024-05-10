@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "MC-271726",
+    "summary": "The item.trident.thunder sound can no longer be heard by the player who was struck by a lightning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-07T20:37:39.000+0300",
+    "resolution_date": "2024-05-10T15:33:50.000+0300",
+    "updated_date": "2024-05-10T15:33:51.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-271725",
+    "summary": "Enchantment entity effect \"apply_mob_effect\" never applies an amplifier even if one is defined.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-07T18:27:23.000+0300",
+    "resolution_date": "2024-05-08T10:08:34.000+0300",
+    "updated_date": "2024-05-08T10:08:34.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-271710",
+    "summary": "Key Binds background is darker than the rest of UI",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-07T12:05:02.000+0300",
+    "resolution_date": "2024-05-08T10:10:55.000+0300",
+    "updated_date": "2024-05-08T10:10:55.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-271652",
+    "summary": "Holding items enchanted with thorns in your hand no longer works as if you were wearing them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-06T02:54:06.000+0300",
+    "resolution_date": "2024-05-07T16:01:29.000+0300",
+    "updated_date": "2024-05-08T14:24:13.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-271637",
+    "summary": "The enchantment entity effect type \"run_command\" always runs the command in the overworld",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-05T22:25:19.000+0300",
+    "resolution_date": "2024-05-07T16:01:29.000+0300",
+    "updated_date": "2024-05-07T16:01:29.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271632",
+    "summary": "Weapon with Bane of Arthropods can only give the target slowness I instead of slowness IV",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-05T21:00:35.000+0300",
+    "resolution_date": "2024-05-07T16:01:30.000+0300",
+    "updated_date": "2024-05-07T16:01:30.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-271565",
+    "summary": "The game can crash when upgrading worlds with zombie villagers from before 1.9",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-04T21:19:32.000+0300",
+    "resolution_date": "2024-05-07T12:51:42.000+0300",
+    "updated_date": "2024-05-07T12:51:42.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-271556",
+    "summary": "The drop rate of wither skeleton skulls is lowered by 0.01",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-04T18:03:51.000+0300",
+    "resolution_date": "2024-05-07T16:01:31.000+0300",
+    "updated_date": "2024-05-07T16:01:31.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-271484",
+    "summary": "Lighting candles and campfires with fire aspect doesn't send vibration to sculk sensors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-04T01:44:57.000+0300",
+    "resolution_date": "2024-05-07T16:01:28.000+0300",
+    "updated_date": "2024-05-07T16:19:01.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-271477",
+    "summary": "\"projectile_spawned\" enchantment effect always activates at 0, 0, 0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-04T00:52:00.000+0300",
+    "resolution_date": "2024-05-07T16:01:31.000+0300",
+    "updated_date": "2024-05-07T16:01:31.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-271461",
+    "summary": "Interacting with certain villagers with the villager trade rebalance enabled causes client crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T20:45:56.000+0300",
+    "resolution_date": "2024-05-07T17:35:23.000+0300",
+    "updated_date": "2024-05-07T17:35:23.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-271459",
+    "summary": "Frost walker deletes waterlogged blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T20:25:49.000+0300",
+    "resolution_date": "2024-05-07T16:01:27.000+0300",
+    "updated_date": "2024-05-07T16:01:27.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-271455",
+    "summary": "When holding a fire aspect weapon in the mainhand, thrown tridents in the offhand will set mobs on fire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T19:59:12.000+0300",
+    "resolution_date": "2024-05-07T16:01:30.000+0300",
+    "updated_date": "2024-05-07T16:01:30.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-271444",
+    "summary": "The fire aspect enchantment can turn on campfires and candles while underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T19:08:55.000+0300",
+    "resolution_date": "2024-05-07T16:01:28.000+0300",
+    "updated_date": "2024-05-07T16:01:28.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-271442",
+    "summary": "The fire aspect enchantment can change the \"lit\" states of redstone lamps, redstone torches, copper bulbs, furnaces, smokers, and blast furnaces",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T18:52:32.000+0300",
+    "resolution_date": "2024-05-07T16:01:28.000+0300",
+    "updated_date": "2024-05-10T13:28:33.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-271441",
+    "summary": "Fire Protection tooltip is displayed in red text despite being a positive effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T18:47:28.000+0300",
+    "resolution_date": "2024-05-06T16:47:53.000+0300",
+    "updated_date": "2024-05-06T16:47:53.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-271436",
+    "summary": "Mace can no longer be enchanted with Fire Aspect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T18:29:14.000+0300",
+    "resolution_date": "2024-05-07T16:01:32.000+0300",
+    "updated_date": "2024-05-07T16:01:32.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-271435",
+    "summary": "Moving while being attacked no longer deals knockback correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T18:27:53.000+0300",
+    "resolution_date": "2024-05-07T15:23:55.000+0300",
+    "updated_date": "2024-05-10T12:32:26.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-271434",
+    "summary": "Campfires knockback the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T18:20:59.000+0300",
+    "resolution_date": "2024-05-06T12:56:35.000+0300",
+    "updated_date": "2024-05-06T12:56:35.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271427",
+    "summary": "Sweep attacks no longer trigger consistently",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T17:36:35.000+0300",
+    "resolution_date": "2024-05-07T17:28:24.000+0300",
+    "updated_date": "2024-05-07T17:28:24.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-271423",
+    "summary": "Riptide enchantment does not work properly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T17:24:09.000+0300",
+    "resolution_date": "2024-05-07T16:33:48.000+0300",
+    "updated_date": "2024-05-09T20:23:54.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-271422",
+    "summary": "Soul Speed causes your FOV to change whenever you jump",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T17:24:01.000+0300",
+    "resolution_date": "2024-05-07T16:01:33.000+0300",
+    "updated_date": "2024-05-09T19:08:44.000+0300",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-271406",
+    "summary": "Blocks reappear when mined instantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T16:36:34.000+0300",
+    "resolution_date": "2024-05-07T17:28:16.000+0300",
+    "updated_date": "2024-05-09T22:46:08.000+0300",
+    "watches": 6,
+    "votes": 19
+  },
+  {
+    "id": "MC-271404",
+    "summary": "Breach and Density enchantments aren't mutually exclusive",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Parity"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T16:33:41.000+0300",
+    "resolution_date": "2024-05-07T16:01:32.000+0300",
+    "updated_date": "2024-05-07T16:01:32.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-271402",
+    "summary": "Sharpness and mob-specific damage enchantments reduce attack damage instead of increasing it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T16:30:49.000+0300",
+    "resolution_date": "2024-05-07T16:01:26.000+0300",
+    "updated_date": "2024-05-09T07:53:24.000+0300",
+    "watches": 16,
+    "votes": 18
+  },
+  {
+    "id": "MC-271400",
+    "summary": "The quick charge enchantment on crossbows no longer increases the crossbow loading speed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T16:18:35.000+0300",
+    "resolution_date": "2024-05-07T16:33:48.000+0300",
+    "updated_date": "2024-05-07T16:33:48.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-271398",
+    "summary": "Crafting ingredients remain in the grid after crafting certain items, causing item duplication",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T16:11:20.000+0300",
+    "resolution_date": "2024-05-06T11:22:36.000+0300",
+    "updated_date": "2024-05-10T09:12:05.000+0300",
+    "watches": 31,
+    "votes": 44
+  },
+  {
+    "id": "MC-271170",
+    "summary": "Unexpected error when modifying skull's custom name to an invalid value",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-26T22:28:59.000+0300",
+    "resolution_date": "2024-05-06T16:38:53.000+0300",
+    "updated_date": "2024-05-06T16:38:53.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-271159",
+    "summary": "Banner pattern entries without colors are invalidated when upgrading to 1.20.5",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-26T17:01:42.000+0300",
+    "resolution_date": "2024-05-06T16:38:51.000+0300",
+    "updated_date": "2024-05-06T16:38:51.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-271094",
+    "summary": "Entity ID inside EntityTag is ignored when updating a world to 1.20.5",
+    "labels": [
+      "command",
+      "components",
+      "inventory",
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-24T15:25:41.000+0300",
+    "resolution_date": "2024-05-06T16:38:50.000+0300",
+    "updated_date": "2024-05-06T16:38:50.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-271026",
+    "summary": "Components that set a status effect sometimes lose parts of the data",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-22T08:17:15.000+0300",
+    "resolution_date": "2024-05-06T16:38:49.000+0300",
+    "updated_date": "2024-05-06T16:38:49.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-271005",
+    "summary": "Knowledge books with a max stack size over 1 consume all items in the stack when used",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-21T15:12:01.000+0300",
+    "resolution_date": "2024-05-07T17:42:58.000+0300",
+    "updated_date": "2024-05-07T17:42:58.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271001",
+    "summary": "Items in a container can be given a count above 99 (to max integer), and can crash the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-21T11:48:34.000+0300",
+    "resolution_date": "2024-05-06T18:47:10.000+0300",
+    "updated_date": "2024-05-06T18:47:10.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-270965",
+    "summary": "The data type of the \"minecraft:custom_data\" component of the recipe result will be forcibly modified",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-20T17:14:10.000+0300",
+    "resolution_date": "2024-05-06T16:38:52.000+0300",
+    "updated_date": "2024-05-10T17:10:07.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-270926",
+    "summary": "\"foodSaturationLevel\" can be negative",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-19T17:18:14.000+0300",
+    "resolution_date": "2024-05-06T16:38:54.000+0300",
+    "updated_date": "2024-05-06T16:38:54.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-270818",
+    "summary": "Data generator items report is not deterministic",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-16T14:27:23.000+0300",
+    "resolution_date": "2024-05-06T16:38:51.000+0300",
+    "updated_date": "2024-05-06T16:38:51.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-270779",
+    "summary": "Getting data with /data command from a block/chest with a large amount of data can cause the game to crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-15T19:06:03.000+0300",
+    "resolution_date": "2024-05-06T16:47:45.000+0300",
+    "updated_date": "2024-05-06T16:47:45.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-270687",
+    "summary": "Maces enchanted with wind burst don't reliably protect players from fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-12T18:42:50.000+0300",
+    "resolution_date": "2024-05-07T16:23:15.000+0300",
+    "updated_date": "2024-05-07T16:23:15.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-270684",
+    "summary": "set_attributes loot function doesn't accept an empty list",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-12T18:16:16.000+0300",
+    "resolution_date": "2024-05-06T16:38:52.000+0300",
+    "updated_date": "2024-05-06T16:38:52.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-270635",
+    "summary": "Trial spawners textures are inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-11T17:24:22.000+0300",
+    "resolution_date": "2024-05-07T12:11:11.000+0300",
+    "updated_date": "2024-05-07T12:12:07.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-270296",
+    "summary": "Ominous Item Spawner spawns unstackable arrows with potion effects",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-02T19:03:53.000+0300",
+    "resolution_date": "2024-05-07T11:36:03.000+0300",
+    "updated_date": "2024-05-07T11:36:03.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-269809",
+    "summary": "Feeding an axolotl an oversized tropical fish bucket resets the stack size to 1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-23T16:58:32.000+0200",
+    "resolution_date": "2024-05-07T17:43:01.000+0300",
+    "updated_date": "2024-05-07T17:43:01.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-269717",
+    "summary": "Cauldron deletes overstacked tinted shulker boxes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-21T17:22:31.000+0200",
+    "resolution_date": "2024-05-07T17:42:58.000+0300",
+    "updated_date": "2024-05-07T17:42:58.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-269708",
+    "summary": "Dispensers using an oversized stack of Water Bottles resets the stack size to 1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-21T08:09:45.000+0200",
+    "resolution_date": "2024-05-07T17:42:59.000+0300",
+    "updated_date": "2024-05-07T17:42:59.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-269686",
+    "summary": "Oversized music disc stacks can be duplicated with jukeboxes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-21T01:53:55.000+0200",
+    "resolution_date": "2024-05-07T17:42:57.000+0300",
+    "updated_date": "2024-05-07T17:42:57.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-269685",
+    "summary": "Buckets are lost when consuming oversized milk buckets",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-21T01:48:04.000+0200",
+    "resolution_date": "2024-05-07T17:43:00.000+0300",
+    "updated_date": "2024-05-07T17:43:00.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-269674",
+    "summary": "Oversized book and quill stacks reset count when signed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-20T22:36:21.000+0200",
+    "resolution_date": "2024-05-07T17:42:57.000+0300",
+    "updated_date": "2024-05-07T17:42:57.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-269642",
+    "summary": "Eating an oversized Soup / Stew resets the stack size to 1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-20T18:32:41.000+0200",
+    "resolution_date": "2024-05-07T17:42:56.000+0300",
+    "updated_date": "2024-05-07T17:42:56.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-269633",
+    "summary": "Placing an oversized filled bucket resets the stack size to 1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-20T18:16:13.000+0200",
+    "resolution_date": "2024-05-07T17:43:00.000+0300",
+    "updated_date": "2024-05-07T20:06:05.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-269601",
+    "summary": "Mace smash attack does not knock back other players when they are not the attacked entity",
+    "labels": [
+      "knockback",
+      "mace",
+      "mace-smash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Networking",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-20T05:02:07.000+0200",
+    "resolution_date": "2024-05-07T16:41:38.000+0300",
+    "updated_date": "2024-05-07T16:41:38.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-269318",
+    "summary": "Books placed on a lectern in creative mode are consumed",
+    "labels": [
+      "book-and-quill",
+      "lectern"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-03-13T17:03:19.000+0200",
+    "resolution_date": "2024-05-07T17:43:56.000+0300",
+    "updated_date": "2024-05-07T17:43:56.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-268772",
+    "summary": "Fall damage multiplier attribute has unintuitive coloring",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-02-26T05:34:13.000+0200",
+    "resolution_date": "2024-05-06T16:38:53.000+0300",
+    "updated_date": "2024-05-06T16:38:53.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-267981",
+    "summary": "The \"Trial Spawner crackles\" subtitle is only displayed for a split second upon the \"minecraft:block.trial_spawner.ambient\" sound being played",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-01-19T18:02:29.000+0200",
+    "resolution_date": "2024-05-07T11:34:17.000+0300",
+    "updated_date": "2024-05-07T11:34:17.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-267951",
+    "summary": "The game freezes and eventually crashes when creating a world with the \"spawnChunkRadius\" gamerule set to high values",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-01-18T18:06:52.000+0200",
+    "resolution_date": "2024-05-06T11:15:18.000+0300",
+    "updated_date": "2024-05-06T11:15:18.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-267947",
+    "summary": "Ender pearls can teleport players in spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-01-18T17:22:25.000+0200",
+    "resolution_date": "2024-05-07T14:40:18.000+0300",
+    "updated_date": "2024-05-07T14:40:18.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-253791",
+    "summary": "Frogs suffocating when growing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2022-07-02T05:13:06.000+0300",
+    "resolution_date": "2024-05-07T14:32:37.000+0300",
+    "updated_date": "2024-05-07T17:29:59.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-252846",
+    "summary": "Mobs can pass through fences with carpets on top when growing up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2022-06-11T21:43:07.000+0300",
+    "resolution_date": "2024-05-07T14:32:36.000+0300",
+    "updated_date": "2024-05-07T14:32:36.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-175619",
+    "summary": "Dispenser drops honey bottle unless empty slot is available",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2020-03-21T21:11:20.000+0200",
+    "resolution_date": "2024-05-07T17:42:59.000+0300",
+    "updated_date": "2024-05-07T17:42:59.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-96198",
+    "summary": "Boats / rafts move into blocks when landing in less than one block deep water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2016-01-28T18:34:35.000+0200",
+    "resolution_date": "2024-05-07T14:40:21.000+0300",
+    "updated_date": "2024-05-07T14:40:21.000+0300",
+    "watches": 16,
+    "votes": 29
+  },
+  {
+    "id": "MC-26304",
+    "summary": "Brewing stands reset brew cycle when unloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2013-07-17T01:51:51.000+0300",
+    "resolution_date": "2024-05-07T14:40:20.000+0300",
+    "updated_date": "2024-05-07T14:40:20.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-16345",
+    "summary": "Reducing the player's base max health using /attribute does not always reduce their current health",
+    "labels": [
+      "attribute",
+      "health",
+      "max_health"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2013-05-24T08:57:58.000+0300",
+    "resolution_date": "2024-05-07T14:40:20.000+0300",
+    "updated_date": "2024-05-07T14:40:20.000+0300",
+    "watches": 18,
+    "votes": 48
+  },
+  {
+    "id": "MC-14923",
+    "summary": "Players can be kicked for spamming in a singleplayer world with cheats disabled",
+    "labels": [
+      "crash",
+      "singleplayer",
+      "spamming"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2013-04-29T06:51:46.000+0300",
+    "resolution_date": "2024-05-07T14:40:19.000+0300",
+    "updated_date": "2024-05-07T14:40:19.000+0300",
+    "watches": 21,
+    "votes": 35
+  },
+  {
+    "id": "MC-9644",
+    "summary": "Launched falling_block entities do not travel through portals",
+    "labels": [
+      "falling_block",
+      "nether_portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2013-02-12T00:55:42.000+0200",
+    "resolution_date": "2024-05-07T14:40:19.000+0300",
+    "updated_date": "2024-05-07T14:40:19.000+0300",
+    "watches": 16,
+    "votes": 33
+  },
+  {
+    "id": "MC-9568",
+    "summary": "Mobs suffocate / go through blocks when growing up near a solid block",
+    "labels": [
+      "baby",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w05a",
+      "24w19a"
+    ],
+    "creation_date": "2013-02-10T18:16:25.000+0200",
+    "resolution_date": "2024-05-07T14:32:36.000+0300",
+    "updated_date": "2024-05-07T17:29:52.000+0300",
+    "watches": 49,
+    "votes": 179
+  }
+]
