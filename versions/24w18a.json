@@ -1095,6 +1095,25 @@
     "votes": 14
   },
   {
+    "id": "MC-137018",
+    "summary": "Killing rabbits with Looting and Fire Aspect only drops cooked rabbit sometimes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2018-09-23T09:33:43.000+0300",
+    "resolution_date": "2024-05-10T15:53:00.000+0300",
+    "updated_date": "2024-05-10T15:53:00.000+0300",
+    "watches": 12,
+    "votes": 31
+  },
+  {
     "id": "MC-131637",
     "summary": "The slowness effect is applied to entities when the bane of arthropods enchantment is held in the off hand",
     "labels": [
