@@ -57,6 +57,26 @@
     "votes": 2
   },
   {
+    "id": "MC-271654",
+    "summary": "Enchantments granting bonus damage to melee weapons aren't producing particles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments",
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-06T03:27:20.000+0300",
+    "resolution_date": "2024-05-11T14:25:08.000+0300",
+    "updated_date": "2024-05-11T14:25:08.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
     "id": "MC-271652",
     "summary": "Holding items enchanted with thorns in your hand no longer works as if you were wearing them",
     "labels": [],
