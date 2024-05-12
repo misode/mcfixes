@@ -451,6 +451,25 @@
     "votes": 32
   },
   {
+    "id": "MC-197270",
+    "summary": "Item icons in F3+F4 screen display over fading in Mojang Studios screen when reloading resource packs using F3+T at the exact same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20 Pre-release 1"
+    ],
+    "creation_date": "2020-08-06T22:55:16.000+0300",
+    "resolution_date": "2024-05-12T16:52:21.000+0300",
+    "updated_date": "2024-05-12T16:52:21.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-196428",
     "summary": "The nausea effect resets its distortion severity when players' NBT data is reloaded",
     "labels": [
