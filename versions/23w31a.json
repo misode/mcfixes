@@ -2141,6 +2141,26 @@
     "votes": 33
   },
   {
+    "id": "MC-178787",
+    "summary": "Sitting on a pig with a saddle without a carrot on a stick makes the pig stand still",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-04-15T17:44:17.000+0300",
+    "resolution_date": "2024-05-12T17:26:10.000+0300",
+    "updated_date": "2024-05-12T17:26:10.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
     "id": "MC-173057",
     "summary": "Text field can scroll when auto completing, so that you do not see what you auto completed",
     "labels": [],
