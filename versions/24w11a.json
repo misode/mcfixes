@@ -543,6 +543,26 @@
     "votes": 5
   },
   {
+    "id": "MC-263873",
+    "summary": "Elements within the statistics menu are not selected in order when using the TAB key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2023-06-27T12:16:51.000+0300",
+    "resolution_date": "2024-05-13T21:56:56.000+0300",
+    "updated_date": "2024-05-13T21:56:56.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
     "id": "MC-260921",
     "summary": "Data is focused last on the statistics screen when using keyboard navigation",
     "labels": [],

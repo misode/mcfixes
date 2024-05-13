@@ -269,6 +269,26 @@
     "votes": 7
   },
   {
+    "id": "MC-271449",
+    "summary": "Player momentum no longer affects ender pearls, eggs, or snowballs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-05-03T19:28:49.000+0300",
+    "resolution_date": "2024-05-13T21:49:45.000+0300",
+    "updated_date": "2024-05-13T21:49:45.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
     "id": "MC-271444",
     "summary": "The fire aspect enchantment can turn on campfires and candles while underwater",
     "labels": [],
