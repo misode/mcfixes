@@ -606,6 +606,25 @@
     "votes": 7
   },
   {
+    "id": "MC-269574",
+    "summary": "Client attribute values may desync from the server after leaving the end",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-03-19T06:00:04.000+0200",
+    "resolution_date": "2024-05-15T20:09:47.000+0300",
+    "updated_date": "2024-05-15T20:09:47.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
     "id": "MC-269147",
     "summary": "Shearing a bogged spawns mushrooms at the bogged's feet",
     "labels": [],
