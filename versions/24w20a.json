@@ -1,0 +1,831 @@
+[
+  {
+    "id": "MC-271948",
+    "summary": "Entering the Nether breaks the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-12T19:17:48.000+0300",
+    "resolution_date": "2024-05-15T10:40:05.000+0300",
+    "updated_date": "2024-05-15T15:17:28.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-271937",
+    "summary": "Strike a villager with channeling trident in thunder doesn't obtain the advancement \"Very Very Frightening\"",
+    "labels": [
+      "Advancements",
+      "channeling",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-12T15:55:29.000+0300",
+    "resolution_date": "2024-05-13T17:54:30.000+0300",
+    "updated_date": "2024-05-15T13:18:17.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-271896",
+    "summary": "Using Shift+F3+I on a villager crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-11T18:30:43.000+0300",
+    "resolution_date": "2024-05-15T14:31:26.000+0300",
+    "updated_date": "2024-05-15T14:31:26.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271881",
+    "summary": "Soul speed doesn't soul make particles.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-11T08:24:15.000+0300",
+    "resolution_date": "2024-05-15T13:14:58.000+0300",
+    "updated_date": "2024-05-15T13:14:58.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-271863",
+    "summary": "Crafter recipe gets stuck on an item with a similar recipe",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-11T01:19:15.000+0300",
+    "resolution_date": "2024-05-14T16:49:07.000+0300",
+    "updated_date": "2024-05-14T16:49:07.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-271854",
+    "summary": "Trying to generate new chunks crashes the server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Dedicated Server"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-10T18:46:06.000+0300",
+    "resolution_date": "2024-05-15T10:40:05.000+0300",
+    "updated_date": "2024-05-15T10:40:05.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-271853",
+    "summary": "Random \"Failed to store chunk\" error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-10T18:45:58.000+0300",
+    "resolution_date": "2024-05-14T16:41:00.000+0300",
+    "updated_date": "2024-05-14T16:41:00.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-271803",
+    "summary": "Custom enchantment with very large max level causes game to hang after opening Creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-09T16:57:12.000+0300",
+    "resolution_date": "2024-05-15T09:54:32.000+0300",
+    "updated_date": "2024-05-15T09:54:32.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-271716",
+    "summary": "Fraction value provider allows division by zero",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-07T15:15:02.000+0300",
+    "resolution_date": "2024-05-15T09:54:34.000+0300",
+    "updated_date": "2024-05-15T09:54:34.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-271715",
+    "summary": "Crash when the sum of enchantments' weights overflow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-07T14:39:19.000+0300",
+    "resolution_date": "2024-05-15T09:54:35.000+0300",
+    "updated_date": "2024-05-15T09:54:35.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271678",
+    "summary": "damage_item enchantment entity effect doesn't break items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-06T17:46:07.000+0300",
+    "resolution_date": "2024-05-15T11:30:05.000+0300",
+    "updated_date": "2024-05-15T17:22:49.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-271636",
+    "summary": "Attempting to modify NBT of killer rabbit throws unexpected error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-05T22:07:37.000+0300",
+    "resolution_date": "2024-05-14T16:49:05.000+0300",
+    "updated_date": "2024-05-14T16:49:05.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-271629",
+    "summary": "Channeling doesn't work / \"post_attack\" effect requires enchanted item to be in the mainhand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-05T19:24:31.000+0300",
+    "resolution_date": "2024-05-13T17:54:31.000+0300",
+    "updated_date": "2024-05-13T17:54:31.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-271583",
+    "summary": "Soul speed no longer works through partial blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-05T03:06:23.000+0300",
+    "resolution_date": "2024-05-14T11:49:51.000+0300",
+    "updated_date": "2024-05-14T11:49:51.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-271574",
+    "summary": "Inlining a painting variant causes players to disconnect when receiving entity data",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-05T00:56:12.000+0300",
+    "resolution_date": "2024-05-14T16:49:05.000+0300",
+    "updated_date": "2024-05-14T16:49:05.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271566",
+    "summary": "Game crash on insufficient \"ammo_use\" amount",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-04T21:26:30.000+0300",
+    "resolution_date": "2024-05-14T16:49:06.000+0300",
+    "updated_date": "2024-05-14T16:49:06.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-271547",
+    "summary": "Can't immediately sprint jump into a 2 block ceiling when standing next to it since 24w18a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-04T16:04:09.000+0300",
+    "resolution_date": "2024-05-14T16:49:06.000+0300",
+    "updated_date": "2024-05-14T16:49:06.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-271533",
+    "summary": "Throwing channeling trident at mobs under thunderstorm in survival no longer summon lightning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-04T12:20:30.000+0300",
+    "resolution_date": "2024-05-15T17:40:10.000+0300",
+    "updated_date": "2024-05-15T17:40:10.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-271532",
+    "summary": "Mace only loses durability during smash attacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-04T11:14:15.000+0300",
+    "resolution_date": "2024-05-13T10:43:44.000+0300",
+    "updated_date": "2024-05-13T10:48:54.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-271468",
+    "summary": "Game crashes with custom enchantment's \"rotated_block_provider\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-03T21:49:39.000+0300",
+    "resolution_date": "2024-05-14T16:49:07.000+0300",
+    "updated_date": "2024-05-14T16:49:07.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-271462",
+    "summary": "Buttons make the deactivation sound when pressed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-03T20:50:52.000+0300",
+    "resolution_date": "2024-05-13T10:36:10.000+0300",
+    "updated_date": "2024-05-13T10:36:10.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-271414",
+    "summary": "Damage command at position applies knockback in random direction",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-03T17:05:22.000+0300",
+    "resolution_date": "2024-05-15T13:06:39.000+0300",
+    "updated_date": "2024-05-15T13:06:39.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-271360",
+    "summary": "Horse armor and wolf armor are deleted when used on an armor stand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-05-02T20:45:15.000+0300",
+    "resolution_date": "2024-05-15T09:54:33.000+0300",
+    "updated_date": "2024-05-15T09:54:33.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-271244",
+    "summary": "Auto-save text does not respect \"Text Background\" setting in accessibility settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-04-28T13:27:22.000+0300",
+    "resolution_date": "2024-05-14T16:56:49.000+0300",
+    "updated_date": "2024-05-14T16:56:49.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-271168",
+    "summary": "Demo timer does not respect \"Text Background\" setting",
+    "labels": [
+      "Accessibility",
+      "UI"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-04-26T22:05:29.000+0300",
+    "resolution_date": "2024-05-14T16:56:49.000+0300",
+    "updated_date": "2024-05-14T16:56:49.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-271034",
+    "summary": "List entries in the Social interaction menu are rendered over the background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-04-22T18:29:54.000+0300",
+    "resolution_date": "2024-05-14T16:56:48.000+0300",
+    "updated_date": "2024-05-14T16:56:48.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-270637",
+    "summary": "maxEntityCramming set to 0 prevents slime spawning from oozing effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-04-11T17:34:51.000+0300",
+    "resolution_date": "2024-05-15T12:05:53.000+0300",
+    "updated_date": "2024-05-15T16:55:30.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-270539",
+    "summary": "The blast protection enchantment, when applied to horse armor, no longer diminishes the knockback effect from explosions on horse",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-04-08T21:08:23.000+0300",
+    "resolution_date": "2024-05-15T09:54:33.000+0300",
+    "updated_date": "2024-05-15T09:54:33.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-270301",
+    "summary": "The fire protection enchantment applied to horse armor no longer decreases the duration of time the horse remains ablaze",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-04-02T23:24:35.000+0300",
+    "resolution_date": "2024-05-15T09:54:32.000+0300",
+    "updated_date": "2024-05-15T09:54:32.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-270052",
+    "summary": "Blur levels below 10% do not appear to actually work",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-03-28T15:38:15.000+0200",
+    "resolution_date": "2024-05-14T16:56:50.000+0300",
+    "updated_date": "2024-05-14T16:56:50.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-269951",
+    "summary": "When the gamerule \"doImmediateRespawn\" is set to true, the Wind Charged, Oozing or Weaving effects don't function for players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-03-27T19:36:08.000+0200",
+    "resolution_date": "2024-05-13T14:52:36.000+0300",
+    "updated_date": "2024-05-13T14:52:36.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-269147",
+    "summary": "Shearing a bogged spawns mushrooms at the bogged's feet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-03-06T23:41:26.000+0200",
+    "resolution_date": "2024-05-13T16:46:19.000+0300",
+    "updated_date": "2024-05-15T13:16:39.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-269036",
+    "summary": "Bogged do not drop mushrooms when sheared with doMobLoot false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-03-03T01:18:46.000+0200",
+    "resolution_date": "2024-05-13T16:46:19.000+0300",
+    "updated_date": "2024-05-13T16:46:19.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-268598",
+    "summary": "The \"weight\" of skeletons in swamp biomes is too high causing less bogged spawns",
+    "labels": [
+      "bogged"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-02-15T11:13:55.000+0200",
+    "resolution_date": "2024-05-13T16:46:18.000+0300",
+    "updated_date": "2024-05-13T16:46:18.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-268370",
+    "summary": "Japanese CJK variants use the same diacritic",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-02-07T23:38:16.000+0200",
+    "resolution_date": "2024-05-15T12:59:11.000+0300",
+    "updated_date": "2024-05-15T12:59:11.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-268113",
+    "summary": "the minecraft:generic.scale attribute is desynchronized when the player leaves the End dimension via an End portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-01-27T17:20:59.000+0200",
+    "resolution_date": "2024-05-14T16:14:54.000+0300",
+    "updated_date": "2024-05-14T16:14:54.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-267230",
+    "summary": "Hangul fonts are rendered with missing pixels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Internationalisation",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2023-12-08T20:52:55.000+0200",
+    "resolution_date": "2024-05-15T12:59:12.000+0300",
+    "updated_date": "2024-05-15T13:22:45.000+0300",
+    "watches": 8,
+    "votes": 8
+  },
+  {
+    "id": "MC-181604",
+    "summary": "Exiting the end portal resets player attributes to their default values",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2020-04-30T02:41:04.000+0300",
+    "resolution_date": "2024-05-14T16:14:54.000+0300",
+    "updated_date": "2024-05-14T16:14:54.000+0300",
+    "watches": 12,
+    "votes": 23
+  },
+  {
+    "id": "MC-179940",
+    "summary": "Player's attributes reset back to default values upon respawning",
+    "labels": [
+      "death",
+      "health"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2020-04-22T21:53:08.000+0300",
+    "resolution_date": "2024-05-14T16:14:55.000+0300",
+    "updated_date": "2024-05-14T16:38:42.000+0300",
+    "watches": 33,
+    "votes": 57
+  },
+  {
+    "id": "MC-137719",
+    "summary": "The player's horizontal motion doesn't affect fired projectiles in certain situations",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2018-10-25T00:08:26.000+0300",
+    "resolution_date": "2024-05-15T13:14:58.000+0300",
+    "updated_date": "2024-05-15T13:14:58.000+0300",
+    "watches": 7,
+    "votes": 20
+  },
+  {
+    "id": "MC-83590",
+    "summary": "Armor attributes list can be too long",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2015-07-30T00:52:17.000+0300",
+    "resolution_date": "2024-05-15T09:54:34.000+0300",
+    "updated_date": "2024-05-15T15:17:05.000+0300",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-6431",
+    "summary": "Status effects are lost when returning to the overworld from the exit end portal",
+    "labels": [
+      "effect",
+      "end_portal",
+      "overworld",
+      "potion-effect"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2013-01-06T21:33:41.000+0200",
+    "resolution_date": "2024-05-14T16:14:55.000+0300",
+    "updated_date": "2024-05-14T19:41:56.000+0300",
+    "watches": 53,
+    "votes": 133
+  }
+]
