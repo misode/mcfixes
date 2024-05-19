@@ -765,6 +765,25 @@
     "votes": 8
   },
   {
+    "id": "MC-255218",
+    "summary": "Fly mode is disabled after teleporting from the End to the Overworld through the end portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2022-08-14T22:33:06.000+0300",
+    "resolution_date": "2024-05-20T01:36:43.000+0300",
+    "updated_date": "2024-05-20T01:36:43.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
     "id": "MC-181604",
     "summary": "Exiting the end portal resets player attributes to their default values",
     "labels": [],
@@ -824,6 +843,25 @@
     "updated_date": "2024-05-15T23:10:35.000+0300",
     "watches": 8,
     "votes": 20
+  },
+  {
+    "id": "MC-101170",
+    "summary": "Portal sound doesn't get played when returning from End",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2016-04-22T16:23:14.000+0300",
+    "resolution_date": "2024-05-20T01:37:09.000+0300",
+    "updated_date": "2024-05-20T01:37:09.000+0300",
+    "watches": 4,
+    "votes": 5
   },
   {
     "id": "MC-83590",
