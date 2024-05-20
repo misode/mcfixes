@@ -264,5 +264,25 @@
     "updated_date": "2024-02-07T12:16:57.000+0200",
     "watches": 16,
     "votes": 35
+  },
+  {
+    "id": "MC-71977",
+    "summary": "Changing generic.attack_damage of tamed wolf has no effect / taming wolf removes custom generic.attack_damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2014-09-17T01:26:17.000+0300",
+    "resolution_date": "2024-05-20T22:14:47.000+0300",
+    "updated_date": "2024-05-20T22:14:47.000+0300",
+    "watches": 22,
+    "votes": 32
   }
 ]

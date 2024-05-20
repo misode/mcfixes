@@ -1077,6 +1077,25 @@
     "votes": 4
   },
   {
+    "id": "MC-267968",
+    "summary": "Medium slimes from trial chamber spawners take damage incorrectly when first hit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-01-19T01:29:12.000+0200",
+    "resolution_date": "2024-05-20T22:14:53.000+0300",
+    "updated_date": "2024-05-20T22:15:32.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
     "id": "MC-267951",
     "summary": "The game freezes and eventually crashes when creating a world with the \"spawnChunkRadius\" gamerule set to high values",
     "labels": [],
@@ -1153,6 +1172,53 @@
     "votes": 2
   },
   {
+    "id": "MC-195931",
+    "summary": "Incorrect amount of damage heart particles shown when hitting some entities for the first time",
+    "labels": [
+      "donkey",
+      "horse",
+      "mule",
+      "particle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2020-07-24T00:01:27.000+0300",
+    "resolution_date": "2024-05-20T22:14:51.000+0300",
+    "updated_date": "2024-05-20T22:14:51.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-178383",
+    "summary": "Horses, donkeys, mules and llamas spawned from spawn eggs or /summon command have 53 health",
+    "labels": [
+      "data",
+      "horse",
+      "summon"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2020-04-12T16:24:22.000+0300",
+    "resolution_date": "2024-05-20T22:14:50.000+0300",
+    "updated_date": "2024-05-20T22:14:50.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
     "id": "MC-175619",
     "summary": "Dispenser drops honey bottle unless empty slot is available",
     "labels": [],
@@ -1172,6 +1238,25 @@
     "votes": 3
   },
   {
+    "id": "MC-110815",
+    "summary": "Slimes are summoned with the wrong amount of health",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2016-11-27T01:34:15.000+0200",
+    "resolution_date": "2024-05-20T22:14:49.000+0300",
+    "updated_date": "2024-05-20T22:15:32.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
     "id": "MC-96198",
     "summary": "Boats / rafts move into blocks when landing in less than one block deep water",
     "labels": [],
@@ -1189,6 +1274,29 @@
     "updated_date": "2024-05-07T14:40:21.000+0300",
     "watches": 17,
     "votes": 29
+  },
+  {
+    "id": "MC-93833",
+    "summary": "Only if Health is provided maxHealth attribute is used as maximum Health value",
+    "labels": [
+      "attribute",
+      "health",
+      "maxHealth"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2015-12-04T22:33:02.000+0200",
+    "resolution_date": "2024-05-20T22:14:48.000+0300",
+    "updated_date": "2024-05-20T22:14:48.000+0300",
+    "watches": 4,
+    "votes": 6
   },
   {
     "id": "MC-26304",
