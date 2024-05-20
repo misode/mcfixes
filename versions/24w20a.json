@@ -528,6 +528,25 @@
     "votes": 8
   },
   {
+    "id": "MC-270789",
+    "summary": "Only mace smash attacks increment \"Times Used\" stat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2024-04-15T23:39:15.000+0300",
+    "resolution_date": "2024-05-20T12:02:55.000+0300",
+    "updated_date": "2024-05-20T12:02:55.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-270637",
     "summary": "maxEntityCramming set to 0 prevents slime spawning from oozing effect",
     "labels": [],
@@ -659,7 +678,7 @@
     "creation_date": "2024-03-06T23:41:26.000+0200",
     "resolution_date": "2024-05-13T16:46:19.000+0300",
     "updated_date": "2024-05-15T13:16:39.000+0300",
-    "watches": 1,
+    "watches": 2,
     "votes": 4
   },
   {
@@ -680,7 +699,7 @@
     "creation_date": "2024-03-03T01:18:46.000+0200",
     "resolution_date": "2024-05-13T16:46:19.000+0300",
     "updated_date": "2024-05-19T03:47:25.000+0300",
-    "watches": 5,
+    "watches": 6,
     "votes": 6
   },
   {
@@ -701,7 +720,7 @@
     "creation_date": "2024-02-15T11:13:55.000+0200",
     "resolution_date": "2024-05-13T16:46:18.000+0300",
     "updated_date": "2024-05-13T16:46:18.000+0300",
-    "watches": 6,
+    "watches": 7,
     "votes": 4
   },
   {
@@ -721,7 +740,7 @@
     "creation_date": "2024-02-07T23:38:16.000+0200",
     "resolution_date": "2024-05-15T12:59:11.000+0300",
     "updated_date": "2024-05-15T12:59:11.000+0300",
-    "watches": 3,
+    "watches": 4,
     "votes": 8
   },
   {
@@ -741,7 +760,7 @@
     "creation_date": "2024-01-27T17:20:59.000+0200",
     "resolution_date": "2024-05-14T16:14:54.000+0300",
     "updated_date": "2024-05-14T16:14:54.000+0300",
-    "watches": 2,
+    "watches": 3,
     "votes": 4
   },
   {
@@ -761,7 +780,7 @@
     "creation_date": "2023-12-08T20:52:55.000+0200",
     "resolution_date": "2024-05-15T12:59:12.000+0300",
     "updated_date": "2024-05-16T04:21:48.000+0300",
-    "watches": 8,
+    "watches": 9,
     "votes": 8
   },
   {
@@ -780,7 +799,7 @@
     "creation_date": "2022-08-14T22:33:06.000+0300",
     "resolution_date": "2024-05-20T01:36:43.000+0300",
     "updated_date": "2024-05-20T01:36:43.000+0300",
-    "watches": 2,
+    "watches": 3,
     "votes": 1
   },
   {
@@ -800,7 +819,7 @@
     "creation_date": "2020-04-30T02:41:04.000+0300",
     "resolution_date": "2024-05-14T16:14:54.000+0300",
     "updated_date": "2024-05-14T16:14:54.000+0300",
-    "watches": 12,
+    "watches": 13,
     "votes": 23
   },
   {
@@ -822,7 +841,7 @@
     "creation_date": "2020-04-22T21:53:08.000+0300",
     "resolution_date": "2024-05-14T16:14:55.000+0300",
     "updated_date": "2024-05-14T16:38:42.000+0300",
-    "watches": 33,
+    "watches": 34,
     "votes": 57
   },
   {
@@ -841,7 +860,7 @@
     "creation_date": "2018-10-25T00:08:26.000+0300",
     "resolution_date": "2024-05-15T13:14:58.000+0300",
     "updated_date": "2024-05-15T23:10:35.000+0300",
-    "watches": 8,
+    "watches": 9,
     "votes": 20
   },
   {
@@ -860,7 +879,7 @@
     "creation_date": "2016-04-22T16:23:14.000+0300",
     "resolution_date": "2024-05-20T01:37:09.000+0300",
     "updated_date": "2024-05-20T01:37:09.000+0300",
-    "watches": 4,
+    "watches": 5,
     "votes": 5
   },
   {
