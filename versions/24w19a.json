@@ -759,26 +759,6 @@
     "votes": 5
   },
   {
-    "id": "MC-270687",
-    "summary": "Maces enchanted with wind burst don't reliably protect players from fall damage",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Enchantments",
-      "Items"
-    ],
-    "priority": "Important",
-    "fix_versions": [
-      "24w19a"
-    ],
-    "creation_date": "2024-04-12T18:42:50.000+0300",
-    "resolution_date": "2024-05-07T16:23:15.000+0300",
-    "updated_date": "2024-05-07T16:23:15.000+0300",
-    "watches": 1,
-    "votes": 2
-  },
-  {
     "id": "MC-270684",
     "summary": "set_attributes loot function doesn't accept an empty list",
     "labels": [],
