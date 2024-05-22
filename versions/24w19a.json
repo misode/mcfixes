@@ -1038,6 +1038,25 @@
     "votes": 5
   },
   {
+    "id": "MC-268106",
+    "summary": "Entities' current health is not capped at their max health in all applicable situations",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-01-27T10:01:42.000+0200",
+    "resolution_date": "2024-05-22T20:36:49.000+0300",
+    "updated_date": "2024-05-22T20:36:49.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
     "id": "MC-267981",
     "summary": "The \"Trial Spawner crackles\" subtitle is only displayed for a split second upon the \"minecraft:block.trial_spawner.ambient\" sound being played",
     "labels": [],
