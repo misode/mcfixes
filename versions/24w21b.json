@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MC-272321",
+    "summary": "Crash after upgrading snapshot world to 24w21a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w21b"
+    ],
+    "creation_date": "2024-05-22T18:30:35.000+0300",
+    "resolution_date": "2024-05-22T19:16:04.000+0300",
+    "updated_date": "2024-05-22T20:04:31.000+0300",
+    "watches": 1,
+    "votes": 0
+  }
+]
