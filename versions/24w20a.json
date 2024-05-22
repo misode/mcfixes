@@ -864,6 +864,27 @@
     "votes": 20
   },
   {
+    "id": "MC-124177",
+    "summary": "Teleporting to another dimension loses some client states",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2018-01-11T23:30:56.000+0200",
+    "resolution_date": "2024-05-22T21:43:07.000+0300",
+    "updated_date": "2024-05-22T21:43:07.000+0300",
+    "watches": 29,
+    "votes": 64
+  },
+  {
     "id": "MC-101170",
     "summary": "Portal sound doesn't get played when returning from End",
     "labels": [],
