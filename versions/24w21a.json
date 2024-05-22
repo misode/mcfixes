@@ -1,0 +1,782 @@
+[
+  {
+    "id": "MC-272182",
+    "summary": "Knowledge Books no longer function properly with a stack size of 1 in survival/adventure mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-18T22:07:16.000+0300",
+    "resolution_date": "2024-05-22T12:36:58.000+0300",
+    "updated_date": "2024-05-22T12:36:59.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-272084",
+    "summary": "Creepers with potion effects no longer create area effect clouds upon exploding",
+    "labels": [
+      "area_effect_cloud",
+      "creeper"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Particles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-16T18:43:18.000+0300",
+    "resolution_date": "2024-05-20T11:08:18.000+0300",
+    "updated_date": "2024-05-20T11:08:18.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-272075",
+    "summary": "Attempting to step up while controlling entity and moving fast often glitches",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-16T11:47:50.000+0300",
+    "resolution_date": "2024-05-20T11:08:18.000+0300",
+    "updated_date": "2024-05-22T04:15:30.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-272043",
+    "summary": "The game crashes when entities die while having the oozing effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-15T18:19:18.000+0300",
+    "resolution_date": "2024-05-16T10:02:57.000+0300",
+    "updated_date": "2024-05-22T17:36:34.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-272042",
+    "summary": "If players have max health over 20 and die, when they respawn they will have 20 health instead of their max health",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-15T17:54:16.000+0300",
+    "resolution_date": "2024-05-20T11:08:16.000+0300",
+    "updated_date": "2024-05-20T11:08:16.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-272039",
+    "summary": "Soul Speed uses durability in creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments",
+      "Items",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-15T17:36:20.000+0300",
+    "resolution_date": "2024-05-20T11:08:14.000+0300",
+    "updated_date": "2024-05-20T11:08:14.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271914",
+    "summary": "Soul speed enchantment doesn't emit particles when the entity is controlled by a player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-12T02:09:32.000+0300",
+    "resolution_date": "2024-05-15T17:37:44.000+0300",
+    "updated_date": "2024-05-17T01:36:10.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-271911",
+    "summary": "Frost walker no longer works with void or cave air",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-11T23:01:06.000+0300",
+    "resolution_date": "2024-05-20T11:08:15.000+0300",
+    "updated_date": "2024-05-20T11:08:15.000+0300",
+    "watches": 0,
+    "votes": 5
+  },
+  {
+    "id": "MC-271901",
+    "summary": "Entity effect \"play_sound\" Field \"pitch\" value upper limit is 1.0 instead of 2.0",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-11T20:51:58.000+0300",
+    "resolution_date": "2024-05-20T11:08:15.000+0300",
+    "updated_date": "2024-05-20T11:08:15.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-271868",
+    "summary": "Frost walker replaces flowing water now",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-11T02:04:00.000+0300",
+    "resolution_date": "2024-05-20T11:08:14.000+0300",
+    "updated_date": "2024-05-20T11:08:14.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-271856",
+    "summary": "Crossbows enchanted with Quick Charge do not benefit from its effects when used in the offhand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-10T21:14:09.000+0300",
+    "resolution_date": "2024-05-16T14:25:35.000+0300",
+    "updated_date": "2024-05-17T07:54:50.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-271753",
+    "summary": "Crash due to overflow inside cost calculation in by_cost_with_difficulty",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-08T15:29:08.000+0300",
+    "resolution_date": "2024-05-22T12:44:33.000+0300",
+    "updated_date": "2024-05-22T12:44:33.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-271718",
+    "summary": "Crash when randomized_int_state_provider is applied to blocks lacking the property",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-07T15:42:07.000+0300",
+    "resolution_date": "2024-05-20T11:08:16.000+0300",
+    "updated_date": "2024-05-20T11:08:16.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-271634",
+    "summary": "Custom enchantments don't appear in the creative menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-05T21:56:08.000+0300",
+    "resolution_date": "2024-05-20T11:08:17.000+0300",
+    "updated_date": "2024-05-22T15:44:39.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-271573",
+    "summary": "Attribute Enchantments Don't Behave Properly on Armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-05T00:20:19.000+0300",
+    "resolution_date": "2024-05-21T15:04:09.000+0300",
+    "updated_date": "2024-05-21T15:04:09.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-271458",
+    "summary": "Channeling tridents no longer summon lightning bolt every time hitting lightning rod under thunderstorm",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-05-03T20:22:22.000+0300",
+    "resolution_date": "2024-05-20T22:51:58.000+0300",
+    "updated_date": "2024-05-20T22:51:58.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-270808",
+    "summary": "Any item in the armor.body slot protects wolves from taking damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-04-16T10:29:29.000+0300",
+    "resolution_date": "2024-05-22T12:55:17.000+0300",
+    "updated_date": "2024-05-22T12:55:17.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-270573",
+    "summary": "Mounted entities are immune to wind charge damage",
+    "labels": [
+      "breeze_wind_charge",
+      "entities",
+      "entity",
+      "mount",
+      "projectile",
+      "ride",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-04-10T17:32:19.000+0300",
+    "resolution_date": "2024-05-20T17:27:48.000+0300",
+    "updated_date": "2024-05-20T17:27:48.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-270377",
+    "summary": "Wind charges can be hit and redirected the moment they are thrown",
+    "labels": [
+      "breeze",
+      "breeze_wind_charge",
+      "player",
+      "projectile",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-04-04T16:41:02.000+0300",
+    "resolution_date": "2024-05-21T10:21:24.000+0300",
+    "updated_date": "2024-05-21T10:21:24.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270024",
+    "summary": "When drinking ominous bottles, bad omen of higher levels can be overriden by lower amplifiers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-03-28T10:19:53.000+0200",
+    "resolution_date": "2024-05-21T15:12:09.000+0300",
+    "updated_date": "2024-05-21T15:12:09.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-269988",
+    "summary": "New potion effects don't apply their respective behaviors when creeper explodes",
+    "labels": [
+      "effect",
+      "oozing_effect",
+      "weaving_effect",
+      "wind_charging_effect"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-03-27T23:20:59.000+0200",
+    "resolution_date": "2024-05-16T15:32:35.000+0300",
+    "updated_date": "2024-05-16T15:32:35.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-269964",
+    "summary": "Ominous item spawners are missing an NBT load for spawn_item_after_ticks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Save Data"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-03-27T21:04:21.000+0200",
+    "resolution_date": "2024-05-20T15:56:42.000+0300",
+    "updated_date": "2024-05-20T15:56:42.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-269460",
+    "summary": "Thorns enchantment doesn't work when entities are hit by wind charges",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-03-15T16:24:13.000+0200",
+    "resolution_date": "2024-05-20T11:32:53.000+0300",
+    "updated_date": "2024-05-20T19:58:05.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-269370",
+    "summary": "Sharp lag spike caused by incorrect upper limit on particles created by mace smash attack",
+    "labels": [
+      "fps",
+      "mace",
+      "mace-smash",
+      "particles"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Performance"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-03-14T19:32:39.000+0200",
+    "resolution_date": "2024-05-15T21:33:11.000+0300",
+    "updated_date": "2024-05-15T21:33:12.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-269351",
+    "summary": "The Bolt Armor Trim cannot be duplicated with Waxed Copper Block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-03-14T18:21:50.000+0200",
+    "resolution_date": "2024-05-22T12:21:37.000+0300",
+    "updated_date": "2024-05-22T12:21:37.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-269034",
+    "summary": "Wolves no longer teleport while trying to pathfind out of Lava",
+    "labels": [
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-03-03T01:13:33.000+0200",
+    "resolution_date": "2024-05-22T12:29:25.000+0300",
+    "updated_date": "2024-05-22T12:46:24.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-268438",
+    "summary": "Baby armadillos can still eat while rolled up",
+    "labels": [
+      "armadillo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-02-09T22:16:25.000+0200",
+    "resolution_date": "2024-05-22T12:55:17.000+0300",
+    "updated_date": "2024-05-22T12:55:17.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-267967",
+    "summary": "Breezes ignore the deflects_projectiles entity type tag",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-01-19T01:06:13.000+0200",
+    "resolution_date": "2024-05-20T11:32:54.000+0300",
+    "updated_date": "2024-05-20T11:32:54.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-266626",
+    "summary": "Breeze doesn't stop attacking the player when it enters on the same team",
+    "labels": [
+      "breeze",
+      "mob-behavior",
+      "team"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2023-11-12T01:14:31.000+0200",
+    "resolution_date": "2024-05-20T11:32:54.000+0300",
+    "updated_date": "2024-05-20T11:32:54.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-266586",
+    "summary": "Trial chambers can spawn directly inside the deep dark biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2023-11-10T23:22:49.000+0200",
+    "resolution_date": "2024-05-16T14:44:47.000+0300",
+    "updated_date": "2024-05-16T14:44:47.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-266290",
+    "summary": "Double doors do not automatically form between waxed and unwaxed copper doors, even of the same variant",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2023-11-01T18:53:42.000+0200",
+    "resolution_date": "2024-05-15T23:54:35.000+0300",
+    "updated_date": "2024-05-15T23:54:35.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-260346",
+    "summary": "Custom music discs cut off when vanilla disc would normally end",
+    "labels": [
+      "jukebox",
+      "music_disc"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2023-02-19T03:43:05.000+0200",
+    "resolution_date": "2024-05-21T16:36:05.000+0300",
+    "updated_date": "2024-05-21T20:29:37.000+0300",
+    "watches": 42,
+    "votes": 65
+  },
+  {
+    "id": "MC-170103",
+    "summary": "Untamed wolves only beg for food while being angry and jumping",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2020-01-19T13:13:23.000+0200",
+    "resolution_date": "2024-05-22T12:55:18.000+0300",
+    "updated_date": "2024-05-22T12:55:18.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-151648",
+    "summary": "Non-player entities cannot travel through unlinked nether portals",
+    "labels": [
+      "nether_portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2019-05-12T21:16:59.000+0300",
+    "resolution_date": "2024-05-22T15:11:22.000+0300",
+    "updated_date": "2024-05-22T15:43:24.000+0300",
+    "watches": 16,
+    "votes": 43
+  },
+  {
+    "id": "MC-116279",
+    "summary": "Non-player entities going through Nether portal do not generate portal in Nether if none exists",
+    "labels": [
+      "entity",
+      "nether",
+      "nether_portal",
+      "position",
+      "teleport"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2017-04-18T12:43:53.000+0300",
+    "resolution_date": "2024-05-22T15:11:23.000+0300",
+    "updated_date": "2024-05-22T15:11:23.000+0300",
+    "watches": 11,
+    "votes": 26
+  },
+  {
+    "id": "MC-31819",
+    "summary": "Hunger saturation depletes on peaceful difficulty",
+    "labels": [
+      "hunger",
+      "peaceful",
+      "saturation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2013-09-20T09:06:41.000+0300",
+    "resolution_date": "2024-05-20T11:08:17.000+0300",
+    "updated_date": "2024-05-20T19:59:07.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-67",
+    "summary": "Entities with passengers cannot travel through portals",
+    "labels": [
+      "end_portal",
+      "horse",
+      "minecart",
+      "nether_portal",
+      "passengers"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2012-10-24T19:02:25.000+0300",
+    "resolution_date": "2024-05-22T15:29:33.000+0300",
+    "updated_date": "2024-05-22T15:29:33.000+0300",
+    "watches": 48,
+    "votes": 76
+  }
+]

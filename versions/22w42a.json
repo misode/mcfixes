@@ -1155,6 +1155,28 @@
     "votes": 9
   },
   {
+    "id": "MC-206854",
+    "summary": "Multiplayer warning and Chat Preview warning are off center",
+    "labels": [
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "22w42a",
+      "24w09a"
+    ],
+    "creation_date": "2020-11-27T22:41:38.000+0200",
+    "resolution_date": "2024-05-22T18:00:37.000+0300",
+    "updated_date": "2024-05-22T18:00:37.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
     "id": "MC-202607",
     "summary": "Cat can get off lead by teleporting when it gives a gift after sleeping",
     "labels": [],
