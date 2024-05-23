@@ -335,6 +335,25 @@
     "votes": 2
   },
   {
+    "id": "MC-270749",
+    "summary": "Remote Getaway advancement is not granted when entering a gateway by throwing an ender pearl next to it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2024-04-14T06:44:44.000+0300",
+    "resolution_date": "2024-05-23T11:05:10.000+0300",
+    "updated_date": "2024-05-23T11:05:11.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-270573",
     "summary": "Mounted entities are immune to wind charge damage",
     "labels": [
@@ -641,6 +660,27 @@
     "updated_date": "2024-05-15T23:54:35.000+0300",
     "watches": 2,
     "votes": 6
+  },
+  {
+    "id": "MC-262469",
+    "summary": "The \"Remote Getaway\" advancement isn't granted upon traveling through end gateways while riding boats",
+    "labels": [
+      "end_gateway"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w21a"
+    ],
+    "creation_date": "2023-05-09T00:40:30.000+0300",
+    "resolution_date": "2024-05-23T11:04:16.000+0300",
+    "updated_date": "2024-05-23T11:04:16.000+0300",
+    "watches": 2,
+    "votes": 2
   },
   {
     "id": "MC-260346",
