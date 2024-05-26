@@ -2016,6 +2016,25 @@
     "votes": 4
   },
   {
+    "id": "MC-209220",
+    "summary": "Cursor in Edit Game Rules menu does not blink",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2020-12-22T06:26:18.000+0200",
+    "resolution_date": "2024-05-26T20:22:56.000+0300",
+    "updated_date": "2024-05-26T20:22:56.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-208909",
     "summary": "Axolotl will still be dry on the boat or boat with chest if it's in water when raining",
     "labels": [],
