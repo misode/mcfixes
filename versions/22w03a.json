@@ -754,6 +754,28 @@
     "votes": 32
   },
   {
+    "id": "MC-184549",
+    "summary": "Fallling blocks visually jump up when falling through cobweb",
+    "labels": [
+      "cobweb",
+      "gravity-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w03a"
+    ],
+    "creation_date": "2020-05-20T01:51:06.000+0300",
+    "resolution_date": "2024-05-28T11:49:00.000+0300",
+    "updated_date": "2024-05-28T11:49:01.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-167763",
     "summary": "Blindness does not work underwater for certain graphics cards",
     "labels": [],
