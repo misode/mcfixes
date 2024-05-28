@@ -803,6 +803,25 @@
     "votes": 1
   },
   {
+    "id": "MC-252361",
+    "summary": "Obsidian platform in end is off by a block from entering from the nether compared to overworld",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2022-05-31T00:18:31.000+0300",
+    "resolution_date": "2024-05-28T17:31:13.000+0300",
+    "updated_date": "2024-05-28T17:31:13.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
     "id": "MC-181604",
     "summary": "Exiting the end portal resets player attributes to their default values",
     "labels": [],
