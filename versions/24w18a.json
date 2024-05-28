@@ -660,31 +660,6 @@
     "votes": 7
   },
   {
-    "id": "MC-258497",
-    "summary": "Parity issue: Fire Aspect enchant does not set fire to candles",
-    "labels": [
-      "candle",
-      "fire_aspect",
-      "vanilla-parity"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Block states",
-      "Enchantments",
-      "Parity"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "24w18a"
-    ],
-    "creation_date": "2022-12-13T00:06:42.000+0200",
-    "resolution_date": "2024-04-30T11:48:05.000+0300",
-    "updated_date": "2024-05-03T20:08:26.000+0300",
-    "watches": 15,
-    "votes": 37
-  },
-  {
     "id": "MC-253457",
     "summary": "Cats and Ocelots are immune to Thorns damage",
     "labels": [
