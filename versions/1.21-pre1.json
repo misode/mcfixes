@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "MC-272515",
+    "summary": "Component-Modified Saddles get their components wiped when dispensed onto a horse, mule, or camel.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-28T01:52:49.000+0300",
+    "resolution_date": "2024-05-29T12:17:13.000+0300",
+    "updated_date": "2024-05-29T12:17:13.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-272490",
+    "summary": "@n can select dying entities, unlike @e",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-27T03:22:20.000+0300",
+    "resolution_date": "2024-05-28T11:31:18.000+0300",
+    "updated_date": "2024-05-28T11:31:18.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-272469",
+    "summary": "When the wind charge, fireball or shulker bullet is in the lava, it will continue to make a high-loudness noise",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-26T10:29:55.000+0300",
+    "resolution_date": "2024-05-29T12:36:42.000+0300",
+    "updated_date": "2024-05-29T12:36:42.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-272445",
+    "summary": "Command blocks made from Ctrl + Pick Block do not activate on first try",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-25T13:47:58.000+0300",
+    "resolution_date": "2024-05-28T17:19:38.000+0300",
+    "updated_date": "2024-05-28T17:53:43.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-272442",
+    "summary": "Comparator output of jukebox no longer persists on music disc finish",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-25T09:26:19.000+0300",
+    "resolution_date": "2024-05-29T12:09:39.000+0300",
+    "updated_date": "2024-05-29T12:09:39.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-272438",
+    "summary": "End crystal entities can't go through an End portal anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-25T07:37:21.000+0300",
+    "resolution_date": "2024-05-28T16:49:00.000+0300",
+    "updated_date": "2024-05-28T16:49:00.000+0300",
+    "watches": 7,
+    "votes": 30
+  },
+  {
+    "id": "MC-272430",
+    "summary": "Breaking a Carrot/Warped Fungus on a Stick gives a damaged Fishing Rod",
+    "labels": [
+      "carrot-on-a-stick",
+      "damage",
+      "durability",
+      "fishing-rod",
+      "item-breaking",
+      "warped-fungus-on-a-stick"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-25T01:59:55.000+0300",
+    "resolution_date": "2024-05-28T10:51:08.000+0300",
+    "updated_date": "2024-05-28T10:51:08.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-272427",
+    "summary": "Flame, power, punch, and piercing enchantments no longer work on the last use of the item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-24T23:18:56.000+0300",
+    "resolution_date": "2024-05-27T17:49:21.000+0300",
+    "updated_date": "2024-05-27T17:49:21.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272424",
+    "summary": "Chunks occasionally have large dark areas in the sky",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Lighting"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-24T18:16:12.000+0300",
+    "resolution_date": "2024-05-28T16:32:32.000+0300",
+    "updated_date": "2024-05-28T16:32:32.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272408",
+    "summary": "set_attributes item modifier can add the same attribute modifier twice",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-24T07:10:38.000+0300",
+    "resolution_date": "2024-05-28T10:51:07.000+0300",
+    "updated_date": "2024-05-28T10:51:07.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272406",
+    "summary": "Crash when zombie tries to spawn second reinforcement",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-24T05:54:22.000+0300",
+    "resolution_date": "2024-05-27T14:10:06.000+0300",
+    "updated_date": "2024-05-27T14:10:06.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272403",
+    "summary": "Portal linking chunk loading changes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-24T04:56:26.000+0300",
+    "resolution_date": "2024-05-28T11:47:09.000+0300",
+    "updated_date": "2024-05-28T11:47:09.000+0300",
+    "watches": 11,
+    "votes": 36
+  },
+  {
+    "id": "MC-272400",
+    "summary": "Shield in Inventory with Banner Shows as White",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-24T03:22:56.000+0300",
+    "resolution_date": "2024-05-24T10:04:00.000+0300",
+    "updated_date": "2024-05-25T21:07:54.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-272399",
+    "summary": "Primed TNT entities can't go through an End portal anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-24T03:05:05.000+0300",
+    "resolution_date": "2024-05-29T10:32:26.000+0300",
+    "updated_date": "2024-05-29T10:32:26.000+0300",
+    "watches": 14,
+    "votes": 56
+  },
+  {
+    "id": "MC-272374",
+    "summary": "24w21b will not upgrade attribute_modifiers from previous versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-23T14:42:56.000+0300",
+    "resolution_date": "2024-05-28T10:51:06.000+0300",
+    "updated_date": "2024-05-28T10:51:06.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-272369",
+    "summary": "Can respawn in a solid block with default spawnpoint",
+    "labels": [
+      "respawn",
+      "spawnRadius",
+      "suffocation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-23T07:10:19.000+0300",
+    "resolution_date": "2024-05-28T17:04:06.000+0300",
+    "updated_date": "2024-05-29T00:53:11.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-272365",
+    "summary": "Inventory Images of All Banners are Completely White",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-23T05:56:59.000+0300",
+    "resolution_date": "2024-05-23T13:07:44.000+0300",
+    "updated_date": "2024-05-27T13:14:35.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-272364",
+    "summary": "Players spawn one block above the obsidian platform when entering an end portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-23T04:59:20.000+0300",
+    "resolution_date": "2024-05-29T10:32:27.000+0300",
+    "updated_date": "2024-05-29T10:32:27.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-272361",
+    "summary": "Minecarts and Passengers offset from block when riding through portals ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-23T03:21:43.000+0300",
+    "resolution_date": "2024-05-24T10:10:11.000+0300",
+    "updated_date": "2024-05-24T10:10:11.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-272355",
+    "summary": "Ellipsis text is stringified within NBT text formatter list truncation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-23T00:40:23.000+0300",
+    "resolution_date": "2024-05-23T13:07:44.000+0300",
+    "updated_date": "2024-05-23T13:07:44.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-272347",
+    "summary": "Upgrading from before 24w21a doesn't update structures saved by structure blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T21:38:53.000+0300",
+    "resolution_date": "2024-05-28T11:31:18.000+0300",
+    "updated_date": "2024-05-28T11:31:18.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-272344",
+    "summary": "When teleported by an ender pearl, the \"portal noise fades\" sound is played",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T21:29:09.000+0300",
+    "resolution_date": "2024-05-23T13:15:26.000+0300",
+    "updated_date": "2024-05-29T17:43:36.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-272343",
+    "summary": "Ender pearls don't work when riding an entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T21:22:25.000+0300",
+    "resolution_date": "2024-05-23T18:17:08.000+0300",
+    "updated_date": "2024-05-29T18:00:08.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-272342",
+    "summary": "Typo in mining fatigue attribute ID 'minecraft:effect.minining_fatigue'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T20:36:41.000+0300",
+    "resolution_date": "2024-05-23T16:57:53.000+0300",
+    "updated_date": "2024-05-23T16:57:53.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-272339",
+    "summary": "Holding crossbows in both hands stacks quick charge",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T20:11:23.000+0300",
+    "resolution_date": "2024-05-27T17:24:54.000+0300",
+    "updated_date": "2024-05-27T17:29:10.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-272333",
+    "summary": "The gamerule spawnRadius doesn't work anymore on respawn (always respawn at the same place)",
+    "labels": [
+      "gamerule",
+      "spawnRadius"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T19:17:13.000+0300",
+    "resolution_date": "2024-05-28T17:04:07.000+0300",
+    "updated_date": "2024-05-28T17:04:07.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-272329",
+    "summary": "Riding an entity into portals may cause the game to softlock",
+    "labels": [
+      "desync",
+      "entity",
+      "gamerule",
+      "portal",
+      "softlock"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T19:00:50.000+0300",
+    "resolution_date": "2024-05-28T16:40:26.000+0300",
+    "updated_date": "2024-05-28T16:53:34.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-272328",
+    "summary": "entitiesWithPassengersCanUsePortals game rule description is missing the proper term capitalization",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T18:55:50.000+0300",
+    "resolution_date": "2024-05-23T18:17:07.000+0300",
+    "updated_date": "2024-05-23T18:17:08.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-272322",
+    "summary": "When you are riding an entity through portals, you and the entity may teleport to the wrong place",
+    "labels": [
+      "entity",
+      "gamerules",
+      "portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T18:37:12.000+0300",
+    "resolution_date": "2024-05-28T16:40:27.000+0300",
+    "updated_date": "2024-05-28T16:40:27.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-272315",
+    "summary": "Serial comma is missing from the entitiesWithPassengersCanUsePortals game rule description",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T18:11:01.000+0300",
+    "resolution_date": "2024-05-23T18:17:07.000+0300",
+    "updated_date": "2024-05-23T18:17:07.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-272313",
+    "summary": "The game crashes when attempting to open the realms menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T18:04:57.000+0300",
+    "resolution_date": "2024-05-23T11:21:02.000+0300",
+    "updated_date": "2024-05-29T12:26:16.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-272311",
+    "summary": "The enchantment glint sometimes doesn't render in interfaces and first person",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T18:02:02.000+0300",
+    "resolution_date": "2024-05-23T13:07:43.000+0300",
+    "updated_date": "2024-05-28T13:54:27.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-272308",
+    "summary": "Axolots can be attached to new leads when being already leashed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-22T17:15:15.000+0300",
+    "resolution_date": "2024-05-28T10:58:49.000+0300",
+    "updated_date": "2024-05-28T10:58:49.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272279",
+    "summary": "Resource packs containing TrueType fonts fail to load on x64 macOS systems",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-21T16:31:48.000+0300",
+    "resolution_date": "2024-05-24T10:53:36.000+0300",
+    "updated_date": "2024-05-24T10:53:36.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-272267",
+    "summary": "\"Changes the blurriness of menu background\" lacks punctuation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-21T00:51:22.000+0300",
+    "resolution_date": "2024-05-28T17:27:17.000+0300",
+    "updated_date": "2024-05-29T10:00:02.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-272264",
+    "summary": "Narrator button in Accessibility Settings doesn't update upon pressing Ctrl+B",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-20T23:44:23.000+0300",
+    "resolution_date": "2024-05-28T10:20:04.000+0300",
+    "updated_date": "2024-05-28T10:20:04.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-272258",
+    "summary": "block.portal.travel sound now plays when teleporting to a different dimension using commands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-20T21:50:41.000+0300",
+    "resolution_date": "2024-05-24T10:13:41.000+0300",
+    "updated_date": "2024-05-24T10:13:41.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-272253",
+    "summary": "The strength of the riptide enchantment is increased when holding tridents enchanted with riptide in both hands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-20T19:46:20.000+0300",
+    "resolution_date": "2024-05-27T18:38:40.000+0300",
+    "updated_date": "2024-05-27T18:38:40.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-272198",
+    "summary": "Shulkers' models sometimes appear offset upon end city generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-19T07:59:38.000+0300",
+    "resolution_date": "2024-05-24T10:16:06.000+0300",
+    "updated_date": "2024-05-24T10:16:06.000+0300",
+    "watches": 0,
+    "votes": 5
+  },
+  {
+    "id": "MC-272079",
+    "summary": "Medium/small Slimes and magma cube's attack reach is too short",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-16T13:38:47.000+0300",
+    "resolution_date": "2024-05-29T12:36:43.000+0300",
+    "updated_date": "2024-05-29T12:36:43.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272073",
+    "summary": "Item displays with billboard and rotation values create major visual bug",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-16T10:55:23.000+0300",
+    "resolution_date": "2024-05-23T13:07:45.000+0300",
+    "updated_date": "2024-05-23T13:07:45.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-272053",
+    "summary": "The \"armor_effectiveness\" effect does not work with projectiles or indirect damage",
+    "labels": [
+      "armor",
+      "damage",
+      "datapack",
+      "enchantments",
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-15T22:27:05.000+0300",
+    "resolution_date": "2024-05-28T11:54:48.000+0300",
+    "updated_date": "2024-05-28T11:54:48.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-272038",
+    "summary": "The error \"Can't access registry ResourceKey[minecraft:root / minecraft:game_event]\" is sometimes in the log file",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-15T17:20:12.000+0300",
+    "resolution_date": "2024-05-28T10:51:07.000+0300",
+    "updated_date": "2024-05-28T10:51:07.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-272014",
+    "summary": "Ender Dragon death animation is broken since 20w22a (and broken again in 20w45a)",
+    "labels": [
+      "rendering",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-14T20:48:55.000+0300",
+    "resolution_date": "2024-05-28T11:54:47.000+0300",
+    "updated_date": "2024-05-28T11:54:47.000+0300",
+    "watches": 3,
+    "votes": 13
+  },
+  {
+    "id": "MC-271971",
+    "summary": "Wind Charges sometimes don't prevent fall damage",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-13T18:00:47.000+0300",
+    "resolution_date": "2024-05-29T14:03:21.000+0300",
+    "updated_date": "2024-05-29T14:03:21.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-271929",
+    "summary": "Applying multiple layers of \"using_converts_to\" will produce ghost items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-12T09:49:24.000+0300",
+    "resolution_date": "2024-05-28T11:54:49.000+0300",
+    "updated_date": "2024-05-28T11:54:49.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-271897",
+    "summary": "End Portal makes items disappear",
+    "labels": [
+      "destroying",
+      "duplicated-item",
+      "end",
+      "portal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-11T18:38:10.000+0300",
+    "resolution_date": "2024-05-29T10:32:27.000+0300",
+    "updated_date": "2024-05-29T10:32:27.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-271870",
+    "summary": "random_chance_with_looting function base value is for enchantment level 1",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments",
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-11T02:18:53.000+0300",
+    "resolution_date": "2024-05-28T14:21:34.000+0300",
+    "updated_date": "2024-05-28T14:21:34.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-270981",
+    "summary": "View Bobbing toggle is not available in Accessibility Settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-21T00:12:57.000+0300",
+    "resolution_date": "2024-05-28T17:27:18.000+0300",
+    "updated_date": "2024-05-28T17:27:18.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270821",
+    "summary": "Regular Trial Spawners spawn the first mob with Ominous Trial equipment if they were last active as Ominous",
+    "labels": [
+      "ominous_event",
+      "trial-spawner"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-16T15:17:18.000+0300",
+    "resolution_date": "2024-05-28T10:43:10.000+0300",
+    "updated_date": "2024-05-28T10:43:10.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270795",
+    "summary": "Mobs despawned by Ominous Trial Spawners can delete picked up items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-16T01:36:29.000+0300",
+    "resolution_date": "2024-05-28T12:04:00.000+0300",
+    "updated_date": "2024-05-28T12:04:00.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-270649",
+    "summary": "The width of challenge advancements header is calculated in relation to the slash formatting of progress counter, causing overlap in some languages",
+    "labels": [
+      "interface",
+      "language",
+      "languages",
+      "spacing",
+      "translation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-11T21:59:36.000+0300",
+    "resolution_date": "2024-05-28T11:54:49.000+0300",
+    "updated_date": "2024-05-28T11:54:49.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-270572",
+    "summary": "Programmer Art resource pack duplicates some GUI texture files",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-10T17:24:44.000+0300",
+    "resolution_date": "2024-05-28T14:32:08.000+0300",
+    "updated_date": "2024-05-28T14:32:08.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-270181",
+    "summary": "Wind charges go through an entity if it is close to a player",
+    "labels": [
+      "breeze_wind_charge",
+      "collision",
+      "entity",
+      "item",
+      "player",
+      "projectile",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Items",
+      "Parity",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-31T11:32:37.000+0300",
+    "resolution_date": "2024-05-29T14:03:58.000+0300",
+    "updated_date": "2024-05-29T14:03:58.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-269921",
+    "summary": "Wind charges can be thrown though corners",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-26T17:01:21.000+0200",
+    "resolution_date": "2024-05-29T14:03:10.000+0300",
+    "updated_date": "2024-05-29T14:03:10.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-268185",
+    "summary": "Copper grates in trial chambers are waterlogged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-01-31T22:02:29.000+0200",
+    "resolution_date": "2024-05-27T19:00:34.000+0300",
+    "updated_date": "2024-05-27T19:00:34.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-268023",
+    "summary": "The \"selectWorld.experimental.details.title\" string displayed within the experimental features details menu is improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-01-21T17:12:45.000+0200",
+    "resolution_date": "2024-05-28T17:11:59.000+0300",
+    "updated_date": "2024-05-28T17:11:59.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267954",
+    "summary": "World upgrade and downgrade realms strings are improperly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-01-18T18:44:39.000+0200",
+    "resolution_date": "2024-05-28T17:11:59.000+0300",
+    "updated_date": "2024-05-28T17:11:59.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-267474",
+    "summary": "Strings referencing the player's off hand are inconsistently spelled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2023-12-20T15:16:37.000+0200",
+    "resolution_date": "2024-05-28T17:11:58.000+0300",
+    "updated_date": "2024-05-28T17:11:58.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-267071",
+    "summary": "The word \"packs\" within the \"download.pack.failed\" string is always pluralized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-28T14:41:37.000+0200",
+    "resolution_date": "2024-05-28T17:12:01.000+0300",
+    "updated_date": "2024-05-28T17:12:01.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-267050",
+    "summary": "Chat disabled strings are missing verbs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-27T14:57:11.000+0200",
+    "resolution_date": "2024-05-28T17:12:01.000+0300",
+    "updated_date": "2024-05-28T17:12:01.000+0300",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-266471",
+    "summary": "Trial chambers can intersect aquifers, causing some blocks inside the structure to be waterlogged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2023-11-08T20:04:28.000+0200",
+    "resolution_date": "2024-05-27T19:00:34.000+0300",
+    "updated_date": "2024-05-27T19:00:34.000+0300",
+    "watches": 11,
+    "votes": 23
+  },
+  {
+    "id": "MC-266140",
+    "summary": "The \"Open link\" button within the realms menu is improperly capitalized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2023-10-26T13:00:20.000+0300",
+    "resolution_date": "2024-05-28T17:12:00.000+0300",
+    "updated_date": "2024-05-28T17:12:00.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-265818",
+    "summary": "The \"gamerule.doVinesSpread.description\" string consists of grammatically incorrect word usage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2023-10-14T13:51:23.000+0300",
+    "resolution_date": "2024-05-28T17:12:00.000+0300",
+    "updated_date": "2024-05-28T17:12:00.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-265583",
+    "summary": "Incorrect pluralization for skin customization strings for pants",
+    "labels": [
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2023-09-28T14:54:44.000+0300",
+    "resolution_date": "2024-05-28T17:12:02.000+0300",
+    "updated_date": "2024-05-28T17:12:02.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-191591",
+    "summary": "Saddles lose their NBT data when equipped on horses, zombie horses, skeleton horses, mules or donkeys via right-clicking",
+    "labels": [
+      "donkey",
+      "horse",
+      "mule",
+      "saddle",
+      "skeleton_horse",
+      "zombie_horse"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2020-06-24T18:26:05.000+0300",
+    "resolution_date": "2024-05-29T12:17:13.000+0300",
+    "updated_date": "2024-05-29T12:17:13.000+0300",
+    "watches": 7,
+    "votes": 21
+  },
+  {
+    "id": "MC-172031",
+    "summary": "Throwing an ender pearl into a Nether or End portal often has no effect",
+    "labels": [
+      "ender_pearl"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2020-02-13T20:41:12.000+0200",
+    "resolution_date": "2024-05-23T18:17:06.000+0300",
+    "updated_date": "2024-05-23T18:17:07.000+0300",
+    "watches": 12,
+    "votes": 20
+  },
+  {
+    "id": "MC-170907",
+    "summary": "Network position deltas are processed relative to a wrong point",
+    "labels": [
+      "multiplayer",
+      "rendering",
+      "server"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2020-02-05T21:43:48.000+0200",
+    "resolution_date": "2024-05-24T10:16:06.000+0300",
+    "updated_date": "2024-05-24T10:16:06.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
+    "id": "MC-169698",
+    "summary": "Blocks within igloo basements can generate waterlogged when generating in close proximity to water",
+    "labels": [
+      "igloo"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2020-01-11T03:24:34.000+0200",
+    "resolution_date": "2024-05-27T19:00:35.000+0300",
+    "updated_date": "2024-05-27T19:00:35.000+0300",
+    "watches": 21,
+    "votes": 48
+  },
+  {
+    "id": "MC-160140",
+    "summary": "Shulker boxes on the obsidian platform are destroyed and do not drop when a player enters the End",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2019-08-31T00:19:22.000+0300",
+    "resolution_date": "2024-05-29T10:26:49.000+0300",
+    "updated_date": "2024-05-29T10:26:49.000+0300",
+    "watches": 5,
+    "votes": 14
+  },
+  {
+    "id": "MC-148741",
+    "summary": "Selection boxes in some screens are misaligned in comparison with their text",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2019-04-19T06:38:23.000+0300",
+    "resolution_date": "2024-05-28T17:27:17.000+0300",
+    "updated_date": "2024-05-28T17:27:17.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-114566",
+    "summary": "Can't teleport back to the central island with End Gateway Portal on outer End islands",
+    "labels": [
+      "end_gateway"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2017-03-15T04:06:30.000+0200",
+    "resolution_date": "2024-05-23T18:17:08.000+0300",
+    "updated_date": "2024-05-23T18:17:08.000+0300",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-97087",
+    "summary": "Attributes won't work in main hand if they were in offhand",
+    "labels": [
+      "attribute",
+      "item",
+      "main-hand",
+      "off-hand"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2016-02-14T17:17:06.000+0200",
+    "resolution_date": "2024-05-27T17:40:34.000+0300",
+    "updated_date": "2024-05-27T17:40:34.000+0300",
+    "watches": 8,
+    "votes": 27
+  },
+  {
+    "id": "MC-50612",
+    "summary": "Command blocks do not update when you place them near any source of power",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2014-03-08T18:59:28.000+0200",
+    "resolution_date": "2024-05-28T17:19:39.000+0300",
+    "updated_date": "2024-05-28T17:53:43.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-902",
+    "summary": "The end obsidian platform resets every time entities go through the end portal, which can cause blocks to be deleted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2012-10-27T19:06:30.000+0300",
+    "resolution_date": "2024-05-28T16:55:38.000+0300",
+    "updated_date": "2024-05-29T17:46:04.000+0300",
+    "watches": 24,
+    "votes": 34
+  }
+]
