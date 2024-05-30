@@ -939,6 +939,35 @@
     "votes": 5
   },
   {
+    "id": "MC-271293",
+    "summary": "Wind charge, fireball and shulker bullet makes a \"Burning\" sound as it passes through the lava",
+    "labels": [
+      "breeze_wind_charge",
+      "burn",
+      "burning",
+      "fireball",
+      "lava",
+      "shulker_bullet",
+      "sound",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-04-30T20:31:10.000+0300",
+    "resolution_date": "2024-05-30T17:09:08.000+0300",
+    "updated_date": "2024-05-30T17:09:08.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-270981",
     "summary": "View Bobbing toggle is not available in Accessibility Settings",
     "labels": [],
