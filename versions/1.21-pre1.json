@@ -939,6 +939,26 @@
     "votes": 5
   },
   {
+    "id": "MC-271446",
+    "summary": "Mace attack speed was lowered to a point where Wind Burst 1 smash attacks are performed on uncharged attacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-03T19:16:09.000+0300",
+    "resolution_date": "2024-05-31T11:33:08.000+0300",
+    "updated_date": "2024-05-31T11:33:08.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
     "id": "MC-271293",
     "summary": "Wind charge, fireball and shulker bullet makes a \"Burning\" sound as it passes through the lava",
     "labels": [
@@ -1529,7 +1549,7 @@
     "creation_date": "2012-10-27T19:06:30.000+0300",
     "resolution_date": "2024-05-28T16:55:38.000+0300",
     "updated_date": "2024-05-30T00:48:27.000+0300",
-    "watches": 24,
+    "watches": 25,
     "votes": 34
   }
 ]
