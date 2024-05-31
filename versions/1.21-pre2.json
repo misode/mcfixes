@@ -1,0 +1,574 @@
+[
+  {
+    "id": "MC-272650",
+    "summary": "Can respawn mid-air with default spawnpoint",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-30T15:39:25.000+0300",
+    "resolution_date": "2024-05-31T13:01:25.000+0300",
+    "updated_date": "2024-05-31T13:01:25.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-272639",
+    "summary": "trial_spawner_bottom texture is different from Bedrock",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-30T11:38:48.000+0300",
+    "resolution_date": "2024-05-31T11:53:35.000+0300",
+    "updated_date": "2024-05-31T13:22:00.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-272638",
+    "summary": "Leads attached to a boat are deleted when breaking the boat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-30T11:27:25.000+0300",
+    "resolution_date": "2024-05-31T13:41:43.000+0300",
+    "updated_date": "2024-05-31T13:41:43.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-272625",
+    "summary": "Game crashes when saving after teleporting a leashed entity to another dimension",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-30T08:54:17.000+0300",
+    "resolution_date": "2024-05-30T16:28:03.000+0300",
+    "updated_date": "2024-05-30T20:19:28.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-272596",
+    "summary": "Throwing an ender pearl into the end fountain skips the credits",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T23:19:03.000+0300",
+    "resolution_date": "2024-05-31T12:30:39.000+0300",
+    "updated_date": "2024-05-31T12:30:39.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-272595",
+    "summary": "Breaking a Carrot/Warped Fungus on a Stick no longer gives a Fishing Rod",
+    "labels": [
+      "break",
+      "carrot-on-a-stick",
+      "damage",
+      "durability",
+      "fishing-rod",
+      "warped-fungus-on-a-stick"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T23:05:19.000+0300",
+    "resolution_date": "2024-05-31T14:18:10.000+0300",
+    "updated_date": "2024-05-31T14:18:10.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-272588",
+    "summary": "Wind Charges can trigger Wind Burst",
+    "labels": [
+      "wind_burst",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T22:08:08.000+0300",
+    "resolution_date": "2024-05-30T18:20:41.000+0300",
+    "updated_date": "2024-05-30T18:20:41.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272585",
+    "summary": "Crash when bow or crossbow enchanted with multishot runs out of durability",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T21:46:06.000+0300",
+    "resolution_date": "2024-05-30T18:28:17.000+0300",
+    "updated_date": "2024-05-30T18:28:17.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272583",
+    "summary": "Each time you pass through an end gateway with an ender pearl from the main island, a new portal is created",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T21:21:14.000+0300",
+    "resolution_date": "2024-05-30T18:01:25.000+0300",
+    "updated_date": "2024-05-31T04:09:49.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-272571",
+    "summary": "Server crashes upon updating from 24w21b to 1.21 Pre-release 1.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T19:31:58.000+0300",
+    "resolution_date": "2024-05-31T14:27:32.000+0300",
+    "updated_date": "2024-05-31T17:05:13.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-272563",
+    "summary": "The ender dragon death animation is rendered behind blocks when using \"Fabulous!\" graphic settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T18:46:07.000+0300",
+    "resolution_date": "2024-05-31T14:18:11.000+0300",
+    "updated_date": "2024-05-31T14:18:11.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-272559",
+    "summary": "Players cannot traverse dimensions when throwing ender pearls into portals while riding entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T17:57:45.000+0300",
+    "resolution_date": "2024-05-31T13:03:25.000+0300",
+    "updated_date": "2024-05-31T14:41:58.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-272556",
+    "summary": "Ender pearls don't work correctly when riding entities and cause players to be teleported for a split second",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T17:50:07.000+0300",
+    "resolution_date": "2024-05-30T12:46:43.000+0300",
+    "updated_date": "2024-05-31T04:08:31.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-272553",
+    "summary": "Naturally generated End Stone drops in cases where the Obsidian platform generates inside the island",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T17:44:19.000+0300",
+    "resolution_date": "2024-05-30T18:46:51.000+0300",
+    "updated_date": "2024-05-30T18:46:51.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-272550",
+    "summary": "End crystals now receive fire damage causing them to explode instantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T17:28:41.000+0300",
+    "resolution_date": "2024-05-30T11:20:53.000+0300",
+    "updated_date": "2024-05-30T16:21:22.000+0300",
+    "watches": 5,
+    "votes": 15
+  },
+  {
+    "id": "MC-272547",
+    "summary": "block.portal.travel sound no longer plays when entering End portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-29T17:23:18.000+0300",
+    "resolution_date": "2024-05-30T10:20:53.000+0300",
+    "updated_date": "2024-05-31T16:31:12.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-272333",
+    "summary": "The gamerule spawnRadius doesn't work anymore on respawn (always respawn at the same place)",
+    "labels": [
+      "gamerule",
+      "spawnRadius"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-22T19:17:13.000+0300",
+    "resolution_date": "2024-05-31T13:01:09.000+0300",
+    "updated_date": "2024-05-31T13:01:09.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-272241",
+    "summary": "Error when traveling through nether portal outside world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-20T11:36:56.000+0300",
+    "resolution_date": "2024-05-30T09:54:46.000+0300",
+    "updated_date": "2024-05-30T09:54:46.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-272224",
+    "summary": "'in_bounding_box' vertical position for 'spawn_particles' effect is anchored incorrectly",
+    "labels": [
+      "enchant",
+      "enchantement",
+      "enchantment-effect"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-19T21:42:28.000+0300",
+    "resolution_date": "2024-05-31T12:55:27.000+0300",
+    "updated_date": "2024-05-31T12:55:27.000+0300",
+    "watches": 2,
+    "votes": 12
+  },
+  {
+    "id": "MC-271892",
+    "summary": "Your FOV doesn't immediately change when jumping onto soul sand/soul soil while having the slow falling effect and wearing soul speed boots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-11T17:53:44.000+0300",
+    "resolution_date": "2024-05-31T12:38:22.000+0300",
+    "updated_date": "2024-05-31T13:19:33.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-271887",
+    "summary": "Your FOV doesn't change back to normal after jumping off from soul sand/soul soil while wearing soul speed boots",
+    "labels": [
+      "FOV",
+      "soul_speed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-11T12:48:54.000+0300",
+    "resolution_date": "2024-05-31T12:38:22.000+0300",
+    "updated_date": "2024-05-31T13:17:51.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-271754",
+    "summary": "Copper doors can be used as furnace fuel",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-08T15:42:36.000+0300",
+    "resolution_date": "2024-05-30T11:28:00.000+0300",
+    "updated_date": "2024-05-30T11:28:00.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-271199",
+    "summary": "Advancement 'Local Brewery' not granted on shift-clicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-04-27T12:53:26.000+0300",
+    "resolution_date": "2024-05-30T10:12:48.000+0300",
+    "updated_date": "2024-05-30T10:12:48.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-270033",
+    "summary": "Infested or Oozing effect cloud shrinks when silverfish or slime enters it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-28T11:05:23.000+0200",
+    "resolution_date": "2024-05-30T11:35:44.000+0300",
+    "updated_date": "2024-05-30T11:35:44.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-269390",
+    "summary": "Guster banner pattern is treated as common loot",
+    "labels": [
+      "banner_pattern",
+      "rarity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-14T22:14:57.000+0200",
+    "resolution_date": "2024-05-31T09:38:38.000+0300",
+    "updated_date": "2024-05-31T09:38:38.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-269389",
+    "summary": "Flow banner pattern is treated as common loot",
+    "labels": [
+      "banner_pattern",
+      "rarity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-14T22:14:44.000+0200",
+    "resolution_date": "2024-05-31T09:38:39.000+0300",
+    "updated_date": "2024-05-31T09:38:39.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-269359",
+    "summary": "\"Field Masoned\", \"Skull Charge\", \"Flow\", and \"Guster\" banner patterns are not mirrored on the backside",
+    "labels": [
+      "banner",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-14T18:43:08.000+0200",
+    "resolution_date": "2024-05-29T20:20:55.000+0300",
+    "updated_date": "2024-05-29T20:20:55.000+0300",
+    "watches": 0,
+    "votes": 7
+  },
+  {
+    "id": "MC-223165",
+    "summary": "Snout banner pattern is treated as common loot",
+    "labels": [
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2021-04-14T19:14:30.000+0300",
+    "resolution_date": "2024-05-31T09:38:38.000+0300",
+    "updated_date": "2024-05-31T16:09:03.000+0300",
+    "watches": 6,
+    "votes": 6
+  }
+]
