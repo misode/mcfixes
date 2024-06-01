@@ -551,6 +551,44 @@
     "votes": 7
   },
   {
+    "id": "MC-266118",
+    "summary": "Copper doors are in the #minecraft:mineable/axe tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-26T01:42:46.000+0300",
+    "resolution_date": "2024-06-01T12:58:38.000+0300",
+    "updated_date": "2024-06-01T12:58:38.000+0300",
+    "watches": 10,
+    "votes": 18
+  },
+  {
+    "id": "MC-266113",
+    "summary": "Copper doors are in the #minecraft:wooden_doors tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2023-10-26T01:00:58.000+0300",
+    "resolution_date": "2024-06-01T12:58:50.000+0300",
+    "updated_date": "2024-06-01T12:58:50.000+0300",
+    "watches": 8,
+    "votes": 16
+  },
+  {
     "id": "MC-252691",
     "summary": "Player spawns on a bedrock layer when the world is first created as a SuperFlat world with non-full blocks on the surface",
     "labels": [],
