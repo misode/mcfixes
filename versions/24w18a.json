@@ -1,5 +1,24 @@
 [
   {
+    "id": "MC-272808",
+    "summary": "Step height steps too high when there's a gap the player can fit through",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2024-05-31T19:18:52.000+0300",
+    "resolution_date": "2024-06-01T16:17:29.000+0300",
+    "updated_date": "2024-06-01T16:17:29.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
     "id": "MC-271157",
     "summary": "\"Telemetry is disabled\" tooltip does not get updated when the client locale changes",
     "labels": [],
