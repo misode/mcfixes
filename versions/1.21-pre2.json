@@ -19,6 +19,25 @@
     "votes": 2
   },
   {
+    "id": "MC-272642",
+    "summary": "Random invalid session error when launching Minecraft",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 2"
+    ],
+    "creation_date": "2024-05-30T13:10:39.000+0300",
+    "resolution_date": "2024-06-03T10:27:03.000+0300",
+    "updated_date": "2024-06-03T10:27:03.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-272639",
     "summary": "trial_spawner_bottom texture is different from Bedrock",
     "labels": [
