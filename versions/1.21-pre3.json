@@ -33,7 +33,7 @@
     ],
     "creation_date": "2024-06-02T14:48:20.000+0300",
     "resolution_date": "2024-06-04T15:55:49.000+0300",
-    "updated_date": "2024-06-04T15:55:49.000+0300",
+    "updated_date": "2024-06-05T18:26:15.000+0300",
     "watches": 1,
     "votes": 3
   },
@@ -229,25 +229,6 @@
     "votes": 3
   },
   {
-    "id": "MC-272670",
-    "summary": "Crash while saving entity NBT - Cannot encode empty ItemStack",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Plausible",
-    "categories": [
-      "Crash"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "1.21 Pre-Release 3"
-    ],
-    "creation_date": "2024-05-30T22:36:43.000+0300",
-    "resolution_date": "2024-06-03T11:15:53.000+0300",
-    "updated_date": "2024-06-05T16:53:24.000+0300",
-    "watches": 1,
-    "votes": 2
-  },
-  {
     "id": "MC-272661",
     "summary": "Entities have incorrect rotations after loading or reloading a world",
     "labels": [],
@@ -302,7 +283,7 @@
     ],
     "creation_date": "2024-05-29T20:27:05.000+0300",
     "resolution_date": "2024-06-03T13:00:19.000+0300",
-    "updated_date": "2024-06-04T03:24:46.000+0300",
+    "updated_date": "2024-06-05T18:27:14.000+0300",
     "watches": 12,
     "votes": 41
   },
