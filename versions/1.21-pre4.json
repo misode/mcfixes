@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MC-272982",
+    "summary": "Mace can have sharpness",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-06-05T19:07:50.000+0300",
+    "resolution_date": "2024-06-07T11:27:03.000+0300",
+    "updated_date": "2024-06-07T11:27:03.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-272981",
+    "summary": "Using a wind charge to stop the fall damage after using the wind burst enchantment doesn't correctly cancel the damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Items",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-06-05T18:45:03.000+0300",
+    "resolution_date": "2024-06-07T12:15:48.000+0300",
+    "updated_date": "2024-06-07T12:21:25.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-272948",
+    "summary": "Wind Burst damages the player twice on one use, even when using Wind Charges",
+    "labels": [
+      "wind_burst",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-06-04T17:53:36.000+0300",
+    "resolution_date": "2024-06-07T11:19:08.000+0300",
+    "updated_date": "2024-06-07T11:19:08.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-272947",
+    "summary": "Boat clutching after using a wind charge results in the player taking fall damage",
+    "labels": [
+      "boat",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-06-04T17:36:33.000+0300",
+    "resolution_date": "2024-06-07T14:42:39.000+0300",
+    "updated_date": "2024-06-07T14:42:39.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-272935",
+    "summary": "Blast protection explosion knockback resistance now stacks for every piece of armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-06-04T06:25:02.000+0300",
+    "resolution_date": "2024-06-05T13:18:02.000+0300",
+    "updated_date": "2024-06-05T13:18:02.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-272933",
+    "summary": "Fire protection burning time reduction now stacks for every piece of armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-06-04T06:15:34.000+0300",
+    "resolution_date": "2024-06-05T13:18:02.000+0300",
+    "updated_date": "2024-06-05T13:18:02.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-271971",
+    "summary": "Wind Charges sometimes don't prevent fall damage",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1",
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-05-13T18:00:47.000+0300",
+    "resolution_date": "2024-06-07T14:42:40.000+0300",
+    "updated_date": "2024-06-07T14:42:40.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-270540",
+    "summary": "The prevention of fall damage from wind charges is not retained upon reloading the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21 Pre-Release 4"
+    ],
+    "creation_date": "2024-04-08T21:08:26.000+0300",
+    "resolution_date": "2024-06-07T15:09:28.000+0300",
+    "updated_date": "2024-06-07T15:10:02.000+0300",
+    "watches": 3,
+    "votes": 6
+  }
+]
