@@ -1,0 +1,64 @@
+[
+  {
+    "id": "MC-273158",
+    "summary": "Animals stay floating after getting on a boat",
+    "labels": [
+      "boat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Release Candidate 1"
+    ],
+    "creation_date": "2024-06-09T07:24:59.000+0300",
+    "resolution_date": "2024-06-10T13:43:48.000+0300",
+    "updated_date": "2024-06-10T13:43:48.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-273007",
+    "summary": "Projectiles have incorrect motion when shot from a vehicle which was entered with player velocity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21 Release Candidate 1"
+    ],
+    "creation_date": "2024-06-06T05:36:42.000+0300",
+    "resolution_date": "2024-06-10T15:03:29.000+0300",
+    "updated_date": "2024-06-10T15:03:29.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-272888",
+    "summary": "Zooming with riptide still applies mace wind burst if held in main hand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Release Candidate 1"
+    ],
+    "creation_date": "2024-06-02T15:52:15.000+0300",
+    "resolution_date": "2024-06-10T14:55:14.000+0300",
+    "updated_date": "2024-06-10T14:55:14.000+0300",
+    "watches": 2,
+    "votes": 3
+  }
+]
