@@ -233,5 +233,24 @@
     "updated_date": "2023-11-23T12:18:23.000+0200",
     "watches": 5,
     "votes": 5
+  },
+  {
+    "id": "MC-189739",
+    "summary": "Two-tall/wide blocks not taking breaking method into account",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.3 Pre-Release 3"
+    ],
+    "creation_date": "2020-06-15T01:34:35.000+0300",
+    "resolution_date": "2024-06-10T14:45:48.000+0300",
+    "updated_date": "2024-06-10T14:45:48.000+0300",
+    "watches": 11,
+    "votes": 18
   }
 ]
