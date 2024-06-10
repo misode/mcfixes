@@ -1454,6 +1454,27 @@
     "votes": 12
   },
   {
+    "id": "MC-212892",
+    "summary": "Right-clicking a non-glowing sign using an ink sac (or vice versa) doesn't fire the clickEvent",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w14a"
+    ],
+    "creation_date": "2021-01-25T21:52:02.000+0200",
+    "resolution_date": "2024-06-11T01:08:18.000+0300",
+    "updated_date": "2024-06-11T01:08:18.000+0300",
+    "watches": 7,
+    "votes": 9
+  },
+  {
     "id": "MC-212271",
     "summary": "Glow squid and squid show Z-fighting",
     "labels": [
