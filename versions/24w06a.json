@@ -243,6 +243,25 @@
     "votes": 25
   },
   {
+    "id": "MC-175622",
+    "summary": "Wolf's tail will spin 360 degrees if max health is increased",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w06a"
+    ],
+    "creation_date": "2020-03-21T21:16:20.000+0200",
+    "resolution_date": "2024-06-11T14:36:38.000+0300",
+    "updated_date": "2024-06-11T14:36:38.000+0300",
+    "watches": 7,
+    "votes": 13
+  },
+  {
     "id": "MC-72151",
     "summary": "Snow Golem's snowballs damage wolves instead of pushing them",
     "labels": [
