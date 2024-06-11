@@ -899,6 +899,26 @@
     "votes": 2
   },
   {
+    "id": "MC-267103",
+    "summary": "Client crashes when receiving inconsistent network registries",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-30T17:39:29.000+0200",
+    "resolution_date": "2024-06-11T18:37:21.000+0300",
+    "updated_date": "2024-06-11T18:37:21.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
     "id": "MC-266997",
     "summary": "Sky light doesn't update when breaking a shulker box while its (closing) animation is playing",
     "labels": [],
