@@ -924,6 +924,25 @@
     "votes": 3
   },
   {
+    "id": "MC-167800",
+    "summary": "Rabbits do not spawning on snow block, podzol and coarse dirt.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w37a"
+    ],
+    "creation_date": "2019-12-13T12:28:47.000+0200",
+    "resolution_date": "2024-06-13T18:17:44.000+0300",
+    "updated_date": "2024-06-13T18:17:45.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-167277",
     "summary": "Swamp hills doesn't naturally generate seagrass",
     "labels": [
