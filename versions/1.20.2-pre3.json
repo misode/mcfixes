@@ -75,5 +75,24 @@
     "updated_date": "2024-05-05T22:51:32.000+0300",
     "watches": 3,
     "votes": 6
+  },
+  {
+    "id": "MC-82239",
+    "summary": "Minecarts riding minecarts are unrideable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.20.2 Pre-Release 3"
+    ],
+    "creation_date": "2015-07-10T18:07:53.000+0300",
+    "resolution_date": "2024-06-17T21:03:26.000+0300",
+    "updated_date": "2024-06-17T21:03:26.000+0300",
+    "watches": 3,
+    "votes": 3
   }
 ]
