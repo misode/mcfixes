@@ -1109,6 +1109,25 @@
     "votes": 19
   },
   {
+    "id": "MC-91888",
+    "summary": "Hotkeying books on enchantment table causing client-side item count inaccuracy",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w10a"
+    ],
+    "creation_date": "2015-11-01T03:47:20.000+0200",
+    "resolution_date": "2024-06-18T23:58:19.000+0300",
+    "updated_date": "2024-06-18T23:58:19.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
     "id": "MC-87019",
     "summary": "Only visible slots are updated clientside when you are inside an inventory",
     "labels": [
