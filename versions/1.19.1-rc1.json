@@ -171,5 +171,24 @@
     "updated_date": "2022-07-04T05:45:04.000+0300",
     "watches": 3,
     "votes": 4
+  },
+  {
+    "id": "MC-93254",
+    "summary": "Color in text prompt using commands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.19.1 Release Candidate 1"
+    ],
+    "creation_date": "2015-11-23T23:15:47.000+0200",
+    "resolution_date": "2024-06-20T01:06:32.000+0300",
+    "updated_date": "2024-06-20T01:06:32.000+0300",
+    "watches": 3,
+    "votes": 3
   }
 ]
