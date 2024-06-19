@@ -293,7 +293,7 @@
   },
   {
     "id": "MC-270047",
-    "summary": "Axe Prioritizes Scraping Copper over Shield",
+    "summary": "Axes prioritize scraping copper over blocking with shields",
     "labels": [],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -308,7 +308,7 @@
     ],
     "creation_date": "2024-03-28T14:14:23.000+0200",
     "resolution_date": "2024-04-24T10:44:24.000+0300",
-    "updated_date": "2024-06-01T02:09:43.000+0300",
+    "updated_date": "2024-06-19T19:14:39.000+0300",
     "watches": 4,
     "votes": 5
   },
