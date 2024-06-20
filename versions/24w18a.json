@@ -784,6 +784,25 @@
     "votes": 6
   },
   {
+    "id": "MC-234162",
+    "summary": "The \"minecraft:ui.button.click\" sound isn't played when adjusting sliders if the mouse cursor is released while not being held over them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w18a"
+    ],
+    "creation_date": "2021-08-10T15:47:13.000+0300",
+    "resolution_date": "2024-06-20T19:32:46.000+0300",
+    "updated_date": "2024-06-20T19:32:47.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-232770",
     "summary": "Entities receive knockback from incorrect directions when being damaged by firework explosions",
     "labels": [],
