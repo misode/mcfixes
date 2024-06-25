@@ -816,6 +816,25 @@
     "votes": 9
   },
   {
+    "id": "MC-270584",
+    "summary": "Vault/Ominous Vault loot isn't predetermined, allowing players to create backups of their worlds to get desired rewards",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w19a"
+    ],
+    "creation_date": "2024-04-10T18:53:50.000+0300",
+    "resolution_date": "2024-06-25T11:58:01.000+0300",
+    "updated_date": "2024-06-25T11:58:05.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
     "id": "MC-270296",
     "summary": "Ominous Item Spawner spawns unstackable arrows with potion effects",
     "labels": [],
