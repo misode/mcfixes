@@ -318,7 +318,9 @@
   {
     "id": "MC-267866",
     "summary": "Panda slimeball drop is hardcoded",
-    "labels": [],
+    "labels": [
+      "missing-loot-table"
+    ],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
     "categories": [
@@ -330,7 +332,7 @@
     ],
     "creation_date": "2024-01-13T17:09:14.000+0200",
     "resolution_date": "2024-02-14T12:53:10.000+0200",
-    "updated_date": "2024-03-29T23:27:43.000+0200",
+    "updated_date": "2024-06-28T12:44:22.000+0300",
     "watches": 3,
     "votes": 3
   },
