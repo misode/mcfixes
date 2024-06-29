@@ -803,7 +803,7 @@
     "status": "Resolved",
     "confirmation_status": "Confirmed",
     "categories": [
-      "(Unassigned)"
+      "Projectiles"
     ],
     "priority": "None",
     "fix_versions": [
@@ -811,7 +811,7 @@
     ],
     "creation_date": "2017-06-22T18:14:24.000+0300",
     "resolution_date": "2024-02-27T11:29:46.000+0200",
-    "updated_date": "2024-06-29T11:23:27.000+0300",
+    "updated_date": "2024-06-29T17:14:18.000+0300",
     "watches": 5,
     "votes": 7
   },
