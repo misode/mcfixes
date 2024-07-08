@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "MC-273078",
+    "summary": "Random \"Failed to retrieve profile key pair\" error when opening a world to LAN",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21"
+    ],
+    "creation_date": "2024-06-07T20:22:19.000+0300",
+    "resolution_date": "2024-07-08T13:19:39.000+0300",
+    "updated_date": "2024-07-08T13:19:39.000+0300",
+    "watches": 3,
+    "votes": 2
+  }
+]
