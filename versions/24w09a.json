@@ -885,6 +885,30 @@
     "votes": 8
   },
   {
+    "id": "MC-96609",
+    "summary": "Pick block on player head does not use BlockEntityTag",
+    "labels": [
+      "middle-click",
+      "nbt",
+      "pick-block",
+      "skull"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2016-02-05T15:55:53.000+0200",
+    "resolution_date": "2024-07-11T20:36:38.000+0300",
+    "updated_date": "2024-07-11T20:36:38.000+0300",
+    "watches": 7,
+    "votes": 4
+  },
+  {
     "id": "MC-19893",
     "summary": "options_background.png is incorrectly displayed upside down in the credits after beating the dragon",
     "labels": [
