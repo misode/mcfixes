@@ -1437,5 +1437,24 @@
     "updated_date": "2024-04-27T20:04:00.000+0300",
     "watches": 1,
     "votes": 8
+  },
+  {
+    "id": "MC-100994",
+    "summary": "Items in hot bar appear on top of tab menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2016-04-16T21:34:44.000+0300",
+    "resolution_date": "2024-07-13T12:31:00.000+0300",
+    "updated_date": "2024-07-13T12:31:00.000+0300",
+    "watches": 3,
+    "votes": 2
   }
 ]
