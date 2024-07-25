@@ -416,6 +416,28 @@
     "votes": 1
   },
   {
+    "id": "MC-269083",
+    "summary": "Effect background texture in inventory renders translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w12a",
+      "Future Update"
+    ],
+    "creation_date": "2024-03-04T03:55:46.000+0200",
+    "resolution_date": "2024-07-25T11:03:24.000+0300",
+    "updated_date": "2024-07-25T11:03:24.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
     "id": "MC-268562",
     "summary": "Wind charges deal no knockback within non-solid blocks",
     "labels": [
