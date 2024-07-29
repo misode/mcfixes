@@ -1168,6 +1168,26 @@
     "votes": 4
   },
   {
+    "id": "MC-269439",
+    "summary": "Some diacritics intersect the language box in the languages menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-03-15T08:42:36.000+0200",
+    "resolution_date": "2024-07-29T05:11:56.000+0300",
+    "updated_date": "2024-07-29T05:11:57.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
     "id": "MC-268185",
     "summary": "Copper grates in trial chambers are waterlogged",
     "labels": [],
@@ -1490,7 +1510,7 @@
     ],
     "creation_date": "2019-04-19T06:38:23.000+0300",
     "resolution_date": "2024-05-28T17:27:17.000+0300",
-    "updated_date": "2024-05-28T17:27:17.000+0300",
+    "updated_date": "2024-07-29T05:09:28.000+0300",
     "watches": 5,
     "votes": 9
   },
