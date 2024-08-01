@@ -980,6 +980,26 @@
     "votes": 4
   },
   {
+    "id": "MC-267273",
+    "summary": "Second beacon power for level 4 beacon flickers when player hovers the mouse pointer over it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Beacon",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2023-12-11T09:14:32.000+0200",
+    "resolution_date": "2024-08-01T18:22:11.000+0300",
+    "updated_date": "2024-08-01T18:22:11.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
     "id": "MC-267149",
     "summary": "Crafter top face has an inverted UV texture map",
     "labels": [],
