@@ -1385,6 +1385,25 @@
     "votes": 4
   },
   {
+    "id": "MC-225870",
+    "summary": "Breeding an axolotl in creative replaces the bucket of tropical fish",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2021-05-19T21:23:37.000+0300",
+    "resolution_date": "2024-08-02T19:51:58.000+0300",
+    "updated_date": "2024-08-02T19:54:00.000+0300",
+    "watches": 4,
+    "votes": 13
+  },
+  {
     "id": "MC-191591",
     "summary": "Saddles lose their NBT data when equipped on horses, zombie horses, skeleton horses, mules or donkeys via right-clicking",
     "labels": [
