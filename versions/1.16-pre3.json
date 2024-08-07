@@ -2298,6 +2298,29 @@
     "votes": 27
   },
   {
+    "id": "MC-166880",
+    "summary": "Pufferfish spikes model seems to be broken",
+    "labels": [
+      "model",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 3",
+      "Future Update"
+    ],
+    "creation_date": "2019-11-30T17:41:05.000+0200",
+    "resolution_date": "2024-08-07T11:30:46.000+0300",
+    "updated_date": "2024-08-07T11:30:46.000+0300",
+    "watches": 13,
+    "votes": 41
+  },
+  {
     "id": "MC-166346",
     "summary": "Transparent blocks do not render properly with tripwire above",
     "labels": [],
