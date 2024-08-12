@@ -154,6 +154,25 @@
     "votes": 1
   },
   {
+    "id": "MC-260341",
+    "summary": "Death Screen can remain after respawning using the Unsafe Link Warning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w40a"
+    ],
+    "creation_date": "2023-02-19T00:26:32.000+0200",
+    "resolution_date": "2024-08-12T22:10:21.000+0300",
+    "updated_date": "2024-08-12T22:10:21.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
     "id": "MC-255173",
     "summary": "Nether portal teleportation is inaccurate at large coordinate values",
     "labels": [],
