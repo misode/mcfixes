@@ -668,6 +668,25 @@
     "votes": 8
   },
   {
+    "id": "MC-175437",
+    "summary": "Fullscreen resolution isn't applied when exiting Video Settings with Esc",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2020-03-20T03:57:01.000+0200",
+    "resolution_date": "2024-08-12T21:07:14.000+0300",
+    "updated_date": "2024-08-12T21:07:14.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
     "id": "MC-153879",
     "summary": "Raiders ignore ominous banners that was saved in the Saved Toolbars from a different version",
     "labels": [],

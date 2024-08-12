@@ -1039,6 +1039,25 @@
     "votes": 21
   },
   {
+    "id": "MC-172447",
+    "summary": "Leaving The End shows loading screen with overlapping text",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.5 Pre-Release 2"
+    ],
+    "creation_date": "2020-02-16T05:03:12.000+0200",
+    "resolution_date": "2024-08-12T21:01:20.000+0300",
+    "updated_date": "2024-08-12T21:01:20.000+0300",
+    "watches": 7,
+    "votes": 6
+  },
+  {
     "id": "MC-132380",
     "summary": "The \"Joining world...\" message shows up when you enter a nether/end portal",
     "labels": [],
