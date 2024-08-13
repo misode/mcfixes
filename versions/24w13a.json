@@ -42,6 +42,30 @@
     "votes": 9
   },
   {
+    "id": "MC-269656",
+    "summary": "Feeding parrots poison while holding mace grants Over-Overkill challenge",
+    "labels": [
+      "advancement",
+      "damage",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a",
+      "Future Update"
+    ],
+    "creation_date": "2024-03-20T19:28:35.000+0200",
+    "resolution_date": "2024-08-13T11:41:43.000+0300",
+    "updated_date": "2024-08-13T11:41:43.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
     "id": "MC-269649",
     "summary": "Who Needs Rockets advancement is granted after launching yourself up 8 blocks instead of 7 blocks",
     "labels": [
