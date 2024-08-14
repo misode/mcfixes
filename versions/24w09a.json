@@ -541,6 +541,25 @@
     "votes": 6
   },
   {
+    "id": "MC-213104",
+    "summary": "Statistics tab resets when resizing the Minecraft window",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w09a"
+    ],
+    "creation_date": "2021-01-27T18:26:33.000+0200",
+    "resolution_date": "2024-08-14T22:43:36.000+0300",
+    "updated_date": "2024-08-14T22:43:37.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
     "id": "MC-206854",
     "summary": "Multiplayer warning and Chat Preview warning are off center",
     "labels": [

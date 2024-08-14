@@ -1259,6 +1259,25 @@
     "votes": 10
   },
   {
+    "id": "MC-185955",
+    "summary": "When your eye level is up to 2 pixels above water, you count as being underwater as if it would be a full block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w03a"
+    ],
+    "creation_date": "2020-05-28T18:16:19.000+0300",
+    "resolution_date": "2024-08-14T22:34:10.000+0300",
+    "updated_date": "2024-08-14T22:34:11.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
     "id": "MC-171981",
     "summary": "Map of fuel times is created anew every time an item is placed in a furnace, instead of being cached",
     "labels": [],
