@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "MC-274960",
+    "summary": "Registries allow duplicate entries",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-08-06T11:29:17.000+0300",
+    "resolution_date": "2024-08-15T11:02:37.000+0300",
+    "updated_date": "2024-08-15T11:02:37.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-274911",
+    "summary": "If the raid begins more than 112 blocks above the ground, all illagers will be summoned and the player wins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-08-04T17:24:20.000+0300",
+    "resolution_date": "2024-08-13T16:21:48.000+0300",
+    "updated_date": "2024-08-14T15:40:11.000+0300",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-274852",
+    "summary": "\"item_name\" component has priority over signed book title",
+    "labels": [
+      "book",
+      "book_and_quill"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-08-02T22:38:58.000+0300",
+    "resolution_date": "2024-08-15T11:43:59.000+0300",
+    "updated_date": "2024-08-15T11:43:59.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-274708",
+    "summary": "Exiting the end portal first time removes player attribute modifiers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-07-27T14:52:31.000+0300",
+    "resolution_date": "2024-08-05T19:19:10.000+0300",
+    "updated_date": "2024-08-05T19:19:10.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-274657",
+    "summary": "Ominous Banner's orange name is handled as a custom text color, rather than as a rarity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-07-25T12:55:10.000+0300",
+    "resolution_date": "2024-07-26T10:03:36.000+0300",
+    "updated_date": "2024-08-11T21:02:45.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-274519",
+    "summary": "Minecraft resaves all maps with every autosave",
+    "labels": [
+      "auto-saving",
+      "datapack",
+      "file",
+      "locked",
+      "map-item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Maps",
+      "Performance",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-07-18T17:41:40.000+0300",
+    "resolution_date": "2024-08-05T11:10:25.000+0300",
+    "updated_date": "2024-08-05T11:10:25.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-274400",
+    "summary": "Dispensers firing a wind charge play the crafter crafting world event, showing incorrect particles beneath the block",
+    "labels": [
+      "crafter",
+      "dispenser",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-07-13T19:49:47.000+0300",
+    "resolution_date": "2024-08-12T12:27:11.000+0300",
+    "updated_date": "2024-08-12T12:27:11.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-274372",
+    "summary": "using_item advancement trigger keeps being activated even after the item stops being used, after teleporting to another dimension",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-07-12T09:34:21.000+0300",
+    "resolution_date": "2024-08-07T11:15:52.000+0300",
+    "updated_date": "2024-08-07T11:15:52.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-274371",
+    "summary": "Depleting a Respawn Anchor doesn't play any sound",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-07-12T08:42:30.000+0300",
+    "resolution_date": "2024-07-19T11:21:36.000+0300",
+    "updated_date": "2024-07-19T11:21:36.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-274244",
+    "summary": "minecraft:villager_plantable_seeds tag does not allow farmer Villagers to pick up items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Data Packs",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-07-07T23:24:52.000+0300",
+    "resolution_date": "2024-08-06T13:08:47.000+0300",
+    "updated_date": "2024-08-06T13:08:47.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-274030",
+    "summary": "Item stacks with a count over 99 cause the player to get kicked from their world in creative mode",
+    "labels": [
+      "Crash",
+      "Creative",
+      "Items"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-30T18:54:34.000+0300",
+    "resolution_date": "2024-07-10T09:49:58.000+0300",
+    "updated_date": "2024-07-10T09:49:58.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-273960",
+    "summary": "The NBT data stored in the world affects copying a Decorated Pot in creative mode",
+    "labels": [
+      "creative-mode",
+      "decorated_pot",
+      "pick-block",
+      "savefile"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-28T19:19:13.000+0300",
+    "resolution_date": "2024-07-02T10:25:52.000+0300",
+    "updated_date": "2024-07-02T10:25:52.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-273914",
+    "summary": "Client game options that do not constitute sending a network packet will send one anyway",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-27T20:38:44.000+0300",
+    "resolution_date": "2024-08-06T13:08:45.000+0300",
+    "updated_date": "2024-08-06T13:08:45.000+0300",
+    "watches": 6,
+    "votes": 1
+  },
+  {
+    "id": "MC-273850",
+    "summary": "Shield enchantment glint is too bright to clearly see banner patterns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-25T14:55:23.000+0300",
+    "resolution_date": "2024-07-10T12:25:50.000+0300",
+    "updated_date": "2024-07-10T12:25:50.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-273848",
+    "summary": "Players can spawn underwater again in 1.21",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-25T12:11:11.000+0300",
+    "resolution_date": "2024-08-09T13:50:09.000+0300",
+    "updated_date": "2024-08-09T13:50:09.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-273828",
+    "summary": "Movement predicate is incorrect for stationary players until either mouse is moved or one second elapses",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-24T21:32:08.000+0300",
+    "resolution_date": "2024-08-06T13:08:46.000+0300",
+    "updated_date": "2024-08-06T13:08:46.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-273822",
+    "summary": "The words \"forwards\" and \"backwards\" within two movement key bind strings aren't spelled in American English",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-24T17:01:21.000+0300",
+    "resolution_date": "2024-08-02T14:52:45.000+0300",
+    "updated_date": "2024-08-02T14:52:46.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-273811",
+    "summary": "Ender pearls don't teleport the player if he hasn't been in the pearl's dimension after relog",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-24T11:49:44.000+0300",
+    "resolution_date": "2024-06-25T10:09:14.000+0300",
+    "updated_date": "2024-07-28T23:34:33.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-273771",
+    "summary": "Passengers can glitch into walls when their mounts are killed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-23T13:13:14.000+0300",
+    "resolution_date": "2024-08-09T13:50:10.000+0300",
+    "updated_date": "2024-08-09T13:50:10.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-273758",
+    "summary": "Ominous item spawner's animation breaks if the level.dat \"Time\" value is over a certain number",
+    "labels": [
+      "overflow",
+      "precision-loss",
+      "time"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-23T01:18:39.000+0300",
+    "resolution_date": "2024-07-03T18:52:26.000+0300",
+    "updated_date": "2024-07-03T18:52:26.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-273672",
+    "summary": "When spectatorsGenerateChunks is set to false, the player cannot stop spectating an entity without running /spectate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-21T06:26:26.000+0300",
+    "resolution_date": "2024-07-30T15:23:02.000+0300",
+    "updated_date": "2024-07-30T15:23:02.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-273662",
+    "summary": "Trial spawners cannot spawn silverfish at all/have unusually long delays between spawns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-21T01:19:52.000+0300",
+    "resolution_date": "2024-07-02T18:05:34.000+0300",
+    "updated_date": "2024-07-02T18:50:05.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-273578",
+    "summary": "Interaction entities position passengers incorrectly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-19T07:28:33.000+0300",
+    "resolution_date": "2024-07-24T12:49:16.000+0300",
+    "updated_date": "2024-07-24T12:49:16.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-273489",
+    "summary": "Sneaking players' name tags are barely visible",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-16T19:25:39.000+0300",
+    "resolution_date": "2024-07-18T11:30:34.000+0300",
+    "updated_date": "2024-07-18T11:30:34.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-273464",
+    "summary": "Incorrect partial tick during screen render",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-16T05:28:17.000+0300",
+    "resolution_date": "2024-06-25T17:12:20.000+0300",
+    "updated_date": "2024-06-25T17:12:20.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-273427",
+    "summary": "Respawn anchor loses charges when returning from the End",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-15T15:35:51.000+0300",
+    "resolution_date": "2024-06-19T14:58:00.000+0300",
+    "updated_date": "2024-07-09T22:02:48.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-273400",
+    "summary": "Baby zombified piglin chicken jockeys immediately teleport",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-15T03:46:02.000+0300",
+    "resolution_date": "2024-06-26T10:55:08.000+0300",
+    "updated_date": "2024-06-26T10:55:08.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-273377",
+    "summary": "No debug stick in hand, but I can still edit blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Inventory",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-14T22:10:09.000+0300",
+    "resolution_date": "2024-07-30T16:54:01.000+0300",
+    "updated_date": "2024-08-04T23:15:27.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-273361",
+    "summary": "Entities teleported to the player from a force loaded chunk are not rendered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Networking",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-14T14:26:44.000+0300",
+    "resolution_date": "2024-06-20T15:40:31.000+0300",
+    "updated_date": "2024-08-14T11:24:44.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-273328",
+    "summary": "Stars are smaller than supposed to",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-14T00:17:23.000+0300",
+    "resolution_date": "2024-07-08T17:53:10.000+0300",
+    "updated_date": "2024-07-08T17:53:10.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-273311",
+    "summary": "Taking near Float.MAX_VALUE damage from mob attack through commands on hard causes NaN Absorption and Health",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-13T20:33:33.000+0300",
+    "resolution_date": "2024-06-24T11:44:40.000+0300",
+    "updated_date": "2024-06-24T11:44:40.000+0300",
+    "watches": 6,
+    "votes": 3
+  },
+  {
+    "id": "MC-273288",
+    "summary": "Dropping a stack of items while in the creative mode inventory deletes them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-13T05:08:13.000+0300",
+    "resolution_date": "2024-08-09T13:50:09.000+0300",
+    "updated_date": "2024-08-09T13:50:09.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-273281",
+    "summary": "\"projectile_spawned\" Enchantment Component runs predicates and effects on projectiles before all of their data has been assigned",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Enchantments",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-12T20:03:11.000+0300",
+    "resolution_date": "2024-07-08T13:00:51.000+0300",
+    "updated_date": "2024-07-08T13:00:51.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-273263",
+    "summary": "Attributes are retained even if destroyed by \"damage_item\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-12T07:08:20.000+0300",
+    "resolution_date": "2024-08-09T13:50:10.000+0300",
+    "updated_date": "2024-08-09T13:50:10.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-273239",
+    "summary": "Trial Spawners rapidly change block state when switching gamerule \"doMobSpawning\" from false to true",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Items",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-11T13:15:17.000+0300",
+    "resolution_date": "2024-07-02T12:17:46.000+0300",
+    "updated_date": "2024-08-09T13:03:48.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-273076",
+    "summary": "Breeze immediately forgets the player once Line of Sight is lost, even through transparent blocks",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-07T19:49:55.000+0300",
+    "resolution_date": "2024-07-03T09:59:54.000+0300",
+    "updated_date": "2024-07-03T09:59:54.000+0300",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-272994",
+    "summary": "Allays assigned to a player can be set on fire with sweeping and fire aspect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-06T00:29:16.000+0300",
+    "resolution_date": "2024-06-14T11:45:34.000+0300",
+    "updated_date": "2024-07-29T15:36:32.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-272932",
+    "summary": "Auto-save text in the pause menu is rendered at the wrong position",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-06-04T05:51:03.000+0300",
+    "resolution_date": "2024-07-12T15:06:31.000+0300",
+    "updated_date": "2024-07-12T15:06:31.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-272821",
+    "summary": "Wind Charges incorrectly negate fall damage",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-31T23:24:20.000+0300",
+    "resolution_date": "2024-06-24T12:42:51.000+0300",
+    "updated_date": "2024-07-05T20:17:28.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-272805",
+    "summary": "Command blocks made from Pick Block still do not activate when placed near sources of power",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-31T17:49:13.000+0300",
+    "resolution_date": "2024-06-14T10:46:07.000+0300",
+    "updated_date": "2024-06-14T10:46:07.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-272804",
+    "summary": "The mining fatigue animation plays in reverse",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-31T17:42:19.000+0300",
+    "resolution_date": "2024-06-14T10:46:07.000+0300",
+    "updated_date": "2024-06-14T10:46:07.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-272802",
+    "summary": "Ender pearls deal no damage to their owners after switching dimensions and landing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-31T17:38:26.000+0300",
+    "resolution_date": "2024-07-03T11:22:26.000+0300",
+    "updated_date": "2024-07-03T11:22:26.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-272766",
+    "summary": "When riding a minecart through a portal, the direction the player is facing after they go through the portal is not the same as when they entered",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-31T02:53:17.000+0300",
+    "resolution_date": "2024-06-14T11:37:57.000+0300",
+    "updated_date": "2024-06-14T11:37:57.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-272670",
+    "summary": "Crash while saving entity NBT - Cannot encode empty ItemStack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 3",
+      "24w33a"
+    ],
+    "creation_date": "2024-05-30T22:36:43.000+0300",
+    "resolution_date": "2024-08-06T13:08:46.000+0300",
+    "updated_date": "2024-08-06T13:08:46.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-272649",
+    "summary": "After a chest with the item component \"container_loot\" is opened, it will appear on the subsequent pick Block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-30T15:27:40.000+0300",
+    "resolution_date": "2024-06-14T11:15:04.000+0300",
+    "updated_date": "2024-07-02T10:25:20.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-272603",
+    "summary": "Riding an entity into the end fountain skips the credits",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-30T01:45:20.000+0300",
+    "resolution_date": "2024-06-20T11:34:26.000+0300",
+    "updated_date": "2024-06-20T11:34:26.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-272506",
+    "summary": "Fast switching between servers causes disconnect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-27T19:29:51.000+0300",
+    "resolution_date": "2024-07-10T11:08:49.000+0300",
+    "updated_date": "2024-07-10T11:08:49.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-272414",
+    "summary": "Redundant calculation causes 2x lag during explosions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-24T11:13:14.000+0300",
+    "resolution_date": "2024-06-18T11:24:28.000+0300",
+    "updated_date": "2024-06-18T11:24:28.000+0300",
+    "watches": 12,
+    "votes": 54
+  },
+  {
+    "id": "MC-272327",
+    "summary": "Attribute effects not properly postfixed with slot name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-22T18:53:47.000+0300",
+    "resolution_date": "2024-06-14T10:00:08.000+0300",
+    "updated_date": "2024-06-14T10:00:08.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-271628",
+    "summary": "Enchantment effect \"projectile_spawned\" doesn't trigger for fishing rods and tridents",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-05T18:24:26.000+0300",
+    "resolution_date": "2024-07-08T13:00:50.000+0300",
+    "updated_date": "2024-07-08T13:00:50.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-271191",
+    "summary": "Poor saving performance due to large amount of item frames",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-27T08:28:41.000+0300",
+    "resolution_date": "2024-08-05T11:10:25.000+0300",
+    "updated_date": "2024-08-05T11:10:25.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-271113",
+    "summary": "Bees occasionally freezing right before they enter the hives",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-24T23:44:11.000+0300",
+    "resolution_date": "2024-08-05T17:26:01.000+0300",
+    "updated_date": "2024-08-05T17:26:01.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270775",
+    "summary": "Ominous vault failed to generate sometimes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-15T13:53:46.000+0300",
+    "resolution_date": "2024-07-31T10:22:49.000+0300",
+    "updated_date": "2024-07-31T10:22:49.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-270765",
+    "summary": "Bundle background does not handle translucent pixels correctly",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-15T01:05:39.000+0300",
+    "resolution_date": "2024-07-25T11:21:13.000+0300",
+    "updated_date": "2024-07-25T11:21:13.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270764",
+    "summary": "Recipe book buttons and icons do not render translucent pixels correctly",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-15T01:01:43.000+0300",
+    "resolution_date": "2024-07-25T11:20:59.000+0300",
+    "updated_date": "2024-07-25T11:20:59.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270741",
+    "summary": "Realms main menu icons do not render translucent pixels correctly, but accessibility/language icons do",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-14T01:39:50.000+0300",
+    "resolution_date": "2024-07-25T11:19:04.000+0300",
+    "updated_date": "2024-07-25T11:19:04.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270726",
+    "summary": "Advancement backgrounds render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-13T16:39:56.000+0300",
+    "resolution_date": "2024-07-25T11:25:14.000+0300",
+    "updated_date": "2024-07-25T11:25:14.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270698",
+    "summary": "Loom recipe buttons render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-13T00:21:30.000+0300",
+    "resolution_date": "2024-07-25T11:24:25.000+0300",
+    "updated_date": "2024-07-25T11:24:25.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270697",
+    "summary": "Stonecutter recipe buttons render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-13T00:19:54.000+0300",
+    "resolution_date": "2024-07-25T11:33:57.000+0300",
+    "updated_date": "2024-07-25T11:33:57.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270696",
+    "summary": "Traps are generated behind walls in Trial Chambers",
+    "labels": [
+      "trial_chamber"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-12T23:33:05.000+0300",
+    "resolution_date": "2024-07-31T10:15:34.000+0300",
+    "updated_date": "2024-08-02T09:39:17.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-270692",
+    "summary": "Textures for empty slots do not support translucent pixels",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-12T22:26:16.000+0300",
+    "resolution_date": "2024-07-25T11:29:59.000+0300",
+    "updated_date": "2024-07-25T11:29:59.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270680",
+    "summary": "Buttons in the beacon GUI do not support translucent pixels",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-12T16:35:56.000+0300",
+    "resolution_date": "2024-07-25T10:36:07.000+0300",
+    "updated_date": "2024-07-25T10:36:07.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270678",
+    "summary": "Tabs in recipe book and Creative inventory do not support translucent pixels",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-12T15:57:09.000+0300",
+    "resolution_date": "2024-07-25T10:35:24.000+0300",
+    "updated_date": "2024-07-25T10:35:24.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-270641",
+    "summary": "Crafter UI sprites do not support translucent pixels",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-11T19:16:26.000+0300",
+    "resolution_date": "2024-07-25T10:37:03.000+0300",
+    "updated_date": "2024-07-25T10:37:03.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270640",
+    "summary": "Anvil text field does not support translucent textures",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-11T19:00:18.000+0300",
+    "resolution_date": "2024-07-25T10:36:53.000+0300",
+    "updated_date": "2024-07-25T10:36:53.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270571",
+    "summary": "/tick command uses OS locale specific number formatting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-10T17:09:55.000+0300",
+    "resolution_date": "2024-08-02T14:52:45.000+0300",
+    "updated_date": "2024-08-02T14:52:45.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270570",
+    "summary": "TPS chart uses OS locale specific number formatting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-10T17:05:06.000+0300",
+    "resolution_date": "2024-08-02T14:52:45.000+0300",
+    "updated_date": "2024-08-02T14:52:45.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-270564",
+    "summary": "Brewing stand fuel, bubbles and progress sprites do not support translucent textures",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-10T15:38:42.000+0300",
+    "resolution_date": "2024-07-25T11:05:07.000+0300",
+    "updated_date": "2024-07-25T11:05:07.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-270563",
+    "summary": "Furnace, blast furnace and smoker smelting progress and burn time indicators do not support translucent textures",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-10T15:14:14.000+0300",
+    "resolution_date": "2024-07-25T11:04:59.000+0300",
+    "updated_date": "2024-07-25T11:04:59.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-270519",
+    "summary": "\"Error\" textures in block/entity GUIs do not support translucent textures",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-08T15:16:00.000+0300",
+    "resolution_date": "2024-07-25T11:04:50.000+0300",
+    "updated_date": "2024-07-25T11:04:50.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270518",
+    "summary": "Scrollers in block UIs render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-08T14:55:36.000+0300",
+    "resolution_date": "2024-07-25T11:08:32.000+0300",
+    "updated_date": "2024-07-25T11:08:32.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-270510",
+    "summary": "youJustLostTheGame is not the first item in the mappings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-08T10:40:42.000+0300",
+    "resolution_date": "2024-07-17T11:02:13.000+0300",
+    "updated_date": "2024-07-17T11:02:13.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-270348",
+    "summary": "Some slime trial spawners in trial chambers won't spawn slimes without player intervention",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning",
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-04T01:18:35.000+0300",
+    "resolution_date": "2024-07-31T10:23:11.000+0300",
+    "updated_date": "2024-07-31T10:23:11.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-270299",
+    "summary": "New data pack component crafting doesn't work with suspicious stews",
+    "labels": [
+      "data-pack",
+      "recipes",
+      "suspicious_stew"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-02T22:24:37.000+0300",
+    "resolution_date": "2024-06-25T10:56:07.000+0300",
+    "updated_date": "2024-06-25T10:56:07.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-270051",
+    "summary": "Recipe book button renders translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-28T15:18:15.000+0200",
+    "resolution_date": "2024-07-25T11:07:28.000+0300",
+    "updated_date": "2024-07-25T11:07:28.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-269996",
+    "summary": "Custom names of Interaction entities render at wrong location",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-28T00:28:33.000+0200",
+    "resolution_date": "2024-07-24T12:49:16.000+0300",
+    "updated_date": "2024-07-24T13:06:13.000+0300",
+    "watches": 4,
+    "votes": 14
+  },
+  {
+    "id": "MC-269937",
+    "summary": "World list buttons render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-27T17:13:44.000+0200",
+    "resolution_date": "2024-07-25T11:08:59.000+0300",
+    "updated_date": "2024-07-25T11:08:59.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-269936",
+    "summary": "Transferable list (resource pack, data pack) screen buttons render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-27T17:12:28.000+0200",
+    "resolution_date": "2024-07-25T11:13:41.000+0300",
+    "updated_date": "2024-07-25T11:13:41.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-269895",
+    "summary": "Breezes missing higher fidelity jump animation from Bedrock",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-26T00:43:07.000+0200",
+    "resolution_date": "2024-07-29T12:13:55.000+0300",
+    "updated_date": "2024-07-29T12:13:55.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-269834",
+    "summary": "Statistics screen sprites render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-24T13:30:41.000+0200",
+    "resolution_date": "2024-07-25T11:13:19.000+0300",
+    "updated_date": "2024-07-25T11:13:19.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-269832",
+    "summary": "Gamemode switcher sprites render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-24T13:08:21.000+0200",
+    "resolution_date": "2024-07-25T11:13:11.000+0300",
+    "updated_date": "2024-07-25T11:13:11.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-269814",
+    "summary": "Can\u2019t feed fish to wolves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-23T21:15:49.000+0200",
+    "resolution_date": "2024-07-08T19:21:34.000+0300",
+    "updated_date": "2024-07-08T19:21:34.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-269751",
+    "summary": "Advancement frames render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-22T12:21:01.000+0200",
+    "resolution_date": "2024-07-25T11:10:55.000+0300",
+    "updated_date": "2024-07-25T11:10:55.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-269738",
+    "summary": "Recipe book cannot quick-move oversized item stacks into applicable recipe slots",
+    "labels": [
+      "component",
+      "max_stack_size",
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-22T00:21:40.000+0200",
+    "resolution_date": "2024-07-30T16:29:29.000+0300",
+    "updated_date": "2024-07-30T16:29:29.000+0300",
+    "watches": 5,
+    "votes": 2
+  },
+  {
+    "id": "MC-269656",
+    "summary": "Feeding parrots poison while holding mace grants Over-Overkill challenge",
+    "labels": [
+      "advancement",
+      "damage",
+      "mob"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w13a",
+      "24w33a"
+    ],
+    "creation_date": "2024-03-20T19:28:35.000+0200",
+    "resolution_date": "2024-08-13T11:41:43.000+0300",
+    "updated_date": "2024-08-13T11:41:43.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-269627",
+    "summary": "Toasts render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-20T18:01:53.000+0200",
+    "resolution_date": "2024-07-25T11:10:22.000+0300",
+    "updated_date": "2024-07-25T11:10:22.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-269622",
+    "summary": "Previous/Next Page buttons render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-20T17:45:32.000+0200",
+    "resolution_date": "2024-07-25T11:08:43.000+0300",
+    "updated_date": "2024-07-25T11:08:43.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-269549",
+    "summary": "Items held in cursor are rendered behind recipe book UI elements",
+    "labels": [
+      "held-item",
+      "recipe-book",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-18T06:08:33.000+0200",
+    "resolution_date": "2024-07-25T10:37:36.000+0300",
+    "updated_date": "2024-07-25T10:37:36.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-269528",
+    "summary": "Recipe book tabs are rendered over items held by the mouse cursor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-17T11:50:08.000+0200",
+    "resolution_date": "2024-07-25T10:37:24.000+0300",
+    "updated_date": "2024-07-25T10:37:24.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-269445",
+    "summary": "Some empty slot icons render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-15T10:01:48.000+0200",
+    "resolution_date": "2024-07-25T11:07:23.000+0300",
+    "updated_date": "2024-07-25T11:07:23.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-269441",
+    "summary": "Difficulty lock button renders translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-15T08:53:09.000+0200",
+    "resolution_date": "2024-07-25T11:04:36.000+0300",
+    "updated_date": "2024-07-25T11:04:36.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-269440",
+    "summary": "Text fields render translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-15T08:46:23.000+0200",
+    "resolution_date": "2024-07-25T10:35:53.000+0300",
+    "updated_date": "2024-07-25T10:35:53.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-269428",
+    "summary": "Mace fall damage multiplier does not apply to mobs",
+    "labels": [
+      "mace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-15T06:18:57.000+0200",
+    "resolution_date": "2024-08-12T11:43:58.000+0300",
+    "updated_date": "2024-08-12T11:43:58.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-269375",
+    "summary": "Breeze's wind charge attack can move or break armor stands when mobGriefing is disabled",
+    "labels": [
+      "breeze",
+      "breeze_wind_charge",
+      "mobGriefing",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-14T19:52:14.000+0200",
+    "resolution_date": "2024-07-31T10:55:27.000+0300",
+    "updated_date": "2024-07-31T10:55:27.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-269352",
+    "summary": "The breeze rod uses an incorrect model for holding",
+    "labels": [
+      "breeze_rod"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-14T18:24:30.000+0200",
+    "resolution_date": "2024-08-06T17:45:36.000+0300",
+    "updated_date": "2024-08-09T23:38:29.000+0300",
+    "watches": 25,
+    "votes": 48
+  },
+  {
+    "id": "MC-269152",
+    "summary": "nine_slice texture scaling will cause ridiculous levels of lag when used on small textures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance",
+      "Resource Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-03-07T01:47:52.000+0200",
+    "resolution_date": "2024-07-25T10:35:09.000+0300",
+    "updated_date": "2024-07-25T10:35:09.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-269083",
+    "summary": "Effect background texture in inventory renders translucent pixels as opaque",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w12a",
+      "24w33a"
+    ],
+    "creation_date": "2024-03-04T03:55:46.000+0200",
+    "resolution_date": "2024-07-25T11:03:24.000+0300",
+    "updated_date": "2024-07-25T11:03:24.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-268929",
+    "summary": "pack.png does not support translucent pixels",
+    "labels": [
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-02-29T21:01:07.000+0200",
+    "resolution_date": "2024-08-01T15:57:53.000+0300",
+    "updated_date": "2024-08-01T15:57:53.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-268645",
+    "summary": "Scheduling a macro function silently fails",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-02-17T19:55:24.000+0200",
+    "resolution_date": "2024-08-02T09:55:48.000+0300",
+    "updated_date": "2024-08-02T09:55:48.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-268528",
+    "summary": "Cave Vines can be pollinated infinitely (instead of limit of 10)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-02-12T18:51:36.000+0200",
+    "resolution_date": "2024-08-13T11:41:44.000+0300",
+    "updated_date": "2024-08-13T11:41:44.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-268241",
+    "summary": "The bottom faces of vaults aren't culled when covered by blocks",
+    "labels": [
+      "vault"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-02-02T19:51:55.000+0200",
+    "resolution_date": "2024-07-29T16:41:19.000+0300",
+    "updated_date": "2024-07-29T16:41:19.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-268220",
+    "summary": "Zoglins ignore monster spawning requirements when spawning naturally",
+    "labels": [
+      "datapack",
+      "zoglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "Data Packs",
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-02-01T23:49:36.000+0200",
+    "resolution_date": "2024-07-02T18:05:35.000+0300",
+    "updated_date": "2024-07-02T18:49:02.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-268045",
+    "summary": "The name of Entity Argument is plural in Query literal node of Experience command",
+    "labels": [
+      "command",
+      "command-feedback",
+      "experience",
+      "grammar",
+      "grammar-issue",
+      "pluralization",
+      "xp"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-01-22T23:05:11.000+0200",
+    "resolution_date": "2024-08-02T14:52:46.000+0300",
+    "updated_date": "2024-08-02T14:52:46.000+0300",
+    "watches": 4,
+    "votes": 1
+  },
+  {
+    "id": "MC-267838",
+    "summary": "Projectile yaw rotations have incorrect interpolation, causing flickering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-01-11T01:21:25.000+0200",
+    "resolution_date": "2024-07-04T16:08:29.000+0300",
+    "updated_date": "2024-07-04T19:08:34.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-267401",
+    "summary": "All the player skin report's category descriptions use the chat message ones",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Social Interactions",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-12-18T20:44:20.000+0200",
+    "resolution_date": "2024-08-13T10:34:14.000+0300",
+    "updated_date": "2024-08-13T10:34:14.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-267107",
+    "summary": "Spawners unsuccessfully try to summon hostile entities on peaceful difficulty",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-11-30T19:24:17.000+0200",
+    "resolution_date": "2024-07-02T18:05:36.000+0300",
+    "updated_date": "2024-07-02T18:48:20.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-267006",
+    "summary": "The Distance Flown statistics rapidly increases when you are standing in Ender Dragon's hitbox",
+    "labels": [
+      "EnderDragon",
+      "Player",
+      "Server",
+      "statistics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-11-25T14:08:11.000+0200",
+    "resolution_date": "2024-06-18T14:24:43.000+0300",
+    "updated_date": "2024-06-18T14:24:43.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-266949",
+    "summary": "Monster spawner tries to spawn breezes when the difficulty is Peaceful",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-11-23T14:50:35.000+0200",
+    "resolution_date": "2024-07-02T18:05:35.000+0300",
+    "updated_date": "2024-07-02T18:05:35.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-266441",
+    "summary": "Multiple trial chamber templates have missing or incorrect blocks",
+    "labels": [
+      "trial_chamber"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-11-08T17:56:32.000+0200",
+    "resolution_date": "2024-07-31T10:15:25.000+0300",
+    "updated_date": "2024-07-31T10:15:25.000+0300",
+    "watches": 12,
+    "votes": 26
+  },
+  {
+    "id": "MC-265703",
+    "summary": "BrushableBlock's codec misspells 'completed' as 'comleted'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-10-08T17:22:50.000+0300",
+    "resolution_date": "2024-08-02T14:52:46.000+0300",
+    "updated_date": "2024-08-02T17:59:00.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-265695",
+    "summary": "The feedback for setting the idle timeout to 0 minutes does not reflect the actual behavior",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-10-08T05:56:02.000+0300",
+    "resolution_date": "2024-08-02T09:55:46.000+0300",
+    "updated_date": "2024-08-02T09:55:46.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-265693",
+    "summary": "Movement does not reset a player's last action time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-10-08T05:41:29.000+0300",
+    "resolution_date": "2024-08-08T12:50:56.000+0300",
+    "updated_date": "2024-08-08T12:50:56.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-265554",
+    "summary": "Aaron Cherof listed as \"Aaron Cherof\\u00a0\" in credits.json",
+    "labels": [
+      "credits.json"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-09-25T06:53:40.000+0300",
+    "resolution_date": "2024-06-14T11:07:17.000+0300",
+    "updated_date": "2024-06-14T11:07:17.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-264986",
+    "summary": "Item count of fuel slot affects the way smelting recipe book moves ingredients",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-08-23T06:56:03.000+0300",
+    "resolution_date": "2024-07-29T19:15:56.000+0300",
+    "updated_date": "2024-07-29T19:15:56.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-264886",
+    "summary": "Geode features ignore the invalid_blocks field",
+    "labels": [
+      "custom-worldgen",
+      "world-generation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-08-17T03:28:05.000+0300",
+    "resolution_date": "2024-07-23T11:18:45.000+0300",
+    "updated_date": "2024-07-23T11:18:45.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-263858",
+    "summary": "Text Displays are rendered differently compared to name tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-06-26T22:35:03.000+0300",
+    "resolution_date": "2024-07-25T10:53:56.000+0300",
+    "updated_date": "2024-07-25T10:53:56.000+0300",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-263838",
+    "summary": "doLimitedCrafting gamerule does not work on suspicious stew",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-06-26T02:48:50.000+0300",
+    "resolution_date": "2024-06-25T10:56:07.000+0300",
+    "updated_date": "2024-06-25T10:56:07.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-262652",
+    "summary": "Dragon egg's side texture is mapped strangely as of 1.8 (and the model is also unoptimized)",
+    "labels": [
+      "1.8-bad-model-conversion-remnants",
+      "1.8-model-conversion-remnants",
+      "incorrect-uv",
+      "model-optimization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-05-14T01:38:06.000+0300",
+    "resolution_date": "2024-08-05T18:12:51.000+0300",
+    "updated_date": "2024-08-05T18:12:51.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-262498",
+    "summary": "Underground seagrass feature files exist despite never generating",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-05-10T10:48:35.000+0300",
+    "resolution_date": "2024-08-06T11:02:53.000+0300",
+    "updated_date": "2024-08-06T11:02:53.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-262175",
+    "summary": "The \"advancements.adventure.trim_with_any_armor_pattern.description\" text contains incorrect English grammar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-04-28T19:08:43.000+0300",
+    "resolution_date": "2024-08-02T14:52:47.000+0300",
+    "updated_date": "2024-08-02T14:52:47.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-262112",
+    "summary": "Wither skull's bounding box is wrongly positioned in the first tick, and cannot be selected with volume checks in commands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-04-26T05:22:19.000+0300",
+    "resolution_date": "2024-06-14T11:53:09.000+0300",
+    "updated_date": "2024-06-14T11:53:09.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-261691",
+    "summary": "Bees get stuck while trying to pathfind to inaccessible flowers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-04-07T17:27:43.000+0300",
+    "resolution_date": "2024-08-05T17:26:02.000+0300",
+    "updated_date": "2024-08-05T17:26:02.000+0300",
+    "watches": 5,
+    "votes": 16
+  },
+  {
+    "id": "MC-260914",
+    "summary": "\"/spreadplayers\" strings for entities consist of inconsistent noun usage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-03-11T13:41:53.000+0200",
+    "resolution_date": "2024-08-02T14:52:47.000+0300",
+    "updated_date": "2024-08-02T14:52:47.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-260913",
+    "summary": "The word \"blocks\" within some \"/spreadplayers\" command feedback messages is always pluralized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-03-11T13:14:35.000+0200",
+    "resolution_date": "2024-08-02T14:52:48.000+0300",
+    "updated_date": "2024-08-02T14:52:48.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-260860",
+    "summary": "Some words within some chat delay strings are always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-03-09T17:16:19.000+0200",
+    "resolution_date": "2024-08-02T14:52:48.000+0300",
+    "updated_date": "2024-08-02T14:52:48.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-260859",
+    "summary": "Some words within a tick profiling feedback message are always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-03-09T17:10:47.000+0200",
+    "resolution_date": "2024-08-02T14:52:49.000+0300",
+    "updated_date": "2024-08-02T14:52:49.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-260858",
+    "summary": "The word \"ticks\" within a \"/schedule\" command feedback message is always pluralized",
+    "labels": [
+      "grammar",
+      "pluralization",
+      "spelling"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-03-09T16:59:00.000+0200",
+    "resolution_date": "2024-08-02T09:55:48.000+0300",
+    "updated_date": "2024-08-02T09:55:48.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-260013",
+    "summary": "Baby Llama's head has incorrect scale method",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-02-14T21:31:47.000+0200",
+    "resolution_date": "2024-08-06T11:09:34.000+0300",
+    "updated_date": "2024-08-06T11:09:34.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-259798",
+    "summary": "Block hitboxes cause semi-transparent blocks not to render behind them in lower than \"Fabulous\" graphics settings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-02-08T18:51:50.000+0200",
+    "resolution_date": "2024-07-19T14:22:20.000+0300",
+    "updated_date": "2024-08-15T19:01:31.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-259687",
+    "summary": "\"Distance by Elytra\" statistic is approximately doubled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-02-04T06:44:57.000+0200",
+    "resolution_date": "2024-06-18T14:24:43.000+0300",
+    "updated_date": "2024-06-18T14:24:43.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-257309",
+    "summary": "Monster spawner tries to spawn wardens and zoglins when the difficulty is Peaceful",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2022-11-08T07:39:11.000+0200",
+    "resolution_date": "2024-07-02T18:05:35.000+0300",
+    "updated_date": "2024-07-02T18:05:35.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-256422",
+    "summary": "Some words within some strings use right single quotation marks instead of apostrophes",
+    "labels": [
+      "apostrophe"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2022-10-16T17:53:08.000+0300",
+    "resolution_date": "2024-08-02T14:52:49.000+0300",
+    "updated_date": "2024-08-02T14:52:49.000+0300",
+    "watches": 10,
+    "votes": 9
+  },
+  {
+    "id": "MC-249901",
+    "summary": "Frogs don't play the frog eating sound when given a slime ball",
+    "labels": [
+      "frog",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2022-04-05T17:39:06.000+0300",
+    "resolution_date": "2024-08-12T10:53:54.000+0300",
+    "updated_date": "2024-08-12T10:53:55.000+0300",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-249067",
+    "summary": "Ominous banners lose their rarity color when renamed using anvils",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2022-03-16T02:16:01.000+0200",
+    "resolution_date": "2024-07-26T20:38:26.000+0300",
+    "updated_date": "2024-07-26T20:38:26.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-247238",
+    "summary": "Sky fog is not cylindrical",
+    "labels": [
+      "fog",
+      "rendering",
+      "sky_fog"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-12-31T18:33:27.000+0200",
+    "resolution_date": "2024-08-02T11:46:25.000+0300",
+    "updated_date": "2024-08-02T11:46:25.000+0300",
+    "watches": 5,
+    "votes": 15
+  },
+  {
+    "id": "MC-245510",
+    "summary": "Piglin Brute's generic.follow_range attribute functions oddly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-12-14T20:56:23.000+0200",
+    "resolution_date": "2024-08-14T12:56:51.000+0300",
+    "updated_date": "2024-08-14T12:56:51.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-244720",
+    "summary": "\"Erased cached data\" button in Optimize World is not labeled in the right order when using Tab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-12-05T14:34:07.000+0200",
+    "resolution_date": "2024-07-23T11:18:46.000+0300",
+    "updated_date": "2024-07-23T11:18:46.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-243413",
+    "summary": "Some Explorer Maps are missing their icon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-12-01T00:06:29.000+0200",
+    "resolution_date": "2024-06-25T10:48:17.000+0300",
+    "updated_date": "2024-08-01T08:32:46.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-241873",
+    "summary": "Ravagers can move armor stands even with mobGriefing turned off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-11-18T15:11:12.000+0200",
+    "resolution_date": "2024-07-24T12:41:09.000+0300",
+    "updated_date": "2024-07-24T12:41:09.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-240948",
+    "summary": "Filled powder snow cauldrons are able to be put under water",
+    "labels": [
+      "cauldron",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-11-08T03:25:32.000+0200",
+    "resolution_date": "2024-08-14T17:56:40.000+0300",
+    "updated_date": "2024-08-14T17:56:40.000+0300",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-239581",
+    "summary": "Bees do not become angry at the closest player when hive is exploded",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-10-22T14:41:48.000+0300",
+    "resolution_date": "2024-07-30T15:38:09.000+0300",
+    "updated_date": "2024-07-30T15:38:09.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-234318",
+    "summary": "Small dripleaf stems intersect its leaves",
+    "labels": [
+      "intersecting",
+      "model",
+      "small_dripleaf",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-08-12T17:20:19.000+0300",
+    "resolution_date": "2024-08-07T18:03:01.000+0300",
+    "updated_date": "2024-08-07T18:03:01.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-227139",
+    "summary": "Sky fog stutters",
+    "labels": [
+      "fog",
+      "lag",
+      "rendering",
+      "sky-fog",
+      "stutter"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-06-02T14:56:51.000+0300",
+    "resolution_date": "2024-08-02T11:46:25.000+0300",
+    "updated_date": "2024-08-02T11:46:25.000+0300",
+    "watches": 5,
+    "votes": 11
+  },
+  {
+    "id": "MC-226687",
+    "summary": "Sea Level is assumed to be Y = 63 in numerous parts of Minecraft",
+    "labels": [
+      "datapack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Custom Worlds",
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-05-29T01:48:04.000+0300",
+    "resolution_date": "2024-08-13T11:41:44.000+0300",
+    "updated_date": "2024-08-13T11:41:44.000+0300",
+    "watches": 20,
+    "votes": 40
+  },
+  {
+    "id": "MC-226038",
+    "summary": "Scheduled functions are part of weather in profile results",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-05-21T19:59:02.000+0300",
+    "resolution_date": "2024-08-02T09:55:49.000+0300",
+    "updated_date": "2024-08-02T09:55:49.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-225270",
+    "summary": "Goats can move armor stands even with mobGriefing turned off",
+    "labels": [
+      "armor-stand",
+      "gamerule",
+      "goat",
+      "mobGriefing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-05-11T12:30:49.000+0300",
+    "resolution_date": "2024-07-24T12:41:08.000+0300",
+    "updated_date": "2024-07-24T12:41:08.000+0300",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-224454",
+    "summary": "Entities don't recognize azaleas or flowering azaleas as obstacles when pathfinding",
+    "labels": [
+      "azalea",
+      "flowering_azalea",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-04-29T10:04:26.000+0300",
+    "resolution_date": "2024-08-14T18:57:18.000+0300",
+    "updated_date": "2024-08-14T18:57:18.000+0300",
+    "watches": 22,
+    "votes": 46
+  },
+  {
+    "id": "MC-224035",
+    "summary": "Small Dripleaf's model is inconsistent",
+    "labels": [
+      "incorrect-pixel-sizes",
+      "small_dripleaf",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-04-24T02:56:08.000+0300",
+    "resolution_date": "2024-08-07T18:03:01.000+0300",
+    "updated_date": "2024-08-07T18:03:01.000+0300",
+    "watches": 10,
+    "votes": 21
+  },
+  {
+    "id": "MC-215752",
+    "summary": "Z-fighting with paintings and item frames in solid blocks",
+    "labels": [
+      "glow_item_frame",
+      "item_frame",
+      "painting",
+      "z-fighting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-02-16T22:24:38.000+0200",
+    "resolution_date": "2024-08-09T11:43:17.000+0300",
+    "updated_date": "2024-08-09T11:43:17.000+0300",
+    "watches": 8,
+    "votes": 12
+  },
+  {
+    "id": "MC-215332",
+    "summary": "Glow squids lack a baby variant",
+    "labels": [
+      "baby",
+      "glow_squid",
+      "mob-spawning",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-02-13T12:09:32.000+0200",
+    "resolution_date": "2024-08-14T18:29:09.000+0300",
+    "updated_date": "2024-08-14T18:29:09.000+0300",
+    "watches": 19,
+    "votes": 46
+  },
+  {
+    "id": "MC-209947",
+    "summary": "minecraft:block/scaffolding_unstable has incorrect cullfaces",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-12-29T20:07:18.000+0200",
+    "resolution_date": "2024-08-14T14:26:48.000+0300",
+    "updated_date": "2024-08-14T14:26:48.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-203748",
+    "summary": "Filled lava cauldrons are able to be put under water",
+    "labels": [
+      "lava_cauldron",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-11-05T00:09:46.000+0200",
+    "resolution_date": "2024-08-14T17:56:39.000+0300",
+    "updated_date": "2024-08-14T17:56:39.000+0300",
+    "watches": 12,
+    "votes": 29
+  },
+  {
+    "id": "MC-199238",
+    "summary": "Unneeded faces and missing cullface in dragon egg model",
+    "labels": [
+      "cullface-missing-from-model",
+      "unnecessary-planes"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-08-29T19:04:46.000+0300",
+    "resolution_date": "2024-08-15T19:07:21.000+0300",
+    "updated_date": "2024-08-15T19:07:21.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-196556",
+    "summary": "When projectiles (such as arrows and tridents) move too fast, they can't be teleported by portals and end gateways",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-07-30T14:24:59.000+0300",
+    "resolution_date": "2024-06-20T14:32:05.000+0300",
+    "updated_date": "2024-06-20T14:32:05.000+0300",
+    "watches": 12,
+    "votes": 19
+  },
+  {
+    "id": "MC-195754",
+    "summary": "Illagers in raids continuously try and fail to pick up ominous banners if they can't reach them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-07-22T12:39:31.000+0300",
+    "resolution_date": "2024-08-13T16:21:47.000+0300",
+    "updated_date": "2024-08-13T16:21:47.000+0300",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-190484",
+    "summary": "Sneaking players' name tags are partly invisible depending on what angle you're facing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-06-19T03:22:23.000+0300",
+    "resolution_date": "2024-07-18T11:30:34.000+0300",
+    "updated_date": "2024-07-19T04:08:00.000+0300",
+    "watches": 8,
+    "votes": 28
+  },
+  {
+    "id": "MC-190163",
+    "summary": "Zoglin spawn eggs don't occasionally spawn baby zoglins on their own accord",
+    "labels": [
+      "vanilla-parity",
+      "zoglin_spawn_egg"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-06-17T11:37:33.000+0300",
+    "resolution_date": "2024-08-09T08:30:38.000+0300",
+    "updated_date": "2024-08-09T08:30:38.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-188217",
+    "summary": "Bees circle above flower that is covered by all sides",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-06-08T22:25:13.000+0300",
+    "resolution_date": "2024-08-05T17:26:01.000+0300",
+    "updated_date": "2024-08-05T17:26:02.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-187920",
+    "summary": "Bees sometimes give up when returning home",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-06-07T02:29:10.000+0300",
+    "resolution_date": "2024-08-05T17:26:00.000+0300",
+    "updated_date": "2024-08-05T17:26:00.000+0300",
+    "watches": 13,
+    "votes": 43
+  },
+  {
+    "id": "MC-183636",
+    "summary": "follow_range attribute not working for piglins",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-05-12T19:42:59.000+0300",
+    "resolution_date": "2024-08-14T12:56:50.000+0300",
+    "updated_date": "2024-08-14T12:56:50.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-183518",
+    "summary": "High CPU usage on hypervisor host possibly due to excessive syscall usage by Minecraft Server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-05-11T19:49:45.000+0300",
+    "resolution_date": "2024-07-31T15:12:22.000+0300",
+    "updated_date": "2024-07-31T15:12:22.000+0300",
+    "watches": 19,
+    "votes": 29
+  },
+  {
+    "id": "MC-182877",
+    "summary": "Piglins use one hand to hold a loaded crossbow",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Parity"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-05-07T07:04:13.000+0300",
+    "resolution_date": "2024-08-14T17:47:41.000+0300",
+    "updated_date": "2024-08-14T17:47:41.000+0300",
+    "watches": 9,
+    "votes": 28
+  },
+  {
+    "id": "MC-182478",
+    "summary": "Mob armor generates starting with boots rather than helmet",
+    "labels": [
+      "mob",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Loot tables",
+      "Mob spawning",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-05-05T04:55:04.000+0300",
+    "resolution_date": "2024-07-31T14:19:24.000+0300",
+    "updated_date": "2024-07-31T14:19:24.000+0300",
+    "watches": 3,
+    "votes": 25
+  },
+  {
+    "id": "MC-180272",
+    "summary": "en_us.json contains unused strings",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-04-23T22:32:39.000+0300",
+    "resolution_date": "2024-08-02T09:55:47.000+0300",
+    "updated_date": "2024-08-05T13:31:34.000+0300",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-179629",
+    "summary": "Faces in between cloud \"blocks\" can still render from outside of the cloud",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-04-21T02:11:50.000+0300",
+    "resolution_date": "2024-08-02T11:46:24.000+0300",
+    "updated_date": "2024-08-02T11:46:24.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-174732",
+    "summary": "Semi-transparent status effect textures do not render correctly in the inventory or beacon UI",
+    "labels": [
+      "resource-pack-support",
+      "translucency",
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-03-13T19:12:12.000+0200",
+    "resolution_date": "2024-07-25T10:37:12.000+0300",
+    "updated_date": "2024-07-25T10:37:12.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-166880",
+    "summary": "Pufferfish spikes model seems to be broken",
+    "labels": [
+      "model",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.16 Pre-release 3",
+      "24w33a"
+    ],
+    "creation_date": "2019-11-30T17:41:05.000+0200",
+    "resolution_date": "2024-08-07T11:30:46.000+0300",
+    "updated_date": "2024-08-07T11:30:46.000+0300",
+    "watches": 13,
+    "votes": 41
+  },
+  {
+    "id": "MC-165182",
+    "summary": "Inventory/GUI textures no longer handle translucent pixels correctly",
+    "labels": [
+      "GUI",
+      "custom",
+      "gui-slider",
+      "inventory",
+      "opacity",
+      "rendering",
+      "resource-pack",
+      "resource-pack-support",
+      "texture",
+      "translucency",
+      "translucency-nonfunctional"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-11-08T10:04:53.000+0200",
+    "resolution_date": "2024-07-25T10:35:36.000+0300",
+    "updated_date": "2024-07-25T10:35:36.000+0300",
+    "watches": 6,
+    "votes": 25
+  },
+  {
+    "id": "MC-162713",
+    "summary": "Clouds are generated with offset to east and south",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-10-04T17:21:21.000+0300",
+    "resolution_date": "2024-08-02T11:46:23.000+0300",
+    "updated_date": "2024-08-02T11:46:23.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-161913",
+    "summary": "Misalignment on edges/corners of clouds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-09-27T22:15:29.000+0300",
+    "resolution_date": "2024-08-02T11:46:24.000+0300",
+    "updated_date": "2024-08-02T11:46:24.000+0300",
+    "watches": 13,
+    "votes": 28
+  },
+  {
+    "id": "MC-158389",
+    "summary": "Raid results in victory if it cannot find a valid spawn point",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-08-04T18:55:49.000+0300",
+    "resolution_date": "2024-08-15T18:39:25.000+0300",
+    "updated_date": "2024-08-15T18:39:25.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-156579",
+    "summary": "Creative players can fly through portals when going quickly enough using elytra or Riptide trident",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-07-12T09:53:36.000+0300",
+    "resolution_date": "2024-06-20T14:32:06.000+0300",
+    "updated_date": "2024-06-20T14:32:06.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-151828",
+    "summary": "Woodland mansion structure '1x1_b3' has dark oak leaf block with persistent tag set to 'false'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-05-14T12:24:14.000+0300",
+    "resolution_date": "2024-07-23T11:18:46.000+0300",
+    "updated_date": "2024-07-23T11:18:46.000+0300",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-145656",
+    "summary": "Attribute \"follow_range\" is not working for hostile mobs before they find the target",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-03-13T09:42:54.000+0200",
+    "resolution_date": "2024-08-14T12:56:49.000+0300",
+    "updated_date": "2024-08-14T14:10:09.000+0300",
+    "watches": 58,
+    "votes": 109
+  },
+  {
+    "id": "MC-144761",
+    "summary": "Animated texture interpolation ignores alpha channel during transition from/to transparent pixels",
+    "labels": [
+      "animation",
+      "resource-pack-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-02-23T04:26:11.000+0200",
+    "resolution_date": "2024-07-29T16:54:10.000+0300",
+    "updated_date": "2024-07-29T17:11:21.000+0300",
+    "watches": 17,
+    "votes": 45
+  },
+  {
+    "id": "MC-137053",
+    "summary": "You cannot set the \"CanBreakDoors\" NBT tag of drowned to \"1b\"",
+    "labels": [
+      "drowned",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-09-26T03:32:45.000+0300",
+    "resolution_date": "2024-08-06T14:46:20.000+0300",
+    "updated_date": "2024-08-06T14:46:20.000+0300",
+    "watches": 15,
+    "votes": 26
+  },
+  {
+    "id": "MC-135971",
+    "summary": "Can't use CTRL+Q in crafting table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-08-14T00:25:45.000+0300",
+    "resolution_date": "2024-07-23T11:26:32.000+0300",
+    "updated_date": "2024-07-23T11:26:32.000+0300",
+    "watches": 18,
+    "votes": 73
+  },
+  {
+    "id": "MC-133862",
+    "summary": "Optimize world screen backup button has inaccurate text",
+    "labels": [
+      "button",
+      "inaccurate",
+      "menu",
+      "optimize-world",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-07-18T01:55:53.000+0300",
+    "resolution_date": "2024-08-02T09:55:47.000+0300",
+    "updated_date": "2024-08-02T09:55:47.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-132804",
+    "summary": "Low follow range attribute also affects mobs' idle wandering range",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-07-05T19:17:00.000+0300",
+    "resolution_date": "2024-08-14T12:56:51.000+0300",
+    "updated_date": "2024-08-14T12:56:51.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-130097",
+    "summary": "Tropical fish fin UV mapping wrong",
+    "labels": [
+      "entity-model",
+      "tropical_fish"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-05-23T17:38:51.000+0300",
+    "resolution_date": "2024-08-07T10:29:37.000+0300",
+    "updated_date": "2024-08-07T10:29:37.000+0300",
+    "watches": 10,
+    "votes": 17
+  },
+  {
+    "id": "MC-129826",
+    "summary": "[\"shade\": false] is missing from potted cross models, resulting in most potted plants appearing darker than they should",
+    "labels": [
+      "1.8-bad-model-conversion-remnants",
+      "1.8-model-conversion-remnants",
+      "14w25a",
+      "unwanted-model-shading",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-05-18T00:19:34.000+0300",
+    "resolution_date": "2024-08-13T11:41:46.000+0300",
+    "updated_date": "2024-08-13T11:41:46.000+0300",
+    "watches": 14,
+    "votes": 33
+  },
+  {
+    "id": "MC-129055",
+    "summary": "Issues breaking tripwire with shears",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-04-29T23:43:09.000+0300",
+    "resolution_date": "2024-08-15T18:21:58.000+0300",
+    "updated_date": "2024-08-15T18:21:58.000+0300",
+    "watches": 10,
+    "votes": 26
+  },
+  {
+    "id": "MC-127995",
+    "summary": "You can use bone meal on sea pickles in situations where no sea pickles will grow",
+    "labels": [
+      "bone_meal",
+      "sea_pickle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-04-05T18:39:14.000+0300",
+    "resolution_date": "2024-08-13T11:41:45.000+0300",
+    "updated_date": "2024-08-13T11:41:45.000+0300",
+    "watches": 10,
+    "votes": 17
+  },
+  {
+    "id": "MC-125642",
+    "summary": "Bone meal is consumed when used on fern, grass and seagrass even if it cannot grow",
+    "labels": [
+      "bone_meal",
+      "fern",
+      "grass",
+      "seagrass",
+      "tall_seagrass"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2018-02-16T18:07:52.000+0200",
+    "resolution_date": "2024-08-13T11:41:45.000+0300",
+    "updated_date": "2024-08-13T11:41:45.000+0300",
+    "watches": 16,
+    "votes": 37
+  },
+  {
+    "id": "MC-121013",
+    "summary": "\"Followrange\" Attribute only targets mobs on (roughly) the same y level.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2017-10-07T23:28:02.000+0300",
+    "resolution_date": "2024-08-14T12:56:52.000+0300",
+    "updated_date": "2024-08-14T12:56:52.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-120417",
+    "summary": "Incorrect dragon egg block model",
+    "labels": [
+      "block-model",
+      "dragon_egg",
+      "incorrect-pixel-sizes"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2017-08-27T06:22:40.000+0300",
+    "resolution_date": "2024-07-30T11:33:59.000+0300",
+    "updated_date": "2024-07-30T11:33:59.000+0300",
+    "watches": 13,
+    "votes": 29
+  },
+  {
+    "id": "MC-112257",
+    "summary": "Some NBT tags require the correct suffix",
+    "labels": [
+      "NBT"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2017-01-05T03:18:57.000+0200",
+    "resolution_date": "2024-07-23T11:18:47.000+0300",
+    "updated_date": "2024-07-23T11:18:47.000+0300",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-101376",
+    "summary": "Elytra appearance doesn't update in 1st person mode; only in 3rd person",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2016-04-28T03:40:07.000+0300",
+    "resolution_date": "2024-07-04T16:08:28.000+0300",
+    "updated_date": "2024-07-04T16:08:28.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-92875",
+    "summary": "Collisionless blocks ignore entities with high velocity",
+    "labels": [
+      "entity",
+      "motion",
+      "tripwire",
+      "velocity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2015-11-17T22:33:43.000+0200",
+    "resolution_date": "2024-06-20T14:32:06.000+0300",
+    "updated_date": "2024-06-20T14:32:07.000+0300",
+    "watches": 11,
+    "votes": 27
+  },
+  {
+    "id": "MC-89883",
+    "summary": "Squid and glow squid collision error and rubberbanding",
+    "labels": [
+      "collision",
+      "collisionRule",
+      "land",
+      "rubberband",
+      "rubberbanding",
+      "squid",
+      "squids"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 16w06a",
+      "24w33a"
+    ],
+    "creation_date": "2015-10-06T17:23:22.000+0300",
+    "resolution_date": "2024-06-18T14:24:42.000+0300",
+    "updated_date": "2024-06-18T14:24:42.000+0300",
+    "watches": 32,
+    "votes": 80
+  },
+  {
+    "id": "MC-86252",
+    "summary": "Shields can continue to block after entity changes dimensions due to client and server desync",
+    "labels": [
+      "blocking",
+      "desync",
+      "left-click",
+      "right-click",
+      "shield"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2015-08-15T01:15:26.000+0300",
+    "resolution_date": "2024-07-09T13:09:50.000+0300",
+    "updated_date": "2024-08-07T11:12:11.000+0300",
+    "watches": 44,
+    "votes": 88
+  },
+  {
+    "id": "MC-75494",
+    "summary": "Lead item drop is not affected by doEntityDrops gamerule",
+    "labels": [
+      "doEntityDrops",
+      "drop",
+      "gamerule",
+      "item",
+      "lead"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-12-18T23:29:15.000+0200",
+    "resolution_date": "2024-07-24T12:41:06.000+0300",
+    "updated_date": "2024-07-24T12:41:06.000+0300",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-72494",
+    "summary": "In Statistics screen 'm' is the same unit for both minutes and meters",
+    "labels": [
+      "distance",
+      "meter",
+      "min",
+      "minute",
+      "screen",
+      "statistics",
+      "stats",
+      "time",
+      "unit"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-09-28T22:35:07.000+0300",
+    "resolution_date": "2024-08-05T14:31:54.000+0300",
+    "updated_date": "2024-08-05T14:31:54.000+0300",
+    "watches": 5,
+    "votes": 18
+  },
+  {
+    "id": "MC-59471",
+    "summary": "String can be duplicated using tripwire hooks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-06-28T06:55:47.000+0300",
+    "resolution_date": "2024-08-12T13:48:40.000+0300",
+    "updated_date": "2024-08-15T19:10:38.000+0300",
+    "watches": 16,
+    "votes": 13
+  },
+  {
+    "id": "MC-55863",
+    "summary": "It rains over unloaded chunks, ignoring the biome",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-05-26T00:58:17.000+0300",
+    "resolution_date": "2024-08-09T11:01:47.000+0300",
+    "updated_date": "2024-08-09T11:01:47.000+0300",
+    "watches": 21,
+    "votes": 40
+  },
+  {
+    "id": "MC-53602",
+    "summary": "Projectiles don't collide with the world border",
+    "labels": [
+      "arrow",
+      "collision",
+      "ender_pearl",
+      "fireball",
+      "projectile",
+      "snowball",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-04-25T20:45:14.000+0300",
+    "resolution_date": "2024-08-15T11:55:23.000+0300",
+    "updated_date": "2024-08-15T11:55:23.000+0300",
+    "watches": 20,
+    "votes": 36
+  },
+  {
+    "id": "MC-49628",
+    "summary": "When in spectator mode the head overlay shows even if it is set not to show in the skin customisation options",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-02-23T23:00:01.000+0200",
+    "resolution_date": "2024-07-31T16:12:45.000+0300",
+    "updated_date": "2024-07-31T16:12:45.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-14800",
+    "summary": "When zombie villagers, husks, drowned or zombified piglins are damaged, they spawn regular zombie reinforcements",
+    "labels": [
+      "mob",
+      "reinforcement",
+      "spawn",
+      "zombie"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 14w29b",
+      "24w33a"
+    ],
+    "creation_date": "2013-04-27T14:33:28.000+0300",
+    "resolution_date": "2024-07-25T12:50:17.000+0300",
+    "updated_date": "2024-07-25T12:50:17.000+0300",
+    "watches": 55,
+    "votes": 122
+  },
+  {
+    "id": "MC-4665",
+    "summary": "Anvil consuming 2 unbroken items of the same kind when renaming them",
+    "labels": [
+      "anvil",
+      "book",
+      "combining",
+      "enchant",
+      "item-renaming"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 1.11.1",
+      "24w33a"
+    ],
+    "creation_date": "2012-12-14T19:04:41.000+0200",
+    "resolution_date": "2024-08-02T14:31:28.000+0300",
+    "updated_date": "2024-08-02T14:31:28.000+0300",
+    "watches": 18,
+    "votes": 36
+  },
+  {
+    "id": "MC-3697",
+    "summary": "TNT submerged in water can destroy item frames, paintings, armor stands, and other similar entities",
+    "labels": [
+      "armor_stand",
+      "glow_item_frame",
+      "item_frame",
+      "leash_knot",
+      "painting",
+      "tnt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2012-11-22T17:39:37.000+0200",
+    "resolution_date": "2024-08-14T12:16:10.000+0300",
+    "updated_date": "2024-08-14T12:28:20.000+0300",
+    "watches": 15,
+    "votes": 20
+  },
+  {
+    "id": "MC-3266",
+    "summary": "Your experience level overflows once it exceeds the integer limit",
+    "labels": [
+      "experience",
+      "overflow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2012-11-17T14:48:16.000+0200",
+    "resolution_date": "2024-06-26T10:13:55.000+0300",
+    "updated_date": "2024-06-26T10:13:55.000+0300",
+    "watches": 19,
+    "votes": 50
+  },
+  {
+    "id": "MC-1673",
+    "summary": "Several mobs can pop off paintings, item frames and leads and destroy minecarts, armor stands and anything in item form even when mobGriefing is turned off",
+    "labels": [
+      "gamerule",
+      "mobGriefing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2012-11-01T20:09:13.000+0200",
+    "resolution_date": "2024-07-24T12:41:07.000+0300",
+    "updated_date": "2024-07-24T12:41:07.000+0300",
+    "watches": 35,
+    "votes": 125
+  },
+  {
+    "id": "MC-379",
+    "summary": "spawn-animals and spawn-npcs=false removes all villagers and prevents summoning new mobs",
+    "labels": [
+      "npc",
+      "server",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2012-10-25T10:55:35.000+0300",
+    "resolution_date": "2024-08-14T14:38:06.000+0300",
+    "updated_date": "2024-08-14T14:38:06.000+0300",
+    "watches": 10,
+    "votes": 20
+  }
+]
