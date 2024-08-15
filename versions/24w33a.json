@@ -3186,6 +3186,25 @@
     "votes": 8
   },
   {
+    "id": "MC-206074",
+    "summary": "Survival tab of Creative inventory desyncs if changed manually after an external change",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-11-19T16:23:19.000+0200",
+    "resolution_date": "2024-08-16T00:55:01.000+0300",
+    "updated_date": "2024-08-16T00:55:01.000+0300",
+    "watches": 13,
+    "votes": 13
+  },
+  {
     "id": "MC-203748",
     "summary": "Filled lava cauldrons are able to be put under water",
     "labels": [
@@ -3521,6 +3540,27 @@
     "votes": 11
   },
   {
+    "id": "MC-176937",
+    "summary": "Deleting items using the drop key while a tab is open in the creative inventory plays hand animation, even if the item isn't dropped",
+    "labels": [
+      "hand-animation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-04-01T13:31:00.000+0300",
+    "resolution_date": "2024-08-16T00:53:57.000+0300",
+    "updated_date": "2024-08-16T00:53:57.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
     "id": "MC-174732",
     "summary": "Semi-transparent status effect textures do not render correctly in the inventory or beacon UI",
     "labels": [
@@ -3544,6 +3584,25 @@
     "updated_date": "2024-07-25T10:37:12.000+0300",
     "watches": 3,
     "votes": 9
+  },
+  {
+    "id": "MC-170863",
+    "summary": "Dropping item stacks from the player's hotbar in any creative inventory tab other than \"Survival Inventory\" deletes items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-02-05T20:34:48.000+0200",
+    "resolution_date": "2024-08-16T00:53:01.000+0300",
+    "updated_date": "2024-08-16T00:53:01.000+0300",
+    "watches": 14,
+    "votes": 26
   },
   {
     "id": "MC-166880",
