@@ -2305,25 +2305,6 @@
     "votes": 7
   },
   {
-    "id": "MC-266791",
-    "summary": "Monster spawner and trial spawner sounds are not consistent, monster spawner sounds are more stone-like",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Sound"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "24w33a"
-    ],
-    "creation_date": "2023-11-18T12:47:45.000+0200",
-    "resolution_date": "2024-08-16T15:53:51.000+0300",
-    "updated_date": "2024-08-16T15:53:51.000+0300",
-    "watches": 1,
-    "votes": 4
-  },
-  {
     "id": "MC-266441",
     "summary": "Multiple trial chamber templates have missing or incorrect blocks",
     "labels": [
@@ -2343,6 +2324,26 @@
     "updated_date": "2024-07-31T10:15:25.000+0300",
     "watches": 12,
     "votes": 26
+  },
+  {
+    "id": "MC-265990",
+    "summary": "Burning arrows can light candles and cakes with candles outside the world border",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-10-21T14:48:39.000+0300",
+    "resolution_date": "2024-08-16T16:21:19.000+0300",
+    "updated_date": "2024-08-16T16:21:19.000+0300",
+    "watches": 2,
+    "votes": 4
   },
   {
     "id": "MC-265703",
