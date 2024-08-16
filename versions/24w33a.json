@@ -19,25 +19,6 @@
     "votes": 13
   },
   {
-    "id": "MC-274911",
-    "summary": "If the raid begins more than 112 blocks above the ground, all illagers will be summoned and the player wins",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Raids"
-    ],
-    "priority": "Very Important",
-    "fix_versions": [
-      "24w33a"
-    ],
-    "creation_date": "2024-08-04T17:24:20.000+0300",
-    "resolution_date": "2024-08-13T16:21:48.000+0300",
-    "updated_date": "2024-08-14T15:40:11.000+0300",
-    "watches": 5,
-    "votes": 9
-  },
-  {
     "id": "MC-274852",
     "summary": "\"item_name\" component has priority over signed book title",
     "labels": [
@@ -2324,6 +2305,25 @@
     "votes": 7
   },
   {
+    "id": "MC-266791",
+    "summary": "Monster spawner and trial spawner sounds are not consistent, monster spawner sounds are more stone-like",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-11-18T12:47:45.000+0200",
+    "resolution_date": "2024-08-16T15:53:51.000+0300",
+    "updated_date": "2024-08-16T15:53:51.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
     "id": "MC-266441",
     "summary": "Multiple trial chamber templates have missing or incorrect blocks",
     "labels": [
@@ -3349,25 +3349,6 @@
     "updated_date": "2024-08-15T19:07:21.000+0300",
     "watches": 7,
     "votes": 16
-  },
-  {
-    "id": "MC-196556",
-    "summary": "When projectiles (such as arrows and tridents) move too fast, they can't be teleported by portals and end gateways",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Projectiles"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "24w33a"
-    ],
-    "creation_date": "2020-07-30T14:24:59.000+0300",
-    "resolution_date": "2024-06-20T14:32:05.000+0300",
-    "updated_date": "2024-06-20T14:32:05.000+0300",
-    "watches": 12,
-    "votes": 19
   },
   {
     "id": "MC-195754",
@@ -4587,7 +4568,7 @@
     ],
     "creation_date": "2012-11-01T20:09:13.000+0200",
     "resolution_date": "2024-07-24T12:41:07.000+0300",
-    "updated_date": "2024-07-24T12:41:07.000+0300",
+    "updated_date": "2024-08-16T15:32:29.000+0300",
     "watches": 35,
     "votes": 125
   },
