@@ -311,8 +311,8 @@
     ],
     "creation_date": "2024-06-25T12:11:11.000+0300",
     "resolution_date": "2024-08-09T13:50:09.000+0300",
-    "updated_date": "2024-08-16T11:46:51.000+0300",
-    "watches": 7,
+    "updated_date": "2024-08-16T13:05:39.000+0300",
+    "watches": 8,
     "votes": 11
   },
   {
@@ -966,6 +966,25 @@
     "votes": 4
   },
   {
+    "id": "MC-272207",
+    "summary": "Trial chambers no longer generate a bed in the secret room nearing the entrance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-19T14:06:55.000+0300",
+    "resolution_date": "2024-08-16T13:01:20.000+0300",
+    "updated_date": "2024-08-16T13:01:20.000+0300",
+    "watches": 6,
+    "votes": 9
+  },
+  {
     "id": "MC-271628",
     "summary": "Enchantment effect \"projectile_spawned\" doesn't trigger for fishing rods and tridents",
     "labels": [],
@@ -984,6 +1003,26 @@
     "updated_date": "2024-07-08T13:00:50.000+0300",
     "watches": 1,
     "votes": 1
+  },
+  {
+    "id": "MC-271486",
+    "summary": "The tree in the \"entrance_1\" room of trial chambers is not removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures",
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-04T02:08:21.000+0300",
+    "resolution_date": "2024-08-16T13:01:13.000+0300",
+    "updated_date": "2024-08-16T13:01:13.000+0300",
+    "watches": 7,
+    "votes": 14
   },
   {
     "id": "MC-271191",
@@ -1196,7 +1235,7 @@
     ],
     "creation_date": "2024-04-12T23:33:05.000+0300",
     "resolution_date": "2024-07-31T10:15:34.000+0300",
-    "updated_date": "2024-08-02T09:39:17.000+0300",
+    "updated_date": "2024-08-16T13:00:27.000+0300",
     "watches": 3,
     "votes": 10
   },
@@ -2199,6 +2238,27 @@
     "votes": 0
   },
   {
+    "id": "MC-267308",
+    "summary": "Profiling with F3+L while game is frozen spams output with errors",
+    "labels": [
+      "tick-command"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-12-13T05:16:24.000+0200",
+    "resolution_date": "2024-08-16T12:49:16.000+0300",
+    "updated_date": "2024-08-16T12:49:16.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-267107",
     "summary": "Spawners unsuccessfully try to summon hostile entities on peaceful difficulty",
     "labels": [],
@@ -3047,6 +3107,29 @@
     "updated_date": "2024-08-02T09:55:49.000+0300",
     "watches": 4,
     "votes": 4
+  },
+  {
+    "id": "MC-225422",
+    "summary": "Squids and glow squids do not move smoothly in the water compared to other aquatic mobs",
+    "labels": [
+      "choppy-animation",
+      "glow_squid",
+      "squid"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-05-13T05:16:07.000+0300",
+    "resolution_date": "2024-08-16T12:57:29.000+0300",
+    "updated_date": "2024-08-16T12:57:29.000+0300",
+    "watches": 5,
+    "votes": 11
   },
   {
     "id": "MC-225270",
@@ -4256,6 +4339,30 @@
     "votes": 13
   },
   {
+    "id": "MC-58294",
+    "summary": "Squids and glow squids do not collide properly with solid blocks",
+    "labels": [
+      "block",
+      "solid",
+      "squid",
+      "swim"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-06-20T22:20:25.000+0300",
+    "resolution_date": "2024-08-16T12:59:19.000+0300",
+    "updated_date": "2024-08-16T12:59:19.000+0300",
+    "watches": 12,
+    "votes": 32
+  },
+  {
     "id": "MC-55863",
     "summary": "It rains over unloaded chunks, ignoring the biome",
     "labels": [],
@@ -4319,6 +4426,29 @@
     "updated_date": "2024-07-31T16:12:45.000+0300",
     "watches": 6,
     "votes": 8
+  },
+  {
+    "id": "MC-39263",
+    "summary": "Cannot set horizontal Motion for squid on land",
+    "labels": [
+      "/summon",
+      "motion",
+      "squid"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2013-11-09T04:56:45.000+0200",
+    "resolution_date": "2024-08-16T13:05:41.000+0300",
+    "updated_date": "2024-08-16T13:05:41.000+0300",
+    "watches": 6,
+    "votes": 10
   },
   {
     "id": "MC-14800",
