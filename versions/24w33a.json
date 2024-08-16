@@ -3250,6 +3250,25 @@
     "votes": 46
   },
   {
+    "id": "MC-212213",
+    "summary": "Squids unable to be affected by knockback enchantment.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-01-20T21:42:42.000+0200",
+    "resolution_date": "2024-08-16T14:10:22.000+0300",
+    "updated_date": "2024-08-16T14:10:22.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
     "id": "MC-209947",
     "summary": "minecraft:block/scaffolding_unstable has incorrect cullfaces",
     "labels": [],
@@ -3876,7 +3895,7 @@
     ],
     "creation_date": "2019-03-13T09:42:54.000+0200",
     "resolution_date": "2024-08-14T12:56:49.000+0300",
-    "updated_date": "2024-08-14T14:10:09.000+0300",
+    "updated_date": "2024-08-16T14:11:29.000+0300",
     "watches": 58,
     "votes": 109
   },
