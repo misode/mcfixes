@@ -3024,6 +3024,27 @@
     "votes": 9
   },
   {
+    "id": "MC-233603",
+    "summary": "HUD / Hotbar rendering can heavily impact frame rate performance",
+    "labels": [
+      "hotbar"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Performance"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-08-02T08:41:01.000+0300",
+    "resolution_date": "2024-08-17T22:48:05.000+0300",
+    "updated_date": "2024-08-17T22:48:05.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
     "id": "MC-227139",
     "summary": "Sky fog stutters",
     "labels": [
@@ -3710,7 +3731,7 @@
     ],
     "creation_date": "2019-12-11T03:04:30.000+0200",
     "resolution_date": "2024-08-17T16:49:33.000+0300",
-    "updated_date": "2024-08-17T16:49:33.000+0300",
+    "updated_date": "2024-08-17T23:10:48.000+0300",
     "watches": 7,
     "votes": 5
   },
