@@ -473,6 +473,25 @@
     "votes": 10
   },
   {
+    "id": "MC-236966",
+    "summary": "Audio output setting choices are limited on macOS",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w35a"
+    ],
+    "creation_date": "2021-09-17T23:33:27.000+0300",
+    "resolution_date": "2024-08-17T20:16:06.000+0300",
+    "updated_date": "2024-08-17T20:16:06.000+0300",
+    "watches": 8,
+    "votes": 12
+  },
+  {
     "id": "MC-229121",
     "summary": "JVM crash in jdk.internal.loader.NativeLibraries.load",
     "labels": [
