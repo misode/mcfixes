@@ -2817,6 +2817,29 @@
     "votes": 6
   },
   {
+    "id": "MC-257318",
+    "summary": "Non-transparent toasts and some buttons that should be transparent in custom Resource Pack",
+    "labels": [
+      "GUI",
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2022-11-08T20:56:49.000+0200",
+    "resolution_date": "2024-08-18T16:41:26.000+0300",
+    "updated_date": "2024-08-18T16:41:26.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
     "id": "MC-257309",
     "summary": "Monster spawner tries to spawn wardens and zoglins when the difficulty is Peaceful",
     "labels": [],
