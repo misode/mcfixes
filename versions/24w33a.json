@@ -1339,6 +1339,28 @@
     "votes": 0
   },
   {
+    "id": "MC-270614",
+    "summary": "A trapdoor in chamber_8 is rotated the wrong way",
+    "labels": [
+      "generation_error",
+      "trial_chamber"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-11T05:49:31.000+0300",
+    "resolution_date": "2024-08-18T14:42:55.000+0300",
+    "updated_date": "2024-08-18T14:42:55.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
     "id": "MC-270571",
     "summary": "/tick command uses OS locale specific number formatting",
     "labels": [],
