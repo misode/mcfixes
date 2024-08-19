@@ -4454,25 +4454,6 @@
     "votes": 32
   },
   {
-    "id": "MC-55863",
-    "summary": "It rains over unloaded chunks, ignoring the biome",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Rendering"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "24w33a"
-    ],
-    "creation_date": "2014-05-26T00:58:17.000+0300",
-    "resolution_date": "2024-08-09T11:01:47.000+0300",
-    "updated_date": "2024-08-17T19:09:37.000+0300",
-    "watches": 21,
-    "votes": 40
-  },
-  {
     "id": "MC-53602",
     "summary": "Projectiles don't collide with the world border",
     "labels": [
