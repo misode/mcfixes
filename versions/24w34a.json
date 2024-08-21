@@ -61,6 +61,27 @@
     "votes": 0
   },
   {
+    "id": "MC-275553",
+    "summary": "Minecarts which exit the end onto no rails are left permamentally tilted",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-18T03:29:58.000+0300",
+    "resolution_date": "2024-08-21T19:18:50.000+0300",
+    "updated_date": "2024-08-21T19:18:50.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
     "id": "MC-275498",
     "summary": "Clocks, compasses and recovery compasses don't function in item frames",
     "labels": [
@@ -574,7 +595,7 @@
     ],
     "creation_date": "2024-08-15T20:18:01.000+0300",
     "resolution_date": "2024-08-20T12:14:00.000+0300",
-    "updated_date": "2024-08-20T12:14:00.000+0300",
+    "updated_date": "2024-08-21T18:20:52.000+0300",
     "watches": 2,
     "votes": 9
   },
@@ -612,7 +633,7 @@
     ],
     "creation_date": "2024-08-15T19:54:25.000+0300",
     "resolution_date": "2024-08-19T16:45:50.000+0300",
-    "updated_date": "2024-08-19T21:26:36.000+0300",
+    "updated_date": "2024-08-21T18:18:40.000+0300",
     "watches": 4,
     "votes": 8
   },
@@ -915,7 +936,7 @@
     ],
     "creation_date": "2024-08-15T18:34:47.000+0300",
     "resolution_date": "2024-08-20T16:00:34.000+0300",
-    "updated_date": "2024-08-20T16:55:15.000+0300",
+    "updated_date": "2024-08-21T19:12:15.000+0300",
     "watches": 5,
     "votes": 10
   },
