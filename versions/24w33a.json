@@ -3784,25 +3784,6 @@
     "votes": 26
   },
   {
-    "id": "MC-167520",
-    "summary": "1.15's slim model arm placement is higher than 1.14's slim model arm placement",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Community Consensus",
-    "categories": [
-      "Rendering"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "24w33a"
-    ],
-    "creation_date": "2019-12-11T03:04:30.000+0200",
-    "resolution_date": "2024-08-17T16:49:33.000+0300",
-    "updated_date": "2024-08-17T23:10:48.000+0300",
-    "watches": 7,
-    "votes": 5
-  },
-  {
     "id": "MC-166880",
     "summary": "Pufferfish spikes model seems to be broken",
     "labels": [
