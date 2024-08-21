@@ -248,6 +248,27 @@
     "votes": 16
   },
   {
+    "id": "MC-275377",
+    "summary": "Derailed minecarts snap onto nearby rails after falling down",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T06:56:52.000+0300",
+    "resolution_date": "2024-08-21T22:25:56.000+0300",
+    "updated_date": "2024-08-21T22:25:56.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
     "id": "MC-275361",
     "summary": "Baby zombie variant arms disconnect from their body when attacking",
     "labels": [
@@ -521,6 +542,25 @@
     "votes": 5
   },
   {
+    "id": "MC-275276",
+    "summary": "Minecarts can phase through blocks at the bottom of a slant",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T21:16:26.000+0300",
+    "resolution_date": "2024-08-21T23:01:02.000+0300",
+    "updated_date": "2024-08-21T23:01:02.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
     "id": "MC-275273",
     "summary": "Baby mooshroom uses wrong scale",
     "labels": [],
@@ -695,7 +735,7 @@
     ],
     "creation_date": "2024-08-15T19:21:15.000+0300",
     "resolution_date": "2024-08-20T12:40:32.000+0300",
-    "updated_date": "2024-08-21T21:41:20.000+0300",
+    "updated_date": "2024-08-21T22:40:03.000+0300",
     "watches": 3,
     "votes": 6
   },
