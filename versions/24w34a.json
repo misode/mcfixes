@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "MC-275569",
+    "summary": "Outer layer of the skin shows when disabled until you go into third person",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-18T07:17:58.000+0300",
+    "resolution_date": "2024-08-20T12:13:58.000+0300",
+    "updated_date": "2024-08-20T12:13:58.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-275566",
+    "summary": "Game crash when trying to open various GUIs with Fabulous graphics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-18T06:18:40.000+0300",
+    "resolution_date": "2024-08-19T16:19:03.000+0300",
+    "updated_date": "2024-08-19T16:19:03.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-275554",
+    "summary": "Minecarts between two downward slopes will shake violently and never settle",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-18T03:36:02.000+0300",
+    "resolution_date": "2024-08-20T16:00:32.000+0300",
+    "updated_date": "2024-08-20T16:00:32.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-275498",
+    "summary": "Clocks, compasses and recovery compasses don't function in item frames",
+    "labels": [
+      "clock",
+      "compass",
+      "item-frame"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-17T12:33:09.000+0300",
+    "resolution_date": "2024-08-20T12:14:00.000+0300",
+    "updated_date": "2024-08-20T12:14:00.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-275486",
+    "summary": "Enchantable data component doesn't work with items that only have enchantments through a data pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-17T07:30:19.000+0300",
+    "resolution_date": "2024-08-20T11:01:35.000+0300",
+    "updated_date": "2024-08-20T11:01:35.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275482",
+    "summary": "Minecarts do not pick up mobs like they used to",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-17T07:05:41.000+0300",
+    "resolution_date": "2024-08-20T16:00:35.000+0300",
+    "updated_date": "2024-08-20T16:00:35.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-275479",
+    "summary": "Dispensers cannot place minecarts onto rails if there is a minecart one block away",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart",
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-17T05:06:54.000+0300",
+    "resolution_date": "2024-08-20T16:00:34.000+0300",
+    "updated_date": "2024-08-20T16:00:34.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-275473",
+    "summary": "Slim model's arms are now lower than the torso by 0.5 pixels",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-17T03:30:14.000+0300",
+    "resolution_date": "2024-08-20T12:13:59.000+0300",
+    "updated_date": "2024-08-20T12:13:59.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-275467",
+    "summary": "Minecarts can launch you hundreds of thousands of blocks upwards if you derail inside cobwebs or powdered snow",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-17T02:46:57.000+0300",
+    "resolution_date": "2024-08-20T16:00:35.000+0300",
+    "updated_date": "2024-08-20T16:00:35.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-275436",
+    "summary": "Cannot enchant books in enchanting table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T19:15:18.000+0300",
+    "resolution_date": "2024-08-20T08:28:12.000+0300",
+    "updated_date": "2024-08-21T12:59:45.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-275397",
+    "summary": "Redstone dust doesn't update properly",
+    "labels": [
+      "experimental_redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T12:45:18.000+0300",
+    "resolution_date": "2024-08-21T15:25:52.000+0300",
+    "updated_date": "2024-08-21T15:25:52.000+0300",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-275361",
+    "summary": "Baby zombie variant arms disconnect from their body when attacking",
+    "labels": [
+      "baby",
+      "drowned",
+      "husk",
+      "zombie",
+      "zombie_villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T05:18:44.000+0300",
+    "resolution_date": "2024-08-20T12:13:59.000+0300",
+    "updated_date": "2024-08-21T11:09:40.000+0300",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-275343",
+    "summary": "Projectiles stuck in the world border can float in the air if the border size is changed",
+    "labels": [
+      "projectile",
+      "world-border"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T02:53:38.000+0300",
+    "resolution_date": "2024-08-20T14:13:42.000+0300",
+    "updated_date": "2024-08-20T14:13:42.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-275332",
+    "summary": "The rotation of a wall/ceiling lever and buttons does not affect the update order of wire in Redstone Experiment",
+    "labels": [
+      "experimental_redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T01:55:34.000+0300",
+    "resolution_date": "2024-08-21T15:25:51.000+0300",
+    "updated_date": "2024-08-21T15:25:51.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-275329",
+    "summary": "As of 24w33a zombie villagers no longer raise their arms to attack",
+    "labels": [
+      "zombie_villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T01:42:10.000+0300",
+    "resolution_date": "2024-08-20T12:14:01.000+0300",
+    "updated_date": "2024-08-20T12:14:01.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-275328",
+    "summary": "Enchantment glint is not visible on items in item frames",
+    "labels": [
+      "enchantment-glint"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T01:35:06.000+0300",
+    "resolution_date": "2024-08-19T16:19:05.000+0300",
+    "updated_date": "2024-08-19T16:19:05.000+0300",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-275319",
+    "summary": "End crystals in 24w33a appear to be slightly smaller than in previous versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T00:52:56.000+0300",
+    "resolution_date": "2024-08-20T12:13:57.000+0300",
+    "updated_date": "2024-08-20T12:13:57.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-275310",
+    "summary": "Cannot enchant armor in enchanting table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T23:25:22.000+0300",
+    "resolution_date": "2024-08-20T08:28:11.000+0300",
+    "updated_date": "2024-08-21T16:06:06.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-275307",
+    "summary": "Hand doesn't show up when switching from Spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T23:21:38.000+0300",
+    "resolution_date": "2024-08-20T12:13:58.000+0300",
+    "updated_date": "2024-08-20T12:13:58.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-275297",
+    "summary": "Failing selectors and fake players in \"score\" selector result in an unexpected error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T22:34:33.000+0300",
+    "resolution_date": "2024-08-20T12:13:57.000+0300",
+    "updated_date": "2024-08-20T23:55:50.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-275296",
+    "summary": "Emissive textures are not emissive in the player's hand ",
+    "labels": [
+      "emissive_textures"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T22:30:43.000+0300",
+    "resolution_date": "2024-08-20T12:14:01.000+0300",
+    "updated_date": "2024-08-20T12:14:01.000+0300",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-275293",
+    "summary": "Internal exception when picking blocks not in hotbar but in inventory in Survival mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T22:20:12.000+0300",
+    "resolution_date": "2024-08-19T20:37:37.000+0300",
+    "updated_date": "2024-08-21T10:55:04.000+0300",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-275289",
+    "summary": "There are empty chests in some chambers even after 24w33a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T22:09:30.000+0300",
+    "resolution_date": "2024-08-16T12:22:38.000+0300",
+    "updated_date": "2024-08-20T11:18:40.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-275277",
+    "summary": "Trial chambers' encounter_4 trap often does not hit the player",
+    "labels": [
+      "trial_chamber",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T21:17:08.000+0300",
+    "resolution_date": "2024-08-16T12:22:39.000+0300",
+    "updated_date": "2024-08-16T13:34:48.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-275273",
+    "summary": "Baby mooshroom uses wrong scale",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T21:13:31.000+0300",
+    "resolution_date": "2024-08-19T16:19:05.000+0300",
+    "updated_date": "2024-08-19T16:19:05.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-275271",
+    "summary": "Crash after attempting to move item to hotbar slot in Creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T21:12:21.000+0300",
+    "resolution_date": "2024-08-19T20:37:46.000+0300",
+    "updated_date": "2024-08-19T20:37:46.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-275270",
+    "summary": "Minecart not oriented correctly when placed on a sloped unpowered powered rail",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T21:09:43.000+0300",
+    "resolution_date": "2024-08-20T16:00:32.000+0300",
+    "updated_date": "2024-08-20T16:00:32.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-275252",
+    "summary": "Player head angle when crawling is now strange",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T20:18:01.000+0300",
+    "resolution_date": "2024-08-20T12:14:00.000+0300",
+    "updated_date": "2024-08-20T12:14:00.000+0300",
+    "watches": 2,
+    "votes": 9
+  },
+  {
+    "id": "MC-275249",
+    "summary": "\"FOV Effects\" slider incorrectly modifying zoom values on the spyglass",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T20:07:29.000+0300",
+    "resolution_date": "2024-08-19T16:19:06.000+0300",
+    "updated_date": "2024-08-19T16:19:06.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275248",
+    "summary": "Torches no longer have bottom faces",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T19:54:25.000+0300",
+    "resolution_date": "2024-08-19T16:45:50.000+0300",
+    "updated_date": "2024-08-19T21:26:36.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-275246",
+    "summary": "Crash after attempting to move item from off-hand in Creative inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T19:46:02.000+0300",
+    "resolution_date": "2024-08-19T20:38:04.000+0300",
+    "updated_date": "2024-08-19T20:38:04.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-275241",
+    "summary": "Minecarts continue to produce sound for a short while after being stopped",
+    "labels": [
+      "experimental_minecart",
+      "minecart",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T19:30:00.000+0300",
+    "resolution_date": "2024-08-20T16:00:31.000+0300",
+    "updated_date": "2024-08-20T16:00:31.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-275237",
+    "summary": "Cannot rename written book in an anvil",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T19:21:15.000+0300",
+    "resolution_date": "2024-08-20T12:40:32.000+0300",
+    "updated_date": "2024-08-20T12:40:32.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-275232",
+    "summary": "The mining fatigue animation appears too close",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T19:07:01.000+0300",
+    "resolution_date": "2024-08-19T16:19:04.000+0300",
+    "updated_date": "2024-08-19T16:58:03.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-275230",
+    "summary": "The game crashes when opening the inventory while in spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T19:00:38.000+0300",
+    "resolution_date": "2024-08-19T16:19:03.000+0300",
+    "updated_date": "2024-08-19T16:19:03.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-275229",
+    "summary": "Minecarts behave strangely on bubble columns ",
+    "labels": [
+      "experimental_minecart",
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T19:00:20.000+0300",
+    "resolution_date": "2024-08-20T16:00:34.000+0300",
+    "updated_date": "2024-08-21T14:36:22.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-275226",
+    "summary": "Enchantment glint is not visible on items held by player and mobs in third person",
+    "labels": [
+      "enchantment-glint"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:50:45.000+0300",
+    "resolution_date": "2024-08-19T16:19:06.000+0300",
+    "updated_date": "2024-08-19T16:19:06.000+0300",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-275224",
+    "summary": "Minecart items desync when using them on a rail with a minecart above it",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Minecart"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:49:16.000+0300",
+    "resolution_date": "2024-08-20T16:00:33.000+0300",
+    "updated_date": "2024-08-20T16:00:33.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-275221",
+    "summary": "Baby polar bear model is messed up in 24w33a",
+    "labels": [
+      "baby",
+      "polar_bear"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:46:46.000+0300",
+    "resolution_date": "2024-08-19T16:19:02.000+0300",
+    "updated_date": "2024-08-21T11:35:18.000+0300",
+    "watches": 9,
+    "votes": 14
+  },
+  {
+    "id": "MC-275219",
+    "summary": "Hand animation still plays in creative when trying to use minecarts inside each other on the same rail",
+    "labels": [
+      "experimental_minecart",
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart",
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:43:35.000+0300",
+    "resolution_date": "2024-08-20T16:00:33.000+0300",
+    "updated_date": "2024-08-20T16:00:33.000+0300",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-275218",
+    "summary": "\"Minecart rolls\" sound does not play when on tracks after de-railing then re-railing",
+    "labels": [
+      "experimental_minecart",
+      "minecart",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:42:48.000+0300",
+    "resolution_date": "2024-08-20T16:00:30.000+0300",
+    "updated_date": "2024-08-20T16:00:30.000+0300",
+    "watches": 7,
+    "votes": 16
+  },
+  {
+    "id": "MC-275213",
+    "summary": "Hand animation still plays when trying to put lava or powder snow in an underwater cauldron",
+    "labels": [
+      "cauldron",
+      "lava_bucket",
+      "powder_snow"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:38:35.000+0300",
+    "resolution_date": "2024-08-20T08:39:19.000+0300",
+    "updated_date": "2024-08-20T08:39:19.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-275211",
+    "summary": "The enchantment glint isn't visible on dropped items",
+    "labels": [
+      "enchantment-glint"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:36:48.000+0300",
+    "resolution_date": "2024-08-19T16:19:06.000+0300",
+    "updated_date": "2024-08-19T16:19:06.000+0300",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-275210",
+    "summary": "Minecarts can phase through blocks when travelling diagonally upwards",
+    "labels": [
+      "experimental_minecart",
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:34:47.000+0300",
+    "resolution_date": "2024-08-20T16:00:34.000+0300",
+    "updated_date": "2024-08-20T16:55:15.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-275209",
+    "summary": "It's impossible to put water in a cauldron underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:33:50.000+0300",
+    "resolution_date": "2024-08-20T08:39:19.000+0300",
+    "updated_date": "2024-08-20T08:39:19.000+0300",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-275203",
+    "summary": "Minecarts always spawn facing east/west and move upward slightly when being placed on rails",
+    "labels": [
+      "experimental_minecart",
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-15T18:16:38.000+0300",
+    "resolution_date": "2024-08-20T16:00:31.000+0300",
+    "updated_date": "2024-08-20T16:00:31.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-273629",
+    "summary": "Adding effects with an effects_changed advancement causes a packet error (ConcurrentModificationException) if it was triggered by Milk",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-06-19T23:28:29.000+0300",
+    "resolution_date": "2024-08-16T14:56:41.000+0300",
+    "updated_date": "2024-08-16T14:56:41.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-273329",
+    "summary": "Drinking milk buckets in Creative mode gives you empty buckets",
+    "labels": [
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-06-14T00:26:54.000+0300",
+    "resolution_date": "2024-08-21T18:01:31.000+0300",
+    "updated_date": "2024-08-21T18:01:31.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-272643",
+    "summary": "Items containing using_converts_to cannot be stacked with the original items after restarting the world.",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-05-30T13:41:20.000+0300",
+    "resolution_date": "2024-08-21T13:18:21.000+0300",
+    "updated_date": "2024-08-21T13:18:22.000+0300",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-269715",
+    "summary": "Food won't be eaten when the component food.eat_seconds is less than 0.05",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-03-21T16:33:50.000+0200",
+    "resolution_date": "2024-08-21T13:18:22.000+0300",
+    "updated_date": "2024-08-21T13:18:22.000+0300",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-269376",
+    "summary": "Breeze fires wind charge from center of hitbox",
+    "labels": [
+      "breeze",
+      "breeze_wind_charge",
+      "projectile",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-03-14T20:05:27.000+0200",
+    "resolution_date": "2024-08-20T15:26:33.000+0300",
+    "updated_date": "2024-08-20T15:26:33.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-191431",
+    "summary": "Player spectator head is invisible / does not render in the inventory after switching to \"Fabulous!\"",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2020-06-24T06:31:04.000+0300",
+    "resolution_date": "2024-08-19T16:19:04.000+0300",
+    "updated_date": "2024-08-19T16:19:04.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-144327",
+    "summary": "The bottom face texture of a blaze's rods is the same as their top face texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2019-02-17T19:17:03.000+0200",
+    "resolution_date": "2024-08-16T17:10:13.000+0300",
+    "updated_date": "2024-08-16T17:10:13.000+0300",
+    "watches": 27,
+    "votes": 87
+  },
+  {
+    "id": "MC-73178",
+    "summary": "Villagers' \"CanPickUpLoot\" tag cannot be set to zero",
+    "labels": [
+      "CanPickUpLoot",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2014-10-17T14:58:01.000+0300",
+    "resolution_date": "2024-08-16T12:34:22.000+0300",
+    "updated_date": "2024-08-16T12:34:22.000+0300",
+    "watches": 15,
+    "votes": 29
+  }
+]
