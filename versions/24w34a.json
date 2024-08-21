@@ -919,28 +919,6 @@
     "votes": 8
   },
   {
-    "id": "MC-275210",
-    "summary": "Minecarts can phase through blocks when travelling diagonally upwards",
-    "labels": [
-      "experimental_minecart",
-      "minecart"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Minecart"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "24w34a"
-    ],
-    "creation_date": "2024-08-15T18:34:47.000+0300",
-    "resolution_date": "2024-08-20T16:00:34.000+0300",
-    "updated_date": "2024-08-21T19:12:15.000+0300",
-    "watches": 5,
-    "votes": 10
-  },
-  {
     "id": "MC-275209",
     "summary": "It's impossible to put water in a cauldron underwater",
     "labels": [],
