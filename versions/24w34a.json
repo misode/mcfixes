@@ -546,7 +546,7 @@
   },
   {
     "id": "MC-275293",
-    "summary": "Internal exception when picking blocks not in hotbar but in inventory in Survival mode",
+    "summary": "Internal exception when picking blocks not in hotbar but in inventory",
     "labels": [],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -559,7 +559,7 @@
     ],
     "creation_date": "2024-08-15T22:20:12.000+0300",
     "resolution_date": "2024-08-19T20:37:37.000+0300",
-    "updated_date": "2024-08-21T10:55:04.000+0300",
+    "updated_date": "2024-08-23T00:48:19.000+0300",
     "watches": 6,
     "votes": 8
   },
