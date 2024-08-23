@@ -381,7 +381,7 @@
   },
   {
     "id": "MC-275332",
-    "summary": "The rotation of a wall/ceiling lever and buttons does not affect the update order of wire in Redstone Experiment",
+    "summary": "The rotation of a wall/ceiling lever and button does not affect the update order of wire in Redstone Experiment",
     "labels": [
       "experimental_redstone"
     ],
@@ -396,7 +396,7 @@
     ],
     "creation_date": "2024-08-16T01:55:34.000+0300",
     "resolution_date": "2024-08-21T15:25:51.000+0300",
-    "updated_date": "2024-08-21T15:25:51.000+0300",
+    "updated_date": "2024-08-23T09:21:28.000+0300",
     "watches": 1,
     "votes": 2
   },
@@ -1181,7 +1181,7 @@
     "creation_date": "2024-03-21T16:33:50.000+0200",
     "resolution_date": "2024-08-21T13:18:22.000+0300",
     "updated_date": "2024-08-21T13:18:22.000+0300",
-    "watches": 5,
+    "watches": 6,
     "votes": 10
   },
   {
