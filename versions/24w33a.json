@@ -969,6 +969,29 @@
     "votes": 9
   },
   {
+    "id": "MC-272020",
+    "summary": "Players' capes don't move with the yaw of their bodies when swinging",
+    "labels": [
+      "body",
+      "cape"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-05-14T21:49:14.000+0300",
+    "resolution_date": "2024-08-23T16:14:50.000+0300",
+    "updated_date": "2024-08-23T16:14:50.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
     "id": "MC-271628",
     "summary": "Enchantment effect \"projectile_spawned\" doesn't trigger for fishing rods and tridents",
     "labels": [],
