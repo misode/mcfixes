@@ -19,6 +19,25 @@
     "votes": 13
   },
   {
+    "id": "MC-274911",
+    "summary": "If the raid begins more than 112 blocks above the ground, all illagers will be summoned and the player wins",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-08-04T17:24:20.000+0300",
+    "resolution_date": "2024-08-27T11:06:24.000+0300",
+    "updated_date": "2024-08-27T11:07:41.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
     "id": "MC-274852",
     "summary": "\"item_name\" component has priority over signed book title",
     "labels": [
