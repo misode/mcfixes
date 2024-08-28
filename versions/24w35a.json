@@ -1,0 +1,909 @@
+[
+  {
+    "id": "MC-276053",
+    "summary": "Glass bottles are deleted when used on a water source block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-26T21:44:17.000+0300",
+    "resolution_date": "2024-08-28T10:12:12.000+0300",
+    "updated_date": "2024-08-28T10:41:22.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-275959",
+    "summary": "Drowned no longer raise their arms to attack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-24T14:14:24.000+0300",
+    "resolution_date": "2024-08-26T16:49:58.000+0300",
+    "updated_date": "2024-08-26T16:49:59.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-275851",
+    "summary": "diameter in teleport_randomly consume effect is ignored",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-22T07:39:59.000+0300",
+    "resolution_date": "2024-08-28T00:35:34.000+0300",
+    "updated_date": "2024-08-28T00:35:34.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-275843",
+    "summary": "Using an empty map (single item in stack) doesn't create a filled map in survival mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-22T05:52:52.000+0300",
+    "resolution_date": "2024-08-22T12:59:36.000+0300",
+    "updated_date": "2024-08-28T10:17:46.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275838",
+    "summary": "Drowned holds trident upside down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-22T04:11:03.000+0300",
+    "resolution_date": "2024-08-22T17:50:54.000+0300",
+    "updated_date": "2024-08-22T17:50:54.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-275837",
+    "summary": "The use_cooldown component uses field cooldownGroup instead of cooldown_group",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-22T04:08:07.000+0300",
+    "resolution_date": "2024-08-28T00:35:33.000+0300",
+    "updated_date": "2024-08-28T00:35:33.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-275828",
+    "summary": "Game crashes when there is an invalid shader path",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-22T02:08:46.000+0300",
+    "resolution_date": "2024-08-22T18:47:19.000+0300",
+    "updated_date": "2024-08-22T18:47:19.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275801",
+    "summary": "Use cooldown triggers without item consumption",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T21:36:41.000+0300",
+    "resolution_date": "2024-08-28T00:35:34.000+0300",
+    "updated_date": "2024-08-28T00:35:34.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-275800",
+    "summary": "Translucency sorting is broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T21:34:58.000+0300",
+    "resolution_date": "2024-08-22T18:25:08.000+0300",
+    "updated_date": "2024-08-25T20:28:54.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275778",
+    "summary": "Bundle fullness bar texture and color are hardcoded",
+    "labels": [
+      "Parity",
+      "Textures-and-models"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T19:28:32.000+0300",
+    "resolution_date": "2024-08-27T17:59:05.000+0300",
+    "updated_date": "2024-08-27T17:59:05.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-275774",
+    "summary": "Observers no longer detect redstone dust powering/unpowering",
+    "labels": [
+      "experimental_redstone"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T19:10:15.000+0300",
+    "resolution_date": "2024-08-22T14:53:11.000+0300",
+    "updated_date": "2024-08-25T13:20:56.000+0300",
+    "watches": 7,
+    "votes": 14
+  },
+  {
+    "id": "MC-275757",
+    "summary": "Using a bucket deletes the bucket in most cases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T18:25:06.000+0300",
+    "resolution_date": "2024-08-22T12:59:36.000+0300",
+    "updated_date": "2024-08-28T10:32:17.000+0300",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-275755",
+    "summary": "Attempting to swap armor by right clicking deletes it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T18:14:02.000+0300",
+    "resolution_date": "2024-08-22T12:59:37.000+0300",
+    "updated_date": "2024-08-28T13:50:08.000+0300",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-275754",
+    "summary": "Random stack trace sometimes appears",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Chunk loading",
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T18:12:11.000+0300",
+    "resolution_date": "2024-08-22T18:25:09.000+0300",
+    "updated_date": "2024-08-22T18:25:09.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-275752",
+    "summary": "Villagers indefinitely stand around items when their \"CanPickUpLoot\" tag is set to \"0b\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-21T18:01:34.000+0300",
+    "resolution_date": "2024-08-22T17:39:24.000+0300",
+    "updated_date": "2024-08-22T17:39:24.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-275612",
+    "summary": "Items with rarity values highlighted in bundles do not display their rarity colors",
+    "labels": [
+      "bundle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-18T20:39:16.000+0300",
+    "resolution_date": "2024-08-27T17:59:03.000+0300",
+    "updated_date": "2024-08-27T17:59:03.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-275586",
+    "summary": "Renamed items highlighted in the bundle are not in italics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-18T14:20:37.000+0300",
+    "resolution_date": "2024-08-27T17:59:03.000+0300",
+    "updated_date": "2024-08-27T17:59:03.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-275523",
+    "summary": "Reduced shield glint applies to the shield's item appearance",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-17T17:46:30.000+0300",
+    "resolution_date": "2024-08-22T19:02:20.000+0300",
+    "updated_date": "2024-08-22T19:02:20.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-275521",
+    "summary": "Tall seagrass can now generate when bone mealing one-high water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-17T17:43:25.000+0300",
+    "resolution_date": "2024-08-22T13:10:53.000+0300",
+    "updated_date": "2024-08-27T10:36:33.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-275417",
+    "summary": "Creepers can destroy vehicles even if mobGriefing is set to false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-16T15:30:27.000+0300",
+    "resolution_date": "2024-08-22T18:07:43.000+0300",
+    "updated_date": "2024-08-22T18:07:43.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-275410",
+    "summary": "Flying in Creative Mode no longer resists the thrust of the bubble column",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-16T14:37:44.000+0300",
+    "resolution_date": "2024-08-26T10:59:56.000+0300",
+    "updated_date": "2024-08-26T10:59:56.000+0300",
+    "watches": 2,
+    "votes": 7
+  },
+  {
+    "id": "MC-275409",
+    "summary": "Stuffing too many items into a bundle through commands will cause the capacity bar to overflow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-16T14:35:53.000+0300",
+    "resolution_date": "2024-08-27T17:59:04.000+0300",
+    "updated_date": "2024-08-27T17:59:04.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-275358",
+    "summary": "Renamed bundle's contents are not centered",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-16T05:09:03.000+0300",
+    "resolution_date": "2024-08-27T17:59:04.000+0300",
+    "updated_date": "2024-08-27T17:59:04.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-275353",
+    "summary": "Item Frame/Glow Item Frame \"Fixed\" tag behaving strangely since 24w33a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-16T03:47:26.000+0300",
+    "resolution_date": "2024-08-22T14:27:36.000+0300",
+    "updated_date": "2024-08-22T14:27:36.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-275322",
+    "summary": "\"Subspace Bubble\" is granted when exiting and entering some Nether Portals ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-16T01:07:35.000+0300",
+    "resolution_date": "2024-08-22T10:08:44.000+0300",
+    "updated_date": "2024-08-22T10:08:44.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-275279",
+    "summary": "Raiders do not spawn on small islands even though there are close enough places around the village",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Raids"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-15T21:30:42.000+0300",
+    "resolution_date": "2024-08-22T12:27:13.000+0300",
+    "updated_date": "2024-08-22T12:27:13.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-275275",
+    "summary": "Footsteps on Monster Spawners create missing subtitle",
+    "labels": [
+      "block",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-15T21:16:06.000+0300",
+    "resolution_date": "2024-08-22T16:48:43.000+0300",
+    "updated_date": "2024-08-22T16:48:44.000+0300",
+    "watches": 1,
+    "votes": 7
+  },
+  {
+    "id": "MC-275256",
+    "summary": "Snow golem shoots to the sky/floor instead of at mobs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour",
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-15T20:29:01.000+0300",
+    "resolution_date": "2024-08-22T12:14:30.000+0300",
+    "updated_date": "2024-08-26T17:13:44.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-275222",
+    "summary": "Salmons always have same hitbox regardless of their size",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-15T18:48:13.000+0300",
+    "resolution_date": "2024-08-22T13:10:54.000+0300",
+    "updated_date": "2024-08-22T13:10:54.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-275220",
+    "summary": "Picking up a Salmon in a Bucket doesn't keep its size",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-15T18:46:26.000+0300",
+    "resolution_date": "2024-08-22T13:10:53.000+0300",
+    "updated_date": "2024-08-22T13:10:53.000+0300",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-275208",
+    "summary": "You cannot move the bundle into or around the inventory using hotkeys",
+    "labels": [
+      "bundle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-15T18:29:29.000+0300",
+    "resolution_date": "2024-08-27T17:59:02.000+0300",
+    "updated_date": "2024-08-27T17:59:02.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-275204",
+    "summary": "Coast Armor Trim has generic \"Smithing Template\" name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-15T18:17:09.000+0300",
+    "resolution_date": "2024-08-28T00:35:35.000+0300",
+    "updated_date": "2024-08-28T00:35:35.000+0300",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-273745",
+    "summary": "Soul speed momentum resets when jumping on soul sand",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-06-22T21:17:55.000+0300",
+    "resolution_date": "2024-08-22T15:06:23.000+0300",
+    "updated_date": "2024-08-22T15:06:23.000+0300",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-273601",
+    "summary": "The channeling enchantment no longer functions on tridents without an owner",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Enchantments"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-06-19T18:04:01.000+0300",
+    "resolution_date": "2024-08-27T15:02:21.000+0300",
+    "updated_date": "2024-08-27T15:02:21.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-272345",
+    "summary": "Some trial spawners don't have an extra breeze out at once when ominous",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-05-22T21:30:04.000+0300",
+    "resolution_date": "2024-08-22T17:29:03.000+0300",
+    "updated_date": "2024-08-22T17:29:03.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-270742",
+    "summary": "Displays don't rotate properly between 179 and 180",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-04-14T02:12:14.000+0300",
+    "resolution_date": "2024-08-27T15:14:59.000+0300",
+    "updated_date": "2024-08-27T15:14:59.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-203382",
+    "summary": "The \"Bee Our Guest\" advancement description only states a beehive is required to unlock",
+    "labels": [
+      "advancement",
+      "advancement-description",
+      "bee-nest",
+      "beehive"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2020-11-02T23:01:27.000+0200",
+    "resolution_date": "2024-08-26T15:28:38.000+0300",
+    "updated_date": "2024-08-26T15:28:38.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-168546",
+    "summary": "Bee nest / hive items have no lore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2019-12-22T03:17:13.000+0200",
+    "resolution_date": "2024-08-26T15:28:37.000+0300",
+    "updated_date": "2024-08-28T16:52:44.000+0300",
+    "watches": 11,
+    "votes": 28
+  },
+  {
+    "id": "MC-168329",
+    "summary": "Bees do not leave their hives in the Nether/End in some cases",
+    "labels": [
+      "mojang_internal_2"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2019-12-18T21:45:34.000+0200",
+    "resolution_date": "2024-08-26T15:28:35.000+0300",
+    "updated_date": "2024-08-26T15:28:35.000+0300",
+    "watches": 37,
+    "votes": 74
+  },
+  {
+    "id": "MC-167906",
+    "summary": "Beehive items at full honey level do not appear with honey in inventory/as item/in hand",
+    "labels": [
+      "misleading-item-model"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2019-12-14T05:02:59.000+0200",
+    "resolution_date": "2024-08-26T15:28:38.000+0300",
+    "updated_date": "2024-08-26T15:28:38.000+0300",
+    "watches": 4,
+    "votes": 16
+  },
+  {
+    "id": "MC-148982",
+    "summary": "Map color for wheat is incorrect",
+    "labels": [
+      "maps",
+      "wheat"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2019-04-21T22:12:58.000+0300",
+    "resolution_date": "2024-08-26T15:28:36.000+0300",
+    "updated_date": "2024-08-26T19:45:11.000+0300",
+    "watches": 14,
+    "votes": 29
+  },
+  {
+    "id": "MC-146805",
+    "summary": "Trader Llamas don't attack zombies, drowned, husks, zombie villager and illagers",
+    "labels": [
+      "attack",
+      "drowned",
+      "illager",
+      "llama",
+      "trader-llama",
+      "zombie",
+      "zombie_villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2019-03-27T21:46:20.000+0200",
+    "resolution_date": "2024-08-26T15:28:34.000+0300",
+    "updated_date": "2024-08-28T17:09:59.000+0300",
+    "watches": 18,
+    "votes": 96
+  },
+  {
+    "id": "MC-129298",
+    "summary": "Drowned don't chase you if they are in 1 block deep water",
+    "labels": [
+      "ai",
+      "attack",
+      "attacking",
+      "chase",
+      "chasing",
+      "day",
+      "daytime",
+      "deep",
+      "drowned",
+      "hostility",
+      "mob",
+      "mob-behavior",
+      "mob_Al",
+      "mobs",
+      "pathfinding",
+      "time_of_day",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2018-05-08T23:18:42.000+0300",
+    "resolution_date": "2024-08-26T15:28:35.000+0300",
+    "updated_date": "2024-08-26T15:28:35.000+0300",
+    "watches": 18,
+    "votes": 37
+  },
+  {
+    "id": "MC-124331",
+    "summary": "Redstone lamps do not show on maps",
+    "labels": [
+      "redstone-lamp"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2018-01-16T03:13:12.000+0200",
+    "resolution_date": "2024-08-26T15:28:37.000+0300",
+    "updated_date": "2024-08-27T10:02:37.000+0300",
+    "watches": 12,
+    "votes": 20
+  }
+]
