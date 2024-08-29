@@ -3489,6 +3489,26 @@
     "votes": 16
   },
   {
+    "id": "MC-196556",
+    "summary": "When projectiles (such as arrows and tridents) move too fast, they can't be teleported by portals and end gateways",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a",
+      "Future Update"
+    ],
+    "creation_date": "2020-07-30T14:24:59.000+0300",
+    "resolution_date": "2024-08-29T17:51:50.000+0300",
+    "updated_date": "2024-08-29T17:51:50.000+0300",
+    "watches": 12,
+    "votes": 19
+  },
+  {
     "id": "MC-195754",
     "summary": "Illagers in raids continuously try and fail to pick up ominous banners if they can't reach them",
     "labels": [],
