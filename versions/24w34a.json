@@ -463,6 +463,27 @@
     "votes": 4
   },
   {
+    "id": "MC-275323",
+    "summary": "Pressing F3 + A to reload chunks crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading",
+      "Crash",
+      "Performance"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2024-08-16T01:13:35.000+0300",
+    "resolution_date": "2024-08-29T19:23:28.000+0300",
+    "updated_date": "2024-08-29T19:23:29.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-275319",
     "summary": "End crystals in 24w33a appear to be slightly smaller than in previous versions",
     "labels": [],
