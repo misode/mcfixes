@@ -4325,6 +4325,31 @@
     "votes": 10
   },
   {
+    "id": "MC-92875",
+    "summary": "Collisionless blocks ignore entities with high velocity",
+    "labels": [
+      "entity",
+      "motion",
+      "tripwire",
+      "velocity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a",
+      "Future Update"
+    ],
+    "creation_date": "2015-11-17T22:33:43.000+0200",
+    "resolution_date": "2024-08-29T12:05:30.000+0300",
+    "updated_date": "2024-08-29T12:05:30.000+0300",
+    "watches": 11,
+    "votes": 27
+  },
+  {
     "id": "MC-89883",
     "summary": "Squid and glow squid collision error and rubberbanding",
     "labels": [
