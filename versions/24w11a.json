@@ -563,6 +563,25 @@
     "votes": 1
   },
   {
+    "id": "MC-261749",
+    "summary": "Tamed cats don't emit mob interaction vibrations for entering sitting/standing mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w11a"
+    ],
+    "creation_date": "2023-04-09T20:36:50.000+0300",
+    "resolution_date": "2024-08-31T19:29:22.000+0300",
+    "updated_date": "2024-08-31T19:29:23.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-260921",
     "summary": "Data is focused last on the statistics screen when using keyboard navigation",
     "labels": [],
