@@ -714,6 +714,26 @@
     "votes": 3
   },
   {
+    "id": "MC-270113",
+    "summary": "Trial spawner ominous_config doesn't save setting values to default",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-03-29T17:54:07.000+0200",
+    "resolution_date": "2024-09-01T15:25:35.000+0300",
+    "updated_date": "2024-09-01T15:25:35.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
     "id": "MC-203382",
     "summary": "The \"Bee Our Guest\" advancement description only states a beehive is required to unlock",
     "labels": [
