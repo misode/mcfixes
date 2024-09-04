@@ -37,6 +37,26 @@
     "votes": 2
   },
   {
+    "id": "MC-275958",
+    "summary": "Selected item in inventory drops at target dimension's nether portal's coordinates when travelling through them without delay",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2024-08-24T14:05:39.000+0300",
+    "resolution_date": "2024-09-04T23:29:57.000+0300",
+    "updated_date": "2024-09-04T23:30:09.000+0300",
+    "watches": 1,
+    "votes": 0
+  },
+  {
     "id": "MC-275851",
     "summary": "diameter in teleport_randomly consume effect is ignored",
     "labels": [],
