@@ -1,0 +1,914 @@
+[
+  {
+    "id": "MC-276204",
+    "summary": "Dolphins and axolotls keep trying to swim into the seabed",
+    "labels": [
+      "AI",
+      "axolotl",
+      "dolphin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-31T17:30:15.000+0300",
+    "resolution_date": "2024-09-03T17:16:15.000+0300",
+    "updated_date": "2024-09-03T17:16:15.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-276179",
+    "summary": "Zombie villagers don't raise their arms to attack again",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-30T17:58:49.000+0300",
+    "resolution_date": "2024-09-03T14:49:29.000+0300",
+    "updated_date": "2024-09-03T14:49:29.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-276132",
+    "summary": "Translucency sorting seems to be slightly broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-29T00:40:07.000+0300",
+    "resolution_date": "2024-09-04T14:31:21.000+0300",
+    "updated_date": "2024-09-04T14:31:21.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-276122",
+    "summary": "Soul sand and magma block bubble columns don't move the player vertically in creative mode when not flying",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-28T20:56:32.000+0300",
+    "resolution_date": "2024-09-03T14:26:39.000+0300",
+    "updated_date": "2024-09-03T14:26:39.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-276064",
+    "summary": "Tall grass generated from bone mealing a grass block will delete the 2nd block above it",
+    "labels": [
+      "bone_meal"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-27T04:54:26.000+0300",
+    "resolution_date": "2024-09-02T11:16:57.000+0300",
+    "updated_date": "2024-09-02T11:16:57.000+0300",
+    "watches": 9,
+    "votes": 11
+  },
+  {
+    "id": "MC-276030",
+    "summary": "The blue highlighted text background for signs is gone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-26T03:39:26.000+0300",
+    "resolution_date": "2024-09-02T11:16:56.000+0300",
+    "updated_date": "2024-09-02T11:16:56.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-276027",
+    "summary": "Chestplates and Boots on Armor Stands render the helmet overlay texture",
+    "labels": [
+      "armor-stand",
+      "chestplate",
+      "overlay"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-26T00:20:49.000+0300",
+    "resolution_date": "2024-09-02T11:16:56.000+0300",
+    "updated_date": "2024-09-02T11:16:56.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-275770",
+    "summary": "Guardian beam attacks stay yellow and do not shift colors anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-21T19:00:44.000+0300",
+    "resolution_date": "2024-08-28T16:46:06.000+0300",
+    "updated_date": "2024-08-28T16:46:06.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-275767",
+    "summary": "Camera is shaky when riding an entity that is being constantly teleported",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-21T18:49:49.000+0300",
+    "resolution_date": "2024-09-04T11:29:35.000+0300",
+    "updated_date": "2024-09-04T11:29:35.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-275745",
+    "summary": "A scoreboard objective with display mode below_name renders right behind the player's name",
+    "labels": [
+      "below_name",
+      "scoreboard"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Player",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-21T14:03:36.000+0300",
+    "resolution_date": "2024-08-28T18:00:37.000+0300",
+    "updated_date": "2024-08-28T18:00:37.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275655",
+    "summary": "Entity rotation does not visually update when using the teleport command until the world is reloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-19T14:14:38.000+0300",
+    "resolution_date": "2024-09-02T11:16:58.000+0300",
+    "updated_date": "2024-09-02T11:16:58.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-275642",
+    "summary": "Baby dolphins do not spawn naturally",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-19T08:57:54.000+0300",
+    "resolution_date": "2024-08-30T13:14:05.000+0300",
+    "updated_date": "2024-08-30T13:14:05.000+0300",
+    "watches": 8,
+    "votes": 9
+  },
+  {
+    "id": "MC-275638",
+    "summary": "It is still possible to go through portals without being teleported when going quickly enough by throwing riptide tridents",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-19T06:58:12.000+0300",
+    "resolution_date": "2024-08-29T12:01:45.000+0300",
+    "updated_date": "2024-08-29T12:01:45.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-275624",
+    "summary": "Redstone wire with custom model unexpectedly appears green",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-18T23:52:49.000+0300",
+    "resolution_date": "2024-08-28T16:46:05.000+0300",
+    "updated_date": "2024-08-28T16:46:05.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-275622",
+    "summary": "Minecarts with TNT are more volatile than in previous releases",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Minecart"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-18T22:52:29.000+0300",
+    "resolution_date": "2024-09-02T16:51:44.000+0300",
+    "updated_date": "2024-09-02T16:51:44.000+0300",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-275537",
+    "summary": "Sliding down honey blocks is slower than in previous versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-17T20:32:58.000+0300",
+    "resolution_date": "2024-09-02T11:16:57.000+0300",
+    "updated_date": "2024-09-02T11:16:57.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-275497",
+    "summary": "The repairable data component does not exist in armor items by default",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-17T12:16:27.000+0300",
+    "resolution_date": "2024-08-30T18:47:31.000+0300",
+    "updated_date": "2024-08-30T18:47:31.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-275462",
+    "summary": "Bats can spawn in unusual places, such as in woodland mansions and beneath trees",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-17T02:02:29.000+0300",
+    "resolution_date": "2024-08-30T13:14:06.000+0300",
+    "updated_date": "2024-08-30T13:14:06.000+0300",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-275455",
+    "summary": "Player motion is no longer retained on relative teleportation",
+    "labels": [
+      "command"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T23:43:41.000+0300",
+    "resolution_date": "2024-09-04T11:29:35.000+0300",
+    "updated_date": "2024-09-04T11:29:35.000+0300",
+    "watches": 9,
+    "votes": 25
+  },
+  {
+    "id": "MC-275450",
+    "summary": "Player Motion data no longer updates while riding another entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T22:48:47.000+0300",
+    "resolution_date": "2024-09-04T13:18:17.000+0300",
+    "updated_date": "2024-09-04T13:18:17.000+0300",
+    "watches": 12,
+    "votes": 28
+  },
+  {
+    "id": "MC-275445",
+    "summary": "Specifying the size of a target in post effect shaders fails",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T21:12:48.000+0300",
+    "resolution_date": "2024-09-02T11:16:55.000+0300",
+    "updated_date": "2024-09-02T11:16:55.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-275437",
+    "summary": "Fast moving entities freeze the server which causes watchdog crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision",
+      "Crash",
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T19:30:40.000+0300",
+    "resolution_date": "2024-09-03T11:33:56.000+0300",
+    "updated_date": "2024-09-03T11:33:56.000+0300",
+    "watches": 9,
+    "votes": 37
+  },
+  {
+    "id": "MC-275418",
+    "summary": "Feeding baby dolphins won't speed up their growth",
+    "labels": [
+      "dolphin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T15:36:10.000+0300",
+    "resolution_date": "2024-08-30T13:14:04.000+0300",
+    "updated_date": "2024-08-30T13:14:04.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-275416",
+    "summary": "Baby squid or baby glow squid produces ink particles that are too far away from itself",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T15:24:07.000+0300",
+    "resolution_date": "2024-08-30T13:14:05.000+0300",
+    "updated_date": "2024-08-31T17:14:18.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-275345",
+    "summary": "Inventory bug that causes items to be constantly shuffled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T03:06:02.000+0300",
+    "resolution_date": "2024-09-04T13:29:56.000+0300",
+    "updated_date": "2024-09-04T13:29:56.000+0300",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-275344",
+    "summary": "Sweet Berry Bushes deal damage inconsistently ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-16T03:04:41.000+0300",
+    "resolution_date": "2024-09-02T16:19:30.000+0300",
+    "updated_date": "2024-09-02T16:19:30.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-275299",
+    "summary": "Crafting using Ctrl + Drop key crafts the incorrect amount of items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-15T22:49:42.000+0300",
+    "resolution_date": "2024-09-04T13:29:56.000+0300",
+    "updated_date": "2024-09-04T13:29:56.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-275298",
+    "summary": "Blocks with special collision behavior have a larger detection range than previously",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-15T22:39:01.000+0300",
+    "resolution_date": "2024-08-28T16:43:45.000+0300",
+    "updated_date": "2024-09-03T12:50:31.000+0300",
+    "watches": 14,
+    "votes": 15
+  },
+  {
+    "id": "MC-275239",
+    "summary": "Item duplication while a screen is opened (Creative Mode)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-15T19:22:18.000+0300",
+    "resolution_date": "2024-09-04T13:29:55.000+0300",
+    "updated_date": "2024-09-04T13:29:55.000+0300",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-275228",
+    "summary": "You can duplicate items in your creative hotbar",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-15T18:55:51.000+0300",
+    "resolution_date": "2024-09-04T13:29:54.000+0300",
+    "updated_date": "2024-09-04T13:29:54.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-275011",
+    "summary": "Instant mine does not work when standing inside of cobwebs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-08T01:35:51.000+0300",
+    "resolution_date": "2024-09-04T10:08:48.000+0300",
+    "updated_date": "2024-09-04T10:08:48.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-271826",
+    "summary": "Armor default attribute modifier component can't be removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-05-10T07:13:46.000+0300",
+    "resolution_date": "2024-08-30T18:47:30.000+0300",
+    "updated_date": "2024-08-30T18:47:30.000+0300",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-270842",
+    "summary": "Scores are not kept when a mob converts to another mob",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-04-16T22:56:00.000+0300",
+    "resolution_date": "2024-09-04T14:52:42.000+0300",
+    "updated_date": "2024-09-04T14:52:42.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-261666",
+    "summary": "Armor given to Villagers is lost when they convert to Zombie Villagers",
+    "labels": [
+      "villager",
+      "zombie_villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2023-04-06T19:02:59.000+0300",
+    "resolution_date": "2024-09-04T14:52:42.000+0300",
+    "updated_date": "2024-09-04T14:52:42.000+0300",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-259936",
+    "summary": "Equipping armor in hand via right-click equips entire stack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2023-02-11T20:51:47.000+0200",
+    "resolution_date": "2024-09-02T12:12:48.000+0300",
+    "updated_date": "2024-09-02T12:12:48.000+0300",
+    "watches": 5,
+    "votes": 1
+  },
+  {
+    "id": "MC-250924",
+    "summary": "Goat horns are missing sounds",
+    "labels": [
+      "goat-horn"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2022-04-27T19:34:15.000+0300",
+    "resolution_date": "2024-08-29T14:17:23.000+0300",
+    "updated_date": "2024-08-29T14:17:23.000+0300",
+    "watches": 30,
+    "votes": 54
+  },
+  {
+    "id": "MC-230317",
+    "summary": "Lead disappears when mooshroom cow is sheared",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2021-06-26T11:52:06.000+0300",
+    "resolution_date": "2024-09-04T14:52:40.000+0300",
+    "updated_date": "2024-09-04T17:26:35.000+0300",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-196964",
+    "summary": "Fall damage is reset when an entity converts to another entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2020-08-04T05:34:51.000+0300",
+    "resolution_date": "2024-09-04T14:52:41.000+0300",
+    "updated_date": "2024-09-04T14:52:41.000+0300",
+    "watches": 5,
+    "votes": 22
+  },
+  {
+    "id": "MC-196556",
+    "summary": "When projectiles (such as arrows and tridents) move too fast, they can't be teleported by portals and end gateways",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a",
+      "24w36a"
+    ],
+    "creation_date": "2020-07-30T14:24:59.000+0300",
+    "resolution_date": "2024-08-29T17:51:50.000+0300",
+    "updated_date": "2024-08-29T17:51:50.000+0300",
+    "watches": 12,
+    "votes": 19
+  },
+  {
+    "id": "MC-135898",
+    "summary": "Teams are not retained when a mob converts to another mob",
+    "labels": [
+      "conversion",
+      "husk",
+      "team",
+      "zombie",
+      "zombie_villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2018-08-11T10:23:26.000+0300",
+    "resolution_date": "2024-09-04T14:52:41.000+0300",
+    "updated_date": "2024-09-04T14:52:41.000+0300",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-92875",
+    "summary": "Collisionless blocks ignore entities with high velocity",
+    "labels": [
+      "entity",
+      "motion",
+      "tripwire",
+      "velocity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a",
+      "24w36a"
+    ],
+    "creation_date": "2015-11-17T22:33:43.000+0200",
+    "resolution_date": "2024-08-29T12:05:30.000+0300",
+    "updated_date": "2024-08-29T12:05:30.000+0300",
+    "watches": 11,
+    "votes": 27
+  },
+  {
+    "id": "MC-88967",
+    "summary": "Most NBT tags are not kept when a mob converts to another mob",
+    "labels": [
+      "conversion",
+      "lightning",
+      "lightning_bolt",
+      "mob",
+      "nbt",
+      "scoreboard",
+      "scoreboard-tag"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2015-09-18T03:38:15.000+0300",
+    "resolution_date": "2024-09-04T14:52:39.000+0300",
+    "updated_date": "2024-09-04T14:52:39.000+0300",
+    "watches": 48,
+    "votes": 121
+  },
+  {
+    "id": "MC-38022",
+    "summary": "Order of rendering translucent block faces fails to update with camera position",
+    "labels": [
+      "honey_block",
+      "ice",
+      "rendering",
+      "slime_block",
+      "stripes"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2013-10-27T22:39:50.000+0200",
+    "resolution_date": "2024-09-04T14:31:22.000+0300",
+    "updated_date": "2024-09-04T14:31:22.000+0300",
+    "watches": 56,
+    "votes": 147
+  },
+  {
+    "id": "MC-16829",
+    "summary": "The horse armor model does not show the enchantment glint effect",
+    "labels": [
+      "enchanted",
+      "horse",
+      "horse-armor"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2013-05-30T17:55:52.000+0300",
+    "resolution_date": "2024-08-30T18:47:31.000+0300",
+    "updated_date": "2024-08-30T18:47:31.000+0300",
+    "watches": 10,
+    "votes": 5
+  }
+]
