@@ -1486,6 +1486,25 @@
     "votes": 0
   },
   {
+    "id": "MC-270527",
+    "summary": "\"tile\" texture scaling also causes incredible lag with small textures",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-04-08T17:15:59.000+0300",
+    "resolution_date": "2024-09-05T19:22:10.000+0300",
+    "updated_date": "2024-09-05T19:22:10.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-270519",
     "summary": "\"Error\" textures in block/entity GUIs do not support translucent textures",
     "labels": [
