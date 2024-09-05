@@ -402,7 +402,7 @@
     ],
     "creation_date": "2024-08-16T22:48:47.000+0300",
     "resolution_date": "2024-09-04T13:18:17.000+0300",
-    "updated_date": "2024-09-04T13:18:17.000+0300",
+    "updated_date": "2024-09-05T14:42:55.000+0300",
     "watches": 12,
     "votes": 28
   },
@@ -467,25 +467,6 @@
     "updated_date": "2024-08-30T13:14:04.000+0300",
     "watches": 2,
     "votes": 0
-  },
-  {
-    "id": "MC-275416",
-    "summary": "Baby squid or baby glow squid produces ink particles that are too far away from itself",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Particles"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "24w36a"
-    ],
-    "creation_date": "2024-08-16T15:24:07.000+0300",
-    "resolution_date": "2024-08-30T13:14:05.000+0300",
-    "updated_date": "2024-09-05T14:07:29.000+0300",
-    "watches": 3,
-    "votes": 2
   },
   {
     "id": "MC-275345",
@@ -684,6 +665,27 @@
     "votes": 10
   },
   {
+    "id": "MC-269447",
+    "summary": "Hover text background box cannot be retextured",
+    "labels": [
+      "hardcoded-graphics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-03-15T10:23:41.000+0200",
+    "resolution_date": "2024-09-05T14:31:09.000+0300",
+    "updated_date": "2024-09-05T14:31:09.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-261666",
     "summary": "Armor given to Villagers is lost when they convert to Zombie Villagers",
     "labels": [
@@ -804,6 +806,30 @@
     "votes": 22
   },
   {
+    "id": "MC-196736",
+    "summary": "Hoglins break their leash when zombifying, despite zoglins being leashable",
+    "labels": [
+      "hoglin",
+      "lead",
+      "mob-behavior",
+      "zoglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2020-08-01T20:43:29.000+0300",
+    "resolution_date": "2024-09-05T14:22:18.000+0300",
+    "updated_date": "2024-09-05T14:22:18.000+0300",
+    "watches": 12,
+    "votes": 17
+  },
+  {
     "id": "MC-196556",
     "summary": "When projectiles (such as arrows and tridents) move too fast, they can't be teleported by portals and end gateways",
     "labels": [],
@@ -822,6 +848,26 @@
     "updated_date": "2024-08-29T17:51:50.000+0300",
     "watches": 12,
     "votes": 19
+  },
+  {
+    "id": "MC-167242",
+    "summary": "Bed stays occupied after a lightning turns the villager sleeping in it into a witch",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2019-12-07T13:43:46.000+0200",
+    "resolution_date": "2024-09-05T14:30:47.000+0300",
+    "updated_date": "2024-09-05T14:30:47.000+0300",
+    "watches": 12,
+    "votes": 22
   },
   {
     "id": "MC-135898",

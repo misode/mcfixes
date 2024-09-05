@@ -580,7 +580,7 @@
     ],
     "creation_date": "2024-08-15T22:30:43.000+0300",
     "resolution_date": "2024-08-20T12:14:01.000+0300",
-    "updated_date": "2024-09-01T15:14:36.000+0300",
+    "updated_date": "2024-09-05T15:19:00.000+0300",
     "watches": 5,
     "votes": 4
   },
@@ -1248,6 +1248,25 @@
     "updated_date": "2024-08-20T15:26:33.000+0300",
     "watches": 6,
     "votes": 5
+  },
+  {
+    "id": "MC-249414",
+    "summary": "The \"Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.\" warning is logged in the game output console when launching the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w34a"
+    ],
+    "creation_date": "2022-03-24T21:09:20.000+0200",
+    "resolution_date": "2024-09-05T15:30:01.000+0300",
+    "updated_date": "2024-09-05T15:30:01.000+0300",
+    "watches": 17,
+    "votes": 34
   },
   {
     "id": "MC-191431",

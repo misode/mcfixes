@@ -754,30 +754,6 @@
     "votes": 4
   },
   {
-    "id": "MC-203382",
-    "summary": "The \"Bee Our Guest\" advancement description only states a beehive is required to unlock",
-    "labels": [
-      "advancement",
-      "advancement-description",
-      "bee-nest",
-      "beehive"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Advancements"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "24w35a"
-    ],
-    "creation_date": "2020-11-02T23:01:27.000+0200",
-    "resolution_date": "2024-08-26T15:28:38.000+0300",
-    "updated_date": "2024-08-26T15:28:38.000+0300",
-    "watches": 4,
-    "votes": 7
-  },
-  {
     "id": "MC-168546",
     "summary": "Bee nest / hive items have no lore",
     "labels": [],
