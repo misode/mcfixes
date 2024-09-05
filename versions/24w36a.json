@@ -626,25 +626,6 @@
     "votes": 7
   },
   {
-    "id": "MC-270842",
-    "summary": "Scores are not kept when a mob converts to another mob",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Entities"
-    ],
-    "priority": "Low",
-    "fix_versions": [
-      "24w36a"
-    ],
-    "creation_date": "2024-04-16T22:56:00.000+0300",
-    "resolution_date": "2024-09-04T14:52:42.000+0300",
-    "updated_date": "2024-09-04T19:30:58.000+0300",
-    "watches": 2,
-    "votes": 3
-  },
-  {
     "id": "MC-270183",
     "summary": "Lingering potions do not give effects when hit on the target's head",
     "labels": [],
