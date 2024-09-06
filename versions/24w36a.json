@@ -662,7 +662,7 @@
     ],
     "creation_date": "2024-03-15T10:23:41.000+0200",
     "resolution_date": "2024-09-05T14:31:09.000+0300",
-    "updated_date": "2024-09-05T14:31:09.000+0300",
+    "updated_date": "2024-09-06T18:00:23.000+0300",
     "watches": 3,
     "votes": 2
   },
@@ -829,6 +829,27 @@
     "updated_date": "2024-08-29T17:51:50.000+0300",
     "watches": 12,
     "votes": 19
+  },
+  {
+    "id": "MC-186362",
+    "summary": "Casting issue: Translucent block rendering breaks down at high distances",
+    "labels": [
+      "precision-loss"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2020-05-30T03:46:09.000+0300",
+    "resolution_date": "2024-09-06T18:06:36.000+0300",
+    "updated_date": "2024-09-06T18:06:36.000+0300",
+    "watches": 21,
+    "votes": 109
   },
   {
     "id": "MC-167242",
