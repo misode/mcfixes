@@ -667,6 +667,25 @@
     "votes": 2
   },
   {
+    "id": "MC-262598",
+    "summary": "Tripwire textures in the tripwire hook \"attached: true\" state have a wrong black rendering when the tripwire hook is attached to a non-transparent block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2023-05-12T22:45:32.000+0300",
+    "resolution_date": "2024-09-07T14:36:20.000+0300",
+    "updated_date": "2024-09-07T14:36:20.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-261666",
     "summary": "Armor given to Villagers is lost when they convert to Zombie Villagers",
     "labels": [
