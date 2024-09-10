@@ -1332,7 +1332,7 @@
     "id": "MC-241314",
     "summary": "Filled cauldrons' bottom faces are still culled when they should not be",
     "labels": [
-      "unneccessary-cullface"
+      "unnecessary-cullface"
     ],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -1345,7 +1345,7 @@
     ],
     "creation_date": "2021-11-12T19:57:46.000+0200",
     "resolution_date": "2023-03-30T17:36:59.000+0300",
-    "updated_date": "2023-03-30T17:36:59.000+0300",
+    "updated_date": "2024-09-10T14:25:07.000+0300",
     "watches": 4,
     "votes": 5
   },

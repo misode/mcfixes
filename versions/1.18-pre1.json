@@ -178,7 +178,7 @@
     "id": "MC-240021",
     "summary": "Cullface arguments in cauldrons are excessive",
     "labels": [
-      "unneccessary-cullface"
+      "unnecessary-cullface"
     ],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -191,8 +191,8 @@
     ],
     "creation_date": "2021-10-29T16:21:17.000+0300",
     "resolution_date": "2021-11-09T17:30:30.000+0200",
-    "updated_date": "2021-11-11T14:50:58.000+0200",
-    "watches": 5,
+    "updated_date": "2024-09-10T14:25:01.000+0300",
+    "watches": 4,
     "votes": 7
   },
   {

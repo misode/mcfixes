@@ -269,7 +269,7 @@
     "id": "MC-249094",
     "summary": "Unexpected culling of inner sculk shrieker faces",
     "labels": [
-      "unneccessary-cullface"
+      "unnecessary-cullface"
     ],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -283,7 +283,7 @@
     ],
     "creation_date": "2022-03-16T19:34:20.000+0200",
     "resolution_date": "2022-05-24T17:01:44.000+0300",
-    "updated_date": "2022-05-24T18:40:30.000+0300",
+    "updated_date": "2024-09-10T14:25:12.000+0300",
     "watches": 6,
     "votes": 15
   },
