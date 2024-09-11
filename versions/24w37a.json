@@ -1,0 +1,1399 @@
+[
+  {
+    "id": "MC-276533",
+    "summary": "Game crashes when three or more skeletons are about to release their arrows",
+    "labels": [
+      "crash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision",
+      "Crash",
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-09T04:12:17.000+0300",
+    "resolution_date": "2024-09-10T15:41:41.000+0300",
+    "updated_date": "2024-09-10T15:41:41.000+0300",
+    "watches": 6,
+    "votes": 5
+  },
+  {
+    "id": "MC-276527",
+    "summary": "Duplicate UUID error causes player to teleport to origin when riding on a pig after it is converted by lightning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-08T22:34:43.000+0300",
+    "resolution_date": "2024-09-11T11:59:29.000+0300",
+    "updated_date": "2024-09-11T11:59:29.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-276501",
+    "summary": "Returning tridents get stuck on blocks and spam sounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision",
+      "Projectiles",
+      "Sound"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-07T23:14:44.000+0300",
+    "resolution_date": "2024-09-11T13:14:59.000+0300",
+    "updated_date": "2024-09-11T13:14:59.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-276495",
+    "summary": "Creative player can go through nether portal without being teleported when throwing riptide trident",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-07T20:54:21.000+0300",
+    "resolution_date": "2024-09-11T13:14:57.000+0300",
+    "updated_date": "2024-09-11T13:14:57.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-276484",
+    "summary": "Fireballs and wither skulls do too much damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-07T16:41:31.000+0300",
+    "resolution_date": "2024-09-09T17:16:13.000+0300",
+    "updated_date": "2024-09-09T17:16:13.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-276480",
+    "summary": "Projectile no longer moves correctly when it is deflected",
+    "labels": [
+      "Projectiles",
+      "arrow",
+      "projectile",
+      "projectiles",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-07T14:16:25.000+0300",
+    "resolution_date": "2024-09-11T13:14:58.000+0300",
+    "updated_date": "2024-09-11T13:14:58.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-276476",
+    "summary": "Crash when a boat is destroyed by a hazard",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crash",
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-07T10:44:48.000+0300",
+    "resolution_date": "2024-09-09T11:27:12.000+0300",
+    "updated_date": "2024-09-09T11:27:12.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-276463",
+    "summary": "Armor on piglins detach from their bodies while bartering",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-07T03:36:48.000+0300",
+    "resolution_date": "2024-09-09T12:01:14.000+0300",
+    "updated_date": "2024-09-09T15:03:25.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-276433",
+    "summary": "set_enchantments function removes enchantments component from books",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-06T13:09:16.000+0300",
+    "resolution_date": "2024-09-09T12:01:14.000+0300",
+    "updated_date": "2024-09-09T12:01:14.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276429",
+    "summary": "Projectiles move after hitting a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-06T11:19:00.000+0300",
+    "resolution_date": "2024-09-11T13:14:58.000+0300",
+    "updated_date": "2024-09-11T13:14:58.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276415",
+    "summary": "Turtle helmet does not give water breathing effect when equipped on any slot other than the head",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-06T02:00:04.000+0300",
+    "resolution_date": "2024-09-11T11:28:25.000+0300",
+    "updated_date": "2024-09-11T11:28:25.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-276394",
+    "summary": "Some specially rendered elements are no longer affected by fog of any type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T17:52:25.000+0300",
+    "resolution_date": "2024-09-06T12:54:52.000+0300",
+    "updated_date": "2024-09-06T12:54:52.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-276384",
+    "summary": "Players' capes detach from their bodies when moving",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T16:31:04.000+0300",
+    "resolution_date": "2024-09-06T12:54:52.000+0300",
+    "updated_date": "2024-09-06T12:54:52.000+0300",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-276383",
+    "summary": "Using Pick Block on boats crashes the game ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T16:22:49.000+0300",
+    "resolution_date": "2024-09-06T10:03:39.000+0300",
+    "updated_date": "2024-09-10T14:32:41.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-276378",
+    "summary": "Converted witches lose their armor yet are still protected by it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T13:56:17.000+0300",
+    "resolution_date": "2024-09-11T11:59:13.000+0300",
+    "updated_date": "2024-09-11T11:59:13.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-276376",
+    "summary": "/tp command cannot teleport to the correct facing angles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T13:13:39.000+0300",
+    "resolution_date": "2024-09-06T11:34:17.000+0300",
+    "updated_date": "2024-09-06T11:34:17.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-276370",
+    "summary": "Golden armor pieces have wrong max durabilities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T11:28:02.000+0300",
+    "resolution_date": "2024-09-06T12:54:51.000+0300",
+    "updated_date": "2024-09-06T12:54:51.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-276365",
+    "summary": "Armor sleeves do not follow arms when switching to and from items and on item use animations",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T06:01:16.000+0300",
+    "resolution_date": "2024-09-05T19:25:31.000+0300",
+    "updated_date": "2024-09-09T15:03:26.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-276364",
+    "summary": "Non-armor items with equippable tag cannot be given to wolves",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T05:33:07.000+0300",
+    "resolution_date": "2024-09-06T12:54:51.000+0300",
+    "updated_date": "2024-09-06T12:54:51.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-276344",
+    "summary": "Hovered items in bundles do not reflect any tooltip_style component",
+    "labels": [
+      "bundle",
+      "tooltip_style"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-05T00:02:39.000+0300",
+    "resolution_date": "2024-09-05T19:25:32.000+0300",
+    "updated_date": "2024-09-05T19:25:32.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-276339",
+    "summary": "Witches converted from villagers move very fast",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T23:00:58.000+0300",
+    "resolution_date": "2024-09-11T11:54:16.000+0300",
+    "updated_date": "2024-09-11T11:54:16.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276338",
+    "summary": "Converted mob keeps the same loot table of the first mob ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Mob behaviour"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T22:52:32.000+0300",
+    "resolution_date": "2024-09-11T11:54:15.000+0300",
+    "updated_date": "2024-09-11T11:54:15.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276335",
+    "summary": "Cured villagers have the wrong movement speed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T22:17:37.000+0300",
+    "resolution_date": "2024-09-11T11:54:16.000+0300",
+    "updated_date": "2024-09-11T11:54:16.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-276327",
+    "summary": "The item_name component no longer overrides potion names",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T20:44:13.000+0300",
+    "resolution_date": "2024-09-06T09:08:16.000+0300",
+    "updated_date": "2024-09-06T09:08:16.000+0300",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-276326",
+    "summary": "\"Air\" item lost its name",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T20:38:09.000+0300",
+    "resolution_date": "2024-09-06T09:08:15.000+0300",
+    "updated_date": "2024-09-06T09:08:15.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-276322",
+    "summary": "Boats don't drop as items when destroyed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items",
+      "Loot tables"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T20:17:14.000+0300",
+    "resolution_date": "2024-09-05T13:12:25.000+0300",
+    "updated_date": "2024-09-10T21:04:13.000+0300",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-276321",
+    "summary": "Elytra loses durability when taking damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T20:04:57.000+0300",
+    "resolution_date": "2024-09-05T19:25:30.000+0300",
+    "updated_date": "2024-09-05T19:25:30.000+0300",
+    "watches": 1,
+    "votes": 6
+  },
+  {
+    "id": "MC-276320",
+    "summary": "Shields no longer block incoming projectiles",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision",
+      "Combat",
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T19:59:35.000+0300",
+    "resolution_date": "2024-09-06T17:15:51.000+0300",
+    "updated_date": "2024-09-10T14:50:59.000+0300",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-276317",
+    "summary": "Projectiles visually update slowly when their motion is changed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T19:51:33.000+0300",
+    "resolution_date": "2024-09-10T18:15:29.000+0300",
+    "updated_date": "2024-09-10T18:25:51.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-276316",
+    "summary": "Ender pearls no longer teleport entities to the point of impact",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T19:48:56.000+0300",
+    "resolution_date": "2024-09-05T15:06:07.000+0300",
+    "updated_date": "2024-09-07T03:18:02.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-276315",
+    "summary": "Teleport command runs at the entity's position and ignores location from execution context",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T19:43:49.000+0300",
+    "resolution_date": "2024-09-05T17:37:23.000+0300",
+    "updated_date": "2024-09-09T08:10:07.000+0300",
+    "watches": 7,
+    "votes": 15
+  },
+  {
+    "id": "MC-276314",
+    "summary": "Wind charges cause entities to be launched extremely high when directly hit by them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T19:36:46.000+0300",
+    "resolution_date": "2024-09-06T17:15:50.000+0300",
+    "updated_date": "2024-09-09T13:13:44.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-276311",
+    "summary": "Players' capes illogically point upward when flying with non-elytra items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player Animation",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T19:25:14.000+0300",
+    "resolution_date": "2024-09-05T19:25:33.000+0300",
+    "updated_date": "2024-09-11T19:13:37.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-276310",
+    "summary": "Players' capes detach from their bodies when wearing non-chestplate items in the chest slot",
+    "labels": [
+      "cape",
+      "component",
+      "equippable"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T19:21:26.000+0300",
+    "resolution_date": "2024-09-05T19:25:33.000+0300",
+    "updated_date": "2024-09-05T19:25:33.000+0300",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-276304",
+    "summary": "Carved pumpkins and skulls can be equipped through right-clicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T18:51:19.000+0300",
+    "resolution_date": "2024-09-05T19:25:32.000+0300",
+    "updated_date": "2024-09-05T19:25:32.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-276301",
+    "summary": "Item tooltip padding is gone",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T18:40:41.000+0300",
+    "resolution_date": "2024-09-05T13:12:24.000+0300",
+    "updated_date": "2024-09-05T13:12:24.000+0300",
+    "watches": 8,
+    "votes": 14
+  },
+  {
+    "id": "MC-276299",
+    "summary": "Horse armor doesn't render properly in horse inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T18:21:56.000+0300",
+    "resolution_date": "2024-09-05T19:25:31.000+0300",
+    "updated_date": "2024-09-06T21:13:02.000+0300",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-276297",
+    "summary": "Worn netherite armor appears as diamond armor",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T18:17:44.000+0300",
+    "resolution_date": "2024-09-05T13:12:24.000+0300",
+    "updated_date": "2024-09-11T03:12:40.000+0300",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-276296",
+    "summary": "Worn chainmail armor has a missing texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Textures and models"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T18:14:41.000+0300",
+    "resolution_date": "2024-09-05T13:12:23.000+0300",
+    "updated_date": "2024-09-11T09:23:02.000+0300",
+    "watches": 7,
+    "votes": 8
+  },
+  {
+    "id": "MC-276295",
+    "summary": "Zombies always kill villagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T18:13:37.000+0300",
+    "resolution_date": "2024-09-11T11:54:17.000+0300",
+    "updated_date": "2024-09-11T18:37:01.000+0300",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-276293",
+    "summary": "Mobs no longer get damaged by sweet berry bushes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-04T18:07:07.000+0300",
+    "resolution_date": "2024-09-10T10:40:34.000+0300",
+    "updated_date": "2024-09-10T10:40:34.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-276263",
+    "summary": "explosion_power nbt does not work for minecarts with tnt",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-09-03T11:24:26.000+0300",
+    "resolution_date": "2024-09-09T12:01:12.000+0300",
+    "updated_date": "2024-09-09T12:01:12.000+0300",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-276134",
+    "summary": "Can't scroll in creative inventory while hovered over the bundle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-29T02:12:44.000+0300",
+    "resolution_date": "2024-09-05T14:42:44.000+0300",
+    "updated_date": "2024-09-05T20:16:46.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-276127",
+    "summary": "Fractions in bee nest tooltip are not padded with whitespace",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-28T22:03:31.000+0300",
+    "resolution_date": "2024-09-06T11:23:15.000+0300",
+    "updated_date": "2024-09-06T11:23:15.000+0300",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-276111",
+    "summary": "Salmon spawned from a bucket are the wrong size for one tick",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-28T17:28:10.000+0300",
+    "resolution_date": "2024-09-11T11:54:17.000+0300",
+    "updated_date": "2024-09-11T11:54:17.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-276025",
+    "summary": "Model overrides are not applied to items shown in an open bundle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-25T23:18:47.000+0300",
+    "resolution_date": "2024-09-05T14:42:42.000+0300",
+    "updated_date": "2024-09-05T14:42:42.000+0300",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-275990",
+    "summary": "Bundles can remain in the open state through the crafting table",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-25T04:07:49.000+0300",
+    "resolution_date": "2024-09-05T14:42:43.000+0300",
+    "updated_date": "2024-09-05T16:53:17.000+0300",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-275964",
+    "summary": "Bundles can remain in the open state when held by the mouse cursor via swapping items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-24T16:17:34.000+0300",
+    "resolution_date": "2024-09-05T14:42:43.000+0300",
+    "updated_date": "2024-09-05T16:53:17.000+0300",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-275909",
+    "summary": "Wrong death message is displayed when being killed by a mob's smash attack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-23T11:12:48.000+0300",
+    "resolution_date": "2024-09-10T12:00:59.000+0300",
+    "updated_date": "2024-09-10T12:00:59.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-275883",
+    "summary": "Riding a minecart cluster into a wall freezes the game",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Minecart"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-22T20:59:12.000+0300",
+    "resolution_date": "2024-09-06T11:02:23.000+0300",
+    "updated_date": "2024-09-06T11:02:23.000+0300",
+    "watches": 8,
+    "votes": 7
+  },
+  {
+    "id": "MC-275833",
+    "summary": "Hand animation plays higher than before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-22T03:30:29.000+0300",
+    "resolution_date": "2024-09-10T11:47:51.000+0300",
+    "updated_date": "2024-09-10T11:47:51.000+0300",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-275792",
+    "summary": "Bottom faces of torches and soul torches are not culled against solid blocks",
+    "labels": [
+      "cullface",
+      "cullface-missing-from-model",
+      "soul_torch",
+      "torch"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-21T20:38:10.000+0300",
+    "resolution_date": "2024-09-10T16:52:36.000+0300",
+    "updated_date": "2024-09-10T16:52:36.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-275765",
+    "summary": "Missing full stop in string gamerule.minecartMaxSpeed.description",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-21T18:47:46.000+0300",
+    "resolution_date": "2024-09-09T12:01:13.000+0300",
+    "updated_date": "2024-09-09T12:01:13.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-275751",
+    "summary": "Head snaps when coming out of crawling",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-21T18:01:06.000+0300",
+    "resolution_date": "2024-09-05T19:25:34.000+0300",
+    "updated_date": "2024-09-05T19:25:34.000+0300",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-275750",
+    "summary": "Redstone torch still doesn't have a bottom face",
+    "labels": [
+      "RedstoneTorch"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-21T17:59:35.000+0300",
+    "resolution_date": "2024-09-11T18:40:33.000+0300",
+    "updated_date": "2024-09-11T18:40:33.000+0300",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-275538",
+    "summary": "Breeze still do not attack when super close to them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-17T20:37:03.000+0300",
+    "resolution_date": "2024-09-09T13:41:49.000+0300",
+    "updated_date": "2024-09-09T13:41:49.000+0300",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-275504",
+    "summary": "Custom model data is not applied to open bundle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-17T15:03:55.000+0300",
+    "resolution_date": "2024-09-05T14:42:42.000+0300",
+    "updated_date": "2024-09-05T14:42:42.000+0300",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-275468",
+    "summary": "Gamerule minecartMaxSpeed can't be set through functions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-17T03:09:36.000+0300",
+    "resolution_date": "2024-09-09T12:01:12.000+0300",
+    "updated_date": "2024-09-09T12:01:12.000+0300",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-275406",
+    "summary": "Grammatical error in \"options.rotateWithMinecart.tooltip\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-16T13:57:45.000+0300",
+    "resolution_date": "2024-09-09T12:01:13.000+0300",
+    "updated_date": "2024-09-09T12:01:13.000+0300",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275352",
+    "summary": "Spectral arrow texture is not updated properly for Programmer Art",
+    "labels": [
+      "programmer-art"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-16T03:37:19.000+0300",
+    "resolution_date": "2024-09-05T17:56:01.000+0300",
+    "updated_date": "2024-09-05T17:56:01.000+0300",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-275302",
+    "summary": "The animation speed of end crystals is no longer constant",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-15T23:04:31.000+0300",
+    "resolution_date": "2024-09-05T19:25:34.000+0300",
+    "updated_date": "2024-09-05T19:25:35.000+0300",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-275300",
+    "summary": "Mace smash attack damage does not work with mobs, even though particles and sounds happen",
+    "labels": [
+      "mace",
+      "mace-smash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-15T22:57:33.000+0300",
+    "resolution_date": "2024-09-10T12:00:58.000+0300",
+    "updated_date": "2024-09-10T12:00:58.000+0300",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-275205",
+    "summary": "The hand animation is delayed and doesn't play all the time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Player Animation",
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-15T18:17:54.000+0300",
+    "resolution_date": "2024-09-10T11:23:00.000+0300",
+    "updated_date": "2024-09-10T11:23:00.000+0300",
+    "watches": 14,
+    "votes": 21
+  },
+  {
+    "id": "MC-270254",
+    "summary": "Item slot highlight effect cannot be retextured",
+    "labels": [
+      "hardcoded-graphics"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-04-01T19:35:26.000+0300",
+    "resolution_date": "2024-09-11T19:05:44.000+0300",
+    "updated_date": "2024-09-11T19:05:44.000+0300",
+    "watches": 0,
+    "votes": 5
+  },
+  {
+    "id": "MC-269873",
+    "summary": "Egg laying drop from chickens is hardcoded",
+    "labels": [
+      "chicken",
+      "egg",
+      "hardcoded",
+      "loot_table"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-03-25T03:14:07.000+0200",
+    "resolution_date": "2024-09-11T18:38:11.000+0300",
+    "updated_date": "2024-09-11T18:38:11.000+0300",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-265399",
+    "summary": "Players' heads are incorrectly positioned while exiting the swimming/crawling state when other players are on screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2023-09-14T17:35:19.000+0300",
+    "resolution_date": "2024-09-05T19:25:34.000+0300",
+    "updated_date": "2024-09-05T19:25:34.000+0300",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-260537",
+    "summary": "Tree growth can replace leaves that have the 'persistent' block state set to true",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2023-02-25T10:03:50.000+0200",
+    "resolution_date": "2024-09-11T12:44:24.000+0300",
+    "updated_date": "2024-09-11T12:44:24.000+0300",
+    "watches": 4,
+    "votes": 3
+  },
+  {
+    "id": "MC-206436",
+    "summary": "Stonecutter ignores anything over 64 when shift-clicking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2020-11-23T23:52:49.000+0200",
+    "resolution_date": "2024-09-11T11:42:24.000+0300",
+    "updated_date": "2024-09-11T11:42:24.000+0300",
+    "watches": 2,
+    "votes": 8
+  },
+  {
+    "id": "MC-119369",
+    "summary": "Boats crash/break and can kill their passengers when falling certain distances",
+    "labels": [
+      "boat",
+      "boat-with-chest"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2017-07-12T18:41:49.000+0300",
+    "resolution_date": "2024-09-10T13:35:03.000+0300",
+    "updated_date": "2024-09-10T13:35:03.000+0300",
+    "watches": 71,
+    "votes": 139
+  }
+]
