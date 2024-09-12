@@ -624,7 +624,7 @@
   },
   {
     "id": "MC-276314",
-    "summary": "Wind charges cause entities to be launched extremely high when directly hit by them",
+    "summary": "Wind charges, wither skulls and fireballs cause entities to be launched extremely high when directly hit by them",
     "labels": [],
     "status": "Resolved",
     "confirmation_status": "Confirmed",
@@ -637,7 +637,7 @@
     ],
     "creation_date": "2024-09-04T19:36:46.000+0300",
     "resolution_date": "2024-09-06T17:15:50.000+0300",
-    "updated_date": "2024-09-09T13:13:44.000+0300",
+    "updated_date": "2024-09-12T15:59:51.000+0300",
     "watches": 2,
     "votes": 2
   },
@@ -1394,6 +1394,53 @@
     "updated_date": "2024-09-11T11:42:24.000+0300",
     "watches": 2,
     "votes": 8
+  },
+  {
+    "id": "MC-174214",
+    "summary": "Fireworks for crossbow go through an entity if it is close to a player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2020-03-08T16:27:13.000+0200",
+    "resolution_date": "2024-09-12T16:19:59.000+0300",
+    "updated_date": "2024-09-12T16:19:59.000+0300",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-162551",
+    "summary": "When shooting an arrow on top of a player in Creative mode, a closed shulker, or an invincible mob, the arrow glitches around on top of the entity",
+    "labels": [
+      "arrow",
+      "entity",
+      "invincible-mob",
+      "player",
+      "shooting",
+      "shulker"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2019-10-02T20:39:13.000+0300",
+    "resolution_date": "2024-09-12T16:11:40.000+0300",
+    "updated_date": "2024-09-12T16:17:34.000+0300",
+    "watches": 11,
+    "votes": 26
   },
   {
     "id": "MC-119369",
