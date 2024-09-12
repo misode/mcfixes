@@ -14,9 +14,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-12-04T03:37:09.000+0200",
-    "resolution_date": "2019-12-05T14:56:40.000+0200",
-    "updated_date": "2019-12-05T14:56:40.000+0200",
+    "creation_date": "2019-12-04T01:37:09.000+0000",
+    "resolution_date": "2019-12-05T12:56:40.000+0000",
+    "updated_date": "2019-12-05T12:56:40.000+0000",
     "watches": 2,
     "votes": 2
   },
@@ -38,9 +38,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-12-04T02:08:25.000+0200",
-    "resolution_date": "2019-12-05T10:44:27.000+0200",
-    "updated_date": "2019-12-05T10:44:27.000+0200",
+    "creation_date": "2019-12-04T00:08:25.000+0000",
+    "resolution_date": "2019-12-05T08:44:27.000+0000",
+    "updated_date": "2019-12-05T08:44:27.000+0000",
     "watches": 2,
     "votes": 2
   },
@@ -57,9 +57,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-11-30T13:56:01.000+0200",
-    "resolution_date": "2019-12-05T14:56:59.000+0200",
-    "updated_date": "2020-06-14T21:02:03.000+0300",
+    "creation_date": "2019-11-30T11:56:01.000+0000",
+    "resolution_date": "2019-12-05T12:56:59.000+0000",
+    "updated_date": "2020-06-14T18:02:03.000+0000",
     "watches": 2,
     "votes": 0
   },
@@ -80,9 +80,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-10-30T18:36:55.000+0200",
-    "resolution_date": "2019-12-05T12:25:51.000+0200",
-    "updated_date": "2019-12-05T12:25:51.000+0200",
+    "creation_date": "2019-10-30T16:36:55.000+0000",
+    "resolution_date": "2019-12-05T10:25:51.000+0000",
+    "updated_date": "2019-12-05T10:25:51.000+0000",
     "watches": 5,
     "votes": 11
   },
@@ -99,9 +99,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-08-13T02:42:23.000+0300",
-    "resolution_date": "2019-12-05T12:25:52.000+0200",
-    "updated_date": "2019-12-05T12:25:52.000+0200",
+    "creation_date": "2019-08-12T23:42:23.000+0000",
+    "resolution_date": "2019-12-05T10:25:52.000+0000",
+    "updated_date": "2019-12-05T10:25:52.000+0000",
     "watches": 3,
     "votes": 8
   },
@@ -120,9 +120,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-06-03T14:05:12.000+0300",
-    "resolution_date": "2019-12-05T15:02:26.000+0200",
-    "updated_date": "2020-02-16T12:36:28.000+0200",
+    "creation_date": "2019-06-03T11:05:12.000+0000",
+    "resolution_date": "2019-12-05T13:02:26.000+0000",
+    "updated_date": "2020-02-16T10:36:28.000+0000",
     "watches": 17,
     "votes": 41
   },
@@ -139,9 +139,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-05-08T12:21:49.000+0300",
-    "resolution_date": "2019-12-05T13:57:23.000+0200",
-    "updated_date": "2019-12-05T13:57:23.000+0200",
+    "creation_date": "2019-05-08T09:21:49.000+0000",
+    "resolution_date": "2019-12-05T11:57:23.000+0000",
+    "updated_date": "2019-12-05T11:57:23.000+0000",
     "watches": 3,
     "votes": 4
   },
@@ -158,9 +158,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-04-19T01:22:59.000+0300",
-    "resolution_date": "2019-12-06T01:34:55.000+0200",
-    "updated_date": "2021-02-06T18:05:23.000+0200",
+    "creation_date": "2019-04-18T22:22:59.000+0000",
+    "resolution_date": "2019-12-05T23:34:55.000+0000",
+    "updated_date": "2021-02-06T16:05:23.000+0000",
     "watches": 5,
     "votes": 6
   },
@@ -180,9 +180,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2019-04-10T17:17:53.000+0300",
-    "resolution_date": "2020-05-19T04:54:53.000+0300",
-    "updated_date": "2020-05-19T04:54:53.000+0300",
+    "creation_date": "2019-04-10T14:17:53.000+0000",
+    "resolution_date": "2020-05-19T01:54:53.000+0000",
+    "updated_date": "2020-05-19T01:54:53.000+0000",
     "watches": 2,
     "votes": 1
   },
@@ -203,9 +203,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2017-05-14T00:41:38.000+0300",
-    "resolution_date": "2019-12-05T13:57:22.000+0200",
-    "updated_date": "2019-12-06T06:52:02.000+0200",
+    "creation_date": "2017-05-13T21:41:38.000+0000",
+    "resolution_date": "2019-12-05T11:57:22.000+0000",
+    "updated_date": "2019-12-06T04:52:02.000+0000",
     "watches": 5,
     "votes": 14
   },
@@ -226,9 +226,9 @@
     "fix_versions": [
       "1.15 Pre-release 5"
     ],
-    "creation_date": "2016-06-30T02:07:42.000+0300",
-    "resolution_date": "2019-12-05T13:57:22.000+0200",
-    "updated_date": "2019-12-05T13:57:22.000+0200",
+    "creation_date": "2016-06-29T23:07:42.000+0000",
+    "resolution_date": "2019-12-05T11:57:22.000+0000",
+    "updated_date": "2019-12-05T11:57:22.000+0000",
     "watches": 10,
     "votes": 13
   }

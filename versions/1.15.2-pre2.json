@@ -12,9 +12,9 @@
     "fix_versions": [
       "1.15.2 Pre-release 2"
     ],
-    "creation_date": "2020-01-16T11:20:29.000+0200",
-    "resolution_date": "2020-01-17T04:17:55.000+0200",
-    "updated_date": "2020-01-17T04:17:55.000+0200",
+    "creation_date": "2020-01-16T09:20:29.000+0000",
+    "resolution_date": "2020-01-17T02:17:55.000+0000",
+    "updated_date": "2020-01-17T02:17:55.000+0000",
     "watches": 2,
     "votes": 0
   },
@@ -31,9 +31,9 @@
     "fix_versions": [
       "1.15.2 Pre-release 2"
     ],
-    "creation_date": "2020-01-15T17:11:12.000+0200",
-    "resolution_date": "2020-01-16T14:20:48.000+0200",
-    "updated_date": "2020-01-16T14:20:48.000+0200",
+    "creation_date": "2020-01-15T15:11:12.000+0000",
+    "resolution_date": "2020-01-16T12:20:48.000+0000",
+    "updated_date": "2020-01-16T12:20:48.000+0000",
     "watches": 3,
     "votes": 2
   },
@@ -50,9 +50,9 @@
     "fix_versions": [
       "1.15.2 Pre-release 2"
     ],
-    "creation_date": "2020-01-14T23:48:59.000+0200",
-    "resolution_date": "2020-01-16T14:03:19.000+0200",
-    "updated_date": "2020-01-16T14:03:19.000+0200",
+    "creation_date": "2020-01-14T21:48:59.000+0000",
+    "resolution_date": "2020-01-16T12:03:19.000+0000",
+    "updated_date": "2020-01-16T12:03:19.000+0000",
     "watches": 2,
     "votes": 1
   },
@@ -69,9 +69,9 @@
     "fix_versions": [
       "1.15.2 Pre-release 2"
     ],
-    "creation_date": "2020-01-14T22:00:45.000+0200",
-    "resolution_date": "2020-01-16T14:03:18.000+0200",
-    "updated_date": "2020-01-16T14:03:18.000+0200",
+    "creation_date": "2020-01-14T20:00:45.000+0000",
+    "resolution_date": "2020-01-16T12:03:18.000+0000",
+    "updated_date": "2020-01-16T12:03:18.000+0000",
     "watches": 2,
     "votes": 4
   },
@@ -88,9 +88,9 @@
     "fix_versions": [
       "1.15.2 Pre-release 2"
     ],
-    "creation_date": "2020-01-14T21:47:35.000+0200",
-    "resolution_date": "2020-01-16T14:03:16.000+0200",
-    "updated_date": "2020-01-16T14:03:16.000+0200",
+    "creation_date": "2020-01-14T19:47:35.000+0000",
+    "resolution_date": "2020-01-16T12:03:16.000+0000",
+    "updated_date": "2020-01-16T12:03:16.000+0000",
     "watches": 2,
     "votes": 5
   },
@@ -107,9 +107,9 @@
     "fix_versions": [
       "1.15.2 Pre-release 2"
     ],
-    "creation_date": "2020-01-14T19:02:52.000+0200",
-    "resolution_date": "2020-01-16T12:22:41.000+0200",
-    "updated_date": "2020-10-22T00:03:17.000+0300",
+    "creation_date": "2020-01-14T17:02:52.000+0000",
+    "resolution_date": "2020-01-16T10:22:41.000+0000",
+    "updated_date": "2020-10-21T21:03:17.000+0000",
     "watches": 2,
     "votes": 2
   }

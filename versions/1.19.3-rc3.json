@@ -12,9 +12,9 @@
     "fix_versions": [
       "1.19.3 Release Candidate 3"
     ],
-    "creation_date": "2022-12-04T03:07:27.000+0200",
-    "resolution_date": "2022-12-06T11:53:42.000+0200",
-    "updated_date": "2022-12-06T11:53:42.000+0200",
+    "creation_date": "2022-12-04T01:07:27.000+0000",
+    "resolution_date": "2022-12-06T09:53:42.000+0000",
+    "updated_date": "2022-12-06T09:53:42.000+0000",
     "watches": 2,
     "votes": 2
   },
@@ -33,9 +33,9 @@
     "fix_versions": [
       "1.19.3 Release Candidate 3"
     ],
-    "creation_date": "2022-12-03T02:25:49.000+0200",
-    "resolution_date": "2022-12-06T12:14:05.000+0200",
-    "updated_date": "2022-12-06T12:14:05.000+0200",
+    "creation_date": "2022-12-03T00:25:49.000+0000",
+    "resolution_date": "2022-12-06T10:14:05.000+0000",
+    "updated_date": "2022-12-06T10:14:05.000+0000",
     "watches": 1,
     "votes": 3
   },
@@ -52,9 +52,9 @@
     "fix_versions": [
       "1.19.3 Release Candidate 3"
     ],
-    "creation_date": "2016-10-14T03:51:50.000+0300",
-    "resolution_date": "2022-12-06T12:25:13.000+0200",
-    "updated_date": "2022-12-06T12:25:13.000+0200",
+    "creation_date": "2016-10-14T00:51:50.000+0000",
+    "resolution_date": "2022-12-06T10:25:13.000+0000",
+    "updated_date": "2022-12-06T10:25:13.000+0000",
     "watches": 18,
     "votes": 35
   }

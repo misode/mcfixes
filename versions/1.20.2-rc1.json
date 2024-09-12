@@ -14,9 +14,9 @@
     "fix_versions": [
       "1.20.2 Release Candidate 1"
     ],
-    "creation_date": "2023-09-14T00:19:41.000+0300",
-    "resolution_date": "2023-09-14T14:41:51.000+0300",
-    "updated_date": "2023-09-21T12:47:23.000+0300",
+    "creation_date": "2023-09-13T21:19:41.000+0000",
+    "resolution_date": "2023-09-14T11:41:51.000+0000",
+    "updated_date": "2023-09-21T09:47:23.000+0000",
     "watches": 4,
     "votes": 3
   },
@@ -33,9 +33,9 @@
     "fix_versions": [
       "1.20.2 Release Candidate 1"
     ],
-    "creation_date": "2023-09-05T19:21:28.000+0300",
-    "resolution_date": "2023-09-14T12:09:50.000+0300",
-    "updated_date": "2023-09-14T12:09:50.000+0300",
+    "creation_date": "2023-09-05T16:21:28.000+0000",
+    "resolution_date": "2023-09-14T09:09:50.000+0000",
+    "updated_date": "2023-09-14T09:09:50.000+0000",
     "watches": 5,
     "votes": 4
   }

@@ -12,9 +12,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-19T05:56:12.000+0200",
-    "resolution_date": "2021-11-19T10:06:03.000+0200",
-    "updated_date": "2021-11-20T07:55:06.000+0200",
+    "creation_date": "2021-11-19T03:56:12.000+0000",
+    "resolution_date": "2021-11-19T08:06:03.000+0000",
+    "updated_date": "2021-11-20T05:55:06.000+0000",
     "watches": 7,
     "votes": 16
   },
@@ -31,9 +31,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-18T06:56:20.000+0200",
-    "resolution_date": "2021-11-18T16:01:07.000+0200",
-    "updated_date": "2021-11-18T16:01:07.000+0200",
+    "creation_date": "2021-11-18T04:56:20.000+0000",
+    "resolution_date": "2021-11-18T14:01:07.000+0000",
+    "updated_date": "2021-11-18T14:01:07.000+0000",
     "watches": 6,
     "votes": 3
   },
@@ -50,9 +50,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-17T21:41:48.000+0200",
-    "resolution_date": "2021-11-19T12:58:01.000+0200",
-    "updated_date": "2021-11-20T02:53:37.000+0200",
+    "creation_date": "2021-11-17T19:41:48.000+0000",
+    "resolution_date": "2021-11-19T10:58:01.000+0000",
+    "updated_date": "2021-11-20T00:53:37.000+0000",
     "watches": 7,
     "votes": 9
   },
@@ -69,9 +69,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-17T19:48:12.000+0200",
-    "resolution_date": "2021-11-18T14:17:57.000+0200",
-    "updated_date": "2021-11-21T05:35:21.000+0200",
+    "creation_date": "2021-11-17T17:48:12.000+0000",
+    "resolution_date": "2021-11-18T12:17:57.000+0000",
+    "updated_date": "2021-11-21T03:35:21.000+0000",
     "watches": 5,
     "votes": 9
   },
@@ -88,9 +88,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-17T14:38:24.000+0200",
-    "resolution_date": "2021-11-18T16:31:57.000+0200",
-    "updated_date": "2021-11-18T16:31:57.000+0200",
+    "creation_date": "2021-11-17T12:38:24.000+0000",
+    "resolution_date": "2021-11-18T14:31:57.000+0000",
+    "updated_date": "2021-11-18T14:31:57.000+0000",
     "watches": 3,
     "votes": 2
   },
@@ -107,9 +107,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-17T08:26:40.000+0200",
-    "resolution_date": "2021-11-19T10:28:30.000+0200",
-    "updated_date": "2021-11-19T18:29:23.000+0200",
+    "creation_date": "2021-11-17T06:26:40.000+0000",
+    "resolution_date": "2021-11-19T08:28:30.000+0000",
+    "updated_date": "2021-11-19T16:29:23.000+0000",
     "watches": 11,
     "votes": 29
   },
@@ -127,9 +127,9 @@
       "1.18 Pre-release 3",
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-16T20:12:45.000+0200",
-    "resolution_date": "2021-11-19T17:24:01.000+0200",
-    "updated_date": "2022-04-27T17:27:19.000+0300",
+    "creation_date": "2021-11-16T18:12:45.000+0000",
+    "resolution_date": "2021-11-19T15:24:01.000+0000",
+    "updated_date": "2022-04-27T14:27:19.000+0000",
     "watches": 6,
     "votes": 9
   },
@@ -146,9 +146,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-15T12:06:39.000+0200",
-    "resolution_date": "2021-11-18T15:17:47.000+0200",
-    "updated_date": "2021-11-18T15:17:47.000+0200",
+    "creation_date": "2021-11-15T10:06:39.000+0000",
+    "resolution_date": "2021-11-18T13:17:47.000+0000",
+    "updated_date": "2021-11-18T13:17:47.000+0000",
     "watches": 3,
     "votes": 4
   },
@@ -165,9 +165,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-15T01:06:55.000+0200",
-    "resolution_date": "2021-11-19T17:34:18.000+0200",
-    "updated_date": "2021-11-19T17:34:18.000+0200",
+    "creation_date": "2021-11-14T23:06:55.000+0000",
+    "resolution_date": "2021-11-19T15:34:18.000+0000",
+    "updated_date": "2021-11-19T15:34:18.000+0000",
     "watches": 6,
     "votes": 7
   },
@@ -184,9 +184,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-14T18:49:27.000+0200",
-    "resolution_date": "2021-11-18T17:08:23.000+0200",
-    "updated_date": "2021-11-26T00:46:29.000+0200",
+    "creation_date": "2021-11-14T16:49:27.000+0000",
+    "resolution_date": "2021-11-18T15:08:23.000+0000",
+    "updated_date": "2021-11-25T22:46:29.000+0000",
     "watches": 2,
     "votes": 1
   },
@@ -203,9 +203,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-12T12:26:34.000+0200",
-    "resolution_date": "2021-11-18T15:17:47.000+0200",
-    "updated_date": "2021-11-21T22:00:11.000+0200",
+    "creation_date": "2021-11-12T10:26:34.000+0000",
+    "resolution_date": "2021-11-18T13:17:47.000+0000",
+    "updated_date": "2021-11-21T20:00:11.000+0000",
     "watches": 12,
     "votes": 17
   },
@@ -222,9 +222,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-11-12T05:15:28.000+0200",
-    "resolution_date": "2021-11-19T17:34:18.000+0200",
-    "updated_date": "2021-11-19T17:34:18.000+0200",
+    "creation_date": "2021-11-12T03:15:28.000+0000",
+    "resolution_date": "2021-11-19T15:34:18.000+0000",
+    "updated_date": "2021-11-19T15:34:18.000+0000",
     "watches": 7,
     "votes": 20
   },
@@ -242,9 +242,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-27T19:57:59.000+0300",
-    "resolution_date": "2021-11-18T18:47:03.000+0200",
-    "updated_date": "2021-11-22T12:26:15.000+0200",
+    "creation_date": "2021-10-27T16:57:59.000+0000",
+    "resolution_date": "2021-11-18T16:47:03.000+0000",
+    "updated_date": "2021-11-22T10:26:15.000+0000",
     "watches": 8,
     "votes": 10
   },
@@ -261,9 +261,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-21T07:35:46.000+0300",
-    "resolution_date": "2021-11-19T17:34:20.000+0200",
-    "updated_date": "2021-11-19T17:34:20.000+0200",
+    "creation_date": "2021-10-21T04:35:46.000+0000",
+    "resolution_date": "2021-11-19T15:34:20.000+0000",
+    "updated_date": "2021-11-19T15:34:20.000+0000",
     "watches": 8,
     "votes": 13
   },
@@ -281,9 +281,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-21T04:11:50.000+0300",
-    "resolution_date": "2021-11-22T11:37:27.000+0200",
-    "updated_date": "2024-02-25T04:24:26.000+0200",
+    "creation_date": "2021-10-21T01:11:50.000+0000",
+    "resolution_date": "2021-11-22T09:37:27.000+0000",
+    "updated_date": "2024-02-25T02:24:26.000+0000",
     "watches": 18,
     "votes": 30
   },
@@ -300,9 +300,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-18T01:59:32.000+0300",
-    "resolution_date": "2021-11-18T15:17:48.000+0200",
-    "updated_date": "2021-11-18T15:17:48.000+0200",
+    "creation_date": "2021-10-17T22:59:32.000+0000",
+    "resolution_date": "2021-11-18T13:17:48.000+0000",
+    "updated_date": "2021-11-18T13:17:48.000+0000",
     "watches": 7,
     "votes": 17
   },
@@ -319,9 +319,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-17T01:34:30.000+0300",
-    "resolution_date": "2021-11-26T09:21:27.000+0200",
-    "updated_date": "2021-11-26T09:21:28.000+0200",
+    "creation_date": "2021-10-16T22:34:30.000+0000",
+    "resolution_date": "2021-11-26T07:21:27.000+0000",
+    "updated_date": "2021-11-26T07:21:28.000+0000",
     "watches": 3,
     "votes": 1
   },
@@ -342,9 +342,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-16T23:01:55.000+0300",
-    "resolution_date": "2021-11-19T17:34:20.000+0200",
-    "updated_date": "2022-11-27T15:48:20.000+0200",
+    "creation_date": "2021-10-16T20:01:55.000+0000",
+    "resolution_date": "2021-11-19T15:34:20.000+0000",
+    "updated_date": "2022-11-27T13:48:20.000+0000",
     "watches": 8,
     "votes": 15
   },
@@ -361,9 +361,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-13T19:24:30.000+0300",
-    "resolution_date": "2021-11-18T15:17:50.000+0200",
-    "updated_date": "2023-03-14T23:11:24.000+0200",
+    "creation_date": "2021-10-13T16:24:30.000+0000",
+    "resolution_date": "2021-11-18T13:17:50.000+0000",
+    "updated_date": "2023-03-14T21:11:24.000+0000",
     "watches": 7,
     "votes": 7
   },
@@ -380,9 +380,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-08T05:14:44.000+0300",
-    "resolution_date": "2021-11-20T15:58:42.000+0200",
-    "updated_date": "2021-11-20T15:58:42.000+0200",
+    "creation_date": "2021-10-08T02:14:44.000+0000",
+    "resolution_date": "2021-11-20T13:58:42.000+0000",
+    "updated_date": "2021-11-20T13:58:42.000+0000",
     "watches": 4,
     "votes": 5
   },
@@ -399,9 +399,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-08T05:10:38.000+0300",
-    "resolution_date": "2021-11-18T15:17:50.000+0200",
-    "updated_date": "2021-11-22T09:49:10.000+0200",
+    "creation_date": "2021-10-08T02:10:38.000+0000",
+    "resolution_date": "2021-11-18T13:17:50.000+0000",
+    "updated_date": "2021-11-22T07:49:10.000+0000",
     "watches": 7,
     "votes": 11
   },
@@ -418,9 +418,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-10-05T12:28:06.000+0300",
-    "resolution_date": "2021-11-18T15:17:50.000+0200",
-    "updated_date": "2023-03-14T23:11:24.000+0200",
+    "creation_date": "2021-10-05T09:28:06.000+0000",
+    "resolution_date": "2021-11-18T13:17:50.000+0000",
+    "updated_date": "2023-03-14T21:11:24.000+0000",
     "watches": 6,
     "votes": 8
   },
@@ -437,9 +437,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-09-23T23:13:44.000+0300",
-    "resolution_date": "2021-11-18T15:17:48.000+0200",
-    "updated_date": "2021-11-27T13:52:18.000+0200",
+    "creation_date": "2021-09-23T20:13:44.000+0000",
+    "resolution_date": "2021-11-18T13:17:48.000+0000",
+    "updated_date": "2021-11-27T11:52:18.000+0000",
     "watches": 19,
     "votes": 42
   },
@@ -458,9 +458,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-09-16T01:06:01.000+0300",
-    "resolution_date": "2021-11-18T10:39:59.000+0200",
-    "updated_date": "2021-11-18T10:39:59.000+0200",
+    "creation_date": "2021-09-15T22:06:01.000+0000",
+    "resolution_date": "2021-11-18T08:39:59.000+0000",
+    "updated_date": "2021-11-18T08:39:59.000+0000",
     "watches": 14,
     "votes": 16
   },
@@ -477,9 +477,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-08-30T08:40:36.000+0300",
-    "resolution_date": "2021-11-18T16:49:44.000+0200",
-    "updated_date": "2021-11-18T16:49:44.000+0200",
+    "creation_date": "2021-08-30T05:40:36.000+0000",
+    "resolution_date": "2021-11-18T14:49:44.000+0000",
+    "updated_date": "2021-11-18T14:49:44.000+0000",
     "watches": 10,
     "votes": 14
   },
@@ -502,9 +502,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-08-08T21:47:22.000+0300",
-    "resolution_date": "2021-11-18T16:12:46.000+0200",
-    "updated_date": "2021-11-18T16:12:46.000+0200",
+    "creation_date": "2021-08-08T18:47:22.000+0000",
+    "resolution_date": "2021-11-18T14:12:46.000+0000",
+    "updated_date": "2021-11-18T14:12:46.000+0000",
     "watches": 3,
     "votes": 10
   },
@@ -523,9 +523,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-08-06T12:40:50.000+0300",
-    "resolution_date": "2021-11-19T17:23:58.000+0200",
-    "updated_date": "2022-11-17T13:17:53.000+0200",
+    "creation_date": "2021-08-06T09:40:50.000+0000",
+    "resolution_date": "2021-11-19T15:23:58.000+0000",
+    "updated_date": "2022-11-17T11:17:53.000+0000",
     "watches": 2,
     "votes": 5
   },
@@ -543,9 +543,9 @@
       "1.18 Pre-release 3",
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-07-12T18:11:19.000+0300",
-    "resolution_date": "2021-11-18T19:40:37.000+0200",
-    "updated_date": "2021-11-18T19:40:37.000+0200",
+    "creation_date": "2021-07-12T15:11:19.000+0000",
+    "resolution_date": "2021-11-18T17:40:37.000+0000",
+    "updated_date": "2021-11-18T17:40:37.000+0000",
     "watches": 9,
     "votes": 8
   },
@@ -562,9 +562,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-07-06T11:18:56.000+0300",
-    "resolution_date": "2021-11-19T17:34:19.000+0200",
-    "updated_date": "2021-11-22T17:32:53.000+0200",
+    "creation_date": "2021-07-06T08:18:56.000+0000",
+    "resolution_date": "2021-11-19T15:34:19.000+0000",
+    "updated_date": "2021-11-22T15:32:53.000+0000",
     "watches": 3,
     "votes": 6
   },
@@ -581,9 +581,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-07-05T20:56:31.000+0300",
-    "resolution_date": "2021-11-22T18:54:15.000+0200",
-    "updated_date": "2021-11-22T18:54:15.000+0200",
+    "creation_date": "2021-07-05T17:56:31.000+0000",
+    "resolution_date": "2021-11-22T16:54:15.000+0000",
+    "updated_date": "2021-11-22T16:54:15.000+0000",
     "watches": 2,
     "votes": 5
   },
@@ -600,9 +600,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-06-23T03:22:45.000+0300",
-    "resolution_date": "2021-11-18T15:50:10.000+0200",
-    "updated_date": "2021-11-18T15:50:10.000+0200",
+    "creation_date": "2021-06-23T00:22:45.000+0000",
+    "resolution_date": "2021-11-18T13:50:10.000+0000",
+    "updated_date": "2021-11-18T13:50:10.000+0000",
     "watches": 5,
     "votes": 6
   },
@@ -619,9 +619,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-06-13T20:29:25.000+0300",
-    "resolution_date": "2021-11-18T15:18:07.000+0200",
-    "updated_date": "2021-11-18T19:48:55.000+0200",
+    "creation_date": "2021-06-13T17:29:25.000+0000",
+    "resolution_date": "2021-11-18T13:18:07.000+0000",
+    "updated_date": "2021-11-18T17:48:55.000+0000",
     "watches": 6,
     "votes": 5
   },
@@ -638,9 +638,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-06-03T11:01:04.000+0300",
-    "resolution_date": "2021-11-18T15:17:49.000+0200",
-    "updated_date": "2021-11-18T15:17:49.000+0200",
+    "creation_date": "2021-06-03T08:01:04.000+0000",
+    "resolution_date": "2021-11-18T13:17:49.000+0000",
+    "updated_date": "2021-11-18T13:17:49.000+0000",
     "watches": 7,
     "votes": 8
   },
@@ -661,9 +661,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-05-29T09:35:59.000+0300",
-    "resolution_date": "2021-11-18T16:12:47.000+0200",
-    "updated_date": "2021-11-18T16:12:47.000+0200",
+    "creation_date": "2021-05-29T06:35:59.000+0000",
+    "resolution_date": "2021-11-18T14:12:47.000+0000",
+    "updated_date": "2021-11-18T14:12:47.000+0000",
     "watches": 3,
     "votes": 9
   },
@@ -683,9 +683,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-05-14T21:22:22.000+0300",
-    "resolution_date": "2021-11-18T16:12:56.000+0200",
-    "updated_date": "2024-07-21T23:07:20.000+0300",
+    "creation_date": "2021-05-14T18:22:22.000+0000",
+    "resolution_date": "2021-11-18T14:12:56.000+0000",
+    "updated_date": "2024-07-21T20:07:20.000+0000",
     "watches": 3,
     "votes": 8
   },
@@ -704,9 +704,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-04-09T13:10:11.000+0300",
-    "resolution_date": "2021-11-18T16:12:57.000+0200",
-    "updated_date": "2021-11-18T16:12:57.000+0200",
+    "creation_date": "2021-04-09T10:10:11.000+0000",
+    "resolution_date": "2021-11-18T14:12:57.000+0000",
+    "updated_date": "2021-11-18T14:12:57.000+0000",
     "watches": 6,
     "votes": 11
   },
@@ -723,9 +723,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-04-04T07:34:20.000+0300",
-    "resolution_date": "2021-11-19T17:34:19.000+0200",
-    "updated_date": "2021-11-19T17:34:19.000+0200",
+    "creation_date": "2021-04-04T04:34:20.000+0000",
+    "resolution_date": "2021-11-19T15:34:19.000+0000",
+    "updated_date": "2021-11-19T15:34:19.000+0000",
     "watches": 5,
     "votes": 8
   },
@@ -746,9 +746,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-03-28T01:13:32.000+0200",
-    "resolution_date": "2021-11-18T16:12:43.000+0200",
-    "updated_date": "2021-11-20T16:03:14.000+0200",
+    "creation_date": "2021-03-27T23:13:32.000+0000",
+    "resolution_date": "2021-11-18T14:12:43.000+0000",
+    "updated_date": "2021-11-20T14:03:14.000+0000",
     "watches": 7,
     "votes": 6
   },
@@ -765,9 +765,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2021-03-12T00:33:06.000+0200",
-    "resolution_date": "2021-11-22T18:54:43.000+0200",
-    "updated_date": "2021-11-22T18:54:43.000+0200",
+    "creation_date": "2021-03-11T22:33:06.000+0000",
+    "resolution_date": "2021-11-22T16:54:43.000+0000",
+    "updated_date": "2021-11-22T16:54:43.000+0000",
     "watches": 10,
     "votes": 8
   },
@@ -784,9 +784,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-11-10T02:31:03.000+0200",
-    "resolution_date": "2021-11-18T16:12:48.000+0200",
-    "updated_date": "2021-11-18T16:12:48.000+0200",
+    "creation_date": "2020-11-10T00:31:03.000+0000",
+    "resolution_date": "2021-11-18T14:12:48.000+0000",
+    "updated_date": "2021-11-18T14:12:48.000+0000",
     "watches": 6,
     "votes": 9
   },
@@ -807,9 +807,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-10-27T08:27:16.000+0200",
-    "resolution_date": "2021-11-18T16:12:48.000+0200",
-    "updated_date": "2021-11-18T16:12:48.000+0200",
+    "creation_date": "2020-10-27T06:27:16.000+0000",
+    "resolution_date": "2021-11-18T14:12:48.000+0000",
+    "updated_date": "2021-11-18T14:12:48.000+0000",
     "watches": 4,
     "votes": 12
   },
@@ -826,9 +826,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-09-24T20:28:47.000+0300",
-    "resolution_date": "2021-11-18T16:12:42.000+0200",
-    "updated_date": "2021-11-18T16:12:42.000+0200",
+    "creation_date": "2020-09-24T17:28:47.000+0000",
+    "resolution_date": "2021-11-18T14:12:42.000+0000",
+    "updated_date": "2021-11-18T14:12:42.000+0000",
     "watches": 5,
     "votes": 7
   },
@@ -845,9 +845,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-09-24T20:21:54.000+0300",
-    "resolution_date": "2021-11-18T16:12:42.000+0200",
-    "updated_date": "2021-11-18T16:12:42.000+0200",
+    "creation_date": "2020-09-24T17:21:54.000+0000",
+    "resolution_date": "2021-11-18T14:12:42.000+0000",
+    "updated_date": "2021-11-18T14:12:42.000+0000",
     "watches": 3,
     "votes": 6
   },
@@ -866,9 +866,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-09-13T00:29:06.000+0300",
-    "resolution_date": "2021-11-18T16:12:49.000+0200",
-    "updated_date": "2021-11-18T16:12:49.000+0200",
+    "creation_date": "2020-09-12T21:29:06.000+0000",
+    "resolution_date": "2021-11-18T14:12:49.000+0000",
+    "updated_date": "2021-11-18T14:12:49.000+0000",
     "watches": 6,
     "votes": 10
   },
@@ -887,9 +887,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-09-11T20:30:18.000+0300",
-    "resolution_date": "2021-11-18T16:12:50.000+0200",
-    "updated_date": "2021-11-18T16:12:50.000+0200",
+    "creation_date": "2020-09-11T17:30:18.000+0000",
+    "resolution_date": "2021-11-18T14:12:50.000+0000",
+    "updated_date": "2021-11-18T14:12:50.000+0000",
     "watches": 7,
     "votes": 13
   },
@@ -909,9 +909,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-09-05T20:56:35.000+0300",
-    "resolution_date": "2021-11-18T16:12:58.000+0200",
-    "updated_date": "2024-08-15T19:25:21.000+0300",
+    "creation_date": "2020-09-05T17:56:35.000+0000",
+    "resolution_date": "2021-11-18T14:12:58.000+0000",
+    "updated_date": "2024-08-15T16:25:21.000+0000",
     "watches": 6,
     "votes": 6
   },
@@ -932,9 +932,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-08-14T20:12:34.000+0300",
-    "resolution_date": "2021-11-19T17:34:19.000+0200",
-    "updated_date": "2022-03-23T20:36:16.000+0200",
+    "creation_date": "2020-08-14T17:12:34.000+0000",
+    "resolution_date": "2021-11-19T15:34:19.000+0000",
+    "updated_date": "2022-03-23T18:36:16.000+0000",
     "watches": 6,
     "votes": 6
   },
@@ -954,9 +954,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-07-14T19:45:31.000+0300",
-    "resolution_date": "2021-11-18T16:12:51.000+0200",
-    "updated_date": "2022-02-21T16:41:09.000+0200",
+    "creation_date": "2020-07-14T16:45:31.000+0000",
+    "resolution_date": "2021-11-18T14:12:51.000+0000",
+    "updated_date": "2022-02-21T14:41:09.000+0000",
     "watches": 5,
     "votes": 7
   },
@@ -975,9 +975,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-07-13T17:45:14.000+0300",
-    "resolution_date": "2021-11-18T16:12:45.000+0200",
-    "updated_date": "2021-11-18T17:40:11.000+0200",
+    "creation_date": "2020-07-13T14:45:14.000+0000",
+    "resolution_date": "2021-11-18T14:12:45.000+0000",
+    "updated_date": "2021-11-18T15:40:11.000+0000",
     "watches": 6,
     "votes": 8
   },
@@ -995,9 +995,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-04-24T11:52:24.000+0300",
-    "resolution_date": "2021-11-18T15:50:10.000+0200",
-    "updated_date": "2022-03-15T15:19:30.000+0200",
+    "creation_date": "2020-04-24T08:52:24.000+0000",
+    "resolution_date": "2021-11-18T13:50:10.000+0000",
+    "updated_date": "2022-03-15T13:19:30.000+0000",
     "watches": 14,
     "votes": 27
   },
@@ -1015,9 +1015,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-04-07T08:15:20.000+0300",
-    "resolution_date": "2021-11-18T15:50:11.000+0200",
-    "updated_date": "2022-03-16T10:39:36.000+0200",
+    "creation_date": "2020-04-07T05:15:20.000+0000",
+    "resolution_date": "2021-11-18T13:50:11.000+0000",
+    "updated_date": "2022-03-16T08:39:36.000+0000",
     "watches": 22,
     "votes": 43
   },
@@ -1038,9 +1038,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-03-31T06:03:53.000+0300",
-    "resolution_date": "2021-11-18T16:12:52.000+0200",
-    "updated_date": "2021-11-18T16:12:52.000+0200",
+    "creation_date": "2020-03-31T03:03:53.000+0000",
+    "resolution_date": "2021-11-18T14:12:52.000+0000",
+    "updated_date": "2021-11-18T14:12:52.000+0000",
     "watches": 5,
     "votes": 14
   },
@@ -1057,9 +1057,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-03-31T05:49:03.000+0300",
-    "resolution_date": "2022-02-24T12:53:18.000+0200",
-    "updated_date": "2022-06-23T12:58:05.000+0300",
+    "creation_date": "2020-03-31T02:49:03.000+0000",
+    "resolution_date": "2022-02-24T10:53:18.000+0000",
+    "updated_date": "2022-06-23T09:58:05.000+0000",
     "watches": 5,
     "votes": 8
   },
@@ -1081,9 +1081,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-03-31T04:56:53.000+0300",
-    "resolution_date": "2021-11-18T16:12:53.000+0200",
-    "updated_date": "2021-11-18T16:12:53.000+0200",
+    "creation_date": "2020-03-31T01:56:53.000+0000",
+    "resolution_date": "2021-11-18T14:12:53.000+0000",
+    "updated_date": "2021-11-18T14:12:53.000+0000",
     "watches": 4,
     "votes": 8
   },
@@ -1101,9 +1101,9 @@
       "1.18 Pre-release 5",
       "23w14a"
     ],
-    "creation_date": "2020-03-26T16:16:44.000+0200",
-    "resolution_date": "2023-04-04T14:20:11.000+0300",
-    "updated_date": "2024-08-15T19:25:27.000+0300",
+    "creation_date": "2020-03-26T14:16:44.000+0000",
+    "resolution_date": "2023-04-04T11:20:11.000+0000",
+    "updated_date": "2024-08-15T16:25:27.000+0000",
     "watches": 10,
     "votes": 14
   },
@@ -1120,9 +1120,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2020-01-29T21:42:53.000+0200",
-    "resolution_date": "2021-11-18T16:12:54.000+0200",
-    "updated_date": "2021-11-18T16:12:54.000+0200",
+    "creation_date": "2020-01-29T19:42:53.000+0000",
+    "resolution_date": "2021-11-18T14:12:54.000+0000",
+    "updated_date": "2021-11-18T14:12:54.000+0000",
     "watches": 6,
     "votes": 5
   },
@@ -1142,9 +1142,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2019-10-05T18:13:14.000+0300",
-    "resolution_date": "2021-11-18T16:12:55.000+0200",
-    "updated_date": "2022-02-21T16:10:33.000+0200",
+    "creation_date": "2019-10-05T15:13:14.000+0000",
+    "resolution_date": "2021-11-18T14:12:55.000+0000",
+    "updated_date": "2022-02-21T14:10:33.000+0000",
     "watches": 5,
     "votes": 8
   },
@@ -1164,9 +1164,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2019-09-28T11:14:23.000+0300",
-    "resolution_date": "2021-11-18T16:12:56.000+0200",
-    "updated_date": "2021-11-18T17:44:22.000+0200",
+    "creation_date": "2019-09-28T08:14:23.000+0000",
+    "resolution_date": "2021-11-18T14:12:56.000+0000",
+    "updated_date": "2021-11-18T15:44:22.000+0000",
     "watches": 10,
     "votes": 9
   },
@@ -1186,9 +1186,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2019-05-02T14:17:00.000+0300",
-    "resolution_date": "2021-11-18T16:12:44.000+0200",
-    "updated_date": "2021-11-18T16:12:44.000+0200",
+    "creation_date": "2019-05-02T11:17:00.000+0000",
+    "resolution_date": "2021-11-18T14:12:44.000+0000",
+    "updated_date": "2021-11-18T14:12:44.000+0000",
     "watches": 9,
     "votes": 17
   },
@@ -1208,9 +1208,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2019-04-16T16:12:30.000+0300",
-    "resolution_date": "2021-11-18T16:12:41.000+0200",
-    "updated_date": "2021-11-22T20:27:29.000+0200",
+    "creation_date": "2019-04-16T13:12:30.000+0000",
+    "resolution_date": "2021-11-18T14:12:41.000+0000",
+    "updated_date": "2021-11-22T18:27:29.000+0000",
     "watches": 9,
     "votes": 16
   },
@@ -1229,9 +1229,9 @@
     "fix_versions": [
       "1.18 Pre-release 5"
     ],
-    "creation_date": "2018-10-27T01:00:03.000+0300",
-    "resolution_date": "2021-11-18T16:12:45.000+0200",
-    "updated_date": "2021-11-18T17:02:28.000+0200",
+    "creation_date": "2018-10-26T22:00:03.000+0000",
+    "resolution_date": "2021-11-18T14:12:45.000+0000",
+    "updated_date": "2021-11-18T15:02:28.000+0000",
     "watches": 7,
     "votes": 12
   }

@@ -12,9 +12,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2022-02-09T22:43:11.000+0200",
-    "resolution_date": "2022-02-18T16:53:13.000+0200",
-    "updated_date": "2022-02-18T16:53:13.000+0200",
+    "creation_date": "2022-02-09T20:43:11.000+0000",
+    "resolution_date": "2022-02-18T14:53:13.000+0000",
+    "updated_date": "2022-02-18T14:53:13.000+0000",
     "watches": 4,
     "votes": 2
   },
@@ -31,9 +31,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2021-12-20T19:52:52.000+0200",
-    "resolution_date": "2022-02-19T21:13:33.000+0200",
-    "updated_date": "2022-02-19T21:13:33.000+0200",
+    "creation_date": "2021-12-20T17:52:52.000+0000",
+    "resolution_date": "2022-02-19T19:13:33.000+0000",
+    "updated_date": "2022-02-19T19:13:33.000+0000",
     "watches": 3,
     "votes": 4
   },
@@ -50,9 +50,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2021-12-03T14:53:33.000+0200",
-    "resolution_date": "2022-02-18T13:23:22.000+0200",
-    "updated_date": "2024-07-29T12:43:19.000+0300",
+    "creation_date": "2021-12-03T12:53:33.000+0000",
+    "resolution_date": "2022-02-18T11:23:22.000+0000",
+    "updated_date": "2024-07-29T09:43:19.000+0000",
     "watches": 3,
     "votes": 2
   },
@@ -75,9 +75,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2021-11-12T14:47:44.000+0200",
-    "resolution_date": "2022-02-18T15:50:06.000+0200",
-    "updated_date": "2022-02-19T07:46:48.000+0200",
+    "creation_date": "2021-11-12T12:47:44.000+0000",
+    "resolution_date": "2022-02-18T13:50:06.000+0000",
+    "updated_date": "2022-02-19T05:46:48.000+0000",
     "watches": 47,
     "votes": 75
   },
@@ -95,9 +95,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2021-01-05T18:25:50.000+0200",
-    "resolution_date": "2022-02-18T15:49:58.000+0200",
-    "updated_date": "2022-08-31T10:35:51.000+0300",
+    "creation_date": "2021-01-05T16:25:50.000+0000",
+    "resolution_date": "2022-02-18T13:49:58.000+0000",
+    "updated_date": "2022-08-31T07:35:51.000+0000",
     "watches": 3,
     "votes": 5
   },
@@ -115,9 +115,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2020-08-05T20:24:31.000+0300",
-    "resolution_date": "2022-02-21T09:48:55.000+0200",
-    "updated_date": "2022-02-21T09:48:55.000+0200",
+    "creation_date": "2020-08-05T17:24:31.000+0000",
+    "resolution_date": "2022-02-21T07:48:55.000+0000",
+    "updated_date": "2022-02-21T07:48:55.000+0000",
     "watches": 9,
     "votes": 14
   },
@@ -134,9 +134,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2020-07-21T20:25:23.000+0300",
-    "resolution_date": "2022-05-27T08:42:24.000+0300",
-    "updated_date": "2022-05-27T08:42:32.000+0300",
+    "creation_date": "2020-07-21T17:25:23.000+0000",
+    "resolution_date": "2022-05-27T05:42:24.000+0000",
+    "updated_date": "2022-05-27T05:42:32.000+0000",
     "watches": 3,
     "votes": 7
   },
@@ -153,9 +153,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2020-07-05T18:31:19.000+0300",
-    "resolution_date": "2023-11-01T03:50:08.000+0200",
-    "updated_date": "2023-11-01T03:50:08.000+0200",
+    "creation_date": "2020-07-05T15:31:19.000+0000",
+    "resolution_date": "2023-11-01T01:50:08.000+0000",
+    "updated_date": "2023-11-01T01:50:08.000+0000",
     "watches": 3,
     "votes": 7
   },
@@ -172,9 +172,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2020-06-07T01:10:38.000+0300",
-    "resolution_date": "2022-03-22T20:37:39.000+0200",
-    "updated_date": "2022-05-27T08:42:32.000+0300",
+    "creation_date": "2020-06-06T22:10:38.000+0000",
+    "resolution_date": "2022-03-22T18:37:39.000+0000",
+    "updated_date": "2022-05-27T05:42:32.000+0000",
     "watches": 4,
     "votes": 9
   },
@@ -191,9 +191,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2020-06-05T09:25:27.000+0300",
-    "resolution_date": "2022-04-16T15:35:46.000+0300",
-    "updated_date": "2022-04-16T15:35:46.000+0300",
+    "creation_date": "2020-06-05T06:25:27.000+0000",
+    "resolution_date": "2022-04-16T12:35:46.000+0000",
+    "updated_date": "2022-04-16T12:35:46.000+0000",
     "watches": 1,
     "votes": 1
   },
@@ -211,9 +211,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2020-04-18T14:05:08.000+0300",
-    "resolution_date": "2022-02-18T15:49:50.000+0200",
-    "updated_date": "2022-08-04T18:12:32.000+0300",
+    "creation_date": "2020-04-18T11:05:08.000+0000",
+    "resolution_date": "2022-02-18T13:49:50.000+0000",
+    "updated_date": "2022-08-04T15:12:32.000+0000",
     "watches": 5,
     "votes": 7
   },
@@ -230,9 +230,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2019-11-21T20:34:23.000+0200",
-    "resolution_date": "2022-02-18T23:13:11.000+0200",
-    "updated_date": "2022-02-18T23:13:25.000+0200",
+    "creation_date": "2019-11-21T18:34:23.000+0000",
+    "resolution_date": "2022-02-18T21:13:11.000+0000",
+    "updated_date": "2022-02-18T21:13:25.000+0000",
     "watches": 5,
     "votes": 4
   },
@@ -249,9 +249,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2019-07-09T01:12:01.000+0300",
-    "resolution_date": "2022-02-18T23:14:23.000+0200",
-    "updated_date": "2022-02-18T23:14:23.000+0200",
+    "creation_date": "2019-07-08T22:12:01.000+0000",
+    "resolution_date": "2022-02-18T21:14:23.000+0000",
+    "updated_date": "2022-02-18T21:14:23.000+0000",
     "watches": 5,
     "votes": 2
   },
@@ -268,9 +268,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2019-03-28T02:00:32.000+0200",
-    "resolution_date": "2022-02-18T15:30:33.000+0200",
-    "updated_date": "2022-03-20T14:56:01.000+0200",
+    "creation_date": "2019-03-28T00:00:32.000+0000",
+    "resolution_date": "2022-02-18T13:30:33.000+0000",
+    "updated_date": "2022-03-20T12:56:01.000+0000",
     "watches": 9,
     "votes": 10
   },
@@ -288,9 +288,9 @@
     "fix_versions": [
       "1.18.2 Pre-release 1"
     ],
-    "creation_date": "2012-11-20T10:14:10.000+0200",
-    "resolution_date": "2022-02-18T15:40:23.000+0200",
-    "updated_date": "2022-07-18T03:11:07.000+0300",
+    "creation_date": "2012-11-20T08:14:10.000+0000",
+    "resolution_date": "2022-02-18T13:40:23.000+0000",
+    "updated_date": "2022-07-18T00:11:07.000+0000",
     "watches": 22,
     "votes": 38
   }

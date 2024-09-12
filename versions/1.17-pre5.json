@@ -12,9 +12,9 @@
     "fix_versions": [
       "1.17 Pre-release 5"
     ],
-    "creation_date": "2021-06-03T04:17:31.000+0300",
-    "resolution_date": "2021-06-03T19:01:45.000+0300",
-    "updated_date": "2021-06-03T19:01:45.000+0300",
+    "creation_date": "2021-06-03T01:17:31.000+0000",
+    "resolution_date": "2021-06-03T16:01:45.000+0000",
+    "updated_date": "2021-06-03T16:01:45.000+0000",
     "watches": 4,
     "votes": 2
   },
@@ -31,9 +31,9 @@
     "fix_versions": [
       "1.17 Pre-release 5"
     ],
-    "creation_date": "2021-06-03T00:17:28.000+0300",
-    "resolution_date": "2021-06-03T17:17:35.000+0300",
-    "updated_date": "2021-06-03T17:17:35.000+0300",
+    "creation_date": "2021-06-02T21:17:28.000+0000",
+    "resolution_date": "2021-06-03T14:17:35.000+0000",
+    "updated_date": "2021-06-03T14:17:35.000+0000",
     "watches": 6,
     "votes": 2
   },
@@ -50,9 +50,9 @@
     "fix_versions": [
       "1.17 Pre-release 5"
     ],
-    "creation_date": "2021-06-03T00:12:06.000+0300",
-    "resolution_date": "2021-06-03T18:21:19.000+0300",
-    "updated_date": "2021-06-03T18:21:19.000+0300",
+    "creation_date": "2021-06-02T21:12:06.000+0000",
+    "resolution_date": "2021-06-03T15:21:19.000+0000",
+    "updated_date": "2021-06-03T15:21:19.000+0000",
     "watches": 3,
     "votes": 3
   },
@@ -69,9 +69,9 @@
     "fix_versions": [
       "1.17 Pre-release 5"
     ],
-    "creation_date": "2021-06-01T20:39:16.000+0300",
-    "resolution_date": "2021-06-03T14:09:12.000+0300",
-    "updated_date": "2021-10-20T14:56:48.000+0300",
+    "creation_date": "2021-06-01T17:39:16.000+0000",
+    "resolution_date": "2021-06-03T11:09:12.000+0000",
+    "updated_date": "2021-10-20T11:56:48.000+0000",
     "watches": 14,
     "votes": 14
   },
@@ -89,9 +89,9 @@
     "fix_versions": [
       "1.17 Pre-release 5"
     ],
-    "creation_date": "2021-05-17T11:44:12.000+0300",
-    "resolution_date": "2021-06-03T19:20:55.000+0300",
-    "updated_date": "2021-07-21T00:38:44.000+0300",
+    "creation_date": "2021-05-17T08:44:12.000+0000",
+    "resolution_date": "2021-06-03T16:20:55.000+0000",
+    "updated_date": "2021-07-20T21:38:44.000+0000",
     "watches": 4,
     "votes": 3
   }
