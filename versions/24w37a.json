@@ -1002,6 +1002,28 @@
     "votes": 7
   },
   {
+    "id": "MC-275857",
+    "summary": "Minecarts become invisible if a lot of them are in the same area",
+    "labels": [
+      "experimental_minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-22T11:01:46.000+0300",
+    "resolution_date": "2024-09-12T11:24:55.000+0300",
+    "updated_date": "2024-09-12T11:24:55.000+0300",
+    "watches": 4,
+    "votes": 5
+  },
+  {
     "id": "MC-275833",
     "summary": "Hand animation plays higher than before",
     "labels": [],
