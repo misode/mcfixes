@@ -2285,6 +2285,27 @@
     "votes": 1
   },
   {
+    "id": "MC-267889",
+    "summary": "The \"blocked_slot\" bundle texture has a miscolored pixel",
+    "labels": [
+      "bundle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2024-01-14T12:01:09.000+0000",
+    "resolution_date": "2024-09-19T15:37:55.000+0000",
+    "updated_date": "2024-09-19T15:37:55.000+0000",
+    "watches": 5,
+    "votes": 6
+  },
+  {
     "id": "MC-267838",
     "summary": "Projectile yaw rotations have incorrect interpolation, causing flickering",
     "labels": [],
