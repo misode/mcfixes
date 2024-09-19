@@ -1186,6 +1186,30 @@
     "votes": 0
   },
   {
+    "id": "MC-275451",
+    "summary": "Bundles do not use data for textures when the item in the bundle is rendered in the inventory",
+    "labels": [
+      "inventory",
+      "item",
+      "rendering",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-08-16T20:01:31.000+0000",
+    "resolution_date": "2024-09-19T18:30:28.000+0000",
+    "updated_date": "2024-09-19T18:30:29.000+0000",
+    "watches": 4,
+    "votes": 3
+  },
+  {
     "id": "MC-275406",
     "summary": "Grammatical error in \"options.rotateWithMinecart.tooltip\"",
     "labels": [],
