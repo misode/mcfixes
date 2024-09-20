@@ -293,6 +293,25 @@
     "votes": 2
   },
   {
+    "id": "MC-225417",
+    "summary": "Squids and glow squids can break free from leads when attacked",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w38a"
+    ],
+    "creation_date": "2021-05-13T01:08:48.000+0000",
+    "resolution_date": "2024-09-20T10:46:05.000+0000",
+    "updated_date": "2024-09-20T10:46:05.000+0000",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-225060",
     "summary": "Burning entity sound repeats every tick",
     "labels": [],
