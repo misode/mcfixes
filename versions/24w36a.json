@@ -607,6 +607,26 @@
     "votes": 2
   },
   {
+    "id": "MC-273300",
+    "summary": "Horse armor and wolf armor swap from off-hand to main hand upon pressing the Use Item/Place Block key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-06-13T16:01:23.000+0000",
+    "resolution_date": "2024-09-27T11:02:51.000+0000",
+    "updated_date": "2024-09-27T11:02:51.000+0000",
+    "watches": 6,
+    "votes": 12
+  },
+  {
     "id": "MC-271826",
     "summary": "Armor default attribute modifier component can't be removed",
     "labels": [],
