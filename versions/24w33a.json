@@ -3066,6 +3066,30 @@
     "votes": 15
   },
   {
+    "id": "MC-245603",
+    "summary": "Powder snow can not put out the fire on arrows",
+    "labels": [
+      "fire",
+      "powder_snow",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-12-16T04:14:11.000+0000",
+    "resolution_date": "2024-09-30T18:05:44.000+0000",
+    "updated_date": "2024-09-30T18:05:44.000+0000",
+    "watches": 2,
+    "votes": 7
+  },
+  {
     "id": "MC-245510",
     "summary": "Piglin Brute's generic.follow_range attribute functions oddly",
     "labels": [],
