@@ -1,0 +1,496 @@
+[
+  {
+    "id": "MC-276980",
+    "summary": "Projectiles on the wall in the water will continue to produce bubble trails",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-26T14:17:24.000+0000",
+    "resolution_date": "2024-10-01T12:16:01.000+0000",
+    "updated_date": "2024-10-01T12:16:01.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-276956",
+    "summary": "Cannot access registries in container block entity \"lock\" field",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-25T16:32:04.000+0000",
+    "resolution_date": "2024-10-01T11:18:29.000+0000",
+    "updated_date": "2024-10-01T11:18:29.000+0000",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-276949",
+    "summary": "Old boat entity type translation keys are not deprecated",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-25T14:33:39.000+0000",
+    "resolution_date": "2024-09-26T07:05:25.000+0000",
+    "updated_date": "2024-09-26T07:05:25.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-276948",
+    "summary": "Split boat entity types have capitalized 'With'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-25T14:26:26.000+0000",
+    "resolution_date": "2024-09-27T12:44:20.000+0000",
+    "updated_date": "2024-09-27T12:44:20.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276947",
+    "summary": "Command server output in singleplayer is printed into chat",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-25T14:23:29.000+0000",
+    "resolution_date": "2024-09-27T12:44:21.000+0000",
+    "updated_date": "2024-09-27T12:44:21.000+0000",
+    "watches": 4,
+    "votes": 14
+  },
+  {
+    "id": "MC-276876",
+    "summary": "Lava cauldrons deal less damage to boats and minecarts than before",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-20T15:30:08.000+0000",
+    "resolution_date": "2024-09-30T14:25:18.000+0000",
+    "updated_date": "2024-09-30T14:25:18.000+0000",
+    "watches": 6,
+    "votes": 24
+  },
+  {
+    "id": "MC-276806",
+    "summary": "The text of name tags behind blocks or entities is rendered completely invisible or barely visible when the \"Text Background Opacity\" accessibility option is set to high values",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-18T14:29:09.000+0000",
+    "resolution_date": "2024-09-27T12:15:33.000+0000",
+    "updated_date": "2024-09-27T12:17:30.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-276669",
+    "summary": "Pausing the game spams \"Trying to save removed ender pearl, skipping\" to log if ender pearls have landed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-13T12:36:13.000+0000",
+    "resolution_date": "2024-10-01T13:07:57.000+0000",
+    "updated_date": "2024-10-01T13:07:57.000+0000",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-276651",
+    "summary": "damage_item does not repair items when the value is negative",
+    "labels": [
+      "damage-item",
+      "data-pack",
+      "enchantment"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-12T23:36:13.000+0000",
+    "resolution_date": "2024-10-01T11:18:29.000+0000",
+    "updated_date": "2024-10-01T11:22:24.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-276640",
+    "summary": "Riding an entity constantly teleported with relative coordinates produces jittery camera movement",
+    "labels": [
+      "experimental_minecart_fixed"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Camera",
+      "Commands",
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-12T16:34:18.000+0000",
+    "resolution_date": "2024-10-02T12:15:02.000+0000",
+    "updated_date": "2024-10-02T12:15:02.000+0000",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-276596",
+    "summary": "Damageable horse armor with \"damage_on_hurt\" enabled doesn't take damage when the horse wearing it is hurt",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-11T16:07:39.000+0000",
+    "resolution_date": "2024-10-01T08:38:50.000+0000",
+    "updated_date": "2024-10-01T08:38:50.000+0000",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-276440",
+    "summary": "Items within bundle tooltips can be unselected by scrolling despite only one item being present",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-06T14:28:37.000+0000",
+    "resolution_date": "2024-09-26T13:33:36.000+0000",
+    "updated_date": "2024-09-26T13:33:36.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-276391",
+    "summary": "The item durability and bundle fullness bars render incorrectly when held over recipe book elements",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-05T14:25:36.000+0000",
+    "resolution_date": "2024-09-26T13:33:37.000+0000",
+    "updated_date": "2024-09-26T13:33:37.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276387",
+    "summary": "Bundles can remain in the open state when using hotkeys to move them into different slots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-05T13:52:53.000+0000",
+    "resolution_date": "2024-09-26T13:33:36.000+0000",
+    "updated_date": "2024-09-26T13:33:36.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-276330",
+    "summary": "Bundles no longer play a sound when being emptied",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-04T17:50:15.000+0000",
+    "resolution_date": "2024-09-26T13:33:35.000+0000",
+    "updated_date": "2024-09-26T13:33:35.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-276005",
+    "summary": "The text of sneaking players' name tags is rendered completely invisible or barely visible when the \"Text Background Opacity\" accessibility option is set to high values",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-08-25T11:26:04.000+0000",
+    "resolution_date": "2024-09-27T12:15:34.000+0000",
+    "updated_date": "2024-09-27T12:15:34.000+0000",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-275790",
+    "summary": "Non-existent entries in certain tags that are not required causes validation error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-08-21T17:35:37.000+0000",
+    "resolution_date": "2024-09-27T12:44:21.000+0000",
+    "updated_date": "2024-09-27T12:44:21.000+0000",
+    "watches": 14,
+    "votes": 36
+  },
+  {
+    "id": "MC-275706",
+    "summary": "Vanilla clients can't display items with components in recipe book anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-08-20T08:42:06.000+0000",
+    "resolution_date": "2024-10-01T09:41:18.000+0000",
+    "updated_date": "2024-10-01T09:41:18.000+0000",
+    "watches": 13,
+    "votes": 22
+  },
+  {
+    "id": "MC-275505",
+    "summary": "The /tp command forces a mounted entity to dismount",
+    "labels": [
+      "Command"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-08-17T12:05:30.000+0000",
+    "resolution_date": "2024-10-01T11:18:30.000+0000",
+    "updated_date": "2024-10-01T11:18:30.000+0000",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-273848",
+    "summary": "Players can spawn underwater again in 1.21",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w33a",
+      "24w40a"
+    ],
+    "creation_date": "2024-06-25T09:11:11.000+0000",
+    "resolution_date": "2024-09-30T13:16:18.000+0000",
+    "updated_date": "2024-09-30T13:16:18.000+0000",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-272946",
+    "summary": "The block outline is nearly invisible for some blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-06-04T14:35:06.000+0000",
+    "resolution_date": "2024-09-26T11:37:06.000+0000",
+    "updated_date": "2024-09-26T11:37:06.000+0000",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-185144",
+    "summary": "Item durability bar and all items render incorrectly in the villager trade UI",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2020-05-22T11:17:46.000+0000",
+    "resolution_date": "2024-09-26T13:33:37.000+0000",
+    "updated_date": "2024-09-26T14:13:46.000+0000",
+    "watches": 5,
+    "votes": 16
+  },
+  {
+    "id": "MC-108323",
+    "summary": "Underlines in chat and /title command intersect each other, causing an ugly effect when fading",
+    "labels": [
+      "/title",
+      "command",
+      "fade",
+      "fadeout",
+      "smooth",
+      "underline",
+      "underlined-text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2016-10-06T05:28:05.000+0000",
+    "resolution_date": "2024-09-27T12:15:33.000+0000",
+    "updated_date": "2024-09-27T12:15:33.000+0000",
+    "watches": 10,
+    "votes": 14
+  },
+  {
+    "id": "MC-64265",
+    "summary": "Teleporting passengers does not dismount them",
+    "labels": [
+      "NBT",
+      "rider",
+      "riding",
+      "teleport",
+      "void"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2014-07-29T15:37:03.000+0000",
+    "resolution_date": "2024-10-01T11:18:30.000+0000",
+    "updated_date": "2024-10-02T09:45:30.000+0000",
+    "watches": 8,
+    "votes": 10
+  }
+]
