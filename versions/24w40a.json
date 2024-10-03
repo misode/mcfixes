@@ -116,6 +116,49 @@
     "votes": 24
   },
   {
+    "id": "MC-276852",
+    "summary": "Shulker boxes can be colored in the same color they are made of",
+    "labels": [
+      "crafting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-19T18:44:13.000+0000",
+    "resolution_date": "2024-10-03T12:17:43.000+0000",
+    "updated_date": "2024-10-03T12:17:43.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276850",
+    "summary": "Bundles can be colored in the same color they are made of",
+    "labels": [
+      "Bundles",
+      "crafting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-09-19T18:32:48.000+0000",
+    "resolution_date": "2024-10-03T12:17:55.000+0000",
+    "updated_date": "2024-10-03T12:17:55.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-276806",
     "summary": "The text of name tags behind blocks or entities is rendered completely invisible or barely visible when the \"Text Background Opacity\" accessibility option is set to high values",
     "labels": [],
