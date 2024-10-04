@@ -146,6 +146,28 @@
     "votes": 5
   },
   {
+    "id": "MC-275919",
+    "summary": "issues with hit detection/registration in PvP since server switch to 1.21",
+    "labels": [
+      "serverissue",
+      "servers"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-08-23T12:23:27.000+0000",
+    "resolution_date": "2024-10-04T11:15:39.000+0000",
+    "updated_date": "2024-10-04T11:15:39.000+0000",
+    "watches": 3,
+    "votes": 1
+  },
+  {
     "id": "MC-275770",
     "summary": "Guardian beam attacks stay yellow and do not shift colors anymore",
     "labels": [],
