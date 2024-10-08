@@ -1,0 +1,569 @@
+[
+  {
+    "id": "MC-277371",
+    "summary": "Pale moss carpet is often immediately destroyed when placed using the \"/fill\" command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-07T14:55:36.000+0000",
+    "resolution_date": "2024-10-08T15:03:16.000+0000",
+    "updated_date": "2024-10-08T15:03:16.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-277335",
+    "summary": "Pale moss carpet can be swapped without destroying the upper vine",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-06T07:58:07.000+0000",
+    "resolution_date": "2024-10-08T15:04:25.000+0000",
+    "updated_date": "2024-10-08T15:04:25.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-277302",
+    "summary": "The enchantment glint isn't visible on shields that are enchanted in third person when using Fabulous graphics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-05T12:18:57.000+0000",
+    "resolution_date": "2024-10-07T14:54:49.000+0000",
+    "updated_date": "2024-10-07T14:54:49.000+0000",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-277301",
+    "summary": "The enchantment glint isn't visible on thrown tridents that are enchanted or held in the hand in third person when using Fabulous graphics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-05T12:12:45.000+0000",
+    "resolution_date": "2024-10-07T14:54:49.000+0000",
+    "updated_date": "2024-10-07T14:54:49.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277215",
+    "summary": "The game crashes when attempting to accept or reject already accepted or rejected realm invitations",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-03T11:36:29.000+0000",
+    "resolution_date": "2024-10-07T11:37:58.000+0000",
+    "updated_date": "2024-10-07T11:37:58.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277176",
+    "summary": "Team affixes have dark lines between them and the username in player name tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-03T00:54:12.000+0000",
+    "resolution_date": "2024-10-08T07:47:30.000+0000",
+    "updated_date": "2024-10-08T07:47:30.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277163",
+    "summary": "Map color for pale oak saplings is incorrect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T23:19:11.000+0000",
+    "resolution_date": "2024-10-07T11:59:15.000+0000",
+    "updated_date": "2024-10-07T11:59:15.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277160",
+    "summary": "Pale hanging moss is often immediately destroyed when placed using the \"/fill\" command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T22:56:42.000+0000",
+    "resolution_date": "2024-10-08T08:46:25.000+0000",
+    "updated_date": "2024-10-08T08:46:25.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-277148",
+    "summary": "Pack filters removing recipes that the player has unlocked causes data pack loading to fail",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T21:34:40.000+0000",
+    "resolution_date": "2024-10-03T08:34:03.000+0000",
+    "updated_date": "2024-10-04T11:13:21.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277144",
+    "summary": "Furnaces, blast furnaces, and smokers delete all of their contents inside them once reloaded after smelting items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Save Data"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T20:47:52.000+0000",
+    "resolution_date": "2024-10-03T08:34:02.000+0000",
+    "updated_date": "2024-10-07T10:22:08.000+0000",
+    "watches": 9,
+    "votes": 3
+  },
+  {
+    "id": "MC-277143",
+    "summary": "Horse armor has damage-related components",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T20:47:14.000+0000",
+    "resolution_date": "2024-10-07T14:54:48.000+0000",
+    "updated_date": "2024-10-07T14:54:48.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-277141",
+    "summary": "/rotate command is not restricted to permission level 2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T20:41:37.000+0000",
+    "resolution_date": "2024-10-04T08:25:19.000+0000",
+    "updated_date": "2024-10-04T11:13:15.000+0000",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-277131",
+    "summary": "Pale garden missing from #minecraft:is_overworld biome tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T19:40:53.000+0000",
+    "resolution_date": "2024-10-07T11:59:13.000+0000",
+    "updated_date": "2024-10-07T11:59:13.000+0000",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-277118",
+    "summary": "Creakings can spawn with doMobSpawning set to false",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob spawning"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T18:26:05.000+0000",
+    "resolution_date": "2024-10-07T11:59:14.000+0000",
+    "updated_date": "2024-10-07T11:59:14.000+0000",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-277111",
+    "summary": "Wandering traders can sell pale oak saplings even when they're disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T17:44:45.000+0000",
+    "resolution_date": "2024-10-07T11:59:14.000+0000",
+    "updated_date": "2024-10-07T11:59:14.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-277108",
+    "summary": "The \"below_name\" scoreboard display mode renders with dark parts when custom colors are set",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T17:35:26.000+0000",
+    "resolution_date": "2024-10-08T07:47:30.000+0000",
+    "updated_date": "2024-10-08T07:47:30.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277078",
+    "summary": "Trim advancements use recipe registry key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T15:28:01.000+0000",
+    "resolution_date": "2024-10-03T08:34:03.000+0000",
+    "updated_date": "2024-10-03T08:34:03.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277075",
+    "summary": "Pale hanging moss is all destroyed at the same time when its supporting block is removed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T15:24:38.000+0000",
+    "resolution_date": "2024-10-08T14:55:05.000+0000",
+    "updated_date": "2024-10-08T14:55:05.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-277067",
+    "summary": "The high contrast and programmer art resource packs are displayed as being incompatible",
+    "labels": [
+      "high-contrast",
+      "programmer-art"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-10-02T15:09:50.000+0000",
+    "resolution_date": "2024-10-03T14:48:04.000+0000",
+    "updated_date": "2024-10-04T11:13:31.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-277028",
+    "summary": "Bundles do not empty smoothly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-29T15:58:50.000+0000",
+    "resolution_date": "2024-10-03T12:50:45.000+0000",
+    "updated_date": "2024-10-03T12:50:45.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277027",
+    "summary": "Shapeless recipes accept anything if one of their ingredients is an empty tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-29T14:45:46.000+0000",
+    "resolution_date": "2024-10-07T06:16:43.000+0000",
+    "updated_date": "2024-10-07T06:16:43.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-277019",
+    "summary": "Execute command teleporting across dimensions does not use correct relative coordinates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-29T03:36:27.000+0000",
+    "resolution_date": "2024-10-08T08:13:17.000+0000",
+    "updated_date": "2024-10-08T08:13:17.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277017",
+    "summary": "Flaming arrows no longer extinguish when water or powder snow is placed in its location",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-29T01:40:00.000+0000",
+    "resolution_date": "2024-10-08T08:24:12.000+0000",
+    "updated_date": "2024-10-08T08:24:12.000+0000",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-276979",
+    "summary": "Lock field on containers and minecraft:lock data component do not get datafixed correctly when a \\ is present",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-26T13:55:44.000+0000",
+    "resolution_date": "2024-10-08T08:00:45.000+0000",
+    "updated_date": "2024-10-08T08:00:45.000+0000",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-276965",
+    "summary": "Post shader ColorModulate uniform not reset properly after spectating spiders",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-25T21:27:34.000+0000",
+    "resolution_date": "2024-10-08T08:36:45.000+0000",
+    "updated_date": "2024-10-08T08:36:45.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-276815",
+    "summary": "Dyed bundles are missing the \"filled\" predicate",
+    "labels": [
+      "missing-predicate",
+      "predicate"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-18T16:23:40.000+0000",
+    "resolution_date": "2024-10-03T12:50:44.000+0000",
+    "updated_date": "2024-10-03T12:50:44.000+0000",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-276604",
+    "summary": "Horse Armor no longer has enchantment glint",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-11T17:30:36.000+0000",
+    "resolution_date": "2024-10-07T14:54:49.000+0000",
+    "updated_date": "2024-10-07T14:54:49.000+0000",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-276360",
+    "summary": "Repeating command block data is often lost when moving it around in inventory",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-09-05T00:08:46.000+0000",
+    "resolution_date": "2024-10-08T10:06:56.000+0000",
+    "updated_date": "2024-10-08T10:06:56.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-271961",
+    "summary": "Parity Issue: No empty bubbles on the oxygen bar and popping sound",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 1"
+    ],
+    "creation_date": "2024-05-13T04:00:21.000+0000",
+    "resolution_date": "2024-10-08T14:29:34.000+0000",
+    "updated_date": "2024-10-08T14:29:34.000+0000",
+    "watches": 8,
+    "votes": 13
+  }
+]
