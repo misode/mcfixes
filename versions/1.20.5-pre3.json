@@ -168,5 +168,27 @@
     "updated_date": "2024-04-16T11:20:18.000+0000",
     "watches": 0,
     "votes": 4
+  },
+  {
+    "id": "MC-253881",
+    "summary": "The screen repetitively flashes for other players when the host of a LAN world changes the render distance",
+    "labels": [
+      "photosensitive-epilepsy"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.20.5 Pre-Release 3"
+    ],
+    "creation_date": "2022-07-04T10:48:08.000+0000",
+    "resolution_date": "2024-10-09T10:26:24.000+0000",
+    "updated_date": "2024-10-09T10:28:25.000+0000",
+    "watches": 6,
+    "votes": 7
   }
 ]
