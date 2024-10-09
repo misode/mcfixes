@@ -410,6 +410,33 @@
     "votes": 4
   },
   {
+    "id": "MC-190385",
+    "summary": "The world editing options are too close to the title of the \"Edit World\" menu",
+    "labels": [
+      "edit-world",
+      "menu",
+      "options",
+      "overlapping",
+      "text",
+      "title",
+      "ui"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w42a"
+    ],
+    "creation_date": "2020-06-18T15:13:20.000+0000",
+    "resolution_date": "2024-10-09T10:13:42.000+0000",
+    "updated_date": "2024-10-09T10:13:43.000+0000",
+    "watches": 4,
+    "votes": 6
+  },
+  {
     "id": "MC-189261",
     "summary": "Various Realms buttons and texts are incorrectly capitalized",
     "labels": [
