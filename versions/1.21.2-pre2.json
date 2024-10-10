@@ -1,0 +1,755 @@
+[
+  {
+    "id": "MC-277452",
+    "summary": "Player idle timeout does not kick players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-09T14:21:01.000+0000",
+    "resolution_date": "2024-10-10T09:32:38.000+0000",
+    "updated_date": "2024-10-10T09:32:38.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-277438",
+    "summary": "Wolf Armor no longer shows cracks when damaged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-09T10:47:16.000+0000",
+    "resolution_date": "2024-10-09T16:00:40.000+0000",
+    "updated_date": "2024-10-09T16:00:40.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277424",
+    "summary": "The pale garden can prevent trial chambers from spawning",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T22:39:22.000+0000",
+    "resolution_date": "2024-10-10T09:07:47.000+0000",
+    "updated_date": "2024-10-10T09:07:47.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-277417",
+    "summary": "/tp no longer works when run from a command block without context from \"execute as\"",
+    "labels": [
+      "command"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T18:15:43.000+0000",
+    "resolution_date": "2024-10-09T13:37:30.000+0000",
+    "updated_date": "2024-10-09T13:57:14.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-277409",
+    "summary": "Text on glowing signs no longer looks different to text on normal signs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T17:11:27.000+0000",
+    "resolution_date": "2024-10-09T10:03:37.000+0000",
+    "updated_date": "2024-10-09T10:32:44.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-277405",
+    "summary": "Mounts no longer receive damage when riding them through sweet berry bushes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T16:21:12.000+0000",
+    "resolution_date": "2024-10-09T10:16:56.000+0000",
+    "updated_date": "2024-10-09T10:16:56.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277404",
+    "summary": "Entities' limbs are incorrectly positioned for a brief second when entities are damaged while riding entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player Animation",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T16:17:40.000+0000",
+    "resolution_date": "2024-10-09T14:54:56.000+0000",
+    "updated_date": "2024-10-09T14:54:56.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-277402",
+    "summary": "Horse armor doesn't render properly in horse inventory again",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T15:07:30.000+0000",
+    "resolution_date": "2024-10-09T13:37:29.000+0000",
+    "updated_date": "2024-10-09T13:37:29.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-277398",
+    "summary": "The horse armor equipping sound is unusually loud",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T14:34:18.000+0000",
+    "resolution_date": "2024-10-09T08:18:32.000+0000",
+    "updated_date": "2024-10-09T08:18:32.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-277392",
+    "summary": "The realms description text and the game mode text within the realms menu can intersect one another",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T10:59:58.000+0000",
+    "resolution_date": "2024-10-10T08:56:16.000+0000",
+    "updated_date": "2024-10-10T08:56:16.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-277389",
+    "summary": "Armor stand in the smithing table interface no longer render armor when appropriate",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-08T08:41:30.000+0000",
+    "resolution_date": "2024-10-10T09:19:53.000+0000",
+    "updated_date": "2024-10-10T09:19:53.000+0000",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-277376",
+    "summary": "Consumable block animation inherits shield behaviors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-07T17:45:24.000+0000",
+    "resolution_date": "2024-10-10T08:30:37.000+0000",
+    "updated_date": "2024-10-10T08:30:37.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277309",
+    "summary": "Missing translations for Pale Oak Wall (Hanging) Signs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-05T14:06:51.000+0000",
+    "resolution_date": "2024-10-10T09:07:46.000+0000",
+    "updated_date": "2024-10-10T12:03:51.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277212",
+    "summary": "The \"options.accessibility.high_contrast_block_outline.tooltip\" string is missing an article before the word \"targeted\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-03T10:28:59.000+0000",
+    "resolution_date": "2024-10-10T07:37:45.000+0000",
+    "updated_date": "2024-10-10T07:37:45.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277175",
+    "summary": "#overworld_natural_logs block tag contains #pale_oak_logs instead of pale_oak_log",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-03T00:51:07.000+0000",
+    "resolution_date": "2024-10-10T09:07:46.000+0000",
+    "updated_date": "2024-10-10T09:07:46.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277165",
+    "summary": "Particles produced upon creakings spawning are spawned one block too far to the east",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-02T23:26:49.000+0000",
+    "resolution_date": "2024-10-10T09:07:47.000+0000",
+    "updated_date": "2024-10-10T09:07:47.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-277135",
+    "summary": "Entity collision order is now locational ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Collision"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-02T20:23:35.000+0000",
+    "resolution_date": "2024-10-09T14:35:13.000+0000",
+    "updated_date": "2024-10-09T14:35:13.000+0000",
+    "watches": 6,
+    "votes": 22
+  },
+  {
+    "id": "MC-277096",
+    "summary": "When selecting a biome in the single biome world type, there is no translation for the pale garden",
+    "labels": [
+      "pale_garden"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-02T16:16:43.000+0000",
+    "resolution_date": "2024-10-10T09:07:45.000+0000",
+    "updated_date": "2024-10-10T09:07:45.000+0000",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-277091",
+    "summary": "Pale oak boats are in the chest boats tag in place of pale oak chest boats",
+    "labels": [
+      "chest_boat",
+      "pale_oak",
+      "tags"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-02T15:52:25.000+0000",
+    "resolution_date": "2024-10-10T09:07:45.000+0000",
+    "updated_date": "2024-10-10T09:07:45.000+0000",
+    "watches": 1,
+    "votes": 4
+  },
+  {
+    "id": "MC-277073",
+    "summary": "Pale moss and pale moss carpets cannot be broken faster using hoes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-02T15:17:59.000+0000",
+    "resolution_date": "2024-10-10T09:07:44.000+0000",
+    "updated_date": "2024-10-10T09:07:44.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-277000",
+    "summary": "Entities can be damaged by fire without being ignited",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-27T11:05:35.000+0000",
+    "resolution_date": "2024-10-09T08:43:32.000+0000",
+    "updated_date": "2024-10-09T08:43:32.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-276978",
+    "summary": "Mobs produce the fire extinguishing sound every tick while standing in lava in rain",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-26T13:13:28.000+0000",
+    "resolution_date": "2024-10-09T16:13:28.000+0000",
+    "updated_date": "2024-10-10T14:19:04.000+0000",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-276963",
+    "summary": "Mobs standing inside both lava and water produce the fire extinguishing sound every tick",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-25T19:15:15.000+0000",
+    "resolution_date": "2024-10-09T16:13:28.000+0000",
+    "updated_date": "2024-10-10T14:28:04.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-276954",
+    "summary": "Ender pearl interaction with bubble columns is still broken",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-25T16:15:07.000+0000",
+    "resolution_date": "2024-10-09T08:53:23.000+0000",
+    "updated_date": "2024-10-09T08:53:23.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-276906",
+    "summary": "Specifying a block tag in an item's can_place_on or can_break component in a recipe or loot table causes validation error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-22T00:43:42.000+0000",
+    "resolution_date": "2024-10-10T08:43:51.000+0000",
+    "updated_date": "2024-10-10T08:43:51.000+0000",
+    "watches": 7,
+    "votes": 2
+  },
+  {
+    "id": "MC-276825",
+    "summary": "Transmute recipes allow air as output",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-18T18:32:42.000+0000",
+    "resolution_date": "2024-10-09T11:16:40.000+0000",
+    "updated_date": "2024-10-09T11:16:40.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-276813",
+    "summary": "Minecraft no longer prints an error to the game log when trying to render a character without a defined glyph in the loaded fonts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-18T16:14:08.000+0000",
+    "resolution_date": "2024-10-10T07:37:45.000+0000",
+    "updated_date": "2024-10-10T07:37:45.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-276716",
+    "summary": "Thrown ender pearl teleport position is inconsistent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-15T00:15:57.000+0000",
+    "resolution_date": "2024-10-09T13:50:12.000+0000",
+    "updated_date": "2024-10-10T14:47:58.000+0000",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-276624",
+    "summary": "Nether portal can send you back when your ender pearl land in the portal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-12T03:11:20.000+0000",
+    "resolution_date": "2024-10-09T13:50:13.000+0000",
+    "updated_date": "2024-10-09T13:50:13.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-276605",
+    "summary": "Throwing an ender pearl through a portal or gateway often results in the player being placed slightly too low",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-09-11T18:24:57.000+0000",
+    "resolution_date": "2024-10-09T13:50:13.000+0000",
+    "updated_date": "2024-10-09T13:50:13.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-276072",
+    "summary": "Tridents enchanted with Loyalty fly around drowned upon returning to them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-08-27T11:12:29.000+0000",
+    "resolution_date": "2024-10-10T07:37:46.000+0000",
+    "updated_date": "2024-10-10T07:37:46.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-275941",
+    "summary": "Consumable item components with inlined sound event definitions cause undefined behavior",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items",
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-08-23T21:47:53.000+0000",
+    "resolution_date": "2024-10-10T10:00:24.000+0000",
+    "updated_date": "2024-10-10T10:00:24.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-275834",
+    "summary": "Jumping when falling onto a slime block no longer cancels the bounce effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-08-22T00:38:47.000+0000",
+    "resolution_date": "2024-10-10T12:29:06.000+0000",
+    "updated_date": "2024-10-10T14:44:25.000+0000",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-269851",
+    "summary": "Breeze idle animations are different than Bedrock Edition",
+    "labels": [
+      "animations",
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Parity",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-03-24T17:21:41.000+0000",
+    "resolution_date": "2024-10-09T11:46:52.000+0000",
+    "updated_date": "2024-10-09T11:46:52.000+0000",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-266494",
+    "summary": "Jump Boost does not affect the breeze's jump",
+    "labels": [
+      "breeze",
+      "effect",
+      "mob-behavior"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-08T23:12:09.000+0000",
+    "resolution_date": "2024-10-09T08:28:52.000+0000",
+    "updated_date": "2024-10-09T08:28:52.000+0000",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-266480",
+    "summary": "Breeze can jump on top of honey blocks",
+    "labels": [
+      "breeze"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2023-11-08T19:03:08.000+0000",
+    "resolution_date": "2024-10-09T08:16:35.000+0000",
+    "updated_date": "2024-10-09T08:16:35.000+0000",
+    "watches": 6,
+    "votes": 12
+  },
+  {
+    "id": "MC-160810",
+    "summary": "Some items are held sideways in left hand",
+    "labels": [
+      "graphical",
+      "item",
+      "rendering",
+      "shears"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2019-09-09T22:08:26.000+0000",
+    "resolution_date": "2024-10-09T12:57:04.000+0000",
+    "updated_date": "2024-10-10T14:20:10.000+0000",
+    "watches": 12,
+    "votes": 23
+  },
+  {
+    "id": "MC-54532",
+    "summary": "Sneaking while falling on Slime Blocks inflicts fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2014-05-04T00:41:20.000+0000",
+    "resolution_date": "2024-10-10T12:29:06.000+0000",
+    "updated_date": "2024-10-10T15:04:08.000+0000",
+    "watches": 4,
+    "votes": 3
+  }
+]
