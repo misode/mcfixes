@@ -419,6 +419,30 @@
     "votes": 7
   },
   {
+    "id": "MC-235953",
+    "summary": "Entity eyes render type doesn't blend non-black transparent pixels properly",
+    "labels": [
+      "entity",
+      "eyes",
+      "rendering-bug",
+      "shaders"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w39a"
+    ],
+    "creation_date": "2021-09-04T20:11:12.000+0000",
+    "resolution_date": "2024-10-12T15:40:43.000+0000",
+    "updated_date": "2024-10-12T15:40:43.000+0000",
+    "watches": 3,
+    "votes": 8
+  },
+  {
     "id": "MC-219083",
     "summary": "Hunger client/server desync when natural regeneration is off in peaceful mode",
     "labels": [],
