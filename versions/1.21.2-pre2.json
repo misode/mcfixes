@@ -372,6 +372,27 @@
     "votes": 4
   },
   {
+    "id": "MC-277081",
+    "summary": "Creakings summoned via spawn eggs disappear when entering end portals",
+    "labels": [
+      "creaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.2 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-02T15:35:28.000+0000",
+    "resolution_date": "2024-10-13T10:21:24.000+0000",
+    "updated_date": "2024-10-13T10:21:24.000+0000",
+    "watches": 5,
+    "votes": 4
+  },
+  {
     "id": "MC-277073",
     "summary": "Pale moss and pale moss carpets cannot be broken faster using hoes",
     "labels": [],
