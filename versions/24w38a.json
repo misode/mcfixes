@@ -455,6 +455,32 @@
     "votes": 50
   },
   {
+    "id": "MC-116618",
+    "summary": "Dropping items rapidly inside the \"Survival Inventory\" tab in creative mode deletes items",
+    "labels": [
+      "creative-inventory",
+      "drop",
+      "drop-item",
+      "dropping",
+      "inventory",
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w38a"
+    ],
+    "creation_date": "2017-04-25T08:40:52.000+0000",
+    "resolution_date": "2024-10-16T14:19:10.000+0000",
+    "updated_date": "2024-10-16T14:19:11.000+0000",
+    "watches": 28,
+    "votes": 46
+  },
+  {
     "id": "MC-13246",
     "summary": "On certain enchanted items, the Anvil will display a \"too expensive\" message before attempting to repair, combine, or rename them",
     "labels": [

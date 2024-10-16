@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MC-277634",
+    "summary": "Arrows shot at walls when facing south sometimes end up vertical instead of horizontal",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.2 Pre-Release 5"
+    ],
+    "creation_date": "2024-10-16T12:29:19.000+0000",
+    "resolution_date": "2024-10-16T12:53:25.000+0000",
+    "updated_date": "2024-10-16T12:53:25.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-277630",
+    "summary": "Recipe book is not updated when one of the available recipes is used",
+    "labels": [
+      "inventory"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Pre-Release 5"
+    ],
+    "creation_date": "2024-10-15T23:54:35.000+0000",
+    "resolution_date": "2024-10-16T11:50:28.000+0000",
+    "updated_date": "2024-10-16T11:50:28.000+0000",
+    "watches": 0,
+    "votes": 1
+  }
+]
