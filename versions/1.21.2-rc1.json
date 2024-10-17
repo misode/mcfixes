@@ -1,0 +1,61 @@
+[
+  {
+    "id": "MC-277638",
+    "summary": "Client sometimes rejects a set passengers packet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Release Candidate 1"
+    ],
+    "creation_date": "2024-10-16T16:00:32.000+0000",
+    "resolution_date": "2024-10-17T09:43:42.000+0000",
+    "updated_date": "2024-10-17T09:43:42.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-277636",
+    "summary": "Projectiles visually fall when relogging",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.2 Release Candidate 1"
+    ],
+    "creation_date": "2024-10-16T14:45:17.000+0000",
+    "resolution_date": "2024-10-17T09:56:21.000+0000",
+    "updated_date": "2024-10-17T09:56:21.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-273812",
+    "summary": "Intersection chests in trial chambers not generating correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Loot tables",
+      "Structures"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.2 Release Candidate 1"
+    ],
+    "creation_date": "2024-06-24T09:13:46.000+0000",
+    "resolution_date": "2024-10-17T12:10:13.000+0000",
+    "updated_date": "2024-10-17T12:10:13.000+0000",
+    "watches": 143,
+    "votes": 519
+  }
+]
