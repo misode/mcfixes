@@ -909,6 +909,26 @@
     "votes": 4
   },
   {
+    "id": "MC-172387",
+    "summary": "Horses with saddle cannot be controlled by non-player mobs anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w13a"
+    ],
+    "creation_date": "2020-02-15T16:43:35.000+0000",
+    "resolution_date": "2024-10-19T22:12:26.000+0000",
+    "updated_date": "2024-10-19T22:12:26.000+0000",
+    "watches": 4,
+    "votes": 7
+  },
+  {
     "id": "MC-160332",
     "summary": "Horses with non-player passengers have improper orientation when walking",
     "labels": [
