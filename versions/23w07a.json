@@ -706,6 +706,25 @@
     "votes": 12
   },
   {
+    "id": "MC-157412",
+    "summary": "Parrots keep dancing after music stops",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w07a"
+    ],
+    "creation_date": "2019-07-22T07:56:19.000+0000",
+    "resolution_date": "2024-10-22T16:22:33.000+0000",
+    "updated_date": "2024-10-22T16:22:39.000+0000",
+    "watches": 2,
+    "votes": 10
+  },
+  {
     "id": "MC-156814",
     "summary": "Horses, donkeys and mules can enter boats as babies and then grow up inside of it, despite their adult variants not being able to enter it",
     "labels": [],
