@@ -629,6 +629,26 @@
     "votes": 12
   },
   {
+    "id": "MC-272409",
+    "summary": "Item entity's name ignores `item_name` component",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-05-24T04:19:46.000+0000",
+    "resolution_date": "2024-10-25T06:57:38.000+0000",
+    "updated_date": "2024-10-25T06:57:39.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-271826",
     "summary": "Armor default attribute modifier component can't be removed",
     "labels": [],
