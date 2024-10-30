@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "MC-277871",
+    "summary": "Creaking Hearts do not have a unique place sound",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-26T17:08:03.000+0000",
+    "resolution_date": "2024-10-29T08:17:44.000+0000",
+    "updated_date": "2024-10-29T12:18:38.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-277833",
+    "summary": "Creakings can attack players in the same team as them",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-24T14:04:19.000+0000",
+    "resolution_date": "2024-10-29T13:45:32.000+0000",
+    "updated_date": "2024-10-29T13:45:32.000+0000",
+    "watches": 3,
+    "votes": 0
+  },
+  {
+    "id": "MC-277815",
+    "summary": "Creakings on a team can still be observed and stopped by teammate players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-23T21:31:06.000+0000",
+    "resolution_date": "2024-10-29T13:44:53.000+0000",
+    "updated_date": "2024-10-29T13:44:53.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277776",
+    "summary": "Baby cats and ocelots size is changed",
+    "labels": [
+      "baby",
+      "cat",
+      "ocelot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-22T15:28:03.000+0000",
+    "resolution_date": "2024-10-23T15:01:16.000+0000",
+    "updated_date": "2024-10-23T15:01:16.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-277754",
+    "summary": "Chunks on the corner of the rendering distance are not synchronized between client and server for the terrain",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Chunk loading"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-21T20:35:34.000+0000",
+    "resolution_date": "2024-10-24T09:23:02.000+0000",
+    "updated_date": "2024-10-25T13:53:33.000+0000",
+    "watches": 5,
+    "votes": 3
+  },
+  {
+    "id": "MC-277742",
+    "summary": "Creakings activate for a brief moment when switching from Creative to Spectator mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-21T06:59:14.000+0000",
+    "resolution_date": "2024-10-25T14:18:16.000+0000",
+    "updated_date": "2024-10-25T14:18:16.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-277682",
+    "summary": "Arrows and tridents glitch after shooting/throwing them onto magma/soul sand blocks underwater",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-18T20:55:39.000+0000",
+    "resolution_date": "2024-10-30T09:29:50.000+0000",
+    "updated_date": "2024-10-30T09:29:50.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-277658",
+    "summary": "Tridents glitch up and down in rising bubble columns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-17T15:01:19.000+0000",
+    "resolution_date": "2024-10-30T09:29:49.000+0000",
+    "updated_date": "2024-10-30T12:24:05.000+0000",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-277657",
+    "summary": "Arrows are not correctly affected by rising bubble columns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-17T14:57:29.000+0000",
+    "resolution_date": "2024-10-30T09:29:48.000+0000",
+    "updated_date": "2024-10-30T10:25:02.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-277651",
+    "summary": "Arrows and tridents glitch when in an explosion or wind charge burst",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Networking",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-17T09:37:01.000+0000",
+    "resolution_date": "2024-10-30T09:29:49.000+0000",
+    "updated_date": "2024-10-30T09:29:49.000+0000",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-277617",
+    "summary": "The base damage of the Power enchantment was reduced in 1.21",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-15T00:19:08.000+0000",
+    "resolution_date": "2024-10-28T15:37:21.000+0000",
+    "updated_date": "2024-10-28T15:37:21.000+0000",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-277557",
+    "summary": "Creaking Heart has inconsistent and miscolored pixels",
+    "labels": [
+      "block",
+      "inconsistent-textures",
+      "miscolored-pixels",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-12T11:07:05.000+0000",
+    "resolution_date": "2024-10-30T12:06:40.000+0000",
+    "updated_date": "2024-10-30T12:06:40.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-277549",
+    "summary": "Arrows summoned with custom motion don't render correctly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-11T23:22:25.000+0000",
+    "resolution_date": "2024-10-28T09:32:27.000+0000",
+    "updated_date": "2024-10-28T09:32:27.000+0000",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-277510",
+    "summary": "When grass or mycelium grows under powder snow the grass is not snowy",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-10T23:22:01.000+0000",
+    "resolution_date": "2024-10-28T15:37:20.000+0000",
+    "updated_date": "2024-10-28T15:37:20.000+0000",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-277499",
+    "summary": "Most empty slot icons ignore \"scaling\" parameter in mcmeta files",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-10T19:55:04.000+0000",
+    "resolution_date": "2024-10-30T15:17:16.000+0000",
+    "updated_date": "2024-10-30T15:17:43.000+0000",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-277480",
+    "summary": "There are no shadows on placeholder text displayed within the \"Please describe what happened\" box within the reporting menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-10T10:49:36.000+0000",
+    "resolution_date": "2024-10-22T15:24:17.000+0000",
+    "updated_date": "2024-10-22T18:43:15.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277479",
+    "summary": "There are no shadows on text used to display the names of game rules within the game rules menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-10T10:38:02.000+0000",
+    "resolution_date": "2024-10-22T15:24:16.000+0000",
+    "updated_date": "2024-10-22T18:43:13.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277478",
+    "summary": "The \"Layer Material\" and \"Height\" text within the \"Superflat Customization\" menu is positioned too close to the header separator",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-10T10:32:12.000+0000",
+    "resolution_date": "2024-10-22T15:24:09.000+0000",
+    "updated_date": "2024-10-22T15:24:09.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-277477",
+    "summary": "There are no shadows on text used to display the description of advancements within the advancements menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-10T10:16:23.000+0000",
+    "resolution_date": "2024-10-22T15:24:16.000+0000",
+    "updated_date": "2024-10-22T18:43:14.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277444",
+    "summary": "There are no shadows on text used to display the names of text boxes within the realms settings menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-09T11:29:45.000+0000",
+    "resolution_date": "2024-10-22T15:34:30.000+0000",
+    "updated_date": "2024-10-22T18:43:14.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277443",
+    "summary": "There are no shadows on text displayed when connecting to realms",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-09T11:23:16.000+0000",
+    "resolution_date": "2024-10-22T15:24:12.000+0000",
+    "updated_date": "2024-10-22T18:43:14.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277441",
+    "summary": "There are no shadows on text used to display the start date and time left of your realm subscription within the realms menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-09T11:13:41.000+0000",
+    "resolution_date": "2024-10-22T15:24:13.000+0000",
+    "updated_date": "2024-10-22T18:43:15.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277440",
+    "summary": "There are no shadows on text used to display the speed at which a world is being uploaded within the realms menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-09T11:09:43.000+0000",
+    "resolution_date": "2024-10-22T15:24:13.000+0000",
+    "updated_date": "2024-10-22T18:43:15.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277408",
+    "summary": "There are no shadows on text used to display the description of report categories within the \"Select Report Category\" menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-08T17:10:49.000+0000",
+    "resolution_date": "2024-10-22T15:24:15.000+0000",
+    "updated_date": "2024-10-22T18:43:12.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277387",
+    "summary": "Evokers run away from creakings faster than other illagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-08T05:32:31.000+0000",
+    "resolution_date": "2024-10-30T12:05:47.000+0000",
+    "updated_date": "2024-10-30T12:05:47.000+0000",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-277374",
+    "summary": "There are no shadows on text used to display the names of lists within the resource pack and data pack menus",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-07T15:39:26.000+0000",
+    "resolution_date": "2024-10-22T15:24:14.000+0000",
+    "updated_date": "2024-10-22T18:43:15.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277373",
+    "summary": "There are no shadows on text used to display the names of categories within the key binds menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-07T15:32:31.000+0000",
+    "resolution_date": "2024-10-22T15:24:14.000+0000",
+    "updated_date": "2024-10-22T18:43:15.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277368",
+    "summary": "The \"message(s) selected\" text within the \"Select Chat Messages to Report\" menu is positioned too close to the header separator",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-07T13:52:24.000+0000",
+    "resolution_date": "2024-10-22T15:24:10.000+0000",
+    "updated_date": "2024-10-22T15:24:10.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277363",
+    "summary": "Creakings cannot rotate their heads independently from their bodies",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-07T10:14:32.000+0000",
+    "resolution_date": "2024-10-25T14:18:16.000+0000",
+    "updated_date": "2024-10-25T14:18:16.000+0000",
+    "watches": 5,
+    "votes": 5
+  },
+  {
+    "id": "MC-277305",
+    "summary": "Creakings are able to be pushed around by entities and players when standing on soul sand and mud",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-05T13:17:56.000+0000",
+    "resolution_date": "2024-10-25T14:18:15.000+0000",
+    "updated_date": "2024-10-25T14:18:15.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277275",
+    "summary": "Crash upon loading chunks when teleporting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-04T18:51:18.000+0000",
+    "resolution_date": "2024-10-24T08:32:40.000+0000",
+    "updated_date": "2024-10-24T08:32:40.000+0000",
+    "watches": 10,
+    "votes": 17
+  },
+  {
+    "id": "MC-277271",
+    "summary": "Sniffers can't dig into pale moss",
+    "labels": [
+      "pale_moss",
+      "sniffer_diggable"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-04T15:59:05.000+0000",
+    "resolution_date": "2024-10-23T11:14:24.000+0000",
+    "updated_date": "2024-10-23T11:14:24.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-277268",
+    "summary": "Pufferfish have no hit delay on creakings; they make a loud buzzing noise constantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-04T15:21:47.000+0000",
+    "resolution_date": "2024-10-30T11:56:23.000+0000",
+    "updated_date": "2024-10-30T11:56:23.000+0000",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-277214",
+    "summary": "The sound event associated with the \"Creaking sees player\" subtitle doesn't exist",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-03T11:08:02.000+0000",
+    "resolution_date": "2024-10-30T12:06:03.000+0000",
+    "updated_date": "2024-10-30T12:06:03.000+0000",
+    "watches": 5,
+    "votes": 6
+  },
+  {
+    "id": "MC-277213",
+    "summary": "Subtitles for cave sounds, creaking heart idle sounds, and pale hanging moss idle sounds are identical but are shown separately",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-03T10:45:47.000+0000",
+    "resolution_date": "2024-10-25T13:58:29.000+0000",
+    "updated_date": "2024-10-25T14:03:45.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-277202",
+    "summary": "Differences in the highlight effect of empty slot outlines in the GUI",
+    "labels": [
+      "GUI",
+      "slot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-03T08:12:37.000+0000",
+    "resolution_date": "2024-10-23T07:13:10.000+0000",
+    "updated_date": "2024-10-26T01:34:57.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-277164",
+    "summary": "Music plays in the pale garden ",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T23:26:32.000+0000",
+    "resolution_date": "2024-10-28T21:42:00.000+0000",
+    "updated_date": "2024-10-28T21:42:00.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-277145",
+    "summary": "The 2 brightest pixel colors on pale oak boat items are wrong",
+    "labels": [
+      "boat",
+      "pale_oak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T20:57:55.000+0000",
+    "resolution_date": "2024-10-30T11:58:01.000+0000",
+    "updated_date": "2024-10-30T11:58:01.000+0000",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-277134",
+    "summary": "Pale chest boat item is incorrect",
+    "labels": [
+      "chest_boat",
+      "pale_oak"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T20:08:36.000+0000",
+    "resolution_date": "2024-10-23T11:14:23.000+0000",
+    "updated_date": "2024-10-30T09:15:01.000+0000",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-277129",
+    "summary": "The Creaking \"slides\" on the ground when not aggro towards the player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T19:28:40.000+0000",
+    "resolution_date": "2024-10-25T14:18:15.000+0000",
+    "updated_date": "2024-10-25T14:18:15.000+0000",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-277123",
+    "summary": "You can get soft locked if a creaking falls in a hole with you",
+    "labels": [
+      "creaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T18:57:18.000+0000",
+    "resolution_date": "2024-10-23T11:14:23.000+0000",
+    "updated_date": "2024-10-23T11:14:23.000+0000",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-277115",
+    "summary": "Creaking mob can spawn inside block",
+    "labels": [
+      "mob-spawning"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob spawning"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T18:03:45.000+0000",
+    "resolution_date": "2024-10-30T11:58:37.000+0000",
+    "updated_date": "2024-10-30T11:58:37.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-277113",
+    "summary": "Pale oak sign item and block texture is inconsistent with the other signs",
+    "labels": [
+      "pale_oak",
+      "sign"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T17:54:57.000+0000",
+    "resolution_date": "2024-10-30T12:05:26.000+0000",
+    "updated_date": "2024-10-30T12:05:26.000+0000",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-277101",
+    "summary": "Destroying a creaking heart with player-activated TNT does not grant the Monster Hunter advancement",
+    "labels": [
+      "advancement",
+      "creaking_heart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T16:35:46.000+0000",
+    "resolution_date": "2024-10-30T11:58:16.000+0000",
+    "updated_date": "2024-10-30T11:58:16.000+0000",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-277094",
+    "summary": "Pale oak hanging sign uses a totally different palette to the rest of the wood set",
+    "labels": [
+      "pale_oak",
+      "palette"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T16:10:16.000+0000",
+    "resolution_date": "2024-10-30T11:56:55.000+0000",
+    "updated_date": "2024-10-30T11:56:55.000+0000",
+    "watches": 5,
+    "votes": 10
+  },
+  {
+    "id": "MC-277076",
+    "summary": "Pale hanging moss doesn't have an assigned tool",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T15:25:38.000+0000",
+    "resolution_date": "2024-10-30T12:00:38.000+0000",
+    "updated_date": "2024-10-30T12:00:38.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277072",
+    "summary": "You can use bone meal on pale moss carpets in situations where nothing grows",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T15:16:57.000+0000",
+    "resolution_date": "2024-10-30T12:06:27.000+0000",
+    "updated_date": "2024-10-30T12:06:27.000+0000",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-277066",
+    "summary": "Creakings do not show particles leading to the creaking heart if Particles are set to Minimal",
+    "labels": [
+      "creaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T15:07:03.000+0000",
+    "resolution_date": "2024-10-23T11:14:23.000+0000",
+    "updated_date": "2024-10-23T11:14:23.000+0000",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-276969",
+    "summary": "TNT Minecarts with explosion_power set to 0 can still break blocks",
+    "labels": [
+      "explosion",
+      "tnt-minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Minecart"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-09-26T02:56:17.000+0000",
+    "resolution_date": "2024-10-22T15:24:08.000+0000",
+    "updated_date": "2024-10-22T15:24:08.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-276799",
+    "summary": "There are no shadows on text displayed within the superflat customization or preset lists",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-09-18T09:35:52.000+0000",
+    "resolution_date": "2024-10-22T15:24:11.000+0000",
+    "updated_date": "2024-10-22T18:43:13.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-276794",
+    "summary": "There are no shadows on text displayed within the social interactions list menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-09-18T09:10:35.000+0000",
+    "resolution_date": "2024-10-22T15:24:15.000+0000",
+    "updated_date": "2024-10-22T18:43:14.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-276389",
+    "summary": "The \"Can hold a mixed stack of items\" text within bundle tooltips doesn't have a shadow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-09-05T14:09:32.000+0000",
+    "resolution_date": "2024-10-22T15:24:17.000+0000",
+    "updated_date": "2024-10-22T18:43:13.000+0000",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-276123",
+    "summary": "Display entity shadow_radius updates for all display entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-08-28T18:09:31.000+0000",
+    "resolution_date": "2024-10-22T15:24:11.000+0000",
+    "updated_date": "2024-10-22T15:24:11.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-275917",
+    "summary": "Consumable blocking animation is broken in first person",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-08-23T11:30:49.000+0000",
+    "resolution_date": "2024-10-23T08:37:23.000+0000",
+    "updated_date": "2024-10-23T08:37:23.000+0000",
+    "watches": 9,
+    "votes": 12
+  },
+  {
+    "id": "MC-272105",
+    "summary": "Decorated Pot is missing the \"contents\" implicit data component type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-05-17T01:18:18.000+0000",
+    "resolution_date": "2024-10-28T15:37:20.000+0000",
+    "updated_date": "2024-10-28T15:37:20.000+0000",
+    "watches": 0,
+    "votes": 7
+  },
+  {
+    "id": "MC-272062",
+    "summary": "Dimension padding doesn't affect the start piece",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-05-16T02:12:45.000+0000",
+    "resolution_date": "2024-10-30T08:31:39.000+0000",
+    "updated_date": "2024-10-30T08:31:39.000+0000",
+    "watches": 7,
+    "votes": 22
+  },
+  {
+    "id": "MC-271218",
+    "summary": "Empty Offers:{} NBT doesn't disable trades anymore",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Trading"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-04-27T20:09:49.000+0000",
+    "resolution_date": "2024-10-22T15:24:07.000+0000",
+    "updated_date": "2024-10-22T15:24:07.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-268822",
+    "summary": "There are no shadows on text displayed within the singleplayer, multiplayer, and realms list menus",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-02-28T17:20:27.000+0000",
+    "resolution_date": "2024-10-22T15:24:12.000+0000",
+    "updated_date": "2024-10-22T18:43:15.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-268522",
+    "summary": "The last language option is not deselected if you reach the bottom of the list and exit the menu",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-02-12T15:04:45.000+0000",
+    "resolution_date": "2024-10-30T10:45:45.000+0000",
+    "updated_date": "2024-10-30T10:45:45.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-268364",
+    "summary": "Wind Charges don't ignite TNT minecarts",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-02-07T20:17:42.000+0000",
+    "resolution_date": "2024-10-23T11:25:51.000+0000",
+    "updated_date": "2024-10-23T11:25:51.000+0000",
+    "watches": 4,
+    "votes": 8
+  },
+  {
+    "id": "MC-267878",
+    "summary": "Tutorial hint for movement may not fit all the required text if controls are changed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-01-13T22:59:07.000+0000",
+    "resolution_date": "2024-10-28T15:37:22.000+0000",
+    "updated_date": "2024-10-28T15:37:22.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-267730",
+    "summary": "Text wall when trying to join a server",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-01-04T18:40:16.000+0000",
+    "resolution_date": "2024-10-30T10:01:55.000+0000",
+    "updated_date": "2024-10-30T10:01:55.000+0000",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-267095",
+    "summary": "Nether Brick block texture misalignment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2023-11-29T23:20:56.000+0000",
+    "resolution_date": "2024-10-29T13:16:11.000+0000",
+    "updated_date": "2024-10-29T19:25:56.000+0000",
+    "watches": 6,
+    "votes": 9
+  },
+  {
+    "id": "MC-266019",
+    "summary": "Large bold text can have gaps in the middle of characters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2023-10-23T00:29:17.000+0000",
+    "resolution_date": "2024-10-29T13:25:46.000+0000",
+    "updated_date": "2024-10-30T14:21:45.000+0000",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-265637",
+    "summary": "/execute on origin doesn't work on Area Effect Cloud's owner after rejoining",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2023-10-04T00:47:09.000+0000",
+    "resolution_date": "2024-10-28T15:37:21.000+0000",
+    "updated_date": "2024-10-28T15:37:21.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-265033",
+    "summary": "Slots with item outline textures behave inconsistently when items are placed inside of these slots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2023-08-25T11:55:09.000+0000",
+    "resolution_date": "2024-10-23T07:13:11.000+0000",
+    "updated_date": "2024-10-23T07:13:11.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-264541",
+    "summary": "Nine_sliced sprite glitch",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2023-08-02T09:37:33.000+0000",
+    "resolution_date": "2024-10-23T07:13:09.000+0000",
+    "updated_date": "2024-10-23T07:13:09.000+0000",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-256822",
+    "summary": "Advancement description text cuts words in weird places if title is too short",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2022-10-23T19:45:12.000+0000",
+    "resolution_date": "2024-10-22T15:24:09.000+0000",
+    "updated_date": "2024-10-22T15:24:09.000+0000",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-255254",
+    "summary": "/setblock can't place snowy grass blocks",
+    "labels": [
+      "grass_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2022-08-16T12:22:55.000+0000",
+    "resolution_date": "2024-10-30T10:31:11.000+0000",
+    "updated_date": "2024-10-30T13:24:05.000+0000",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-225367",
+    "summary": "Magma Cube's layers UV mapping overlaps",
+    "labels": [
+      "magma_cube",
+      "overlapping",
+      "texture",
+      "uv-mapping"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2021-05-12T15:34:24.000+0000",
+    "resolution_date": "2024-10-28T13:16:34.000+0000",
+    "updated_date": "2024-10-28T13:16:34.000+0000",
+    "watches": 14,
+    "votes": 18
+  },
+  {
+    "id": "MC-215992",
+    "summary": "Inconsistency with blackstone and stone pressure plate drops compared to buttons",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2021-02-18T08:16:03.000+0000",
+    "resolution_date": "2024-10-30T15:04:09.000+0000",
+    "updated_date": "2024-10-30T15:04:09.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-203146",
+    "summary": "No subtitle for item.crossbow.loading_middle",
+    "labels": [
+      "missing-subtitle"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-10-30T03:55:07.000+0000",
+    "resolution_date": "2024-10-30T08:53:45.000+0000",
+    "updated_date": "2024-10-30T08:53:45.000+0000",
+    "watches": 6,
+    "votes": 16
+  },
+  {
+    "id": "MC-192959",
+    "summary": "Cannot setblock a directional state on redstone wire nor tripwire",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-06-30T21:54:13.000+0000",
+    "resolution_date": "2024-10-30T10:30:52.000+0000",
+    "updated_date": "2024-10-30T10:30:52.000+0000",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-192956",
+    "summary": "Cannot setblock chest type other than single without other adjacent chest",
+    "labels": [
+      "chest",
+      "double-chest",
+      "setblock",
+      "type"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-06-30T21:39:51.000+0000",
+    "resolution_date": "2024-10-30T10:30:35.000+0000",
+    "updated_date": "2024-10-30T10:30:42.000+0000",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-192791",
+    "summary": "Doors' block states cannot be set if another door half exists",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-06-30T00:26:26.000+0000",
+    "resolution_date": "2024-10-30T10:31:03.000+0000",
+    "updated_date": "2024-10-30T10:31:03.000+0000",
+    "watches": 9,
+    "votes": 20
+  },
+  {
+    "id": "MC-192498",
+    "summary": "/fill and /setblock cannot set different directional block states of several blocks, such as glass panes and iron bars",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-06-28T14:22:31.000+0000",
+    "resolution_date": "2024-10-30T10:29:43.000+0000",
+    "updated_date": "2024-10-30T10:30:20.000+0000",
+    "watches": 6,
+    "votes": 14
+  },
+  {
+    "id": "MC-191698",
+    "summary": "Cannot set \"shape\" block state of stairs with /setblock",
+    "labels": [
+      "block-state",
+      "command",
+      "shape",
+      "stairs"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-06-24T21:53:27.000+0000",
+    "resolution_date": "2024-10-30T10:23:07.000+0000",
+    "updated_date": "2024-10-30T10:23:07.000+0000",
+    "watches": 24,
+    "votes": 57
+  },
+  {
+    "id": "MC-191096",
+    "summary": "Fences and walls can no longer be placed in invalid block states by using /setblock or /fill",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-06-23T09:19:48.000+0000",
+    "resolution_date": "2024-10-30T10:29:53.000+0000",
+    "updated_date": "2024-10-30T10:29:53.000+0000",
+    "watches": 11,
+    "votes": 22
+  },
+  {
+    "id": "MC-166614",
+    "summary": "Advancements menu doesn't render titles fully when they're longer than roughly 30 characters",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2019-11-27T15:20:07.000+0000",
+    "resolution_date": "2024-10-22T15:24:08.000+0000",
+    "updated_date": "2024-10-22T15:24:08.000+0000",
+    "watches": 9,
+    "votes": 22
+  },
+  {
+    "id": "MC-158205",
+    "summary": "Ender Dragon doesn't take damage from melee attacks unless hit a certain way",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Entities",
+      "Hitboxes"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2019-08-01T17:07:09.000+0000",
+    "resolution_date": "2024-10-30T11:02:21.000+0000",
+    "updated_date": "2024-10-30T11:31:05.000+0000",
+    "watches": 27,
+    "votes": 61
+  },
+  {
+    "id": "MC-152728",
+    "summary": "The player continues sprinting when performing actions that slow them down",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2019-05-23T15:59:16.000+0000",
+    "resolution_date": "2024-10-25T12:51:22.000+0000",
+    "updated_date": "2024-10-25T15:11:58.000+0000",
+    "watches": 43,
+    "votes": 105
+  },
+  {
+    "id": "MC-134002",
+    "summary": "Blocks at y=-64 don't render on a map",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2018-07-18T19:52:33.000+0000",
+    "resolution_date": "2024-10-22T15:24:24.000+0000",
+    "updated_date": "2024-10-22T15:24:24.000+0000",
+    "watches": 14,
+    "votes": 57
+  },
+  {
+    "id": "MC-111516",
+    "summary": "Player flickers/turns invisible when flying at high speeds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2016-12-17T17:10:57.000+0000",
+    "resolution_date": "2024-10-22T15:24:23.000+0000",
+    "updated_date": "2024-10-22T15:24:23.000+0000",
+    "watches": 11,
+    "votes": 25
+  },
+  {
+    "id": "MC-86153",
+    "summary": "Ctrl Pick Block gives new item even if picked item already exists in inventory",
+    "labels": [
+      "NBT",
+      "ctrl",
+      "pick-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2015-08-14T14:41:53.000+0000",
+    "resolution_date": "2024-10-28T09:54:41.000+0000",
+    "updated_date": "2024-10-28T09:54:41.000+0000",
+    "watches": 9,
+    "votes": 13
+  },
+  {
+    "id": "MC-74408",
+    "summary": "The brewing stand GUI does not have container sprites for the fuel and potion output slots",
+    "labels": [
+      "brewing_stand",
+      "gui",
+      "inconsistent-textures",
+      "resource-pack-support",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-11-16T17:15:12.000+0000",
+    "resolution_date": "2024-10-23T07:13:09.000+0000",
+    "updated_date": "2024-10-23T07:13:09.000+0000",
+    "watches": 24,
+    "votes": 48
+  },
+  {
+    "id": "MC-72846",
+    "summary": "Altering the time of day using commands is delayed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-10-10T01:45:58.000+0000",
+    "resolution_date": "2024-10-22T15:24:22.000+0000",
+    "updated_date": "2024-10-27T12:07:09.000+0000",
+    "watches": 12,
+    "votes": 21
+  },
+  {
+    "id": "MC-71990",
+    "summary": "The 'Hat' layer of a player skin is not shown in the tab list under certain conditions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-09-17T11:25:37.000+0000",
+    "resolution_date": "2024-10-22T15:24:22.000+0000",
+    "updated_date": "2024-10-22T15:24:22.000+0000",
+    "watches": 30,
+    "votes": 54
+  },
+  {
+    "id": "MC-59308",
+    "summary": "Dark/pale oak leaves sometimes do not generate centered on the tree",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "World generation"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-06-26T22:44:03.000+0000",
+    "resolution_date": "2024-10-22T15:24:10.000+0000",
+    "updated_date": "2024-10-22T15:24:10.000+0000",
+    "watches": 6,
+    "votes": 2
+  },
+  {
+    "id": "MC-55347",
+    "summary": "Title with long duration shows in other world",
+    "labels": [
+      "/title",
+      "duration"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-05-17T09:07:56.000+0000",
+    "resolution_date": "2024-10-22T15:24:21.000+0000",
+    "updated_date": "2024-10-22T15:24:21.000+0000",
+    "watches": 19,
+    "votes": 40
+  },
+  {
+    "id": "MC-50614",
+    "summary": "Villager trading window is not closed when villager leaves interaction range",
+    "labels": [
+      "trading",
+      "villager"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Trading",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-03-08T17:20:22.000+0000",
+    "resolution_date": "2024-10-22T15:24:19.000+0000",
+    "updated_date": "2024-10-22T15:24:19.000+0000",
+    "watches": 14,
+    "votes": 22
+  },
+  {
+    "id": "MC-49071",
+    "summary": "The title of written books is not displayed in item frames unless renamed with anvils",
+    "labels": [
+      "glow_item_frame",
+      "item_frame",
+      "written_book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-02-19T11:29:55.000+0000",
+    "resolution_date": "2024-10-22T15:24:19.000+0000",
+    "updated_date": "2024-10-22T15:24:19.000+0000",
+    "watches": 9,
+    "votes": 17
+  },
+  {
+    "id": "MC-16132",
+    "summary": "Cave carvers don't cut through snow blocks",
+    "labels": [
+      "cave-carver",
+      "snow",
+      "snow_block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "Minecraft 14w20b",
+      "24w44a"
+    ],
+    "creation_date": "2013-05-23T06:35:17.000+0000",
+    "resolution_date": "2024-10-22T15:24:20.000+0000",
+    "updated_date": "2024-10-22T15:24:20.000+0000",
+    "watches": 28,
+    "votes": 56
+  },
+  {
+    "id": "MC-12829",
+    "summary": "Flying through climbable blocks in creative mode slows you down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2013-03-25T14:29:59.000+0000",
+    "resolution_date": "2024-10-22T15:24:18.000+0000",
+    "updated_date": "2024-10-30T14:44:26.000+0000",
+    "watches": 17,
+    "votes": 37
+  }
+]
