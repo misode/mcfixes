@@ -1296,7 +1296,7 @@
     ],
     "creation_date": "2023-10-23T00:29:17.000+0000",
     "resolution_date": "2024-10-29T13:25:46.000+0000",
-    "updated_date": "2024-10-30T14:21:45.000+0000",
+    "updated_date": "2024-10-30T16:55:08.000+0000",
     "watches": 3,
     "votes": 1
   },
@@ -1467,6 +1467,29 @@
     "votes": 16
   },
   {
+    "id": "MC-193315",
+    "summary": "/setblock and /fill resets the instrument block state of note blocks",
+    "labels": [
+      "/fill",
+      "/setblock",
+      "note-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-07-02T20:50:35.000+0000",
+    "resolution_date": "2024-10-30T16:50:42.000+0000",
+    "updated_date": "2024-10-30T16:50:42.000+0000",
+    "watches": 6,
+    "votes": 10
+  },
+  {
     "id": "MC-192959",
     "summary": "Cannot setblock a directional state on redstone wire nor tripwire",
     "labels": [],
@@ -1510,6 +1533,25 @@
     "updated_date": "2024-10-30T10:30:42.000+0000",
     "watches": 2,
     "votes": 6
+  },
+  {
+    "id": "MC-192943",
+    "summary": "Cannot set the in_wall block state of fence gates with /setblock or /fill",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-06-30T20:03:33.000+0000",
+    "resolution_date": "2024-10-30T16:48:21.000+0000",
+    "updated_date": "2024-10-30T16:48:21.000+0000",
+    "watches": 3,
+    "votes": 9
   },
   {
     "id": "MC-192791",
