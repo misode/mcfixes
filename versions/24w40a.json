@@ -542,6 +542,30 @@
     "votes": 8
   },
   {
+    "id": "MC-123739",
+    "summary": "Recipe book entries are no longer sorted in any meaningful manner",
+    "labels": [
+      "category",
+      "recipe-book",
+      "sorting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2018-01-02T00:57:15.000+0000",
+    "resolution_date": "2024-10-30T10:54:49.000+0000",
+    "updated_date": "2024-10-30T10:54:49.000+0000",
+    "watches": 14,
+    "votes": 23
+  },
+  {
     "id": "MC-108323",
     "summary": "Underlines in chat and /title command intersect each other, causing an ugly effect when fading",
     "labels": [
