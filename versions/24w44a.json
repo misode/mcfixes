@@ -735,6 +735,25 @@
     "votes": 4
   },
   {
+    "id": "MC-277154",
+    "summary": "Sculk sensors are not activated upon creakings dying through their creaking hearts being destroyed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-10-02T22:29:21.000+0000",
+    "resolution_date": "2024-10-31T16:00:05.000+0000",
+    "updated_date": "2024-10-31T16:00:05.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
     "id": "MC-277145",
     "summary": "The 2 brightest pixel colors on pale oak boat items are wrong",
     "labels": [
