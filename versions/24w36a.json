@@ -1,5 +1,24 @@
 [
   {
+    "id": "MC-277688",
+    "summary": "Force disconnect when quickly editing then breaking sign",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a"
+    ],
+    "creation_date": "2024-10-19T03:36:26.000+0000",
+    "resolution_date": "2024-11-04T14:18:21.000+0000",
+    "updated_date": "2024-11-04T14:18:21.000+0000",
+    "watches": 4,
+    "votes": 2
+  },
+  {
     "id": "MC-276204",
     "summary": "Dolphins and axolotls keep trying to swim into the seabed",
     "labels": [
