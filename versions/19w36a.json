@@ -171,6 +171,28 @@
     "votes": 8
   },
   {
+    "id": "MC-159508",
+    "summary": "Ctrl + Pick block on beehives and nests does not copy their honey levels",
+    "labels": [
+      "pick-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a",
+      "Future Update"
+    ],
+    "creation_date": "2019-08-23T06:08:58.000+0000",
+    "resolution_date": "2024-11-04T15:51:46.000+0000",
+    "updated_date": "2024-11-04T15:51:46.000+0000",
+    "watches": 12,
+    "votes": 28
+  },
+  {
     "id": "MC-159441",
     "summary": "Bees stay leashed when leaving a bee hive, despite having dropped their lead when entering it, thus duplicating the lead",
     "labels": [],
