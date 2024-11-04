@@ -1896,6 +1896,25 @@
     "votes": 22
   },
   {
+    "id": "MC-165778",
+    "summary": "Maps ignore blocks at the lowest block position (y = -64 in the Overworld) with no block above",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2019-11-17T03:07:58.000+0000",
+    "resolution_date": "2024-11-04T13:45:06.000+0000",
+    "updated_date": "2024-11-04T13:45:06.000+0000",
+    "watches": 8,
+    "votes": 10
+  },
+  {
     "id": "MC-158205",
     "summary": "Ender Dragon doesn't take damage from melee attacks unless hit a certain way",
     "labels": [],
