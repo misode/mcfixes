@@ -864,6 +864,25 @@
     "votes": 57
   },
   {
+    "id": "MC-166809",
+    "summary": "Cooldown rendering stutters while pausing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w20a"
+    ],
+    "creation_date": "2019-11-29T18:27:50.000+0000",
+    "resolution_date": "2024-11-05T10:08:15.000+0000",
+    "updated_date": "2024-11-05T10:08:15.000+0000",
+    "watches": 8,
+    "votes": 11
+  },
+  {
     "id": "MC-137719",
     "summary": "The player's horizontal motion doesn't affect fired projectiles in certain situations",
     "labels": [],
