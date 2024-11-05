@@ -757,6 +757,27 @@
     "votes": 10
   },
   {
+    "id": "MC-272994",
+    "summary": "Allays assigned to a player can be set on fire with sweeping and fire aspect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a",
+      "Future Update"
+    ],
+    "creation_date": "2024-06-05T21:29:16.000+0000",
+    "resolution_date": "2024-11-05T16:04:46.000+0000",
+    "updated_date": "2024-11-05T16:04:46.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-272932",
     "summary": "Auto-save text in the pause menu is rendered at the wrong position",
     "labels": [],
