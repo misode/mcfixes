@@ -1,0 +1,1443 @@
+[
+  {
+    "id": "MC-278071",
+    "summary": "\"minecraft.used:minecraft.trident\" doesn't increase when throwing a trident",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Statistics"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-11-03T08:51:57.000+0000",
+    "resolution_date": "2024-11-06T09:34:12.000+0000",
+    "updated_date": "2024-11-06T09:34:12.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-278028",
+    "summary": "Using items underwater can force you to exit swimming mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-11-01T16:29:56.000+0000",
+    "resolution_date": "2024-11-06T08:08:30.000+0000",
+    "updated_date": "2024-11-06T08:08:37.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-278004",
+    "summary": "Hitting a creaking heart with a wind charge kills the creaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-31T16:31:14.000+0000",
+    "resolution_date": "2024-11-05T15:24:46.000+0000",
+    "updated_date": "2024-11-05T15:24:46.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-278002",
+    "summary": "Sculk sensors are not activated upon resin clumps spawning from creaking hearts",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-31T14:26:50.000+0000",
+    "resolution_date": "2024-11-05T15:24:50.000+0000",
+    "updated_date": "2024-11-05T15:24:50.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-277994",
+    "summary": "Picking a decorated pot or a shulker box always keeps its container data",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-31T12:26:10.000+0000",
+    "resolution_date": "2024-11-04T15:51:45.000+0000",
+    "updated_date": "2024-11-04T15:51:45.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-277983",
+    "summary": "Naturally-spawned creaking hearts drop experience when broken in Creative mode",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-31T06:26:51.000+0000",
+    "resolution_date": "2024-11-05T15:24:43.000+0000",
+    "updated_date": "2024-11-05T15:24:43.000+0000",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-277972",
+    "summary": "You can no longer swim when crouched under a slab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T22:17:02.000+0000",
+    "resolution_date": "2024-11-04T13:44:07.000+0000",
+    "updated_date": "2024-11-04T13:44:07.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-277970",
+    "summary": "Hanging signs don't display chains when attached to the side of a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T21:56:00.000+0000",
+    "resolution_date": "2024-11-06T09:00:10.000+0000",
+    "updated_date": "2024-11-06T09:00:10.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277967",
+    "summary": "The game crashes when certain explosions occur near a creaking in its death animation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T21:20:41.000+0000",
+    "resolution_date": "2024-11-05T15:24:41.000+0000",
+    "updated_date": "2024-11-05T15:24:41.000+0000",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-277966",
+    "summary": "Creaking does not generate resin from player-caused explosions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T21:12:20.000+0000",
+    "resolution_date": "2024-11-05T15:24:46.000+0000",
+    "updated_date": "2024-11-05T15:24:46.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277964",
+    "summary": "Resin is not generated when a creaking is attacked by a wolf owned by a player",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T20:56:47.000+0000",
+    "resolution_date": "2024-11-05T15:24:45.000+0000",
+    "updated_date": "2024-11-05T15:24:45.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-277961",
+    "summary": "Experience orbs incorrectly bounce up",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T19:38:26.000+0000",
+    "resolution_date": "2024-11-04T14:32:13.000+0000",
+    "updated_date": "2024-11-04T14:32:13.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-277955",
+    "summary": "Using a loom crashes the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T18:45:12.000+0000",
+    "resolution_date": "2024-11-06T09:00:09.000+0000",
+    "updated_date": "2024-11-06T09:00:09.000+0000",
+    "watches": 6,
+    "votes": 13
+  },
+  {
+    "id": "MC-277954",
+    "summary": "Creaking Heart underwater plays spawning sounds in a loop",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T18:42:19.000+0000",
+    "resolution_date": "2024-11-05T15:24:48.000+0000",
+    "updated_date": "2024-11-05T15:24:48.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-277952",
+    "summary": "Sprinting isn't canceled upon flying with elytra",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T18:11:16.000+0000",
+    "resolution_date": "2024-11-04T13:44:08.000+0000",
+    "updated_date": "2024-11-04T13:44:08.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277951",
+    "summary": "Eyeblossom is placed in an unexpected position in the Creative inventory",
+    "labels": [
+      "creative-inventory-contents"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T18:06:40.000+0000",
+    "resolution_date": "2024-11-05T15:24:44.000+0000",
+    "updated_date": "2024-11-05T15:24:44.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-277950",
+    "summary": "Open potted eyeblossom is shaded (flower_pot_cross_emissive)",
+    "labels": [
+      "unwanted-model-shading"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T18:01:30.000+0000",
+    "resolution_date": "2024-11-05T15:24:44.000+0000",
+    "updated_date": "2024-11-05T15:24:44.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-277948",
+    "summary": "Suspicious stew gives different durations of Blindness for Eyeblossom and Azure Bluet",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T17:54:56.000+0000",
+    "resolution_date": "2024-11-05T15:24:40.000+0000",
+    "updated_date": "2024-11-05T15:24:40.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277945",
+    "summary": "Incorrect verb form in \"Elytra swooshes\" subtitle",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T16:46:41.000+0000",
+    "resolution_date": "2024-11-05T15:24:47.000+0000",
+    "updated_date": "2024-11-05T15:24:47.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-277941",
+    "summary": "resin_clump is not mirrored correctly from behind",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T15:46:39.000+0000",
+    "resolution_date": "2024-11-05T15:24:49.000+0000",
+    "updated_date": "2024-11-05T15:24:49.000+0000",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-277939",
+    "summary": "Programmer Art's empty slot icons may not have been correctly updated for 24w44a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T15:41:18.000+0000",
+    "resolution_date": "2024-10-31T10:54:30.000+0000",
+    "updated_date": "2024-10-31T10:54:30.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277933",
+    "summary": "Smithing Table doesn't show a Clump icon for ingredient slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T15:10:08.000+0000",
+    "resolution_date": "2024-11-05T15:24:40.000+0000",
+    "updated_date": "2024-11-05T15:24:40.000+0000",
+    "watches": 1,
+    "votes": 5
+  },
+  {
+    "id": "MC-277932",
+    "summary": "Resin Clump is not part of the #replaceable block tag",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T15:04:13.000+0000",
+    "resolution_date": "2024-11-05T15:24:41.000+0000",
+    "updated_date": "2024-11-05T15:24:41.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-277931",
+    "summary": "Incorrect display on the map of the flower Closed and Open Eyeblossom",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T14:59:11.000+0000",
+    "resolution_date": "2024-11-05T15:24:42.000+0000",
+    "updated_date": "2024-11-05T15:24:42.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-277930",
+    "summary": "Eyeblossom subtitles are inverted",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T14:40:24.000+0000",
+    "resolution_date": "2024-11-05T15:24:42.000+0000",
+    "updated_date": "2024-11-05T15:24:42.000+0000",
+    "watches": 0,
+    "votes": 8
+  },
+  {
+    "id": "MC-277929",
+    "summary": "The game crashes when attempting to use the void preset",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T14:29:18.000+0000",
+    "resolution_date": "2024-11-04T15:51:45.000+0000",
+    "updated_date": "2024-11-04T15:51:45.000+0000",
+    "watches": 8,
+    "votes": 23
+  },
+  {
+    "id": "MC-277926",
+    "summary": "Resin Brick Slab is not part of the #slab block and item tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T14:16:09.000+0000",
+    "resolution_date": "2024-11-05T15:24:43.000+0000",
+    "updated_date": "2024-11-05T15:35:57.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-277925",
+    "summary": "Resin Brick Stairs are not part of the #stairs block and item tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-30T14:14:21.000+0000",
+    "resolution_date": "2024-11-05T15:24:48.000+0000",
+    "updated_date": "2024-11-05T15:35:52.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-277916",
+    "summary": "Containers are locked when upgrading a world from certain versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-29T20:16:13.000+0000",
+    "resolution_date": "2024-11-06T09:00:09.000+0000",
+    "updated_date": "2024-11-06T09:00:09.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-277264",
+    "summary": "The Creaking can be knocked back by zoglins",
+    "labels": [
+      "experimental_winter_drop"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-04T13:31:28.000+0000",
+    "resolution_date": "2024-11-06T11:25:45.000+0000",
+    "updated_date": "2024-11-06T11:25:45.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-277243",
+    "summary": "Creakings take knockback from Punch bows",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-04T01:44:27.000+0000",
+    "resolution_date": "2024-11-06T11:25:46.000+0000",
+    "updated_date": "2024-11-06T11:25:46.000+0000",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-277149",
+    "summary": "Creakings are affected by knockback from mace smash attacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-02T21:53:41.000+0000",
+    "resolution_date": "2024-11-06T11:25:47.000+0000",
+    "updated_date": "2024-11-06T11:25:47.000+0000",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-277092",
+    "summary": "The eyes of creakings aren't visible when creakings have the invisibility effect",
+    "labels": [
+      "creaking",
+      "eyes",
+      "invisibility"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-02T15:53:39.000+0000",
+    "resolution_date": "2024-11-05T15:24:47.000+0000",
+    "updated_date": "2024-11-05T15:24:47.000+0000",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-277082",
+    "summary": "Creakings take knockback from wind charges",
+    "labels": [
+      "creaking",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-10-02T15:36:33.000+0000",
+    "resolution_date": "2024-11-06T11:25:46.000+0000",
+    "updated_date": "2024-11-06T11:25:46.000+0000",
+    "watches": 6,
+    "votes": 7
+  },
+  {
+    "id": "MC-276847",
+    "summary": "Bundles given the model of a different bundle will not preserve their color when scrolled through",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-19T15:20:19.000+0000",
+    "resolution_date": "2024-11-04T15:18:14.000+0000",
+    "updated_date": "2024-11-04T15:18:14.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-276828",
+    "summary": "Minecraft no longer prints an error to the game log when a model fails to define a texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Debug",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-18T19:21:50.000+0000",
+    "resolution_date": "2024-11-04T15:15:20.000+0000",
+    "updated_date": "2024-11-04T15:15:20.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-276771",
+    "summary": "Missing texture when a damageable item with one of several template models is destroyed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-16T20:35:06.000+0000",
+    "resolution_date": "2024-11-04T15:17:43.000+0000",
+    "updated_date": "2024-11-04T15:17:44.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-276732",
+    "summary": "Colors will carry over from item ID to target model",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-15T16:25:37.000+0000",
+    "resolution_date": "2024-11-04T15:17:35.000+0000",
+    "updated_date": "2024-11-04T15:17:35.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-276731",
+    "summary": "Items which use entity models will not render another entity model if specified via item model component",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-15T16:12:22.000+0000",
+    "resolution_date": "2024-11-04T15:17:26.000+0000",
+    "updated_date": "2024-11-04T15:17:26.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-276730",
+    "summary": "Bundles appear dark in the inventory if given a custom item model for a block and then scrolled through",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-15T16:02:04.000+0000",
+    "resolution_date": "2024-11-04T15:17:15.000+0000",
+    "updated_date": "2024-11-04T15:17:15.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-276728",
+    "summary": "Tridents and spyglasses appear dark in the inventory if given a custom item model for a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Rendering",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-15T15:32:56.000+0000",
+    "resolution_date": "2024-11-04T15:17:09.000+0000",
+    "updated_date": "2024-11-04T15:17:09.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-276654",
+    "summary": "item_model item component breaks on trident",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-13T02:28:52.000+0000",
+    "resolution_date": "2024-11-04T15:17:05.000+0000",
+    "updated_date": "2024-11-04T15:17:05.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-276412",
+    "summary": "Custom item models set to a shield and various other items all create invisible items",
+    "labels": [
+      "command",
+      "item",
+      "texture"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-09-05T21:23:53.000+0000",
+    "resolution_date": "2024-11-04T15:16:54.000+0000",
+    "updated_date": "2024-11-04T15:16:54.000+0000",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-276115",
+    "summary": "New Bee Nest and Beehive item models don't use the block parent",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-08-28T15:04:32.000+0000",
+    "resolution_date": "2024-11-04T15:16:47.000+0000",
+    "updated_date": "2024-11-06T09:44:00.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-276110",
+    "summary": "honey_level model predicate range is 1 for level 5 and 0 for levels 1-4",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-08-28T14:25:45.000+0000",
+    "resolution_date": "2024-11-04T15:15:21.000+0000",
+    "updated_date": "2024-11-04T15:15:21.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-275338",
+    "summary": "Sprint particles can be seen if you mount a minecart (with no rail below it) while running",
+    "labels": [
+      "minecart"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-08-15T23:17:49.000+0000",
+    "resolution_date": "2024-11-06T15:42:08.000+0000",
+    "updated_date": "2024-11-06T15:42:08.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-275215",
+    "summary": "Experiments warning goes off the screen if viewed at low window size",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-08-15T15:40:02.000+0000",
+    "resolution_date": "2024-11-06T14:21:35.000+0000",
+    "updated_date": "2024-11-06T15:45:16.000+0000",
+    "watches": 4,
+    "votes": 6
+  },
+  {
+    "id": "MC-275011",
+    "summary": "Instant mine does not work when standing inside of cobwebs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w36a",
+      "24w45a"
+    ],
+    "creation_date": "2024-08-07T22:35:51.000+0000",
+    "resolution_date": "2024-11-06T11:32:31.000+0000",
+    "updated_date": "2024-11-06T11:32:31.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-274268",
+    "summary": "Trial Spawner keeps flashing after cooldown ends",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-07-08T12:03:51.000+0000",
+    "resolution_date": "2024-10-30T14:25:47.000+0000",
+    "updated_date": "2024-10-30T14:25:47.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-273635",
+    "summary": "Trial spawners forget their designated mob when placed by player out of creative mode, assigned by spawn eggs",
+    "labels": [
+      "spawn_egg",
+      "trial-spawner"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-06-19T22:35:35.000+0000",
+    "resolution_date": "2024-10-30T14:25:46.000+0000",
+    "updated_date": "2024-10-30T14:25:46.000+0000",
+    "watches": 12,
+    "votes": 25
+  },
+  {
+    "id": "MC-273522",
+    "summary": "Mobs with CanPickUpLoot no longer pick up enchanted items after picking up an unenchanted item",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-06-17T10:53:57.000+0000",
+    "resolution_date": "2024-11-06T09:57:55.000+0000",
+    "updated_date": "2024-11-06T09:57:55.000+0000",
+    "watches": 11,
+    "votes": 17
+  },
+  {
+    "id": "MC-273450",
+    "summary": "Mobs with CanPickUpLoot:1b behave inconsistently with the mace / trident",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-06-15T18:05:30.000+0000",
+    "resolution_date": "2024-11-06T09:57:55.000+0000",
+    "updated_date": "2024-11-06T09:57:55.000+0000",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-272994",
+    "summary": "Allays assigned to a player can be set on fire with sweeping and fire aspect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w33a",
+      "24w45a"
+    ],
+    "creation_date": "2024-06-05T21:29:16.000+0000",
+    "resolution_date": "2024-11-05T16:04:46.000+0000",
+    "updated_date": "2024-11-05T16:04:46.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-271786",
+    "summary": "Empty block states in noise_provider does not cause validation to fail, causing crash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-05-09T02:37:52.000+0000",
+    "resolution_date": "2024-11-06T09:00:08.000+0000",
+    "updated_date": "2024-11-06T09:00:08.000+0000",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-270136",
+    "summary": "Thrown projectiles with custom_model_data do not maintain proper particles when breaking",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Particles",
+      "Projectiles"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-03-30T02:17:22.000+0000",
+    "resolution_date": "2024-11-04T15:15:21.000+0000",
+    "updated_date": "2024-11-04T15:15:21.000+0000",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-269749",
+    "summary": "Report Player scroll bar does not have a background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-03-22T08:40:00.000+0000",
+    "resolution_date": "2024-11-06T15:52:41.000+0000",
+    "updated_date": "2024-11-06T15:52:41.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-269616",
+    "summary": "Telemetry Data scroll bar does not have a background",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-03-20T15:28:13.000+0000",
+    "resolution_date": "2024-10-31T12:42:29.000+0000",
+    "updated_date": "2024-10-31T12:42:29.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-267343",
+    "summary": "Sprinting isn't canceled upon riding entities",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2023-12-16T12:24:13.000+0000",
+    "resolution_date": "2024-11-04T13:44:08.000+0000",
+    "updated_date": "2024-11-04T13:44:08.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-260216",
+    "summary": "Decorated pots aren't rendered when held by endermen or as block display entities",
+    "labels": [
+      "decorated_pot"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2023-02-16T11:53:15.000+0000",
+    "resolution_date": "2024-11-04T15:18:34.000+0000",
+    "updated_date": "2024-11-04T15:18:34.000+0000",
+    "watches": 4,
+    "votes": 12
+  },
+  {
+    "id": "MC-249079",
+    "summary": "Sculk veins are not mirrored correctly from behind",
+    "labels": [
+      "incorrect-uv",
+      "plane-mirroring",
+      "sculk_vein"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2022-03-16T17:06:11.000+0000",
+    "resolution_date": "2024-11-05T15:24:49.000+0000",
+    "updated_date": "2024-11-05T15:35:29.000+0000",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-229142",
+    "summary": "Spyglass texture doesn't allow override through resource pack",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2021-06-15T16:27:56.000+0000",
+    "resolution_date": "2024-11-04T15:16:30.000+0000",
+    "updated_date": "2024-11-04T15:16:30.000+0000",
+    "watches": 22,
+    "votes": 28
+  },
+  {
+    "id": "MC-206684",
+    "summary": "Spyglass particles have no associated texture",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2020-11-26T04:07:06.000+0000",
+    "resolution_date": "2024-11-04T15:16:16.000+0000",
+    "updated_date": "2024-11-04T15:16:16.000+0000",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-202250",
+    "summary": "Sprinting particles appear when sprinting inside of boats in shallow water",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2020-10-17T02:56:58.000+0000",
+    "resolution_date": "2024-11-06T15:43:02.000+0000",
+    "updated_date": "2024-11-06T15:43:02.000+0000",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-201940",
+    "summary": "After dying, Ender Dragon body part hitboxes do not move upwards with the main hitbox",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2020-10-11T22:41:07.000+0000",
+    "resolution_date": "2024-11-04T14:32:12.000+0000",
+    "updated_date": "2024-11-04T14:32:12.000+0000",
+    "watches": 8,
+    "votes": 18
+  },
+  {
+    "id": "MC-193336",
+    "summary": "Heads/skulls don't render when held by an enderman or as block display entities",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2020-07-02T23:03:14.000+0000",
+    "resolution_date": "2024-11-04T15:18:25.000+0000",
+    "updated_date": "2024-11-04T15:18:25.000+0000",
+    "watches": 8,
+    "votes": 17
+  },
+  {
+    "id": "MC-193176",
+    "summary": "Most mobs with CanPickUpLoot prefer swords over axes and will downgrade their weapon",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2020-07-02T00:35:53.000+0000",
+    "resolution_date": "2024-11-06T09:57:56.000+0000",
+    "updated_date": "2024-11-06T09:57:56.000+0000",
+    "watches": 12,
+    "votes": 10
+  },
+  {
+    "id": "MC-186341",
+    "summary": "Command autocomplete doesn't consider parts after a slash",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2020-05-29T23:31:57.000+0000",
+    "resolution_date": "2024-11-06T09:00:08.000+0000",
+    "updated_date": "2024-11-06T09:00:08.000+0000",
+    "watches": 10,
+    "votes": 2
+  },
+  {
+    "id": "MC-166072",
+    "summary": "Custom Trident model ignores \"layer0\" and \"elements\" section",
+    "labels": [
+      "item-model",
+      "resource-pack-support"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs",
+      "Textures and models"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2019-11-22T12:37:01.000+0000",
+    "resolution_date": "2024-11-04T15:15:54.000+0000",
+    "updated_date": "2024-11-04T15:15:54.000+0000",
+    "watches": 32,
+    "votes": 84
+  },
+  {
+    "id": "MC-159508",
+    "summary": "Ctrl + Pick block on beehives and nests does not copy their honey levels",
+    "labels": [
+      "pick-block"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "19w36a",
+      "24w45a"
+    ],
+    "creation_date": "2019-08-23T06:08:58.000+0000",
+    "resolution_date": "2024-11-04T15:51:46.000+0000",
+    "updated_date": "2024-11-04T15:51:46.000+0000",
+    "watches": 12,
+    "votes": 28
+  },
+  {
+    "id": "MC-158872",
+    "summary": "Models use model of last matched predicate, not closest match",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2019-08-13T00:12:35.000+0000",
+    "resolution_date": "2024-11-04T15:15:43.000+0000",
+    "updated_date": "2024-11-04T15:15:43.000+0000",
+    "watches": 5,
+    "votes": 9
+  },
+  {
+    "id": "MC-99848",
+    "summary": "Sprinting isn't canceled upon receiving the blindness effect",
+    "labels": [
+      "blindness"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2016-03-21T00:07:19.000+0000",
+    "resolution_date": "2024-11-04T13:44:07.000+0000",
+    "updated_date": "2024-11-04T13:44:07.000+0000",
+    "watches": 11,
+    "votes": 16
+  },
+  {
+    "id": "MC-212",
+    "summary": "Fall damage is ignored for a couple of seconds when reloading into LAN or singleplayer worlds",
+    "labels": [
+      "mojang_internal_1"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "Minecraft 1.4.3",
+      "Minecraft 1.9.3 Pre-Release 3",
+      "24w45a"
+    ],
+    "creation_date": "2012-10-24T21:27:49.000+0000",
+    "resolution_date": "2024-11-04T13:57:59.000+0000",
+    "updated_date": "2024-11-04T13:57:59.000+0000",
+    "watches": 53,
+    "votes": 117
+  }
+]
