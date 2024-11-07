@@ -1310,6 +1310,30 @@
     "votes": 8
   },
   {
+    "id": "MC-257366",
+    "summary": "Vines, glow lichens, and sculk veins attached to the sides of shulker boxes are only destroyed when shulker box fully opens",
+    "labels": [
+      "glow_lichen",
+      "sculk_vein",
+      "shulker_box",
+      "vine"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "23w31a"
+    ],
+    "creation_date": "2022-11-09T19:26:02.000+0000",
+    "resolution_date": "2024-11-07T14:04:50.000+0000",
+    "updated_date": "2024-11-07T14:04:50.000+0000",
+    "watches": 6,
+    "votes": 8
+  },
+  {
     "id": "MC-257342",
     "summary": "You get slowed down when riding a camel in a 3 block tall area",
     "labels": [],
