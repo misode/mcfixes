@@ -1038,6 +1038,25 @@
     "votes": 1
   },
   {
+    "id": "MC-270529",
+    "summary": "Air's model does not define a particle texture, causing issues",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-04-08T14:56:09.000+0000",
+    "resolution_date": "2024-11-07T10:26:44.000+0000",
+    "updated_date": "2024-11-07T10:26:44.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-270136",
     "summary": "Thrown projectiles with custom_model_data do not maintain proper particles when breaking",
     "labels": [],
