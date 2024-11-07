@@ -20,25 +20,6 @@
     "votes": 2
   },
   {
-    "id": "MC-278028",
-    "summary": "Using items underwater can force you to exit swimming mode",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Community Consensus",
-    "categories": [
-      "(Unassigned)"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "24w45a"
-    ],
-    "creation_date": "2024-11-01T16:29:56.000+0000",
-    "resolution_date": "2024-11-06T08:08:30.000+0000",
-    "updated_date": "2024-11-06T21:18:20.000+0000",
-    "watches": 2,
-    "votes": 1
-  },
-  {
     "id": "MC-278004",
     "summary": "Hitting a creaking heart with a wind charge kills the creaking",
     "labels": [],
@@ -114,25 +95,6 @@
     "updated_date": "2024-11-05T15:24:43.000+0000",
     "watches": 4,
     "votes": 2
-  },
-  {
-    "id": "MC-277972",
-    "summary": "You can no longer swim when crouched under a slab",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Player"
-    ],
-    "priority": "Important",
-    "fix_versions": [
-      "24w45a"
-    ],
-    "creation_date": "2024-10-30T22:17:02.000+0000",
-    "resolution_date": "2024-11-04T13:44:07.000+0000",
-    "updated_date": "2024-11-04T13:44:07.000+0000",
-    "watches": 1,
-    "votes": 3
   },
   {
     "id": "MC-277970",
