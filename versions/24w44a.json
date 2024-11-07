@@ -1382,6 +1382,30 @@
     "votes": 2
   },
   {
+    "id": "MC-265305",
+    "summary": "Unused pixels in magmacube.png UV texture map & Used section removed in previous fix",
+    "labels": [
+      "magma_cube",
+      "texture",
+      "unused-pixels",
+      "uv-mapping"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2023-09-08T03:23:02.000+0000",
+    "resolution_date": "2024-11-07T18:19:42.000+0000",
+    "updated_date": "2024-11-07T18:19:42.000+0000",
+    "watches": 6,
+    "votes": 6
+  },
+  {
     "id": "MC-265033",
     "summary": "Slots with item outline textures behave inconsistently when items are placed inside of these slots",
     "labels": [],
