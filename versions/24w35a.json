@@ -754,6 +754,27 @@
     "votes": 4
   },
   {
+    "id": "MC-223375",
+    "summary": "Pandas' bodies stay tilted after eating",
+    "labels": [
+      "panda"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w35a"
+    ],
+    "creation_date": "2021-04-16T14:20:56.000+0000",
+    "resolution_date": "2024-11-07T15:20:54.000+0000",
+    "updated_date": "2024-11-07T15:20:54.000+0000",
+    "watches": 7,
+    "votes": 22
+  },
+  {
     "id": "MC-168546",
     "summary": "Bee nest / hive items have no lore",
     "labels": [],
