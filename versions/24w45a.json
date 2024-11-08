@@ -548,27 +548,6 @@
     "votes": 10
   },
   {
-    "id": "MC-277226",
-    "summary": "Creakings not linked to any heart display wrong subtitles when attacked with non-damaging projectiles",
-    "labels": [
-      "subtitles"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Accessibility"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "24w45a"
-    ],
-    "creation_date": "2024-10-03T14:35:18.000+0000",
-    "resolution_date": "2024-11-07T12:31:04.000+0000",
-    "updated_date": "2024-11-07T12:31:04.000+0000",
-    "watches": 3,
-    "votes": 3
-  },
-  {
     "id": "MC-277149",
     "summary": "Creakings are affected by knockback from mace smash attacks",
     "labels": [],
