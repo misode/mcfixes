@@ -3503,6 +3503,27 @@
     "votes": 7
   },
   {
+    "id": "MC-220469",
+    "summary": "You cannot use items while looking at wolves owned by other players",
+    "labels": [
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2021-03-21T16:56:19.000+0000",
+    "resolution_date": "2024-11-08T12:59:57.000+0000",
+    "updated_date": "2024-11-08T12:59:57.000+0000",
+    "watches": 7,
+    "votes": 6
+  },
+  {
     "id": "MC-215752",
     "summary": "Z-fighting with paintings and item frames in solid blocks",
     "labels": [
@@ -4014,6 +4035,27 @@
     "updated_date": "2024-07-25T07:37:12.000+0000",
     "watches": 3,
     "votes": 9
+  },
+  {
+    "id": "MC-173728",
+    "summary": "The heads of baby sheep are positioned too low when they're eating grass",
+    "labels": [
+      "sheep"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-03-03T19:29:43.000+0000",
+    "resolution_date": "2024-11-08T13:10:05.000+0000",
+    "updated_date": "2024-11-08T13:10:05.000+0000",
+    "watches": 6,
+    "votes": 10
   },
   {
     "id": "MC-170863",
