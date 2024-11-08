@@ -984,6 +984,29 @@
     "votes": 17
   },
   {
+    "id": "MC-179817",
+    "summary": "Lead drop when modifying it with /data",
+    "labels": [
+      "/data",
+      "lead",
+      "leash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w06a"
+    ],
+    "creation_date": "2020-04-22T13:51:27.000+0000",
+    "resolution_date": "2024-11-08T14:07:17.000+0000",
+    "updated_date": "2024-11-08T14:07:17.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-156443",
     "summary": "In some languages, text is too long and escapes buttons",
     "labels": [
