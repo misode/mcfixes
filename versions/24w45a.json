@@ -1277,6 +1277,25 @@
     "votes": 17
   },
   {
+    "id": "MC-193313",
+    "summary": "Mob item pick up behavior is not distinct resulting in mobs constantly dropping and picking up items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2020-07-02T20:43:14.000+0000",
+    "resolution_date": "2024-11-10T05:58:58.000+0000",
+    "updated_date": "2024-11-10T05:58:58.000+0000",
+    "watches": 9,
+    "votes": 20
+  },
+  {
     "id": "MC-193176",
     "summary": "Most mobs with CanPickUpLoot prefer swords over axes and will downgrade their weapon",
     "labels": [],
