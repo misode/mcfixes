@@ -979,6 +979,25 @@
     "votes": 5
   },
   {
+    "id": "MC-273407",
+    "summary": "Block entity items with custom block states keep them as components when placed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2024-06-15T03:51:53.000+0000",
+    "resolution_date": "2024-11-11T13:06:47.000+0000",
+    "updated_date": "2024-11-11T13:06:47.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-272994",
     "summary": "Allays assigned to a player can be set on fire with sweeping and fire aspect",
     "labels": [],
