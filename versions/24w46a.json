@@ -635,6 +635,25 @@
     "votes": 7
   },
   {
+    "id": "MC-273710",
+    "summary": "Wild foxes \"trust\" the player after being leashed to a fence",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w46a"
+    ],
+    "creation_date": "2024-06-22T03:01:31.000+0000",
+    "resolution_date": "2024-11-14T13:36:41.000+0000",
+    "updated_date": "2024-11-14T13:36:41.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
     "id": "MC-272245",
     "summary": "You can get the advancement \"Shear Brilliance\" when you use shears on a leashed wolf",
     "labels": [],
