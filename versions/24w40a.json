@@ -482,6 +482,53 @@
     "votes": 6
   },
   {
+    "id": "MC-270307",
+    "summary": "Disabled item cooldown renders behind recipe book and its buttons",
+    "labels": [
+      "item",
+      "item_cooldown",
+      "recipe-book"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-04-02T21:12:37.000+0000",
+    "resolution_date": "2024-11-16T20:38:33.000+0000",
+    "updated_date": "2024-11-16T20:38:47.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-270306",
+    "summary": "Disabled item cooldown overlay renders behind effect icons in inventory",
+    "labels": [
+      "effects",
+      "item_cooldown"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w40a"
+    ],
+    "creation_date": "2024-04-02T21:00:06.000+0000",
+    "resolution_date": "2024-11-16T20:40:31.000+0000",
+    "updated_date": "2024-11-16T20:40:31.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
     "id": "MC-259651",
     "summary": "updateSkyBrightness() is not used client-side, causing multiple issues",
     "labels": [],

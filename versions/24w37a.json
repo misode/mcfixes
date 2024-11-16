@@ -1314,6 +1314,31 @@
     "votes": 21
   },
   {
+    "id": "MC-270852",
+    "summary": "Fully charged projectiles that are thrown or fired at a nearby shulker will not deflect properly",
+    "labels": [
+      "arrow",
+      "breeze",
+      "projectile",
+      "shulker",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w37a"
+    ],
+    "creation_date": "2024-04-17T05:55:52.000+0000",
+    "resolution_date": "2024-11-16T21:05:38.000+0000",
+    "updated_date": "2024-11-16T21:05:38.000+0000",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-270254",
     "summary": "Item slot highlight effect cannot be retextured",
     "labels": [
