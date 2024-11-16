@@ -4579,6 +4579,25 @@
     "votes": 16
   },
   {
+    "id": "MC-110386",
+    "summary": "Certain mobs attack themselves when targeted by a mob of the same type",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2016-11-19T14:34:09.000+0000",
+    "resolution_date": "2024-11-16T11:05:54.000+0000",
+    "updated_date": "2024-11-16T11:05:54.000+0000",
+    "watches": 12,
+    "votes": 27
+  },
+  {
     "id": "MC-101376",
     "summary": "Elytra appearance doesn't update in 1st person mode; only in 3rd person",
     "labels": [],
@@ -4800,6 +4819,25 @@
     "updated_date": "2024-08-17T13:37:43.000+0000",
     "watches": 20,
     "votes": 36
+  },
+  {
+    "id": "MC-51905",
+    "summary": "Horse model in inventory doesn't follow mouse cursor correctly if horse is facing south",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2014-03-23T17:54:17.000+0000",
+    "resolution_date": "2024-11-16T11:05:53.000+0000",
+    "updated_date": "2024-11-16T11:05:53.000+0000",
+    "watches": 6,
+    "votes": 10
   },
   {
     "id": "MC-49628",
