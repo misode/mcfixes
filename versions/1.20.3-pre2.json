@@ -176,6 +176,28 @@
     "votes": 6
   },
   {
+    "id": "MC-265788",
+    "summary": "The \"Start free Snapshot Realm\" element can be selected or remain selected causing its tooltip to erroneously be visible when other interfaces are open",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2",
+      "Future Update"
+    ],
+    "creation_date": "2023-10-12T11:52:30.000+0000",
+    "resolution_date": "2024-11-19T09:22:50.000+0000",
+    "updated_date": "2024-11-19T09:22:50.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
     "id": "MC-265776",
     "summary": "Interacting with Decorated Pots in spawn protection can create ghost items",
     "labels": [
