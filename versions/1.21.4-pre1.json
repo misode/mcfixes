@@ -220,6 +220,25 @@
     "votes": 2
   },
   {
+    "id": "MC-248264",
+    "summary": "/data remove can't remove ArmorItems",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2022-01-25T21:45:28.000+0000",
+    "resolution_date": "2024-11-20T15:52:01.000+0000",
+    "updated_date": "2024-11-20T15:52:01.000+0000",
+    "watches": 6,
+    "votes": 9
+  },
+  {
     "id": "MC-207605",
     "summary": "/data remove entity [tamed wolf] Owner does not remove ownership of the wolf",
     "labels": [],
