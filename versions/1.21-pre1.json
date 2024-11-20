@@ -1188,6 +1188,28 @@
     "votes": 2
   },
   {
+    "id": "MC-268369",
+    "summary": "Wind charges delete arrows without blowing up",
+    "labels": [
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21 Pre-Release 1"
+    ],
+    "creation_date": "2024-02-07T21:23:09.000+0000",
+    "resolution_date": "2024-11-20T18:15:50.000+0000",
+    "updated_date": "2024-11-20T18:15:50.000+0000",
+    "watches": 7,
+    "votes": 7
+  },
+  {
     "id": "MC-268185",
     "summary": "Copper grates in trial chambers are waterlogged",
     "labels": [],
