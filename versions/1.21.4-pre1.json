@@ -1,0 +1,309 @@
+[
+  {
+    "id": "MC-278390",
+    "summary": "Opening shulkers no longer trigger tripwire or pressure plates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Hitboxes"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-18T17:42:45.000+0000",
+    "resolution_date": "2024-11-20T11:13:56.000+0000",
+    "updated_date": "2024-11-20T11:13:56.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-278387",
+    "summary": "Creaking respawns when going to the nether and back",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-18T10:33:53.000+0000",
+    "resolution_date": "2024-11-19T10:04:19.000+0000",
+    "updated_date": "2024-11-19T10:55:50.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-278312",
+    "summary": "Creakings spawned from a creaking heart can be name-tagged once again",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-14T07:03:14.000+0000",
+    "resolution_date": "2024-11-19T10:04:20.000+0000",
+    "updated_date": "2024-11-19T10:04:20.000+0000",
+    "watches": 6,
+    "votes": 4
+  },
+  {
+    "id": "MC-278311",
+    "summary": "Respawned creakings from creaking hearts don't persist when the world is reloaded",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Save Data"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-14T03:08:52.000+0000",
+    "resolution_date": "2024-11-19T12:43:22.000+0000",
+    "updated_date": "2024-11-20T01:13:10.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-278302",
+    "summary": "Bundle always takes out first item and ignores selected item",
+    "labels": [
+      "bundle",
+      "inventory",
+      "item"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-13T19:11:57.000+0000",
+    "resolution_date": "2024-11-18T12:06:38.000+0000",
+    "updated_date": "2024-11-20T12:13:01.000+0000",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-278300",
+    "summary": "Creakings struck by lightning show visual fire",
+    "labels": [
+      "creaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-13T17:50:51.000+0000",
+    "resolution_date": "2024-11-19T12:43:12.000+0000",
+    "updated_date": "2024-11-19T12:43:12.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-278290",
+    "summary": "Using items while swimming or walking underwater doesn't slow the player down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-13T15:33:26.000+0000",
+    "resolution_date": "2024-11-18T12:22:42.000+0000",
+    "updated_date": "2024-11-18T12:22:42.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-278257",
+    "summary": "Oxygen bar animation can be interrupted by applying water breathing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-10T20:45:15.000+0000",
+    "resolution_date": "2024-11-18T12:06:39.000+0000",
+    "updated_date": "2024-11-18T12:06:39.000+0000",
+    "watches": 4,
+    "votes": 4
+  },
+  {
+    "id": "MC-278193",
+    "summary": "Baby piglins can't decide between crossbows and golden items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-08T10:37:32.000+0000",
+    "resolution_date": "2024-11-18T15:32:27.000+0000",
+    "updated_date": "2024-11-18T15:53:55.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-278134",
+    "summary": "The TAB key cannot be used to select messages to report after clicking the \"X message(s) hidden\" element",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2024-11-06T15:58:09.000+0000",
+    "resolution_date": "2024-11-19T09:22:50.000+0000",
+    "updated_date": "2024-11-19T09:22:50.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-265788",
+    "summary": "The \"Start free Snapshot Realm\" element can be selected or remain selected causing its tooltip to erroneously be visible when other interfaces are open",
+    "labels": [
+      "realms"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.20.3 Pre-Release 2",
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2023-10-12T11:52:30.000+0000",
+    "resolution_date": "2024-11-19T09:22:50.000+0000",
+    "updated_date": "2024-11-19T09:22:50.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-207605",
+    "summary": "/data remove entity [tamed wolf] Owner does not remove ownership of the wolf",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2020-12-04T19:21:34.000+0000",
+    "resolution_date": "2024-11-15T11:50:48.000+0000",
+    "updated_date": "2024-11-15T11:50:48.000+0000",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-179815",
+    "summary": "Data command doesn't remove leash from a mob",
+    "labels": [
+      "/data",
+      "data",
+      "lead",
+      "leash"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2020-04-22T13:26:06.000+0000",
+    "resolution_date": "2024-11-15T11:50:49.000+0000",
+    "updated_date": "2024-11-15T11:50:49.000+0000",
+    "watches": 6,
+    "votes": 10
+  },
+  {
+    "id": "MC-138100",
+    "summary": "/data remove doesn't work for the Jukebox's RecordItem tag",
+    "labels": [
+      "/data-remove",
+      "jukebox"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2018-10-26T19:52:01.000+0000",
+    "resolution_date": "2024-11-15T11:50:48.000+0000",
+    "updated_date": "2024-11-15T11:50:48.000+0000",
+    "watches": 8,
+    "votes": 11
+  },
+  {
+    "id": "MC-128225",
+    "summary": "'/data remove' can't remove the NBT \"CustomName\"",
+    "labels": [
+      "commands",
+      "nbt"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 1"
+    ],
+    "creation_date": "2018-04-11T08:28:50.000+0000",
+    "resolution_date": "2024-11-15T11:50:47.000+0000",
+    "updated_date": "2024-11-15T11:50:47.000+0000",
+    "watches": 35,
+    "votes": 57
+  }
+]
