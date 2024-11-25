@@ -1,0 +1,179 @@
+[
+  {
+    "id": "MC-278497",
+    "summary": "Using items while sneaking slows down the player way less than in previous versions",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Input",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2024-11-24T16:28:24.000+0000",
+    "resolution_date": "2024-11-25T11:50:41.000+0000",
+    "updated_date": "2024-11-25T11:50:41.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-278430",
+    "summary": "Trim materials item tag is not deterministic in data generation",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2024-11-20T21:45:22.000+0000",
+    "resolution_date": "2024-11-22T13:02:39.000+0000",
+    "updated_date": "2024-11-22T13:02:39.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-278370",
+    "summary": "Winter drop feature flag is not added to the removed features list",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Datafixer"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2024-11-17T05:25:24.000+0000",
+    "resolution_date": "2024-11-22T13:34:41.000+0000",
+    "updated_date": "2024-11-22T13:34:41.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-278282",
+    "summary": "\"Tried to load a DUMMY block entity\"/\"Tried to load a block entity\" errors at specific coordinates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2024-11-12T18:45:28.000+0000",
+    "resolution_date": "2024-11-22T08:15:16.000+0000",
+    "updated_date": "2024-11-22T08:15:16.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-278256",
+    "summary": "Horses jumping multiple times in a row take fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2024-11-10T19:58:25.000+0000",
+    "resolution_date": "2024-11-22T11:55:02.000+0000",
+    "updated_date": "2024-11-22T11:55:02.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-277169",
+    "summary": "Creaking moves while a player is looking at it while moving a certain way and looking through pale moss",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2024-10-03T00:07:32.000+0000",
+    "resolution_date": "2024-11-22T10:17:08.000+0000",
+    "updated_date": "2024-11-22T10:17:08.000+0000",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-275952",
+    "summary": "Riding a minecart above the water with Frost Walker boots on will also give the Frost Walker effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Minecart"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2024-08-24T04:29:23.000+0000",
+    "resolution_date": "2024-11-22T11:55:00.000+0000",
+    "updated_date": "2024-11-22T11:55:00.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-197857",
+    "summary": "Villagers trying to claim claimed beds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2020-08-12T20:07:03.000+0000",
+    "resolution_date": "2024-11-22T11:55:01.000+0000",
+    "updated_date": "2024-11-22T11:55:01.000+0000",
+    "watches": 20,
+    "votes": 44
+  },
+  {
+    "id": "MC-10025",
+    "summary": "Burn time indicator of a furnace not working correctly after reloading the world",
+    "labels": [
+      "furnace",
+      "rendering",
+      "smelting"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.21.4 Pre-Release 2"
+    ],
+    "creation_date": "2013-02-19T04:05:40.000+0000",
+    "resolution_date": "2024-11-22T11:55:00.000+0000",
+    "updated_date": "2024-11-22T11:55:00.000+0000",
+    "watches": 21,
+    "votes": 40
+  }
+]
