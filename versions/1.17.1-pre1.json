@@ -269,6 +269,25 @@
     "votes": 13
   },
   {
+    "id": "MC-227186",
+    "summary": "You can't clear a filled page of a writable book",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "1.17.1 Pre-release 1"
+    ],
+    "creation_date": "2021-06-02T19:11:39.000+0000",
+    "resolution_date": "2024-12-04T03:51:25.000+0000",
+    "updated_date": "2024-12-04T03:51:25.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-226948",
     "summary": "Withers are now affected by potion effects",
     "labels": [
