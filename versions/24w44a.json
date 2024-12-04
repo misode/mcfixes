@@ -1152,6 +1152,25 @@
     "votes": 12
   },
   {
+    "id": "MC-272923",
+    "summary": "1.21 main menu panorama missing ladder",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-06-03T20:04:29.000+0000",
+    "resolution_date": "2024-12-04T15:25:56.000+0000",
+    "updated_date": "2024-12-04T15:25:56.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
     "id": "MC-272105",
     "summary": "Decorated Pot is missing the \"contents\" implicit data component type",
     "labels": [],
