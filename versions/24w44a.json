@@ -1250,6 +1250,28 @@
     "votes": 3
   },
   {
+    "id": "MC-269145",
+    "summary": "Wool item entities created when shearing a sheep stutter while flying",
+    "labels": [
+      "networking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2024-03-06T21:21:28.000+0000",
+    "resolution_date": "2024-12-07T19:41:53.000+0000",
+    "updated_date": "2024-12-07T19:41:53.000+0000",
+    "watches": 2,
+    "votes": 7
+  },
+  {
     "id": "MC-268822",
     "summary": "There are no shadows on text displayed within the singleplayer, multiplayer, and realms list menus",
     "labels": [],
