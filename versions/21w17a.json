@@ -433,5 +433,24 @@
     "updated_date": "2024-10-18T21:57:30.000+0000",
     "watches": 3,
     "votes": 4
+  },
+  {
+    "id": "MC-136160",
+    "summary": "The server doesn't send information about entity death to dead players",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2018-08-17T11:38:31.000+0000",
+    "resolution_date": "2024-12-08T22:03:12.000+0000",
+    "updated_date": "2024-12-08T22:03:12.000+0000",
+    "watches": 4,
+    "votes": 8
   }
 ]
