@@ -1176,6 +1176,30 @@
     "votes": 3
   },
   {
+    "id": "MC-266572",
+    "summary": "When the experience orb is hit by a wind charge, the physical collision is much more lagged compared to the item",
+    "labels": [
+      "experience_orb",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities",
+      "Parity"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w45a"
+    ],
+    "creation_date": "2023-11-10T12:42:49.000+0000",
+    "resolution_date": "2024-12-08T06:26:27.000+0000",
+    "updated_date": "2024-12-08T06:26:27.000+0000",
+    "watches": 6,
+    "votes": 4
+  },
+  {
     "id": "MC-260216",
     "summary": "Decorated pots aren't rendered when held by endermen or as block display entities",
     "labels": [
