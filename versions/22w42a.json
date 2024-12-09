@@ -896,6 +896,25 @@
     "votes": 7
   },
   {
+    "id": "MC-241883",
+    "summary": "Mobs have difficulty pathfinding to water when they need to jump over a block",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "22w42a"
+    ],
+    "creation_date": "2021-11-18T15:22:52.000+0000",
+    "resolution_date": "2024-12-09T21:53:47.000+0000",
+    "updated_date": "2024-12-09T21:53:48.000+0000",
+    "watches": 5,
+    "votes": 9
+  },
+  {
     "id": "MC-239465",
     "summary": "Emerald block in creative inventory looks out of place",
     "labels": [
