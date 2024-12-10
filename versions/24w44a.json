@@ -1597,6 +1597,25 @@
     "votes": 18
   },
   {
+    "id": "MC-224763",
+    "summary": "Fireworks are not affected by the fog from powder snow or lava when using the \"Fabulous!\" graphic setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2021-05-03T11:33:26.000+0000",
+    "resolution_date": "2024-12-10T14:03:27.000+0000",
+    "updated_date": "2024-12-10T14:03:27.000+0000",
+    "watches": 0,
+    "votes": 5
+  },
+  {
     "id": "MC-218873",
     "summary": "Lanterns and soul lanterns require a pickaxe to drop despite being able to break the block on which they are mounted and them drop",
     "labels": [
@@ -1637,6 +1656,28 @@
     "updated_date": "2024-10-30T15:04:09.000+0000",
     "watches": 1,
     "votes": 2
+  },
+  {
+    "id": "MC-205074",
+    "summary": "Rain and snow are not affected by the fog from powder snow when using the \"Fabulous!\" graphic setting",
+    "labels": [
+      "powder_snow",
+      "rain"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-11-11T17:05:49.000+0000",
+    "resolution_date": "2024-12-10T14:03:55.000+0000",
+    "updated_date": "2024-12-10T14:03:56.000+0000",
+    "watches": 7,
+    "votes": 22
   },
   {
     "id": "MC-204124",
@@ -2153,6 +2194,26 @@
     "updated_date": "2024-10-23T07:13:09.000+0000",
     "watches": 23,
     "votes": 48
+  },
+  {
+    "id": "MC-73784",
+    "summary": "Players cannot see through ice when stuck inside of it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2014-10-29T19:24:07.000+0000",
+    "resolution_date": "2024-12-10T13:35:42.000+0000",
+    "updated_date": "2024-12-10T13:35:42.000+0000",
+    "watches": 9,
+    "votes": 16
   },
   {
     "id": "MC-72846",

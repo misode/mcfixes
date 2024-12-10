@@ -125,6 +125,25 @@
     "votes": 3
   },
   {
+    "id": "MC-278137",
+    "summary": "Inconsistent behavior occurs when the \"Sprint\" option is set to \"Hold\" while riding camels and when players sprint normally",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Input"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w46a"
+    ],
+    "creation_date": "2024-11-06T16:15:26.000+0000",
+    "resolution_date": "2024-12-10T14:10:40.000+0000",
+    "updated_date": "2024-12-10T14:10:41.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
     "id": "MC-278136",
     "summary": "Bees still get poisoned when touching closed eyeblossoms",
     "labels": [],
@@ -572,6 +591,26 @@
     "votes": 1
   },
   {
+    "id": "MC-276329",
+    "summary": "Bundles move up and down slightly when right-clicked",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Items",
+      "Player Animation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w46a"
+    ],
+    "creation_date": "2024-09-04T17:47:23.000+0000",
+    "resolution_date": "2024-12-10T14:08:21.000+0000",
+    "updated_date": "2024-12-10T14:08:22.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
     "id": "MC-275339",
     "summary": "Bad contrast in bundle interface with dark blocks",
     "labels": [
@@ -774,7 +813,7 @@
     ],
     "creation_date": "2019-08-28T23:29:47.000+0000",
     "resolution_date": "2024-11-13T11:18:37.000+0000",
-    "updated_date": "2024-11-13T15:57:56.000+0000",
+    "updated_date": "2024-12-10T13:37:40.000+0000",
     "watches": 7,
     "votes": 13
   },
