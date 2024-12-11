@@ -4342,6 +4342,25 @@
     "votes": 18
   },
   {
+    "id": "MC-151706",
+    "summary": "Player jitters when landing on a slime block with the slow falling effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2019-05-13T14:29:34.000+0000",
+    "resolution_date": "2024-12-11T18:24:05.000+0000",
+    "updated_date": "2024-12-11T18:24:05.000+0000",
+    "watches": 13,
+    "votes": 15
+  },
+  {
     "id": "MC-148041",
     "summary": "Two separate translation lines for the same thing, \"Bells Rung\" statistic ",
     "labels": [
