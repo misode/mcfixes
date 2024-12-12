@@ -3723,6 +3723,27 @@
     "votes": 13
   },
   {
+    "id": "MC-205851",
+    "summary": "Being partway inside of a cloud can cause the opposite face of that cloud to not render",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-11-16T20:51:37.000+0000",
+    "resolution_date": "2024-12-12T17:33:00.000+0000",
+    "updated_date": "2024-12-12T17:33:00.000+0000",
+    "watches": 6,
+    "votes": 8
+  },
+  {
     "id": "MC-203748",
     "summary": "Filled lava cauldrons are able to be put under water",
     "labels": [
@@ -4036,6 +4057,26 @@
     "votes": 6
   },
   {
+    "id": "MC-178660",
+    "summary": "Player jitters when landing on a bed with the slow falling effect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-04-14T14:20:22.000+0000",
+    "resolution_date": "2024-12-12T17:42:35.000+0000",
+    "updated_date": "2024-12-12T17:42:36.000+0000",
+    "watches": 10,
+    "votes": 11
+  },
+  {
     "id": "MC-177453",
     "summary": "Unneeded faces inside comparator models",
     "labels": [
@@ -4147,6 +4188,28 @@
     "updated_date": "2024-11-08T13:10:05.000+0000",
     "watches": 6,
     "votes": 10
+  },
+  {
+    "id": "MC-170977",
+    "summary": "F3 text is behind inventory and F3 cake diagram is in front of inventory",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-02-05T21:56:45.000+0000",
+    "resolution_date": "2024-12-12T17:27:52.000+0000",
+    "updated_date": "2024-12-12T17:27:52.000+0000",
+    "watches": 5,
+    "votes": 8
   },
   {
     "id": "MC-170863",
