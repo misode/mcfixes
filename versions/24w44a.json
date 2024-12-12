@@ -1916,6 +1916,27 @@
     "votes": 22
   },
   {
+    "id": "MC-186105",
+    "summary": "Rain particles look lighter than they should with graphics set to Fabulous!",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2020-05-29T14:01:49.000+0000",
+    "resolution_date": "2024-12-12T22:45:37.000+0000",
+    "updated_date": "2024-12-12T22:45:37.000+0000",
+    "watches": 7,
+    "votes": 14
+  },
+  {
     "id": "MC-181438",
     "summary": "Elytra visual shuddering when using slow falling",
     "labels": [
@@ -2145,6 +2166,25 @@
     "updated_date": "2024-11-13T16:59:26.000+0000",
     "watches": 11,
     "votes": 25
+  },
+  {
+    "id": "MC-86455",
+    "summary": "Pick-block creates ghost items in Creative when hotbar is full",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2015-08-16T15:33:28.000+0000",
+    "resolution_date": "2024-12-12T23:17:26.000+0000",
+    "updated_date": "2024-12-12T23:17:26.000+0000",
+    "watches": 4,
+    "votes": 18
   },
   {
     "id": "MC-86153",
