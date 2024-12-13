@@ -1639,6 +1639,25 @@
     "votes": 3
   },
   {
+    "id": "MC-217515",
+    "summary": "Particle effects are brighter using Fabulous! graphics setting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w44a"
+    ],
+    "creation_date": "2021-03-02T14:12:14.000+0000",
+    "resolution_date": "2024-12-12T23:21:19.000+0000",
+    "updated_date": "2024-12-12T23:21:19.000+0000",
+    "watches": 9,
+    "votes": 15
+  },
+  {
     "id": "MC-215992",
     "summary": "Inconsistency with blackstone and stone pressure plate drops compared to buttons",
     "labels": [],
@@ -1932,7 +1951,7 @@
     ],
     "creation_date": "2020-05-29T14:01:49.000+0000",
     "resolution_date": "2024-12-12T22:45:37.000+0000",
-    "updated_date": "2024-12-12T22:45:37.000+0000",
+    "updated_date": "2024-12-12T23:19:06.000+0000",
     "watches": 7,
     "votes": 14
   },

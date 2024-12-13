@@ -274,6 +274,26 @@
     "votes": 4
   },
   {
+    "id": "MC-268431",
+    "summary": "External inventory changes except for the hotbar are not registered in a creative mode item selection screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Inventory",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "24w38a"
+    ],
+    "creation_date": "2024-02-09T16:26:05.000+0000",
+    "resolution_date": "2024-12-12T23:19:26.000+0000",
+    "updated_date": "2024-12-12T23:19:27.000+0000",
+    "watches": 4,
+    "votes": 4
+  },
+  {
     "id": "MC-228070",
     "summary": "Name tags rendered in blocks have letters brighter depending on your angle",
     "labels": [],

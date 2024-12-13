@@ -4190,6 +4190,25 @@
     "votes": 10
   },
   {
+    "id": "MC-172075",
+    "summary": "Mouth/jaw of a provoked enderman becomes slightly detached when looking up or down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2020-02-14T13:11:24.000+0000",
+    "resolution_date": "2024-12-12T23:20:11.000+0000",
+    "updated_date": "2024-12-12T23:20:11.000+0000",
+    "watches": 4,
+    "votes": 15
+  },
+  {
     "id": "MC-170977",
     "summary": "F3 text is behind inventory and F3 cake diagram is in front of inventory",
     "labels": [
