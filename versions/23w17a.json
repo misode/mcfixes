@@ -214,6 +214,27 @@
     "votes": 2
   },
   {
+    "id": "MC-258267",
+    "summary": "Thin space character U+2009 displays incorrectly",
+    "labels": [
+      "font"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "23w17a"
+    ],
+    "creation_date": "2022-12-03T14:02:03.000+0000",
+    "resolution_date": "2024-12-15T13:56:30.000+0000",
+    "updated_date": "2024-12-15T13:56:31.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
     "id": "MC-254506",
     "summary": "Font file of some Korean completed font area is wrong",
     "labels": [
