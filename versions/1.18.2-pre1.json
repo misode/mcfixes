@@ -237,6 +237,25 @@
     "votes": 4
   },
   {
+    "id": "MC-159952",
+    "summary": "Camera is shifting when trying to move against a block while in a corner when \"Bobbing\" is turned on",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Camera"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "1.18.2 Pre-release 1"
+    ],
+    "creation_date": "2019-08-28T11:50:05.000+0000",
+    "resolution_date": "2024-12-16T12:08:44.000+0000",
+    "updated_date": "2024-12-16T12:18:20.000+0000",
+    "watches": 10,
+    "votes": 19
+  },
+  {
     "id": "MC-156309",
     "summary": "TNT entities dont properly collide with blocks , when being fires in X direction",
     "labels": [],
