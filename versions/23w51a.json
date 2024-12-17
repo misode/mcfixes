@@ -1459,6 +1459,31 @@
     "votes": 8
   },
   {
+    "id": "MC-108350",
+    "summary": "Totem of undying animation is rendered above hotbar, but underneath items and xp, hunger and health displays",
+    "labels": [
+      "animation",
+      "health",
+      "hotbar",
+      "hungerbar",
+      "totem_of_undying"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w51a"
+    ],
+    "creation_date": "2016-10-06T15:33:26.000+0000",
+    "resolution_date": "2024-12-17T14:54:50.000+0000",
+    "updated_date": "2024-12-17T14:54:50.000+0000",
+    "watches": 6,
+    "votes": 12
+  },
+  {
     "id": "MC-100994",
     "summary": "Items in hot bar appear on top of tab menu",
     "labels": [],
