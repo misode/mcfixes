@@ -299,6 +299,25 @@
     "votes": 22
   },
   {
+    "id": "MC-182193",
+    "summary": "The Unicode small star charictor(\u2b52) shows up bigger than the large star(\u2606)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Unconfirmed",
+    "categories": [
+      "Textures and models"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "23w45a"
+    ],
+    "creation_date": "2020-05-03T06:54:30.000+0000",
+    "resolution_date": "2024-12-18T14:03:54.000+0000",
+    "updated_date": "2024-12-18T14:03:54.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
     "id": "MC-177446",
     "summary": "\"RootVehicle\" tag in playerdata entry is not upgraded",
     "labels": [],
