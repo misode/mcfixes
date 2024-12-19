@@ -452,5 +452,22 @@
     "updated_date": "2024-12-08T22:03:12.000+0000",
     "watches": 4,
     "votes": 8
+  },
+  {
+    "id": "MC-81851",
+    "summary": "Flaming Arrow shot at Item Frame never extinguishes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [],
+    "priority": "None",
+    "fix_versions": [
+      "21w17a"
+    ],
+    "creation_date": "2015-06-28T19:59:02.000+0000",
+    "resolution_date": "2024-12-19T11:48:56.000+0000",
+    "updated_date": "2024-12-19T11:48:56.000+0000",
+    "watches": 2,
+    "votes": 2
   }
 ]
