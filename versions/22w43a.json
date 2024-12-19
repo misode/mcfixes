@@ -673,6 +673,25 @@
     "votes": 4
   },
   {
+    "id": "MC-233181",
+    "summary": "Kills with end crystals are not logged in statistics",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "22w43a"
+    ],
+    "creation_date": "2021-07-26T21:17:45.000+0000",
+    "resolution_date": "2024-12-19T13:45:43.000+0000",
+    "updated_date": "2024-12-19T13:45:43.000+0000",
+    "watches": 6,
+    "votes": 4
+  },
+  {
     "id": "MC-222407",
     "summary": "Endermen holding big dripleaf stems don't drop big dripleaves upon being killed",
     "labels": [],
