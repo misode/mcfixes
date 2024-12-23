@@ -559,6 +559,29 @@
     "votes": 5
   },
   {
+    "id": "MC-182794",
+    "summary": "Making a new map while holding one in the offhand will duplicate that map",
+    "labels": [
+      "duplication",
+      "map-item",
+      "maps"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Maps"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "21w03a"
+    ],
+    "creation_date": "2020-05-06T19:36:25.000+0000",
+    "resolution_date": "2024-12-23T16:15:24.000+0000",
+    "updated_date": "2024-12-23T16:15:25.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
     "id": "MC-174876",
     "summary": "Shulker spawn egg spawns shulker inside soul sand, snow layers, farmland, grass path and honey block",
     "labels": [],
