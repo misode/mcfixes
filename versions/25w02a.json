@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "MC-279152",
+    "summary": "Shulker bullets can't teleport through nether or end portals, end gateways",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2025-01-05T11:07:29.000+0000",
+    "resolution_date": "2025-01-08T13:08:00.000+0000",
+    "updated_date": "2025-01-08T13:08:00.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-279145",
+    "summary": "Shulker bullets are no longer affected by bubble columns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2025-01-04T21:39:39.000+0000",
+    "resolution_date": "2025-01-08T13:08:00.000+0000",
+    "updated_date": "2025-01-08T13:08:00.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-278841",
+    "summary": "Powder snow no longer slows down the player falling from a high place",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-11T17:20:49.000+0000",
+    "resolution_date": "2024-12-12T08:17:13.000+0000",
+    "updated_date": "2024-12-12T08:17:13.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-278801",
+    "summary": "The closed eyeblossom to gray dye recipe is not grouped with the other gray dye recipe",
+    "labels": [
+      "closed_eyeblossom",
+      "dye"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crafting"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-09T22:36:54.000+0000",
+    "resolution_date": "2024-12-12T13:44:50.000+0000",
+    "updated_date": "2024-12-12T13:44:50.000+0000",
+    "watches": 0,
+    "votes": 3
+  },
+  {
+    "id": "MC-278755",
+    "summary": "Teleporting far away while riding an entity softlocks the game",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Player"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-07T22:47:33.000+0000",
+    "resolution_date": "2024-12-11T09:17:39.000+0000",
+    "updated_date": "2024-12-11T09:17:39.000+0000",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-278734",
+    "summary": "Sheep's heads stutter when they look up or down",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-06T23:39:25.000+0000",
+    "resolution_date": "2024-12-18T10:30:21.000+0000",
+    "updated_date": "2024-12-18T10:30:21.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-278733",
+    "summary": "Breaking a double resin brick slab block only returns a single slab",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Loot tables"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-06T20:27:18.000+0000",
+    "resolution_date": "2024-12-11T10:13:23.000+0000",
+    "updated_date": "2024-12-11T10:13:23.000+0000",
+    "watches": 3,
+    "votes": 10
+  },
+  {
+    "id": "MC-278728",
+    "summary": "smithing_transform recipes can't set an item's components back to default",
+    "labels": [
+      "component",
+      "data-pack"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-06T09:32:40.000+0000",
+    "resolution_date": "2024-12-18T10:30:21.000+0000",
+    "updated_date": "2024-12-18T10:30:21.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-278708",
+    "summary": "Throwing ender pearls while mounted only dismounts you, without teleporting",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-05T11:09:49.000+0000",
+    "resolution_date": "2024-12-11T09:17:38.000+0000",
+    "updated_date": "2024-12-11T09:17:38.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-278683",
+    "summary": "Mobs spawned from spawners or /summon never drop their equipment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-04T21:51:48.000+0000",
+    "resolution_date": "2024-12-06T14:20:40.000+0000",
+    "updated_date": "2024-12-28T09:15:33.000+0000",
+    "watches": 10,
+    "votes": 5
+  },
+  {
+    "id": "MC-278659",
+    "summary": "Attacking a natural stationary creaking does not trigger sculk sensors",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Game Events",
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-03T19:28:46.000+0000",
+    "resolution_date": "2024-12-17T09:33:18.000+0000",
+    "updated_date": "2024-12-17T09:33:18.000+0000",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-278634",
+    "summary": "Trying to /setblock a 'waterlogged=true' state on (glow_lichen, resin_clump, sculk_vein, etc.) produces an error",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-02T07:12:01.000+0000",
+    "resolution_date": "2024-12-03T16:23:53.000+0000",
+    "updated_date": "2024-12-03T17:44:42.000+0000",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-278627",
+    "summary": "Players wearing leather boots will take fall damage when landing on the edge of powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-01T15:00:35.000+0000",
+    "resolution_date": "2024-12-03T16:38:51.000+0000",
+    "updated_date": "2024-12-03T16:38:51.000+0000",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-278621",
+    "summary": "Client/server desync when placing powder snow while landing in it",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-12-01T06:31:03.000+0000",
+    "resolution_date": "2024-12-03T16:38:52.000+0000",
+    "updated_date": "2024-12-03T16:38:52.000+0000",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-278615",
+    "summary": "Reinforcement zombified piglins are angry at you even if you killed the \"caller\" in one hit",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-30T22:40:22.000+0000",
+    "resolution_date": "2024-12-13T08:51:00.000+0000",
+    "updated_date": "2024-12-13T08:51:00.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-278591",
+    "summary": "Ender dragon spawn egg is no longer given when using pick block on the ender dragon entity",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-29T12:46:47.000+0000",
+    "resolution_date": "2024-12-06T13:57:38.000+0000",
+    "updated_date": "2024-12-07T17:11:53.000+0000",
+    "watches": 0,
+    "votes": 4
+  },
+  {
+    "id": "MC-278585",
+    "summary": "Players can get stuck when landing on the edge of powder snow",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-29T04:51:27.000+0000",
+    "resolution_date": "2024-12-03T16:38:51.000+0000",
+    "updated_date": "2024-12-11T23:15:38.000+0000",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-278552",
+    "summary": "minecraft:entity.player.big_fall no longer plays the sound when falling from great height",
+    "labels": [
+      "inconsistency",
+      "sound_missing"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-26T23:45:04.000+0000",
+    "resolution_date": "2024-12-03T16:38:52.000+0000",
+    "updated_date": "2024-12-22T22:09:23.000+0000",
+    "watches": 8,
+    "votes": 20
+  },
+  {
+    "id": "MC-278502",
+    "summary": "Weeping and twisting vines disconnect",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-24T22:00:08.000+0000",
+    "resolution_date": "2025-01-07T10:34:26.000+0000",
+    "updated_date": "2025-01-07T10:34:26.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-278493",
+    "summary": "Tamed wolves which are angry at creakings remain angry when said creakings despawn",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-24T08:29:40.000+0000",
+    "resolution_date": "2024-12-19T13:40:38.000+0000",
+    "updated_date": "2024-12-19T13:40:38.000+0000",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-278422",
+    "summary": "Reloading the world after removing Owner tag from a sitting tamed wolf with /data remove makes the wolf moving and sitting at the same time",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-20T15:50:20.000+0000",
+    "resolution_date": "2024-12-03T16:23:44.000+0000",
+    "updated_date": "2024-12-03T20:19:32.000+0000",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-278376",
+    "summary": "Arrows and tridents act weirdly in one block deep bubble columns",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-17T13:11:55.000+0000",
+    "resolution_date": "2024-12-04T11:00:42.000+0000",
+    "updated_date": "2024-12-04T11:00:42.000+0000",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-278375",
+    "summary": "Feeding wheat or hay bale to llama or trader llama with maximum Temper causes item stack to be desynced",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-17T11:48:37.000+0000",
+    "resolution_date": "2024-12-04T08:28:41.000+0000",
+    "updated_date": "2024-12-04T08:28:41.000+0000",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-278249",
+    "summary": "Experience orb positions desync severely and abruptly correct themselves",
+    "labels": [
+      "desync",
+      "entities",
+      "networking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-10T14:28:38.000+0000",
+    "resolution_date": "2024-12-12T09:42:40.000+0000",
+    "updated_date": "2024-12-12T09:42:40.000+0000",
+    "watches": 2,
+    "votes": 3
+  },
+  {
+    "id": "MC-278204",
+    "summary": "Blaze fireballs now cause TNT minecarts to explode instantly",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Minecart",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-08T20:48:34.000+0000",
+    "resolution_date": "2024-12-03T16:23:47.000+0000",
+    "updated_date": "2024-12-03T16:23:47.000+0000",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-278164",
+    "summary": "Click sound is played twice when you click a setting button and there's a slider under the mouse in the next screen",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-07T09:58:20.000+0000",
+    "resolution_date": "2024-12-05T09:28:29.000+0000",
+    "updated_date": "2024-12-13T06:39:44.000+0000",
+    "watches": 3,
+    "votes": 8
+  },
+  {
+    "id": "MC-278140",
+    "summary": "The \"/fill\" command doesn't work properly with the directional states of several blocks placed adjacent to one another",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-06T16:55:27.000+0000",
+    "resolution_date": "2025-01-08T15:20:25.000+0000",
+    "updated_date": "2025-01-08T15:20:25.000+0000",
+    "watches": 3,
+    "votes": 3
+  },
+  {
+    "id": "MC-278096",
+    "summary": "\"Fabulous!\" graphics and clouds disabled causes all particles to linger in frame buffer for one frame",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Particles",
+      "Rendering"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-04T21:42:13.000+0000",
+    "resolution_date": "2024-12-03T16:23:47.000+0000",
+    "updated_date": "2024-12-03T16:23:47.000+0000",
+    "watches": 7,
+    "votes": 13
+  },
+  {
+    "id": "MC-278040",
+    "summary": "Creaking swim pathfinding breaks after being submerged",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-11-02T03:11:42.000+0000",
+    "resolution_date": "2024-12-11T13:43:36.000+0000",
+    "updated_date": "2024-12-11T13:43:36.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-277922",
+    "summary": "Boats in 1 block high downward bubble column will continue to rock back and forth",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-10-30T13:25:16.000+0000",
+    "resolution_date": "2024-12-04T11:00:42.000+0000",
+    "updated_date": "2024-12-04T11:00:42.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-277865",
+    "summary": "The animation of boats in bubble columns breaks when over a certain \"Time\" in level.dat",
+    "labels": [
+      "overflow",
+      "precision-loss",
+      "time"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-10-26T10:03:17.000+0000",
+    "resolution_date": "2025-01-02T12:01:46.000+0000",
+    "updated_date": "2025-01-02T12:01:46.000+0000",
+    "watches": 4,
+    "votes": 5
+  },
+  {
+    "id": "MC-277807",
+    "summary": "Teleporting the player's mount causes rotation de-sync, previously did not",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-10-23T16:06:51.000+0000",
+    "resolution_date": "2024-12-03T16:49:58.000+0000",
+    "updated_date": "2024-12-03T17:29:04.000+0000",
+    "watches": 15,
+    "votes": 22
+  },
+  {
+    "id": "MC-277780",
+    "summary": "Minecraft resaves all maps with every autosave even after the 1st patch",
+    "labels": [
+      "auto-saving",
+      "file",
+      "locked-map",
+      "map-item",
+      "saving"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Maps",
+      "Performance",
+      "Save Data"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-10-22T17:38:36.000+0000",
+    "resolution_date": "2024-12-03T16:23:51.000+0000",
+    "updated_date": "2024-12-03T21:22:35.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-277537",
+    "summary": "Pale moss carpets sometimes generate disjointed",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-10-11T13:35:29.000+0000",
+    "resolution_date": "2024-12-09T09:17:12.000+0000",
+    "updated_date": "2024-12-09T09:17:12.000+0000",
+    "watches": 3,
+    "votes": 7
+  },
+  {
+    "id": "MC-277403",
+    "summary": "Flaming arrows and tridents still don't extinguish when water is placed in their location",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-10-08T15:12:28.000+0000",
+    "resolution_date": "2024-12-19T16:34:19.000+0000",
+    "updated_date": "2024-12-19T16:34:19.000+0000",
+    "watches": 2,
+    "votes": 5
+  },
+  {
+    "id": "MC-275994",
+    "summary": "Having the pie chart open while the window is unfocused spams the logs",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-08-25T05:31:42.000+0000",
+    "resolution_date": "2024-12-19T13:05:11.000+0000",
+    "updated_date": "2024-12-19T13:05:11.000+0000",
+    "watches": 3,
+    "votes": 5
+  },
+  {
+    "id": "MC-274187",
+    "summary": "The sweeping attack from a sword enchanted with Fire Aspect can ignite other players with PVP disabled",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Combat",
+      "Enchantments"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-07-05T20:13:03.000+0000",
+    "resolution_date": "2024-12-03T16:23:48.000+0000",
+    "updated_date": "2024-12-03T16:23:48.000+0000",
+    "watches": 2,
+    "votes": 6
+  },
+  {
+    "id": "MC-273338",
+    "summary": "Flying boat glitch using string and rising bubble columns",
+    "labels": [
+      "boat",
+      "bubble_column"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-06-14T00:03:49.000+0000",
+    "resolution_date": "2024-12-04T11:00:43.000+0000",
+    "updated_date": "2024-12-04T11:00:43.000+0000",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-272790",
+    "summary": "Shulker boxes and other blocks in the end exit portal when it changes state are not dropped as items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-05-31T10:33:01.000+0000",
+    "resolution_date": "2024-12-03T16:23:51.000+0000",
+    "updated_date": "2024-12-03T16:23:51.000+0000",
+    "watches": 4,
+    "votes": 9
+  },
+  {
+    "id": "MC-271065",
+    "summary": "Diagonal movement is not normalized when crouching or using certain items",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-04-23T18:42:44.000+0000",
+    "resolution_date": "2024-12-03T16:23:49.000+0000",
+    "updated_date": "2025-01-04T07:00:37.000+0000",
+    "watches": 7,
+    "votes": 5
+  },
+  {
+    "id": "MC-270220",
+    "summary": "Granting all advancements results in prolonged, disruptive and loud audio spam",
+    "labels": [
+      "advancement",
+      "advancement-announcement",
+      "audio"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Advancements",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2024-04-01T04:03:15.000+0000",
+    "resolution_date": "2024-12-19T14:46:39.000+0000",
+    "updated_date": "2024-12-19T14:46:39.000+0000",
+    "watches": 8,
+    "votes": 13
+  },
+  {
+    "id": "MC-267323",
+    "summary": "Items fields with old boolean JSON formatting are cleared upon world update",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Datafixer",
+      "Items"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2023-12-14T02:23:59.000+0000",
+    "resolution_date": "2024-12-03T16:23:45.000+0000",
+    "updated_date": "2024-12-03T16:23:45.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-267221",
+    "summary": "\"value\" within \"change_page\" clickEvent json looks for a string instead of an integer",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2023-12-08T10:21:54.000+0000",
+    "resolution_date": "2024-12-03T16:23:52.000+0000",
+    "updated_date": "2024-12-03T16:23:52.000+0000",
+    "watches": 7,
+    "votes": 10
+  },
+  {
+    "id": "MC-265514",
+    "summary": "HRTF stuck on even when directional audio is set to off in update 1.20.2",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2023-09-22T08:35:00.000+0000",
+    "resolution_date": "2024-12-06T13:57:39.000+0000",
+    "updated_date": "2025-01-04T21:55:03.000+0000",
+    "watches": 13,
+    "votes": 19
+  },
+  {
+    "id": "MC-262939",
+    "summary": "Changing dimensions or respawning with nausea effect active displays nether portal overlay",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2023-05-25T01:26:49.000+0000",
+    "resolution_date": "2024-12-20T10:36:29.000+0000",
+    "updated_date": "2024-12-20T10:36:29.000+0000",
+    "watches": 6,
+    "votes": 11
+  },
+  {
+    "id": "MC-262928",
+    "summary": "The \"minecraft:entity.player.hurt\" sound is no longer played when players receive thorns damage from guardians or elder guardians",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2023-05-24T16:30:06.000+0000",
+    "resolution_date": "2024-12-04T11:56:03.000+0000",
+    "updated_date": "2024-12-04T11:56:03.000+0000",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-261385",
+    "summary": "Bubble columns act differently at the surface depending on non-air blocks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Plausible",
+    "categories": [
+      "Collision",
+      "Entities"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2023-03-28T05:36:08.000+0000",
+    "resolution_date": "2024-12-06T15:50:13.000+0000",
+    "updated_date": "2024-12-06T15:50:13.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-260440",
+    "summary": "Players can no longer activate swimming mode in water while flying with elytra",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2023-02-22T18:26:47.000+0000",
+    "resolution_date": "2024-12-10T09:31:43.000+0000",
+    "updated_date": "2024-12-11T07:28:09.000+0000",
+    "watches": 15,
+    "votes": 21
+  },
+  {
+    "id": "MC-253721",
+    "summary": "Wrong logs when running /op @a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2022-06-29T20:41:27.000+0000",
+    "resolution_date": "2024-12-03T16:23:49.000+0000",
+    "updated_date": "2024-12-03T16:23:49.000+0000",
+    "watches": 3,
+    "votes": 6
+  },
+  {
+    "id": "MC-248099",
+    "summary": "Mob pathfinding breaks after falling into water accidentally while walking",
+    "labels": [
+      "mob",
+      "pathfinding",
+      "water"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2022-01-11T15:30:33.000+0000",
+    "resolution_date": "2024-12-11T13:43:36.000+0000",
+    "updated_date": "2024-12-11T13:43:36.000+0000",
+    "watches": 4,
+    "votes": 7
+  },
+  {
+    "id": "MC-241951",
+    "summary": "Player momentum on X and Z axis are cancelled separately at low values",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2021-11-19T13:11:24.000+0000",
+    "resolution_date": "2024-12-03T16:23:50.000+0000",
+    "updated_date": "2024-12-03T16:23:50.000+0000",
+    "watches": 11,
+    "votes": 16
+  },
+  {
+    "id": "MC-226772",
+    "summary": "Shulker box opening / closing subtitle shows \"Shulker\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2021-05-29T21:14:01.000+0000",
+    "resolution_date": "2025-01-08T11:39:41.000+0000",
+    "updated_date": "2025-01-08T15:55:03.000+0000",
+    "watches": 3,
+    "votes": 9
+  },
+  {
+    "id": "MC-222876",
+    "summary": "\"Buffet world customization\" is incorrectly capitalized",
+    "labels": [
+      "capitalization"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2021-04-10T14:39:44.000+0000",
+    "resolution_date": "2025-01-08T11:39:40.000+0000",
+    "updated_date": "2025-01-08T11:39:40.000+0000",
+    "watches": 4,
+    "votes": 2
+  },
+  {
+    "id": "MC-220672",
+    "summary": "Inconsistent pluralization in customize world preset heading source string",
+    "labels": [
+      "en_us.json",
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2021-03-24T09:39:43.000+0000",
+    "resolution_date": "2025-01-08T11:39:40.000+0000",
+    "updated_date": "2025-01-08T11:39:40.000+0000",
+    "watches": 6,
+    "votes": 8
+  },
+  {
+    "id": "MC-202226",
+    "summary": "/recipe give or take for one recipe says \"recipes\"",
+    "labels": [
+      "text"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2020-10-16T17:54:41.000+0000",
+    "resolution_date": "2025-01-08T13:31:06.000+0000",
+    "updated_date": "2025-01-08T13:31:06.000+0000",
+    "watches": 7,
+    "votes": 11
+  },
+  {
+    "id": "MC-184681",
+    "summary": "Customized worlds still say \"Buffet world customization\" since 20w21a",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text",
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2020-05-20T15:00:02.000+0000",
+    "resolution_date": "2025-01-08T11:39:39.000+0000",
+    "updated_date": "2025-01-08T11:39:39.000+0000",
+    "watches": 6,
+    "votes": 6
+  },
+  {
+    "id": "MC-183623",
+    "summary": "Hardcore worlds in the world menu have a comma after the red exclamation mark",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2020-05-12T13:49:30.000+0000",
+    "resolution_date": "2025-01-08T11:39:39.000+0000",
+    "updated_date": "2025-01-08T11:39:39.000+0000",
+    "watches": 5,
+    "votes": 4
+  },
+  {
+    "id": "MC-183329",
+    "summary": "Nether portal teleport overlay does not show up if the player has the nausea effect",
+    "labels": [
+      "rendering"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2020-05-10T01:37:06.000+0000",
+    "resolution_date": "2024-12-20T10:36:29.000+0000",
+    "updated_date": "2024-12-20T10:36:29.000+0000",
+    "watches": 3,
+    "votes": 11
+  },
+  {
+    "id": "MC-167125",
+    "summary": "Rounding error on fall damage",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2019-12-05T12:36:13.000+0000",
+    "resolution_date": "2024-12-09T09:07:21.000+0000",
+    "updated_date": "2024-12-09T09:07:21.000+0000",
+    "watches": 5,
+    "votes": 8
+  },
+  {
+    "id": "MC-165421",
+    "summary": "Bubble columns have the opposite effect on tridents and wind charges",
+    "labels": [
+      "breeze_wind_charge",
+      "bubble_column",
+      "downwards",
+      "trident",
+      "upwards",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2019-11-11T06:37:36.000+0000",
+    "resolution_date": "2024-12-04T11:00:44.000+0000",
+    "updated_date": "2024-12-08T06:22:08.000+0000",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-141297",
+    "summary": "You cannot set lit state of redstone torches using setblock, debug stick and BlockStateTag, to be to opposite of the situation it would be in",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2018-12-20T09:50:27.000+0000",
+    "resolution_date": "2024-12-12T14:40:58.000+0000",
+    "updated_date": "2025-01-08T15:59:10.000+0000",
+    "watches": 13,
+    "votes": 20
+  },
+  {
+    "id": "MC-135192",
+    "summary": "Boats are immediately sunken if there is a string on the surface of the water",
+    "labels": [
+      "boat",
+      "bubble_column"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2018-07-29T08:11:41.000+0000",
+    "resolution_date": "2024-12-04T11:00:43.000+0000",
+    "updated_date": "2024-12-06T15:50:13.000+0000",
+    "watches": 9,
+    "votes": 16
+  },
+  {
+    "id": "MC-128079",
+    "summary": "Statistic for using shears doesn't increase when mining certain blocks",
+    "labels": [
+      "carpet",
+      "durability",
+      "shears",
+      "statistics",
+      "tool"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Statistics"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2018-04-06T21:49:15.000+0000",
+    "resolution_date": "2025-01-07T14:21:24.000+0000",
+    "updated_date": "2025-01-07T14:21:24.000+0000",
+    "watches": 4,
+    "votes": 15
+  },
+  {
+    "id": "MC-118470",
+    "summary": "Narrator plays at full volume when volume is off",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2017-06-08T20:53:10.000+0000",
+    "resolution_date": "2024-12-06T13:21:41.000+0000",
+    "updated_date": "2024-12-06T13:21:41.000+0000",
+    "watches": 8,
+    "votes": 21
+  },
+  {
+    "id": "MC-118092",
+    "summary": "Crafting recipe unlock toast says \"New Recipes Unlocked!\" even when only one recipe was unlocked",
+    "labels": [
+      "recipe",
+      "recipe-book",
+      "toast"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2017-05-30T23:39:47.000+0000",
+    "resolution_date": "2025-01-08T11:39:38.000+0000",
+    "updated_date": "2025-01-08T11:39:38.000+0000",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-118053",
+    "summary": "Wolves with the Owner of a non-player are spawned sitting",
+    "labels": [
+      "OwnerUUID",
+      "wolf"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Mob behaviour"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2017-05-30T03:49:42.000+0000",
+    "resolution_date": "2024-12-03T16:23:45.000+0000",
+    "updated_date": "2024-12-03T16:23:45.000+0000",
+    "watches": 5,
+    "votes": 7
+  },
+  {
+    "id": "MC-113878",
+    "summary": "Attribute modifiers description for chest is misleading / \"When on body\" instead of \"When on chest\"",
+    "labels": [
+      "attributes",
+      "body",
+      "chest",
+      "item",
+      "slot",
+      "translation"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2017-02-15T17:25:21.000+0000",
+    "resolution_date": "2025-01-07T14:50:46.000+0000",
+    "updated_date": "2025-01-07T14:50:46.000+0000",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-97244",
+    "summary": "The \"minecraft:enchant.thorns.hit\" sound event doesn't play when non-player entities are damaged by the thorns enchantment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2016-02-16T05:37:28.000+0000",
+    "resolution_date": "2024-12-04T11:56:02.000+0000",
+    "updated_date": "2024-12-04T11:56:02.000+0000",
+    "watches": 9,
+    "votes": 28
+  },
+  {
+    "id": "MC-93185",
+    "summary": "The exit portal in the end generates at highest block at 0 0 which can make it generate incomplete",
+    "labels": [
+      "end",
+      "end_portal",
+      "exit"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Structures"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2015-11-22T15:02:43.000+0000",
+    "resolution_date": "2024-12-03T16:23:46.000+0000",
+    "updated_date": "2024-12-03T16:23:46.000+0000",
+    "watches": 13,
+    "votes": 27
+  },
+  {
+    "id": "MC-90212",
+    "summary": "You cannot hang on to climbable blocks while gliding with elytra",
+    "labels": [
+      "elytra"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2015-10-09T16:17:10.000+0000",
+    "resolution_date": "2024-12-04T12:07:52.000+0000",
+    "updated_date": "2024-12-04T13:35:59.000+0000",
+    "watches": 22,
+    "votes": 49
+  },
+  {
+    "id": "MC-56653",
+    "summary": "Zombified Piglins drop XP and rare drops if killed by anything while in angered state",
+    "labels": [
+      "zombified_piglin"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "1.16 Pre-release 1",
+      "25w02a"
+    ],
+    "creation_date": "2014-06-12T18:42:41.000+0000",
+    "resolution_date": "2024-12-05T15:04:27.000+0000",
+    "updated_date": "2024-12-19T00:15:15.000+0000",
+    "watches": 47,
+    "votes": 61
+  },
+  {
+    "id": "MC-55800",
+    "summary": "Successful \"/fill air destroy\" commands give error message and return 0 for result/success",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "Minecraft 1.13-pre1",
+      "25w02a"
+    ],
+    "creation_date": "2014-05-24T19:09:34.000+0000",
+    "resolution_date": "2024-12-12T14:40:59.000+0000",
+    "updated_date": "2024-12-12T14:40:59.000+0000",
+    "watches": 16,
+    "votes": 25
+  },
+  {
+    "id": "MC-7697",
+    "summary": "Tridents or arrows shot through lava sometimes don't catch fire",
+    "labels": [
+      "arrow",
+      "trident"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2013-01-17T19:57:16.000+0000",
+    "resolution_date": "2024-12-19T16:34:18.000+0000",
+    "updated_date": "2024-12-19T16:34:18.000+0000",
+    "watches": 9,
+    "votes": 20
+  }
+]
