@@ -1430,6 +1430,35 @@
     "votes": 7
   },
   {
+    "id": "MC-117574",
+    "summary": "Using /setblock or /fill to re-place a block entity keeps old NBT (if no NBT specified) but clears inventories, even when the command fails",
+    "labels": [
+      "/fill",
+      "/setblock",
+      "block",
+      "block-data",
+      "command",
+      "nbt",
+      "nbt-tags",
+      "replace"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w02a"
+    ],
+    "creation_date": "2017-05-17T16:31:47.000+0000",
+    "resolution_date": "2025-01-08T22:41:49.000+0000",
+    "updated_date": "2025-01-08T22:41:49.000+0000",
+    "watches": 30,
+    "votes": 70
+  },
+  {
     "id": "MC-113878",
     "summary": "Attribute modifiers description for chest is misleading / \"When on body\" instead of \"When on chest\"",
     "labels": [
