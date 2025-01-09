@@ -1,5 +1,29 @@
 [
   {
+    "id": "MC-160304",
+    "summary": "Sneaking on ice can change direction of movement to lines along axis",
+    "labels": [
+      "ice-block",
+      "movement",
+      "sneaking"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "19w35a",
+      "25w02a"
+    ],
+    "creation_date": "2019-09-01T22:37:33.000+0000",
+    "resolution_date": "2025-01-09T20:10:51.000+0000",
+    "updated_date": "2025-01-09T20:10:51.000+0000",
+    "watches": 6,
+    "votes": 8
+  },
+  {
     "id": "MC-159825",
     "summary": "Honey Bottle not included in A Balanced Diet advancement",
     "labels": [],
