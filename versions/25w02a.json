@@ -1266,7 +1266,7 @@
     ],
     "creation_date": "2019-12-05T12:36:13.000+0000",
     "resolution_date": "2024-12-09T09:07:21.000+0000",
-    "updated_date": "2025-01-09T12:18:08.000+0000",
+    "updated_date": "2025-01-09T13:31:22.000+0000",
     "watches": 5,
     "votes": 8
   },
@@ -1405,29 +1405,6 @@
     "updated_date": "2025-01-08T11:39:38.000+0000",
     "watches": 5,
     "votes": 12
-  },
-  {
-    "id": "MC-118053",
-    "summary": "Wolves with the Owner of a non-player are spawned sitting",
-    "labels": [
-      "OwnerUUID",
-      "wolf"
-    ],
-    "status": "Resolved",
-    "confirmation_status": "Confirmed",
-    "categories": [
-      "Commands",
-      "Mob behaviour"
-    ],
-    "priority": "None",
-    "fix_versions": [
-      "25w02a"
-    ],
-    "creation_date": "2017-05-30T03:49:42.000+0000",
-    "resolution_date": "2024-12-03T16:23:45.000+0000",
-    "updated_date": "2024-12-03T16:23:45.000+0000",
-    "watches": 5,
-    "votes": 7
   },
   {
     "id": "MC-117574",
