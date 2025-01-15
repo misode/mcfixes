@@ -20,25 +20,6 @@
     "votes": 0
   },
   {
-    "id": "MC-279434",
-    "summary": "Standing on powder snow and fire at the same time spams the fire extinguish sound",
-    "labels": [],
-    "status": "Resolved",
-    "confirmation_status": "Community Consensus",
-    "categories": [
-      "Sound"
-    ],
-    "priority": "Normal",
-    "fix_versions": [
-      "25w03a"
-    ],
-    "creation_date": "2025-01-13T15:04:56.000+0000",
-    "resolution_date": "2025-01-15T10:13:53.000+0000",
-    "updated_date": "2025-01-15T17:45:59.000+0000",
-    "watches": 1,
-    "votes": 2
-  },
-  {
     "id": "MC-279357",
     "summary": "Player can fall off edges while sneaking",
     "labels": [],
