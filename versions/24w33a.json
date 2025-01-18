@@ -2938,6 +2938,27 @@
     "votes": 8
   },
   {
+    "id": "MC-259264",
+    "summary": "Left-handed vexes raise their right hands to attack",
+    "labels": [
+      "vex"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Mob behaviour"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "24w33a"
+    ],
+    "creation_date": "2023-01-20T08:59:41.000+0000",
+    "resolution_date": "2025-01-18T19:13:33.000+0000",
+    "updated_date": "2025-01-18T19:13:33.000+0000",
+    "watches": 3,
+    "votes": 11
+  },
+  {
     "id": "MC-258971",
     "summary": "ClientboundUpdateRecipesPacket breaks after multiple recipes use big tags",
     "labels": [],
