@@ -117,6 +117,25 @@
     "votes": 51
   },
   {
+    "id": "MC-279318",
+    "summary": "The burning sound is sometimes not played when items burn in lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w03a"
+    ],
+    "creation_date": "2025-01-09T17:00:18.000+0000",
+    "resolution_date": "2025-01-20T10:38:14.000+0000",
+    "updated_date": "2025-01-20T10:53:20.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
     "id": "MC-279316",
     "summary": "The motion of fishing bobbers is choppy and jittery",
     "labels": [],
