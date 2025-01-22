@@ -1,0 +1,880 @@
+[
+  {
+    "id": "MC-279653",
+    "summary": "Block Entity Data desynchronizes after subsequent setblock commands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-20T09:27:48.000+0000",
+    "resolution_date": "2025-01-22T11:00:40.000+0000",
+    "updated_date": "2025-01-22T11:00:40.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-279646",
+    "summary": "Toggling fullscreen with F11 does not visually update the fullscreen option in the video settings menu",
+    "labels": [
+      "UI"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-19T21:04:06.000+0000",
+    "resolution_date": "2025-01-21T15:36:42.000+0000",
+    "updated_date": "2025-01-21T15:36:42.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-279601",
+    "summary": "\"test.error.expected_entity_at_pos\" translation is missing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-18T03:18:16.000+0000",
+    "resolution_date": "2025-01-22T09:24:03.000+0000",
+    "updated_date": "2025-01-22T09:24:03.000+0000",
+    "watches": 3,
+    "votes": 1
+  },
+  {
+    "id": "MC-279599",
+    "summary": "/test pos is offset by one on the y and z axis",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-17T23:16:34.000+0000",
+    "resolution_date": "2025-01-22T09:24:01.000+0000",
+    "updated_date": "2025-01-22T09:24:01.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
+    "id": "MC-279588",
+    "summary": "Test instance field typo 'sky_accesss'",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-17T17:47:15.000+0000",
+    "resolution_date": "2025-01-22T09:24:01.000+0000",
+    "updated_date": "2025-01-22T09:24:01.000+0000",
+    "watches": 0,
+    "votes": 2
+  },
+  {
+    "id": "MC-279573",
+    "summary": "The \"test_instance_block.error.no_test\" string is missing the word \"no\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-16T16:28:48.000+0000",
+    "resolution_date": "2025-01-20T15:57:23.000+0000",
+    "updated_date": "2025-01-20T15:57:23.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-279570",
+    "summary": "Some piston operations don't send neighbor updates",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Redstone"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-16T14:10:51.000+0000",
+    "resolution_date": "2025-01-22T11:00:42.000+0000",
+    "updated_date": "2025-01-22T11:00:42.000+0000",
+    "watches": 7,
+    "votes": 15
+  },
+  {
+    "id": "MC-279553",
+    "summary": "Players using items no longer turn their body in the moving direction while moving diagonally",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Player Animation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-16T04:44:32.000+0000",
+    "resolution_date": "2025-01-21T16:40:15.000+0000",
+    "updated_date": "2025-01-21T16:40:15.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-279539",
+    "summary": "Villager variant is not applied to spawned zombie villagers",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T21:57:43.000+0000",
+    "resolution_date": "2025-01-21T12:32:00.000+0000",
+    "updated_date": "2025-01-21T12:32:00.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-279538",
+    "summary": "The key name of the test instances field that represents the namespaced ID of the test environment is different from the changelog",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "(Unassigned)"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T21:56:11.000+0000",
+    "resolution_date": "2025-01-20T10:56:13.000+0000",
+    "updated_date": "2025-01-20T10:56:13.000+0000",
+    "watches": 1,
+    "votes": 2
+  },
+  {
+    "id": "MC-279527",
+    "summary": "GameTest entrypoint doesn't load custom tests from datapacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T19:29:43.000+0000",
+    "resolution_date": "2025-01-21T08:26:40.000+0000",
+    "updated_date": "2025-01-21T08:26:40.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-279522",
+    "summary": "GameTest entrypoint doesn't load zip datapacks",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Debug",
+      "Dedicated Server"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T19:07:43.000+0000",
+    "resolution_date": "2025-01-20T08:46:04.000+0000",
+    "updated_date": "2025-01-20T08:46:04.000+0000",
+    "watches": 2,
+    "votes": 0
+  },
+  {
+    "id": "MC-279519",
+    "summary": "Some words within some test command strings are always pluralized",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T19:00:43.000+0000",
+    "resolution_date": "2025-01-20T10:56:14.000+0000",
+    "updated_date": "2025-01-20T10:56:14.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-279518",
+    "summary": "Test environment accepts minecraft:raining instead of minecraft:weather",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Data Packs"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T18:58:32.000+0000",
+    "resolution_date": "2025-01-20T08:46:04.000+0000",
+    "updated_date": "2025-01-20T08:46:04.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-279511",
+    "summary": "Using \"minecraft:always_pass\" while the player is inside the test zone breaks the world",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Crash",
+      "Player"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T18:20:00.000+0000",
+    "resolution_date": "2025-01-20T10:56:14.000+0000",
+    "updated_date": "2025-01-20T10:56:14.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-279505",
+    "summary": "Horse-esque mobs that disallow horse armor still show an non-interactive slot",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T17:06:05.000+0000",
+    "resolution_date": "2025-01-21T10:01:45.000+0000",
+    "updated_date": "2025-01-21T10:01:45.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-279504",
+    "summary": "\"minecraft:enchantments\" component does not work on the select property of Item Models",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T16:58:50.000+0000",
+    "resolution_date": "2025-01-22T11:50:25.000+0000",
+    "updated_date": "2025-01-22T11:50:25.000+0000",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-279502",
+    "summary": "Axolotl variants are no longer saved when bucketing",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Entities",
+      "Items"
+    ],
+    "priority": "Very Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T16:36:10.000+0000",
+    "resolution_date": "2025-01-16T12:42:29.000+0000",
+    "updated_date": "2025-01-18T21:07:58.000+0000",
+    "watches": 3,
+    "votes": 4
+  },
+  {
+    "id": "MC-279498",
+    "summary": "Test blocks and test instance blocks aren't part of the \"#minecraft:dragon_immune\" or \"#minecraft:wither_immune\" tags",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "Debug"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T16:18:50.000+0000",
+    "resolution_date": "2025-01-20T10:56:16.000+0000",
+    "updated_date": "2025-01-20T10:56:16.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-279493",
+    "summary": "No command feedback messages are displayed when using the \"/test create\" command",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:43:20.000+0000",
+    "resolution_date": "2025-01-20T10:56:16.000+0000",
+    "updated_date": "2025-01-20T10:56:16.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-279492",
+    "summary": "An unexpected error occurs when attempting to locate tests that don't exist",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:38:39.000+0000",
+    "resolution_date": "2025-01-20T10:56:15.000+0000",
+    "updated_date": "2025-01-20T10:56:15.000+0000",
+    "watches": 2,
+    "votes": 1
+  },
+  {
+    "id": "MC-279491",
+    "summary": "The \"commands.test.no_tests\" raw translation key is displayed when using \"/test run...\" commands in situations where no tests exist",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:36:29.000+0000",
+    "resolution_date": "2025-01-20T15:46:48.000+0000",
+    "updated_date": "2025-01-20T15:46:48.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-279490",
+    "summary": "No command feedback messages are displayed when attempting to reset tests that don't exist",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:35:33.000+0000",
+    "resolution_date": "2025-01-22T09:24:03.000+0000",
+    "updated_date": "2025-01-22T09:24:03.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-279489",
+    "summary": "An unexpected error occurs when attempting to create tests with large sizes",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:32:50.000+0000",
+    "resolution_date": "2025-01-20T10:56:15.000+0000",
+    "updated_date": "2025-01-20T10:56:15.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-279488",
+    "summary": "Leaf litter generates very sparsely in Dark Forests",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:24:14.000+0000",
+    "resolution_date": "2025-01-21T08:15:29.000+0000",
+    "updated_date": "2025-01-21T08:15:29.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-279487",
+    "summary": "The \"Test Instance ID\" and \"Test Structure Size\" text within the test instance block interface are positioned too far to the right",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:23:34.000+0000",
+    "resolution_date": "2025-01-20T10:56:17.000+0000",
+    "updated_date": "2025-01-20T10:56:17.000+0000",
+    "watches": 1,
+    "votes": 0
+  },
+  {
+    "id": "MC-279486",
+    "summary": "Some strings displayed within the test instance block interface are untranslatable",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Internationalisation"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:22:32.000+0000",
+    "resolution_date": "2025-01-20T10:56:12.000+0000",
+    "updated_date": "2025-01-20T10:56:12.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-279485",
+    "summary": "Test block and test instance block menus have blurred backgrounds",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:22:00.000+0000",
+    "resolution_date": "2025-01-22T09:24:04.000+0000",
+    "updated_date": "2025-01-22T09:24:04.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-279483",
+    "summary": "Test blocks set to start mode show the \"Message:\" text despite no text field being present",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:18:22.000+0000",
+    "resolution_date": "2025-01-22T09:24:02.000+0000",
+    "updated_date": "2025-01-22T09:24:02.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-279482",
+    "summary": "Elements within the test block and test instance block menus are not selected in order when using the TAB key",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Accessibility",
+      "UI"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:17:28.000+0000",
+    "resolution_date": "2025-01-22T09:24:02.000+0000",
+    "updated_date": "2025-01-22T09:24:02.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-279481",
+    "summary": "Leaf litter no longer generates in forests or wooded badlands",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "World generation"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:14:50.000+0000",
+    "resolution_date": "2025-01-21T08:15:29.000+0000",
+    "updated_date": "2025-01-21T08:15:29.000+0000",
+    "watches": 4,
+    "votes": 10
+  },
+  {
+    "id": "MC-279480",
+    "summary": "The \"test_instance_block.reset_success\" string incorrectly spells the word \"succeeded\" as \"succeded\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Text"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-15T15:09:10.000+0000",
+    "resolution_date": "2025-01-20T10:56:13.000+0000",
+    "updated_date": "2025-01-20T10:56:13.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-279454",
+    "summary": "hide_additional_tooltip no longer hides author and generation on written books",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands",
+      "Items"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-14T04:00:53.000+0000",
+    "resolution_date": "2025-01-21T16:11:56.000+0000",
+    "updated_date": "2025-01-21T16:11:56.000+0000",
+    "watches": 3,
+    "votes": 2
+  },
+  {
+    "id": "MC-279389",
+    "summary": "The minecraft:entity.arrow.hit_player sound is played when player is hit by an arrow shot by himself",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Projectiles",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-11T16:25:59.000+0000",
+    "resolution_date": "2025-01-20T08:35:03.000+0000",
+    "updated_date": "2025-01-20T08:35:03.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-279232",
+    "summary": "SNBT text components prevent mixing text styles in lists",
+    "labels": [
+      "commands"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Commands"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-08T16:53:40.000+0000",
+    "resolution_date": "2025-01-21T14:30:16.000+0000",
+    "updated_date": "2025-01-21T14:30:16.000+0000",
+    "watches": 11,
+    "votes": 15
+  },
+  {
+    "id": "MC-279225",
+    "summary": "Players jitter and land slightly too high up when landing on powder snow while wearing leather boots",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Networking",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-08T16:21:09.000+0000",
+    "resolution_date": "2025-01-20T16:03:07.000+0000",
+    "updated_date": "2025-01-20T16:03:07.000+0000",
+    "watches": 0,
+    "votes": 0
+  },
+  {
+    "id": "MC-279218",
+    "summary": "The minecraft:enchant.thorns.hit sound does not play when mobs or players are killed by the Thorns enchantment",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Enchantments",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-08T15:52:11.000+0000",
+    "resolution_date": "2025-01-20T09:35:42.000+0000",
+    "updated_date": "2025-01-20T09:35:42.000+0000",
+    "watches": 1,
+    "votes": 1
+  },
+  {
+    "id": "MC-279217",
+    "summary": "Arrows and tridents constantly spin after hitting a block in flowing lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Projectiles"
+    ],
+    "priority": "Important",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2025-01-08T15:51:20.000+0000",
+    "resolution_date": "2025-01-22T08:45:56.000+0000",
+    "updated_date": "2025-01-22T08:45:56.000+0000",
+    "watches": 2,
+    "votes": 2
+  },
+  {
+    "id": "MC-278400",
+    "summary": "Arrows and tridents move after hitting a block in flowing lava",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Collision",
+      "Entities",
+      "Projectiles"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2024-11-19T13:31:08.000+0000",
+    "resolution_date": "2025-01-22T08:45:56.000+0000",
+    "updated_date": "2025-01-22T08:45:56.000+0000",
+    "watches": 2,
+    "votes": 4
+  },
+  {
+    "id": "MC-276061",
+    "summary": "Decorated pot sherds don't visually update until relog when replacing with blank pot",
+    "labels": [
+      "commands",
+      "issue"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Community Consensus",
+    "categories": [
+      "Block states",
+      "Commands"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2024-08-26T23:07:14.000+0000",
+    "resolution_date": "2025-01-22T11:00:41.000+0000",
+    "updated_date": "2025-01-22T11:00:41.000+0000",
+    "watches": 0,
+    "votes": 1
+  },
+  {
+    "id": "MC-255756",
+    "summary": "When the shield is broken between players, the attacking side has no shield breaking sound",
+    "labels": [
+      "multiplayer",
+      "sound"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Sound"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2022-09-05T14:50:22.000+0000",
+    "resolution_date": "2025-01-21T13:42:51.000+0000",
+    "updated_date": "2025-01-21T13:42:51.000+0000",
+    "watches": 10,
+    "votes": 12
+  },
+  {
+    "id": "MC-165461",
+    "summary": "Crossbow loading animation stops after loading, even when still holding down right click",
+    "labels": [
+      "vanilla-parity"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Parity",
+      "Player"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2019-11-12T00:10:40.000+0000",
+    "resolution_date": "2025-01-21T13:42:50.000+0000",
+    "updated_date": "2025-01-22T09:36:11.000+0000",
+    "watches": 5,
+    "votes": 17
+  },
+  {
+    "id": "MC-165421",
+    "summary": "Bubble columns have the opposite effect on wind charges",
+    "labels": [
+      "breeze_wind_charge",
+      "bubble_column",
+      "downwards",
+      "trident",
+      "upwards",
+      "wind_charge"
+    ],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Block states",
+      "Collision",
+      "Projectiles"
+    ],
+    "priority": "None",
+    "fix_versions": [
+      "25w02a",
+      "25w04a"
+    ],
+    "creation_date": "2019-11-11T06:37:36.000+0000",
+    "resolution_date": "2025-01-20T16:14:12.000+0000",
+    "updated_date": "2025-01-20T16:14:12.000+0000",
+    "watches": 5,
+    "votes": 12
+  },
+  {
+    "id": "MC-98271",
+    "summary": "The sound of blocking with a shield is only hearable by other players (not the person blocking)",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Networking",
+      "Sound"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2016-02-28T18:02:43.000+0000",
+    "resolution_date": "2025-01-21T13:42:50.000+0000",
+    "updated_date": "2025-01-21T13:42:50.000+0000",
+    "watches": 13,
+    "votes": 21
+  }
+]
