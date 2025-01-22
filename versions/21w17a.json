@@ -1,5 +1,25 @@
 [
   {
+    "id": "MC-224029",
+    "summary": "Fishing line becomes increasingly thinner the closer to the rod it gets on some devices",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Rendering"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "20w17a",
+      "21w17a"
+    ],
+    "creation_date": "2021-04-23T21:48:31.000+0000",
+    "resolution_date": "2025-01-22T16:06:56.000+0000",
+    "updated_date": "2025-01-22T16:06:56.000+0000",
+    "watches": 4,
+    "votes": 2
+  },
+  {
     "id": "MC-223792",
     "summary": "Shrinking world border with center past x/z 29999983 crashes the game",
     "labels": [],
