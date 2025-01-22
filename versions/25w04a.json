@@ -806,6 +806,25 @@
     "votes": 12
   },
   {
+    "id": "MC-200311",
+    "summary": "Advancement background texture referencing is inconsistent with models",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Resource Packs"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "25w04a"
+    ],
+    "creation_date": "2020-09-15T06:28:20.000+0000",
+    "resolution_date": "2025-01-22T21:28:09.000+0000",
+    "updated_date": "2025-01-22T21:28:09.000+0000",
+    "watches": 1,
+    "votes": 3
+  },
+  {
     "id": "MC-165461",
     "summary": "Crossbow loading animation stops after loading, even when still holding down right click",
     "labels": [
