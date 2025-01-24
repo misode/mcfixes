@@ -714,6 +714,26 @@
     "votes": 3
   },
   {
+    "id": "MC-257133",
+    "summary": "Desync when placing large paintings with NBT on a small space",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Items",
+      "Networking"
+    ],
+    "priority": "Normal",
+    "fix_versions": [
+      "25w03a"
+    ],
+    "creation_date": "2022-11-02T20:31:15.000+0000",
+    "resolution_date": "2025-01-24T15:44:25.000+0000",
+    "updated_date": "2025-01-24T15:44:25.000+0000",
+    "watches": 8,
+    "votes": 18
+  },
+  {
     "id": "MC-256469",
     "summary": "Invisible camels don't show their saddles",
     "labels": [
