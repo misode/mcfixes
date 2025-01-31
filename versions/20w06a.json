@@ -667,6 +667,25 @@
     "votes": 11
   },
   {
+    "id": "MC-137597",
+    "summary": "Take Aim advancement is obtainable with a crossbow despite stating \"Shoot something with a bow and arrow\"",
+    "labels": [],
+    "status": "Resolved",
+    "confirmation_status": "Confirmed",
+    "categories": [
+      "Advancements"
+    ],
+    "priority": "Low",
+    "fix_versions": [
+      "20w06a"
+    ],
+    "creation_date": "2018-10-24T16:38:35.000+0000",
+    "resolution_date": "2025-01-31T12:44:49.000+0000",
+    "updated_date": "2025-01-31T12:44:49.000+0000",
+    "watches": 14,
+    "votes": 18
+  },
+  {
     "id": "MC-136868",
     "summary": "Ignited TNT, arrow or trident turns black when it falls on soul sand or snow layers",
     "labels": [
